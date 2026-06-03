@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SectorFlow JP - 東証33業種 騰落ダッシュボード</title>
+  <!-- Google Fonts: Outfit & Noto Sans JP -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-theme">
+  <div class="app-container">
+    
+    <!-- HEADER -->
+    <header class="app-header">
+      <div class="logo-area">
+        <span class="logo-icon">▲</span>
+        <h1>SectorFlow <span class="logo-accent">JP</span></h1>
+      </div>
+      <div class="header-status">
+        <div id="status-badge" class="status-badge loading">
+          <span class="pulse-dot"></span>
+          <span id="status-text">データを取得中...</span>
+        </div>
+        <div id="update-time" class="update-time">最終更新: --:--</div>
+        <button id="refresh-btn" class="icon-btn" title="手動更新">
+          <svg viewBox="0 0 24 24" class="icon"><path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- MAIN DASHBOARD -->
+    <main class="dashboard-main">
+      
+      <!-- STATS & SUMMARY WIDGETS -->
+      <section class="summary-section">
+        <div class="stat-card glass-card top-gainer-card">
+          <div class="card-glow"></div>
+          <div class="stat-label">値上がり率 トップ</div>
+          <div id="top-gainer-name" class="stat-value text-gain">--</div>
+          <div id="top-gainer-pct" class="stat-subtext">--%</div>
+        </div>
+        <div class="stat-card glass-card top-loser-card">
+          <div class="card-glow"></div>
+          <div class="stat-label">値下がり率 トップ</div>
+          <div id="top-loser-name" class="stat-value text-loss">--</div>
+          <div id="top-loser-pct" class="stat-subtext">--%</div>
+        </div>
+        <div class="stat-card glass-card market-breadth-card">
+          <div class="card-glow"></div>
+          <div class="stat-label">市場値動き幅 (業種数)</div>
+          <div class="breadth-ratio-container">
+            <span id="gain-count" class="breadth-num text-gain">0</span>
+            <div class="breadth-bar-bg">
+              <div id="breadth-gain-bar" class="breadth-fill-gain" style="width: 50%;"></div>
+            </div>
+            <span id="loss-count" class="breadth-num text-loss">0</span>
+          </div>
+          <div class="stat-subtext text-center">値上がり vs 値下がり</div>
+        </div>
+      </section>
+
+      <!-- CONTROL BAR (SEARCH, SORT, TOGGLE) -->
+      <section class="controls-section glass-card">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" class="search-icon"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+          <input type="text" id="search-input" placeholder="業種名、英名で検索...">
+        </div>
+        <div class="filter-tabs">
+          <button class="tab-btn active" data-filter="all">すべて</button>
+          <button class="tab-btn" data-filter="gain">値上がり</button>
+          <button class="tab-btn" data-filter="loss">値下がり</button>
+        </div>
+        <div class="view-toggle">
+          <button id="view-grid-btn" class="toggle-btn active" title="グリッド（ヒートマップ）表示">
+            <svg viewBox="0 0 24 24" class="icon"><path d="M4 11h5V5H4v6zm0 8h5v-6H4v6zm6 0h5v-6h-5v6zm6 0h5v-6h-5v6zm-6-8h5V5h-5v6zm6-6v6h5V5h-5z"/></svg>
+          </button>
+          <button id="view-list-btn" class="toggle-btn" title="リスト（テーブル）表示">
+            <svg viewBox="0 0 24 24" class="icon"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zm0-8h14V7H7v2z"/></svg>
+          </button>
+        </div>
+      </section>
+
+      <!-- VIEWPORTS -->
+      <section class="content-viewport">
+        <!-- GRID VIEW (HEATMAP) -->
+        <div id="grid-view" class="view-pane active">
+          <div id="heatmap-grid" class="heatmap-grid">
+            <!-- Dynamically populated card elements -->
+          </div>
+        </div>
+
+        <!-- LIST VIEW (TABLE) -->
+        <div id="list-view" class="view-pane">
+          <div class="table-container glass-card">
+            <table class="sectors-table">
+              <thead>
+                <tr>
+                  <th class="sortable" data-sort="id">コード</th>
+                  <th class="sortable" data-sort="name">業種名</th>
+                  <th class="sortable text-right" data-sort="price">指数現在値</th>
+                  <th class="sortable text-right" data-sort="change">前日比</th>
+                  <th class="sortable text-right active-sort desc" data-sort="pct">前日比率 (%)</th>
+                  <th class="text-center">騰落視覚化</th>
+                </tr>
+              </thead>
+              <tbody id="sectors-table-body">
+                <!-- Dynamically populated table rows -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+      
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="app-footer">
+      <p>&copy; 2026 SectorFlow JP - 東証33業種別株価指数ダッシュボード</p>
+      <p class="data-source-info">データ提供元: 日本取引所グループ (JPX) リアルタイム指数値一覧 (5分間隔キャッシュ)</p>
+    </footer>
+
+    <!-- SIDEBAR DRAWER (DETAIL VIEW) -->
+    <div id="detail-drawer" class="detail-drawer">
+      <div class="drawer-overlay" id="drawer-overlay"></div>
+      <div class="drawer-content">
+        <button id="close-drawer-btn" class="close-btn" title="閉じる">&times;</button>
+        
+        <div class="drawer-header">
+          <div class="drawer-sector-code" id="drawer-sector-code">CODE 0000</div>
+          <h2 id="drawer-sector-name">業種名</h2>
+          <p id="drawer-sector-name-en" class="sector-en">Sector English Name</p>
+          
+          <div class="drawer-price-bar">
+            <div class="drawer-price-info">
+              <span class="price-label">現在値</span>
+              <span class="price-value" id="drawer-sector-price">0.00</span>
+            </div>
+            <div class="drawer-change-info">
+              <span class="change-value" id="drawer-sector-change">0.00</span>
+              <span class="change-pct" id="drawer-sector-pct">0.00%</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="drawer-body">
+
+
+          <!-- REPRESENTATIVE STOCKS SECTION -->
+          <div class="drawer-section">
+            <h3>セクター構成銘柄 (当日の騰落率ランキング)</h3>
+            <div class="stocks-list" id="drawer-stocks-list">
+              <!-- Dynamically populated list of stocks -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
