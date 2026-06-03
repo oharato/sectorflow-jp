@@ -46,7 +46,10 @@ async function fetchJPXIndices() {
     console.log('Fetching sector indices from JPX...');
     const response = await axios.get(url, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
+        'Connection': 'keep-alive'
       },
       timeout: 10000
     });
@@ -70,7 +73,12 @@ async function scrapeStocksForSector(kabutanId, sectorName) {
       const url = `https://kabutan.jp/themes/?industry=${kabutanId}&stc=zenhiritsu&stm=1&page=${page}`;
       const response = await axios.get(url, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+          'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
+          'Cache-Control': 'no-cache',
+          'Connection': 'keep-alive',
+          'Referer': 'https://kabutan.jp/'
         },
         timeout: 10000
       });
