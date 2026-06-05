@@ -1,9 +1,9 @@
 name: Deploy to GitHub Pages and Update Data
 
 on:
-  schedule:
-    # 平日（月曜日〜金曜日）の16:00 JST (07:00 UTC) に実行
-    - cron: '0 7 * * 1-5'
+  push:
+    branches:
+      - main
   workflow_dispatch: # 手動実行を可能にする
 
 # デプロイに必要な権限を付与
