@@ -209,16 +209,79 @@ async function main() {
   if (!fs.existsSync(publicDir)) {
     fs.mkdirSync(publicDir);
   }
+
+  // Define helper function to get date in JST
+  function getJstDateString() {
+    const formatter = new Intl.DateTimeFormat('ja-JP', {
+      timeZone: 'Asia/Tokyo',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    });
+    const parts = formatter.formatToParts(new Date());
+    const year = parts.find(p => p.type === 'year').value;
+    const month = parts.find(p => p.type === 'month').value;
+    const day = parts.find(p => p.type === 'day').value;
+    return `${year}${month}${day}`;
+  }
+
+  // Save historical daily file
+  const historyDir = path.join(publicDir, 'history');
+  if (!fs.existsSync(historyDir)) {
+    fs.mkdirSync(historyDir, { recursive: true });
+  }
+
+  const dateStr = getJstDateString();
+  const historyFilePath = path.join(historyDir, `data.${dateStr}.json`);
+  fs.writeFileSync(historyFilePath, JSON.stringify(outputData, null, 2), 'utf-8');
+  console.log(`\nSaved daily history JSON data to: ${historyFilePath}`);
+
+  // Read history files to compile 10-day history
+  const files = fs.readdirSync(historyDir)
+    .filter(file => /^data\.\d{8}\.json$/.test(file))
+    .sort(); // Lexicographical sort matches chronological order
+
+  // Take the last 10 days of history
+  const last10Files = files.slice(-10);
+  console.log(`Compiling history from ${last10Files.length} files...`);
+
+  const sectorHistoryMap = {};
+  for (const file of last10Files) {
+    const filePath = path.join(historyDir, file);
+    try {
+      const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+      const fileDate = file.match(/^data\.(\d{8})\.json$/)[1];
+      if (fileData && fileData.sectors) {
+        for (const sec of fileData.sectors) {
+          if (!sectorHistoryMap[sec.id]) {
+            sectorHistoryMap[sec.id] = [];
+          }
+          sectorHistoryMap[sec.id].push({
+            date: fileDate,
+            price: sec.price,
+            changePercent: sec.changePercent
+          });
+        }
+      }
+    } catch (err) {
+      console.error(`Error reading history file ${file}:`, err.message);
+    }
+  }
+
+  // Merge history into outputData.sectors
+  for (const sec of outputData.sectors) {
+    sec.history = sectorHistoryMap[sec.id] || [];
+  }
   
-  // Save as JSON
+  // Save consolidated JSON
   const jsonPath = path.join(publicDir, 'data.json');
   fs.writeFileSync(jsonPath, JSON.stringify(outputData, null, 2), 'utf-8');
-  console.log(`\nSaved JSON data to: ${jsonPath}`);
+  console.log(`Saved consolidated JSON data to: ${jsonPath}`);
   
-  // Save as JS (for direct file:// browser support without CORS blocks)
+  // Save consolidated JS (for direct file:// browser support without CORS blocks)
   const jsPath = path.join(publicDir, 'data.js');
   fs.writeFileSync(jsPath, `window.sectorData = ${JSON.stringify(outputData, null, 2)};`, 'utf-8');
-  console.log(`Saved JS data to: ${jsPath}`);
+  console.log(`Saved consolidated JS data to: ${jsPath}`);
   
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
   console.log('\n==================================================');

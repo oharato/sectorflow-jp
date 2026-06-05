@@ -1,14 +1,14 @@
-window.sectorData = {
+{
   "success": true,
-  "timestamp": 1780659161095,
+  "timestamp": 1780658922036,
   "sectors": [
     {
       "id": "0050",
       "nameJa": "水産・農林業",
       "nameEn": "Fishery, Agriculture & Forestry",
-      "price": 723.76,
-      "change": "+6.97",
-      "changePercent": 0.97,
+      "price": 691.1908,
+      "change": "-6.91",
+      "changePercent": -0.485,
       "stocks": [
         {
           "code": "1301",
@@ -106,47 +106,15 @@ window.sectorData = {
           "change": "-2",
           "changePercent": "-0.13%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 687.572,
-          "changePercent": 0.97
-        },
-        {
-          "date": "20260601",
-          "price": 691.1908,
-          "changePercent": -0.485
-        },
-        {
-          "date": "20260602",
-          "price": 694.8095999999999,
-          "changePercent": 1.455
-        },
-        {
-          "date": "20260603",
-          "price": 709.2848,
-          "changePercent": 0.776
-        },
-        {
-          "date": "20260604",
-          "price": 716.5224,
-          "changePercent": 1.067
-        },
-        {
-          "date": "20260605",
-          "price": 723.76,
-          "changePercent": 0.97
-        }
       ]
     },
     {
       "id": "1050",
       "nameJa": "鉱業",
       "nameEn": "Mining",
-      "price": 1071.8,
-      "change": "+10.30",
-      "changePercent": 0.97,
+      "price": 1023.569,
+      "change": "-10.24",
+      "changePercent": -0.485,
       "stocks": [
         {
           "code": "1514",
@@ -188,47 +156,15 @@ window.sectorData = {
           "change": "+8",
           "changePercent": "+0.33%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 1018.2099999999999,
-          "changePercent": 0.97
-        },
-        {
-          "date": "20260601",
-          "price": 1023.569,
-          "changePercent": -0.485
-        },
-        {
-          "date": "20260602",
-          "price": 1028.9279999999999,
-          "changePercent": 1.455
-        },
-        {
-          "date": "20260603",
-          "price": 1050.364,
-          "changePercent": 0.776
-        },
-        {
-          "date": "20260604",
-          "price": 1061.0819999999999,
-          "changePercent": 1.067
-        },
-        {
-          "date": "20260605",
-          "price": 1071.8,
-          "changePercent": 0.97
-        }
       ]
     },
     {
       "id": "2050",
       "nameJa": "建設業",
       "nameEn": "Construction",
-      "price": 2610.73,
-      "change": "+28.96",
-      "changePercent": 1.12,
+      "price": 2493.2471499999997,
+      "change": "-24.93",
+      "changePercent": -0.56,
       "stocks": [
         {
           "code": "1945",
@@ -1430,47 +1366,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2480.1935,
-          "changePercent": 1.12
-        },
-        {
-          "date": "20260601",
-          "price": 2493.2471499999997,
-          "changePercent": -0.56
-        },
-        {
-          "date": "20260602",
-          "price": 2506.3008,
-          "changePercent": 1.6800000000000002
-        },
-        {
-          "date": "20260603",
-          "price": 2558.5153999999998,
-          "changePercent": 0.8960000000000001
-        },
-        {
-          "date": "20260604",
-          "price": 2584.6227,
-          "changePercent": 1.2320000000000002
-        },
-        {
-          "date": "20260605",
-          "price": 2610.73,
-          "changePercent": 1.12
-        }
       ]
     },
     {
       "id": "3050",
       "nameJa": "食料品",
       "nameEn": "Foods",
-      "price": 2614.84,
-      "change": "-21.43",
-      "changePercent": -0.81,
+      "price": 2497.1722,
+      "change": "+24.97",
+      "changePercent": 0.405,
       "stocks": [
         {
           "code": "2936",
@@ -2504,47 +2408,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2484.098,
-          "changePercent": -0.81
-        },
-        {
-          "date": "20260601",
-          "price": 2497.1722,
-          "changePercent": 0.405
-        },
-        {
-          "date": "20260602",
-          "price": 2510.2464,
-          "changePercent": -1.215
-        },
-        {
-          "date": "20260603",
-          "price": 2562.5432,
-          "changePercent": -0.6480000000000001
-        },
-        {
-          "date": "20260604",
-          "price": 2588.6916,
-          "changePercent": -0.8910000000000001
-        },
-        {
-          "date": "20260605",
-          "price": 2614.84,
-          "changePercent": -0.81
-        }
       ]
     },
     {
       "id": "3100",
       "nameJa": "繊維製品",
       "nameEn": "Textiles & Apparels",
-      "price": 918.03,
-      "change": "+10.72",
-      "changePercent": 1.18,
+      "price": 876.7186499999999,
+      "change": "-8.77",
+      "changePercent": -0.59,
       "stocks": [
         {
           "code": "3513",
@@ -2938,47 +2810,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 872.1284999999999,
-          "changePercent": 1.18
-        },
-        {
-          "date": "20260601",
-          "price": 876.7186499999999,
-          "changePercent": -0.59
-        },
-        {
-          "date": "20260602",
-          "price": 881.3087999999999,
-          "changePercent": 1.77
-        },
-        {
-          "date": "20260603",
-          "price": 899.6694,
-          "changePercent": 0.944
-        },
-        {
-          "date": "20260604",
-          "price": 908.8497,
-          "changePercent": 1.298
-        },
-        {
-          "date": "20260605",
-          "price": 918.03,
-          "changePercent": 1.18
-        }
       ]
     },
     {
       "id": "3150",
       "nameJa": "パルプ・紙",
       "nameEn": "Pulp & Paper",
-      "price": 617.37,
-      "change": "+6.51",
-      "changePercent": 1.07,
+      "price": 589.58835,
+      "change": "-5.90",
+      "changePercent": -0.535,
       "stocks": [
         {
           "code": "3891",
@@ -3172,47 +3012,15 @@ window.sectorData = {
           "change": "-2",
           "changePercent": "-0.48%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 586.5015,
-          "changePercent": 1.07
-        },
-        {
-          "date": "20260601",
-          "price": 589.58835,
-          "changePercent": -0.535
-        },
-        {
-          "date": "20260602",
-          "price": 592.6752,
-          "changePercent": 1.605
-        },
-        {
-          "date": "20260603",
-          "price": 605.0226,
-          "changePercent": 0.8560000000000001
-        },
-        {
-          "date": "20260604",
-          "price": 611.1963,
-          "changePercent": 1.1770000000000003
-        },
-        {
-          "date": "20260605",
-          "price": 617.37,
-          "changePercent": 1.07
-        }
       ]
     },
     {
       "id": "3200",
       "nameJa": "化学",
       "nameEn": "Chemicals",
-      "price": 3188.12,
-      "change": "-44.24",
-      "changePercent": -1.37,
+      "price": 3044.6546,
+      "change": "+30.45",
+      "changePercent": 0.685,
       "stocks": [
         {
           "code": "7886",
@@ -4414,47 +4222,15 @@ window.sectorData = {
           "change": "-10",
           "changePercent": "-0.33%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 3028.714,
-          "changePercent": -1.37
-        },
-        {
-          "date": "20260601",
-          "price": 3044.6546,
-          "changePercent": 0.685
-        },
-        {
-          "date": "20260602",
-          "price": 3060.5951999999997,
-          "changePercent": -2.055
-        },
-        {
-          "date": "20260603",
-          "price": 3124.3576,
-          "changePercent": -1.096
-        },
-        {
-          "date": "20260604",
-          "price": 3156.2388,
-          "changePercent": -1.5070000000000003
-        },
-        {
-          "date": "20260605",
-          "price": 3188.12,
-          "changePercent": -1.37
-        }
       ]
     },
     {
       "id": "3250",
       "nameJa": "医薬品",
       "nameEn": "Pharmaceutical",
-      "price": 3701.15,
-      "change": "+34.06",
-      "changePercent": 0.93,
+      "price": 3534.59825,
+      "change": "-35.35",
+      "changePercent": -0.465,
       "stocks": [
         {
           "code": "4889",
@@ -5104,47 +4880,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 3516.0924999999997,
-          "changePercent": 0.93
-        },
-        {
-          "date": "20260601",
-          "price": 3534.59825,
-          "changePercent": -0.465
-        },
-        {
-          "date": "20260602",
-          "price": 3553.104,
-          "changePercent": 1.395
-        },
-        {
-          "date": "20260603",
-          "price": 3627.127,
-          "changePercent": 0.7440000000000001
-        },
-        {
-          "date": "20260604",
-          "price": 3664.1385,
-          "changePercent": 1.0230000000000001
-        },
-        {
-          "date": "20260605",
-          "price": 3701.15,
-          "changePercent": 0.93
-        }
       ]
     },
     {
       "id": "3300",
       "nameJa": "石油・石炭製品",
       "nameEn": "Oil & Coal Products",
-      "price": 2756.76,
-      "change": "-23.87",
-      "changePercent": -0.86,
+      "price": 2632.7058,
+      "change": "+26.33",
+      "changePercent": 0.43,
       "stocks": [
         {
           "code": "3315",
@@ -5218,47 +4962,15 @@ window.sectorData = {
           "change": "-52.0",
           "changePercent": "-1.42%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2618.922,
-          "changePercent": -0.86
-        },
-        {
-          "date": "20260601",
-          "price": 2632.7058,
-          "changePercent": 0.43
-        },
-        {
-          "date": "20260602",
-          "price": 2646.4896000000003,
-          "changePercent": -1.29
-        },
-        {
-          "date": "20260603",
-          "price": 2701.6248,
-          "changePercent": -0.6880000000000001
-        },
-        {
-          "date": "20260604",
-          "price": 2729.1924000000004,
-          "changePercent": -0.9460000000000001
-        },
-        {
-          "date": "20260605",
-          "price": 2756.76,
-          "changePercent": -0.86
-        }
       ]
     },
     {
       "id": "3350",
       "nameJa": "ゴム製品",
       "nameEn": "Rubber Products",
-      "price": 5434.94,
-      "change": "-18.40",
-      "changePercent": -0.34,
+      "price": 5190.3677,
+      "change": "+51.90",
+      "changePercent": 0.17,
       "stocks": [
         {
           "code": "5162",
@@ -5396,47 +5108,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 5163.192999999999,
-          "changePercent": -0.34
-        },
-        {
-          "date": "20260601",
-          "price": 5190.3677,
-          "changePercent": 0.17
-        },
-        {
-          "date": "20260602",
-          "price": 5217.542399999999,
-          "changePercent": -0.51
-        },
-        {
-          "date": "20260603",
-          "price": 5326.2411999999995,
-          "changePercent": -0.272
-        },
-        {
-          "date": "20260604",
-          "price": 5380.5905999999995,
-          "changePercent": -0.37400000000000005
-        },
-        {
-          "date": "20260605",
-          "price": 5434.94,
-          "changePercent": -0.34
-        }
       ]
     },
     {
       "id": "3400",
       "nameJa": "ガラス・土石製品",
       "nameEn": "Glass & Ceramics Products",
-      "price": 2708.52,
-      "change": "-16.09",
-      "changePercent": -0.59,
+      "price": 2586.6366,
+      "change": "+25.87",
+      "changePercent": 0.295,
       "stocks": [
         {
           "code": "5310",
@@ -5854,47 +5534,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2573.094,
-          "changePercent": -0.59
-        },
-        {
-          "date": "20260601",
-          "price": 2586.6366,
-          "changePercent": 0.295
-        },
-        {
-          "date": "20260602",
-          "price": 2600.1792,
-          "changePercent": -0.885
-        },
-        {
-          "date": "20260603",
-          "price": 2654.3496,
-          "changePercent": -0.472
-        },
-        {
-          "date": "20260604",
-          "price": 2681.4348,
-          "changePercent": -0.649
-        },
-        {
-          "date": "20260605",
-          "price": 2708.52,
-          "changePercent": -0.59
-        }
       ]
     },
     {
       "id": "3450",
       "nameJa": "鉄鋼",
       "nameEn": "Iron & Steel",
-      "price": 717.47,
-      "change": "+4.09",
-      "changePercent": 0.57,
+      "price": 685.18385,
+      "change": "-6.85",
+      "changePercent": -0.285,
       "stocks": [
         {
           "code": "5698",
@@ -6208,47 +5856,15 @@ window.sectorData = {
           "change": "-54.0",
           "changePercent": "-3.17%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 681.5965,
-          "changePercent": 0.57
-        },
-        {
-          "date": "20260601",
-          "price": 685.18385,
-          "changePercent": -0.285
-        },
-        {
-          "date": "20260602",
-          "price": 688.7712,
-          "changePercent": 0.855
-        },
-        {
-          "date": "20260603",
-          "price": 703.1206,
-          "changePercent": 0.45599999999999996
-        },
-        {
-          "date": "20260604",
-          "price": 710.2953,
-          "changePercent": 0.627
-        },
-        {
-          "date": "20260605",
-          "price": 717.47,
-          "changePercent": 0.57
-        }
       ]
     },
     {
       "id": "3500",
       "nameJa": "非鉄金属",
       "nameEn": "Nonferrous Metals",
-      "price": 6574.31,
-      "change": "-168.68",
-      "changePercent": -2.5,
+      "price": 6278.46605,
+      "change": "+62.78",
+      "changePercent": 1.25,
       "stocks": [
         {
           "code": "5821",
@@ -6506,47 +6122,15 @@ window.sectorData = {
           "change": "-162",
           "changePercent": "-4.13%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 6245.5945,
-          "changePercent": -2.5
-        },
-        {
-          "date": "20260601",
-          "price": 6278.46605,
-          "changePercent": 1.25
-        },
-        {
-          "date": "20260602",
-          "price": 6311.3376,
-          "changePercent": -3.75
-        },
-        {
-          "date": "20260603",
-          "price": 6442.8238,
-          "changePercent": -2
-        },
-        {
-          "date": "20260604",
-          "price": 6508.566900000001,
-          "changePercent": -2.75
-        },
-        {
-          "date": "20260605",
-          "price": 6574.31,
-          "changePercent": -2.5
-        }
       ]
     },
     {
       "id": "3550",
       "nameJa": "金属製品",
       "nameEn": "Metal Products",
-      "price": 2103.75,
-      "change": "-28.37",
-      "changePercent": -1.33,
+      "price": 2009.08125,
+      "change": "+20.09",
+      "changePercent": 0.665,
       "stocks": [
         {
           "code": "3444",
@@ -7268,47 +6852,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 1998.5625,
-          "changePercent": -1.33
-        },
-        {
-          "date": "20260601",
-          "price": 2009.08125,
-          "changePercent": 0.665
-        },
-        {
-          "date": "20260602",
-          "price": 2019.6,
-          "changePercent": -1.995
-        },
-        {
-          "date": "20260603",
-          "price": 2061.675,
-          "changePercent": -1.064
-        },
-        {
-          "date": "20260604",
-          "price": 2082.7125,
-          "changePercent": -1.4630000000000003
-        },
-        {
-          "date": "20260605",
-          "price": 2103.75,
-          "changePercent": -1.33
-        }
       ]
     },
     {
       "id": "3600",
       "nameJa": "機械",
       "nameEn": "Machinery",
-      "price": 4966.35,
-      "change": "+32.86",
-      "changePercent": 0.67,
+      "price": 4742.8642500000005,
+      "change": "-47.43",
+      "changePercent": -0.335,
       "stocks": [
         {
           "code": "6166",
@@ -8510,47 +8062,15 @@ window.sectorData = {
           "change": "+1",
           "changePercent": "+0.07%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 4718.0325,
-          "changePercent": 0.67
-        },
-        {
-          "date": "20260601",
-          "price": 4742.8642500000005,
-          "changePercent": -0.335
-        },
-        {
-          "date": "20260602",
-          "price": 4767.696,
-          "changePercent": 1.0050000000000001
-        },
-        {
-          "date": "20260603",
-          "price": 4867.023,
-          "changePercent": 0.536
-        },
-        {
-          "date": "20260604",
-          "price": 4916.686500000001,
-          "changePercent": 0.7370000000000001
-        },
-        {
-          "date": "20260605",
-          "price": 4966.35,
-          "changePercent": 0.67
-        }
       ]
     },
     {
       "id": "3650",
       "nameJa": "電気機器",
       "nameEn": "Electric Appliances",
-      "price": 8779.45,
-      "change": "-133.50",
-      "changePercent": -1.5,
+      "price": 8384.37475,
+      "change": "+83.84",
+      "changePercent": 0.75,
       "stocks": [
         {
           "code": "6775",
@@ -9752,47 +9272,15 @@ window.sectorData = {
           "change": "-1",
           "changePercent": "-0.25%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 8340.4775,
-          "changePercent": -1.5
-        },
-        {
-          "date": "20260601",
-          "price": 8384.37475,
-          "changePercent": 0.75
-        },
-        {
-          "date": "20260602",
-          "price": 8428.272,
-          "changePercent": -2.25
-        },
-        {
-          "date": "20260603",
-          "price": 8603.861,
-          "changePercent": -1.2000000000000002
-        },
-        {
-          "date": "20260604",
-          "price": 8691.6555,
-          "changePercent": -1.6500000000000001
-        },
-        {
-          "date": "20260605",
-          "price": 8779.45,
-          "changePercent": -1.5
-        }
       ]
     },
     {
       "id": "3700",
       "nameJa": "輸送用機器",
       "nameEn": "Transportation Equipment",
-      "price": 4575.7,
-      "change": "-15.17",
-      "changePercent": -0.33,
+      "price": 4369.7935,
+      "change": "+43.70",
+      "changePercent": 0.165,
       "stocks": [
         {
           "code": "7014",
@@ -10466,47 +9954,15 @@ window.sectorData = {
           "change": "-620",
           "changePercent": "-7.04%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 4346.915,
-          "changePercent": -0.33
-        },
-        {
-          "date": "20260601",
-          "price": 4369.7935,
-          "changePercent": 0.165
-        },
-        {
-          "date": "20260602",
-          "price": 4392.672,
-          "changePercent": -0.495
-        },
-        {
-          "date": "20260603",
-          "price": 4484.186,
-          "changePercent": -0.264
-        },
-        {
-          "date": "20260604",
-          "price": 4529.943,
-          "changePercent": -0.36300000000000004
-        },
-        {
-          "date": "20260605",
-          "price": 4575.7,
-          "changePercent": -0.33
-        }
       ]
     },
     {
       "id": "3750",
       "nameJa": "精密機器",
       "nameEn": "Precision Instruments",
-      "price": 14374,
-      "change": "-89.27",
-      "changePercent": -0.62,
+      "price": 13727.17,
+      "change": "+137.27",
+      "changePercent": 0.31,
       "stocks": [
         {
           "code": "7777",
@@ -10924,47 +10380,15 @@ window.sectorData = {
           "change": "-171",
           "changePercent": "-4.21%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 13655.3,
-          "changePercent": -0.62
-        },
-        {
-          "date": "20260601",
-          "price": 13727.17,
-          "changePercent": 0.31
-        },
-        {
-          "date": "20260602",
-          "price": 13799.039999999999,
-          "changePercent": -0.9299999999999999
-        },
-        {
-          "date": "20260603",
-          "price": 14086.52,
-          "changePercent": -0.496
-        },
-        {
-          "date": "20260604",
-          "price": 14230.26,
-          "changePercent": -0.682
-        },
-        {
-          "date": "20260605",
-          "price": 14374,
-          "changePercent": -0.62
-        }
       ]
     },
     {
       "id": "3800",
       "nameJa": "その他製品",
       "nameEn": "Other Products",
-      "price": 5678.28,
-      "change": "+109.49",
-      "changePercent": 1.97,
+      "price": 5422.7573999999995,
+      "change": "-54.23",
+      "changePercent": -0.985,
       "stocks": [
         {
           "code": "7794",
@@ -11822,47 +11246,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 5394.365999999999,
-          "changePercent": 1.97
-        },
-        {
-          "date": "20260601",
-          "price": 5422.7573999999995,
-          "changePercent": -0.985
-        },
-        {
-          "date": "20260602",
-          "price": 5451.1488,
-          "changePercent": 2.955
-        },
-        {
-          "date": "20260603",
-          "price": 5564.7144,
-          "changePercent": 1.576
-        },
-        {
-          "date": "20260604",
-          "price": 5621.4972,
-          "changePercent": 2.1670000000000003
-        },
-        {
-          "date": "20260605",
-          "price": 5678.28,
-          "changePercent": 1.97
-        }
       ]
     },
     {
       "id": "4050",
       "nameJa": "電気・ガス業",
       "nameEn": "Electric Power & Gas",
-      "price": 662.64,
-      "change": "+2.45",
-      "changePercent": 0.37,
+      "price": 632.8212,
+      "change": "-6.33",
+      "changePercent": -0.185,
       "stocks": [
         {
           "code": "7162",
@@ -12088,47 +11480,15 @@ window.sectorData = {
           "change": "-12.6",
           "changePercent": "-2.33%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 629.5079999999999,
-          "changePercent": 0.37
-        },
-        {
-          "date": "20260601",
-          "price": 632.8212,
-          "changePercent": -0.185
-        },
-        {
-          "date": "20260602",
-          "price": 636.1343999999999,
-          "changePercent": 0.5549999999999999
-        },
-        {
-          "date": "20260603",
-          "price": 649.3872,
-          "changePercent": 0.296
-        },
-        {
-          "date": "20260604",
-          "price": 656.0136,
-          "changePercent": 0.40700000000000003
-        },
-        {
-          "date": "20260605",
-          "price": 662.64,
-          "changePercent": 0.37
-        }
       ]
     },
     {
       "id": "5050",
       "nameJa": "陸運業",
       "nameEn": "Land Transportation",
-      "price": 2135.46,
-      "change": "+24.08",
-      "changePercent": 1.14,
+      "price": 2039.3643,
+      "change": "-20.39",
+      "changePercent": -0.57,
       "stocks": [
         {
           "code": "9044",
@@ -12610,47 +11970,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2028.687,
-          "changePercent": 1.14
-        },
-        {
-          "date": "20260601",
-          "price": 2039.3643,
-          "changePercent": -0.57
-        },
-        {
-          "date": "20260602",
-          "price": 2050.0416,
-          "changePercent": 1.71
-        },
-        {
-          "date": "20260603",
-          "price": 2092.7508,
-          "changePercent": 0.9119999999999999
-        },
-        {
-          "date": "20260604",
-          "price": 2114.1054,
-          "changePercent": 1.254
-        },
-        {
-          "date": "20260605",
-          "price": 2135.46,
-          "changePercent": 1.14
-        }
       ]
     },
     {
       "id": "5100",
       "nameJa": "海運業",
       "nameEn": "Marine Transportation",
-      "price": 2107.51,
-      "change": "+81.23",
-      "changePercent": 4.01,
+      "price": 2012.6720500000001,
+      "change": "-20.13",
+      "changePercent": -2.005,
       "stocks": [
         {
           "code": "9104",
@@ -12740,47 +12068,15 @@ window.sectorData = {
           "change": "-18",
           "changePercent": "-1.80%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2002.1345000000001,
-          "changePercent": 4.01
-        },
-        {
-          "date": "20260601",
-          "price": 2012.6720500000001,
-          "changePercent": -2.005
-        },
-        {
-          "date": "20260602",
-          "price": 2023.2096000000001,
-          "changePercent": 6.015
-        },
-        {
-          "date": "20260603",
-          "price": 2065.3598,
-          "changePercent": 3.208
-        },
-        {
-          "date": "20260604",
-          "price": 2086.4349,
-          "changePercent": 4.4110000000000005
-        },
-        {
-          "date": "20260605",
-          "price": 2107.51,
-          "changePercent": 4.01
-        }
       ]
     },
     {
       "id": "5150",
       "nameJa": "空運業",
       "nameEn": "Air Transportation",
-      "price": 223.78,
-      "change": "+1.93",
-      "changePercent": 0.87,
+      "price": 213.7099,
+      "change": "-2.14",
+      "changePercent": -0.435,
       "stocks": [
         {
           "code": "9201",
@@ -12822,47 +12118,15 @@ window.sectorData = {
           "change": "-18",
           "changePercent": "-0.94%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 212.59099999999998,
-          "changePercent": 0.87
-        },
-        {
-          "date": "20260601",
-          "price": 213.7099,
-          "changePercent": -0.435
-        },
-        {
-          "date": "20260602",
-          "price": 214.8288,
-          "changePercent": 1.305
-        },
-        {
-          "date": "20260603",
-          "price": 219.3044,
-          "changePercent": 0.6960000000000001
-        },
-        {
-          "date": "20260604",
-          "price": 221.5422,
-          "changePercent": 0.9570000000000001
-        },
-        {
-          "date": "20260605",
-          "price": 223.78,
-          "changePercent": 0.87
-        }
       ]
     },
     {
       "id": "5200",
       "nameJa": "倉庫・運輸関連業",
       "nameEn": "Warehousing & Harbor Transportation Services",
-      "price": 4699.42,
-      "change": "+27.45",
-      "changePercent": 0.59,
+      "price": 4487.9461,
+      "change": "-44.88",
+      "changePercent": -0.295,
       "stocks": [
         {
           "code": "9327",
@@ -13128,47 +12392,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 4464.449,
-          "changePercent": 0.59
-        },
-        {
-          "date": "20260601",
-          "price": 4487.9461,
-          "changePercent": -0.295
-        },
-        {
-          "date": "20260602",
-          "price": 4511.4432,
-          "changePercent": 0.885
-        },
-        {
-          "date": "20260603",
-          "price": 4605.4316,
-          "changePercent": 0.472
-        },
-        {
-          "date": "20260604",
-          "price": 4652.4258,
-          "changePercent": 0.649
-        },
-        {
-          "date": "20260605",
-          "price": 4699.42,
-          "changePercent": 0.59
-        }
       ]
     },
     {
       "id": "5250",
       "nameJa": "情報・通信業",
       "nameEn": "Information & Communication",
-      "price": 8318,
-      "change": "+61.47",
-      "changePercent": 0.74,
+      "price": 7943.69,
+      "change": "-79.44",
+      "changePercent": -0.37,
       "stocks": [
         {
           "code": "3664",
@@ -14370,47 +13602,15 @@ window.sectorData = {
           "change": "+38",
           "changePercent": "+2.71%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 7902.099999999999,
-          "changePercent": 0.74
-        },
-        {
-          "date": "20260601",
-          "price": 7943.69,
-          "changePercent": -0.37
-        },
-        {
-          "date": "20260602",
-          "price": 7985.28,
-          "changePercent": 1.1099999999999999
-        },
-        {
-          "date": "20260603",
-          "price": 8151.639999999999,
-          "changePercent": 0.592
-        },
-        {
-          "date": "20260604",
-          "price": 8234.82,
-          "changePercent": 0.8140000000000001
-        },
-        {
-          "date": "20260605",
-          "price": 8318,
-          "changePercent": 0.74
-        }
       ]
     },
     {
       "id": "6050",
       "nameJa": "卸売業",
       "nameEn": "Wholesale Trade",
-      "price": 5781.4,
-      "change": "+19.10",
-      "changePercent": 0.33,
+      "price": 5521.236999999999,
+      "change": "-55.21",
+      "changePercent": -0.165,
       "stocks": [
         {
           "code": "9824",
@@ -15612,47 +14812,15 @@ window.sectorData = {
           "change": "+11",
           "changePercent": "+0.67%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 5492.329999999999,
-          "changePercent": 0.33
-        },
-        {
-          "date": "20260601",
-          "price": 5521.236999999999,
-          "changePercent": -0.165
-        },
-        {
-          "date": "20260602",
-          "price": 5550.143999999999,
-          "changePercent": 0.495
-        },
-        {
-          "date": "20260603",
-          "price": 5665.772,
-          "changePercent": 0.264
-        },
-        {
-          "date": "20260604",
-          "price": 5723.585999999999,
-          "changePercent": 0.36300000000000004
-        },
-        {
-          "date": "20260605",
-          "price": 5781.4,
-          "changePercent": 0.33
-        }
       ]
     },
     {
       "id": "6100",
       "nameJa": "小売業",
       "nameEn": "Retail Trade",
-      "price": 2226.33,
-      "change": "+6.38",
-      "changePercent": 0.29,
+      "price": 2126.14515,
+      "change": "-21.26",
+      "changePercent": -0.145,
       "stocks": [
         {
           "code": "5892",
@@ -16854,47 +16022,15 @@ window.sectorData = {
           "change": "+14",
           "changePercent": "+0.70%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2115.0135,
-          "changePercent": 0.29
-        },
-        {
-          "date": "20260601",
-          "price": 2126.14515,
-          "changePercent": -0.145
-        },
-        {
-          "date": "20260602",
-          "price": 2137.2767999999996,
-          "changePercent": 0.43499999999999994
-        },
-        {
-          "date": "20260603",
-          "price": 2181.8034,
-          "changePercent": 0.23199999999999998
-        },
-        {
-          "date": "20260604",
-          "price": 2204.0667,
-          "changePercent": 0.319
-        },
-        {
-          "date": "20260605",
-          "price": 2226.33,
-          "changePercent": 0.29
-        }
       ]
     },
     {
       "id": "7050",
       "nameJa": "銀行業",
       "nameEn": "Banks",
-      "price": 669.79,
-      "change": "+7.59",
-      "changePercent": 1.15,
+      "price": 639.6494499999999,
+      "change": "-6.40",
+      "changePercent": -0.575,
       "stocks": [
         {
           "code": "7384",
@@ -17568,47 +16704,15 @@ window.sectorData = {
           "change": "-330",
           "changePercent": "-2.74%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 636.3004999999999,
-          "changePercent": 1.15
-        },
-        {
-          "date": "20260601",
-          "price": 639.6494499999999,
-          "changePercent": -0.575
-        },
-        {
-          "date": "20260602",
-          "price": 642.9984,
-          "changePercent": 1.7249999999999999
-        },
-        {
-          "date": "20260603",
-          "price": 656.3942,
-          "changePercent": 0.9199999999999999
-        },
-        {
-          "date": "20260604",
-          "price": 663.0921,
-          "changePercent": 1.265
-        },
-        {
-          "date": "20260605",
-          "price": 669.79,
-          "changePercent": 1.15
-        }
       ]
     },
     {
       "id": "7100",
       "nameJa": "証券、商品先物取引業",
       "nameEn": "Securities & Commodity Futures",
-      "price": 855.98,
-      "change": "+9.72",
-      "changePercent": 1.15,
+      "price": 817.4609,
+      "change": "-8.17",
+      "changePercent": -0.575,
       "stocks": [
         {
           "code": "8746",
@@ -17906,47 +17010,15 @@ window.sectorData = {
           "change": "-1",
           "changePercent": "-0.72%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 813.1809999999999,
-          "changePercent": 1.15
-        },
-        {
-          "date": "20260601",
-          "price": 817.4609,
-          "changePercent": -0.575
-        },
-        {
-          "date": "20260602",
-          "price": 821.7408,
-          "changePercent": 1.7249999999999999
-        },
-        {
-          "date": "20260603",
-          "price": 838.8604,
-          "changePercent": 0.9199999999999999
-        },
-        {
-          "date": "20260604",
-          "price": 847.4202,
-          "changePercent": 1.265
-        },
-        {
-          "date": "20260605",
-          "price": 855.98,
-          "changePercent": 1.15
-        }
       ]
     },
     {
       "id": "7150",
       "nameJa": "保険業",
       "nameEn": "Insurance",
-      "price": 3570.63,
-      "change": "+51.40",
-      "changePercent": 1.46,
+      "price": 3409.95165,
+      "change": "-34.10",
+      "changePercent": -0.73,
       "stocks": [
         {
           "code": "8795",
@@ -18068,47 +17140,15 @@ window.sectorData = {
           "change": "-87",
           "changePercent": "-7.64%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 3392.0985,
-          "changePercent": 1.46
-        },
-        {
-          "date": "20260601",
-          "price": 3409.95165,
-          "changePercent": -0.73
-        },
-        {
-          "date": "20260602",
-          "price": 3427.8048,
-          "changePercent": 2.19
-        },
-        {
-          "date": "20260603",
-          "price": 3499.2174,
-          "changePercent": 1.168
-        },
-        {
-          "date": "20260604",
-          "price": 3534.9237000000003,
-          "changePercent": 1.606
-        },
-        {
-          "date": "20260605",
-          "price": 3570.63,
-          "changePercent": 1.46
-        }
       ]
     },
     {
       "id": "7200",
       "nameJa": "その他金融業",
       "nameEn": "Other Financing Business",
-      "price": 1499.99,
-      "change": "-16.24",
-      "changePercent": -1.07,
+      "price": 1432.49045,
+      "change": "+14.32",
+      "changePercent": 0.535,
       "stocks": [
         {
           "code": "7383",
@@ -18430,47 +17470,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 1424.9904999999999,
-          "changePercent": -1.07
-        },
-        {
-          "date": "20260601",
-          "price": 1432.49045,
-          "changePercent": 0.535
-        },
-        {
-          "date": "20260602",
-          "price": 1439.9904,
-          "changePercent": -1.605
-        },
-        {
-          "date": "20260603",
-          "price": 1469.9902,
-          "changePercent": -0.8560000000000001
-        },
-        {
-          "date": "20260604",
-          "price": 1484.9901,
-          "changePercent": -1.1770000000000003
-        },
-        {
-          "date": "20260605",
-          "price": 1499.99,
-          "changePercent": -1.07
-        }
       ]
     },
     {
       "id": "8050",
       "nameJa": "不動産業",
       "nameEn": "Real Estate",
-      "price": 2453.5,
-      "change": "+34.63",
-      "changePercent": 1.43,
+      "price": 2343.0924999999997,
+      "change": "-23.43",
+      "changePercent": -0.715,
       "stocks": [
         {
           "code": "3260",
@@ -19576,47 +18584,15 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 2330.825,
-          "changePercent": 1.43
-        },
-        {
-          "date": "20260601",
-          "price": 2343.0924999999997,
-          "changePercent": -0.715
-        },
-        {
-          "date": "20260602",
-          "price": 2355.36,
-          "changePercent": 2.145
-        },
-        {
-          "date": "20260603",
-          "price": 2404.43,
-          "changePercent": 1.144
-        },
-        {
-          "date": "20260604",
-          "price": 2428.965,
-          "changePercent": 1.573
-        },
-        {
-          "date": "20260605",
-          "price": 2453.5,
-          "changePercent": 1.43
-        }
       ]
     },
     {
       "id": "9050",
       "nameJa": "サービス業",
       "nameEn": "Services",
-      "price": 3373.74,
-      "change": "+3.92",
-      "changePercent": 0.12,
+      "price": 3221.9217,
+      "change": "-32.22",
+      "changePercent": -0.06,
       "stocks": [
         {
           "code": "6085",
@@ -20818,39 +19794,7 @@ window.sectorData = {
           "change": "+32",
           "changePercent": "+2.14%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260529",
-          "price": 3205.0529999999994,
-          "changePercent": 0.12
-        },
-        {
-          "date": "20260601",
-          "price": 3221.9217,
-          "changePercent": -0.06
-        },
-        {
-          "date": "20260602",
-          "price": 3238.7904,
-          "changePercent": 0.18
-        },
-        {
-          "date": "20260603",
-          "price": 3306.2652,
-          "changePercent": 0.096
-        },
-        {
-          "date": "20260604",
-          "price": 3340.0026,
-          "changePercent": 0.132
-        },
-        {
-          "date": "20260605",
-          "price": 3373.74,
-          "changePercent": 0.12
-        }
       ]
     }
   ]
-};
+}

@@ -35,7 +35,7 @@ if ! git diff --cached --quiet; then
   exit 1
 fi
 
-git add public/data.json public/data.js
+git add public/data.json public/data.js public/history/
 
 if ! git diff --cached --quiet; then
   echo "Changes detected. Committing and pushing..."

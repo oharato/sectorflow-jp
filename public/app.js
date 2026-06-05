@@ -243,6 +243,166 @@ function filterAndRender() {
 }
 
 // Render Heatmap view (Grid of cards)
+// Helper to generate Sparkline SVG for sector cards
+function generateSparklineSVG(history, isPositiveOverall) {
+  if (!history || history.length < 2) {
+    return `<div class="sparkline-placeholder">データ蓄積中... (1日分のみ)</div>`;
+  }
+
+  const width = 140;
+  const height = 30;
+  const prices = history.map(h => h.price);
+  const minPrice = Math.min(...prices);
+  const maxPrice = Math.max(...prices);
+  const priceRange = maxPrice - minPrice;
+
+  // Map each price point to coordinates
+  const points = history.map((h, i) => {
+    const x = (i / (history.length - 1)) * width;
+    const y = priceRange === 0 
+      ? height / 2 
+      : height - 2 - ((h.price - minPrice) / priceRange) * (height - 4);
+    return { x, y };
+  });
+
+  const linePath = points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${p.x.toFixed(1)} ${p.y.toFixed(1)}`).join(' ');
+  const areaPath = `${linePath} L ${points[points.length - 1].x.toFixed(1)} ${height} L ${points[0].x.toFixed(1)} ${height} Z`;
+
+  const strokeColor = isPositiveOverall ? 'var(--gain-primary)' : 'var(--loss-primary)';
+  const gradientId = `grad-${Math.random().toString(36).substr(2, 9)}`;
+  const stopColor = isPositiveOverall ? '#10b981' : '#f43f5e';
+
+  return `
+    <svg class="sparkline-svg" width="100%" height="${height}" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">
+      <defs>
+        <linearGradient id="${gradientId}" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="${stopColor}" stop-opacity="0.25"></stop>
+          <stop offset="100%" stop-color="${stopColor}" stop-opacity="0.00"></stop>
+        </linearGradient>
+      </defs>
+      <path d="${areaPath}" fill="url(#${gradientId})"></path>
+      <path d="${linePath}" fill="none" stroke="${strokeColor}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+      <circle cx="${points[points.length - 1].x.toFixed(1)}" cy="${points[points.length - 1].y.toFixed(1)}" r="2.5" fill="${strokeColor}"></circle>
+    </svg>
+  `;
+}
+
+// Helper to calculate and generate consecutive gains/losses badge html
+function getConsecutiveText(history) {
+  if (!history || history.length < 2) return '';
+  
+  let consecutiveGains = 0;
+  let consecutiveLosses = 0;
+
+  for (let i = history.length - 1; i >= 0; i--) {
+    const change = history[i].changePercent;
+    if (change > 0) {
+      if (consecutiveLosses > 0) break;
+      consecutiveGains++;
+    } else if (change < 0) {
+      if (consecutiveGains > 0) break;
+      consecutiveLosses++;
+    } else {
+      break;
+    }
+  }
+
+  if (consecutiveGains >= 2) {
+    const isRisingEveryDay = consecutiveGains === history.length;
+    if (isRisingEveryDay && history.length >= 5) {
+      return `<span class="consecutive-badge super-gain" title="毎日上昇しています！">${consecutiveGains}日連続上昇🔥</span>`;
+    }
+    return `<span class="consecutive-badge gain">${consecutiveGains}日続伸</span>`;
+  }
+  
+  if (consecutiveLosses >= 2) {
+    return `<span class="consecutive-badge loss">${consecutiveLosses}日続落</span>`;
+  }
+
+  return '';
+}
+
+// Helper to generate detailed history chart for drawer view
+function generateDrawerChartSVG(history, isPositiveOverall) {
+  if (!history || history.length < 2) {
+    return `<div class="sparkline-placeholder">データが十分にありません (現在 ${history ? history.length : 0}日分)</div>`;
+  }
+
+  const width = 350;
+  const height = 100;
+  const paddingLeft = 35;
+  const paddingRight = 15;
+  const paddingTop = 15;
+  const paddingBottom = 20;
+
+  const chartWidth = width - paddingLeft - paddingRight;
+  const chartHeight = height - paddingTop - paddingBottom;
+
+  const prices = history.map(h => h.price);
+  const minPrice = Math.min(...prices);
+  const maxPrice = Math.max(...prices);
+  const priceRange = maxPrice - minPrice;
+
+  const points = history.map((h, i) => {
+    const x = paddingLeft + (i / (history.length - 1)) * chartWidth;
+    const y = priceRange === 0 
+      ? paddingTop + chartHeight / 2 
+      : paddingTop + chartHeight - ((h.price - minPrice) / priceRange) * chartHeight;
+    return { x, y, date: h.date, price: h.price };
+  });
+
+  const linePath = points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${p.x.toFixed(1)} ${p.y.toFixed(1)}`).join(' ');
+  const areaPath = `${linePath} L ${points[points.length - 1].x.toFixed(1)} ${height - paddingBottom} L ${points[0].x.toFixed(1)} ${height - paddingBottom} Z`;
+
+  const strokeColor = isPositiveOverall ? 'var(--gain-primary)' : 'var(--loss-primary)';
+  const gradientId = `drawer-grad-${Math.random().toString(36).substr(2, 9)}`;
+  const stopColor = isPositiveOverall ? '#10b981' : '#f43f5e';
+
+  const midPrice = minPrice + priceRange / 2;
+  
+  const formatDate = (dateStr) => {
+    if (!dateStr || dateStr.length !== 8) return '';
+    return `${dateStr.substring(4, 6)}/${dateStr.substring(6, 8)}`;
+  };
+  
+  const firstDate = formatDate(history[0].date);
+  const lastDate = formatDate(history[history.length - 1].date);
+
+  return `
+    <svg class="drawer-chart-svg" width="100%" height="${height}" viewBox="0 0 ${width} ${height}">
+      <defs>
+        <linearGradient id="${gradientId}" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="${stopColor}" stop-opacity="0.2"></stop>
+          <stop offset="100%" stop-color="${stopColor}" stop-opacity="0.0"></stop>
+        </linearGradient>
+      </defs>
+      
+      <!-- Grid lines (horizontal) -->
+      <line x1="${paddingLeft}" y1="${paddingTop}" x2="${width - paddingRight}" y2="${paddingTop}" stroke="rgba(255,255,255,0.05)" stroke-width="1"></line>
+      <line x1="${paddingLeft}" y1="${paddingTop + chartHeight / 2}" x2="${width - paddingRight}" y2="${paddingTop + chartHeight / 2}" stroke="rgba(255,255,255,0.05)" stroke-dasharray="2,2" stroke-width="1"></line>
+      <line x1="${paddingLeft}" y1="${height - paddingBottom}" x2="${width - paddingRight}" y2="${height - paddingBottom}" stroke="rgba(255,255,255,0.05)" stroke-width="1"></line>
+
+      <!-- Y Axis Labels -->
+      <text x="${paddingLeft - 6}" y="${paddingTop + 3}" fill="var(--text-muted)" font-size="7.5" text-anchor="end">${maxPrice.toLocaleString('ja-JP', {maximumFractionDigits:0})}</text>
+      <text x="${paddingLeft - 6}" y="${paddingTop + chartHeight / 2 + 3}" fill="var(--text-muted)" font-size="7.5" text-anchor="end">${midPrice.toLocaleString('ja-JP', {maximumFractionDigits:0})}</text>
+      <text x="${paddingLeft - 6}" y="${height - paddingBottom + 3}" fill="var(--text-muted)" font-size="7.5" text-anchor="end">${minPrice.toLocaleString('ja-JP', {maximumFractionDigits:0})}</text>
+
+      <!-- X Axis Labels -->
+      <text x="${paddingLeft}" y="${height - 5}" fill="var(--text-muted)" font-size="8" text-anchor="start">${firstDate}</text>
+      <text x="${width - paddingRight}" y="${height - 5}" fill="var(--text-muted)" font-size="8" text-anchor="end">${lastDate}</text>
+
+      <!-- Plot Area -->
+      <path d="${areaPath}" fill="url(#${gradientId})"></path>
+      <path d="${linePath}" fill="none" stroke="${strokeColor}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+      
+      <!-- Dots -->
+      ${points.map(p => `
+        <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="2.5" fill="${strokeColor}"></circle>
+      `).join('')}
+    </svg>
+  `;
+}
+
 function renderHeatmap() {
   heatmapGrid.innerHTML = '';
   
@@ -280,8 +440,14 @@ function renderHeatmap() {
         <span class="sector-name-ja">${sector.nameJa}</span>
         <span class="sector-code">${sector.id}</span>
       </div>
+      <div class="sector-card-chart">
+        ${generateSparklineSVG(sector.history, isPositive)}
+      </div>
       <div class="sector-card-bottom">
-        <span class="sector-card-price">${sector.price.toLocaleString('ja-JP')}</span>
+        <div class="sector-card-stats">
+          <span class="sector-card-price">${sector.price.toLocaleString('ja-JP')}</span>
+          ${getConsecutiveText(sector.history)}
+        </div>
         <span class="sector-card-pct ${changeClass}">${displayPct}</span>
       </div>
     `;
@@ -347,7 +513,10 @@ function sortAndRenderTable() {
     tr.innerHTML = `
       <td class="table-sector-code">${sector.id}</td>
       <td>
-        <span class="table-sector-name">${sector.nameJa}</span>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span class="table-sector-name">${sector.nameJa}</span>
+          ${getConsecutiveText(sector.history)}
+        </div>
         <span class="table-sector-en">${sector.nameEn}</span>
       </td>
       <td class="text-right font-digit">${sector.price.toLocaleString('ja-JP', { minimumFractionDigits: 1 })}</td>
@@ -383,6 +552,12 @@ function openDrawer(sector) {
   // Reset typography styling classes
   drawerSectorChange.className = 'change-value ' + (isPositive ? 'text-gain' : (isNegative ? 'text-loss' : ''));
   drawerSectorPct.className = 'change-pct ' + (isPositive ? 'text-gain' : (isNegative ? 'text-loss' : ''));
+  
+  // Populate drawer chart
+  const drawerChartContainer = document.getElementById('drawer-chart-container');
+  if (drawerChartContainer) {
+    drawerChartContainer.innerHTML = generateDrawerChartSVG(sector.history, isPositive);
+  }
   
   // Render component stocks list directly from in-memory sector object
   drawerStocksList.innerHTML = '';
