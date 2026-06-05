@@ -8,6 +8,13 @@ trap 'error_handler $LINENO' ERR
 
 cd "$(dirname "$0")"
 
+# 平日（月曜日〜金曜日）のみ実行するように制限
+DAY_OF_WEEK=$(date +%u) # 1=月曜日, 7=日曜日
+if [ "$DAY_OF_WEEK" -gt 5 ]; then
+  echo "本日は週末（曜日番号: $DAY_OF_WEEK）のため、自動更新をスキップします。"
+  exit 0
+fi
+
 # Pull remote updates to prevent push conflicts
 git pull --rebase
 
