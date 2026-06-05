@@ -22,39 +22,10 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    # runs-on: ubuntu-latest
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Run scraping update
-        run: node update.js
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 更新されたデータをステージング
-          git add public/data.json public/data.js
-          
-          # 差分がある場合のみコミット＆プッシュを実行
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: auto-update stock data [skip ci]"
-            git push
-          else
-            echo "No data changes detected. Skipping commit."
-          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
