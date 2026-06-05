@@ -50,7 +50,7 @@ if ! git diff --cached --quiet; then
   GIT_AUTHOR_EMAIL="github-actions[bot]@users.noreply.github.com" \
   GIT_COMMITTER_NAME="github-actions[bot]" \
   GIT_COMMITTER_EMAIL="github-actions[bot]@users.noreply.github.com" \
-  git commit --no-gpg-sign -m "chore: auto-update stock data [skip ci]"
+  git commit --no-gpg-sign -m "chore: auto-update stock data"
   git push
 else
   echo "No data changes detected. Skipping commit."
