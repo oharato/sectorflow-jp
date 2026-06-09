@@ -106,23 +106,6 @@
           "change": "-17",
           "changePercent": "-0.92%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 723.76,
-          "changePercent": 0.97
-        },
-        {
-          "date": "20260608",
-          "price": 728.47,
-          "changePercent": 0.65
-        },
-        {
-          "date": "20260609",
-          "price": 733.07,
-          "changePercent": 0.63
-        }
       ]
     },
     {
@@ -172,23 +155,6 @@
           "price": "3,955",
           "change": "-70",
           "changePercent": "-1.74%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 1071.8,
-          "changePercent": 0.97
-        },
-        {
-          "date": "20260608",
-          "price": 1058.07,
-          "changePercent": -1.28
-        },
-        {
-          "date": "20260609",
-          "price": 1044.47,
-          "changePercent": -1.29
         }
       ]
     },
@@ -1400,23 +1366,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2610.73,
-          "changePercent": 1.12
-        },
-        {
-          "date": "20260608",
-          "price": 2584.69,
-          "changePercent": -1
-        },
-        {
-          "date": "20260609",
-          "price": 2609.43,
-          "changePercent": 0.96
-        }
       ]
     },
     {
@@ -2459,23 +2408,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2614.84,
-          "changePercent": -0.81
-        },
-        {
-          "date": "20260608",
-          "price": 2643.66,
-          "changePercent": 1.1
-        },
-        {
-          "date": "20260609",
-          "price": 2641.1,
-          "changePercent": -0.1
-        }
       ]
     },
     {
@@ -2878,23 +2810,6 @@
           "change": "-42",
           "changePercent": "-1.76%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 918.03,
-          "changePercent": 1.18
-        },
-        {
-          "date": "20260608",
-          "price": 899.73,
-          "changePercent": -1.99
-        },
-        {
-          "date": "20260609",
-          "price": 902.38,
-          "changePercent": 0.29
-        }
       ]
     },
     {
@@ -3096,23 +3011,6 @@
           "price": "－",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 617.37,
-          "changePercent": 1.07
-        },
-        {
-          "date": "20260608",
-          "price": 618.89,
-          "changePercent": 0.25
-        },
-        {
-          "date": "20260609",
-          "price": 622.82,
-          "changePercent": 0.64
         }
       ]
     },
@@ -4324,23 +4222,6 @@
           "change": "-12.0",
           "changePercent": "-0.70%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 3188.12,
-          "changePercent": -1.37
-        },
-        {
-          "date": "20260608",
-          "price": 3069.2,
-          "changePercent": -3.73
-        },
-        {
-          "date": "20260609",
-          "price": 3067.89,
-          "changePercent": -0.04
-        }
       ]
     },
     {
@@ -4999,23 +4880,6 @@
           "change": "-150",
           "changePercent": "-21.13%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 3701.15,
-          "changePercent": 0.93
-        },
-        {
-          "date": "20260608",
-          "price": 3729.23,
-          "changePercent": 0.76
-        },
-        {
-          "date": "20260609",
-          "price": 3689.71,
-          "changePercent": -1.06
-        }
       ]
     },
     {
@@ -5097,23 +4961,6 @@
           "price": "3,509.0",
           "change": "-77.0",
           "changePercent": "-2.15%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2756.76,
-          "changePercent": -0.86
-        },
-        {
-          "date": "20260608",
-          "price": 2701.26,
-          "changePercent": -2.01
-        },
-        {
-          "date": "20260609",
-          "price": 2653.51,
-          "changePercent": -1.77
         }
       ]
     },
@@ -5260,23 +5107,6 @@
           "price": "1,929",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 5434.94,
-          "changePercent": -0.34
-        },
-        {
-          "date": "20260608",
-          "price": 5463.95,
-          "changePercent": 0.53
-        },
-        {
-          "date": "20260609",
-          "price": 5485.11,
-          "changePercent": 0.39
         }
       ]
     },
@@ -5704,23 +5534,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2708.52,
-          "changePercent": -0.59
-        },
-        {
-          "date": "20260608",
-          "price": 2568.2,
-          "changePercent": -5.18
-        },
-        {
-          "date": "20260609",
-          "price": 2599.64,
-          "changePercent": 1.22
-        }
       ]
     },
     {
@@ -6043,23 +5856,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 717.47,
-          "changePercent": 0.57
-        },
-        {
-          "date": "20260608",
-          "price": 704.18,
-          "changePercent": -1.85
-        },
-        {
-          "date": "20260609",
-          "price": 704.59,
-          "changePercent": 0.06
-        }
       ]
     },
     {
@@ -6325,23 +6121,6 @@
           "price": "39,460",
           "change": "-1,890",
           "changePercent": "-4.57%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 6574.31,
-          "changePercent": -2.5
-        },
-        {
-          "date": "20260608",
-          "price": 6123.86,
-          "changePercent": -6.85
-        },
-        {
-          "date": "20260609",
-          "price": 6120.42,
-          "changePercent": -0.06
         }
       ]
     },
@@ -7072,23 +6851,6 @@
           "price": "－",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2103.75,
-          "changePercent": -1.33
-        },
-        {
-          "date": "20260608",
-          "price": 2001.84,
-          "changePercent": -4.84
-        },
-        {
-          "date": "20260609",
-          "price": 2016.37,
-          "changePercent": 0.73
         }
       ]
     },
@@ -8300,23 +8062,6 @@
           "change": "-7",
           "changePercent": "-0.28%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 4966.35,
-          "changePercent": 0.67
-        },
-        {
-          "date": "20260608",
-          "price": 4779.92,
-          "changePercent": -3.75
-        },
-        {
-          "date": "20260609",
-          "price": 4814.94,
-          "changePercent": 0.73
-        }
       ]
     },
     {
@@ -9527,23 +9272,6 @@
           "change": "-14",
           "changePercent": "-0.21%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 8779.45,
-          "changePercent": -1.5
-        },
-        {
-          "date": "20260608",
-          "price": 8263.22,
-          "changePercent": -5.88
-        },
-        {
-          "date": "20260609",
-          "price": 8522.06,
-          "changePercent": 3.13
-        }
       ]
     },
     {
@@ -10226,23 +9954,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 4575.7,
-          "changePercent": -0.33
-        },
-        {
-          "date": "20260608",
-          "price": 4530.53,
-          "changePercent": -0.99
-        },
-        {
-          "date": "20260609",
-          "price": 4548.57,
-          "changePercent": 0.4
-        }
       ]
     },
     {
@@ -10668,23 +10379,6 @@
           "price": "208",
           "change": "-10",
           "changePercent": "-4.59%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 14374,
-          "changePercent": -0.62
-        },
-        {
-          "date": "20260608",
-          "price": 13924.79,
-          "changePercent": -3.13
-        },
-        {
-          "date": "20260609",
-          "price": 14048.18,
-          "changePercent": 0.89
         }
       ]
     },
@@ -11552,23 +11246,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 5678.28,
-          "changePercent": 1.97
-        },
-        {
-          "date": "20260608",
-          "price": 5672.82,
-          "changePercent": -0.1
-        },
-        {
-          "date": "20260609",
-          "price": 5705.31,
-          "changePercent": 0.57
-        }
       ]
     },
     {
@@ -11802,23 +11479,6 @@
           "price": "923",
           "change": "-80",
           "changePercent": "-7.98%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 662.64,
-          "changePercent": 0.37
-        },
-        {
-          "date": "20260608",
-          "price": 661.21,
-          "changePercent": -0.22
-        },
-        {
-          "date": "20260609",
-          "price": 660.37,
-          "changePercent": -0.13
         }
       ]
     },
@@ -12310,23 +11970,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2135.46,
-          "changePercent": 1.14
-        },
-        {
-          "date": "20260608",
-          "price": 2149.83,
-          "changePercent": 0.67
-        },
-        {
-          "date": "20260609",
-          "price": 2163.45,
-          "changePercent": 0.63
-        }
       ]
     },
     {
@@ -12425,23 +12068,6 @@
           "change": "-37",
           "changePercent": "-3.80%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2107.51,
-          "changePercent": 4.01
-        },
-        {
-          "date": "20260608",
-          "price": 2106.84,
-          "changePercent": -0.03
-        },
-        {
-          "date": "20260609",
-          "price": 2140.88,
-          "changePercent": 1.62
-        }
       ]
     },
     {
@@ -12491,23 +12117,6 @@
           "price": "2,602.5",
           "change": "-22.0",
           "changePercent": "-0.84%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 223.78,
-          "changePercent": 0.87
-        },
-        {
-          "date": "20260608",
-          "price": 220.25,
-          "changePercent": -1.58
-        },
-        {
-          "date": "20260609",
-          "price": 218.45,
-          "changePercent": -0.82
         }
       ]
     },
@@ -12782,23 +12391,6 @@
           "price": "－",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 4699.42,
-          "changePercent": 0.59
-        },
-        {
-          "date": "20260608",
-          "price": 4705.21,
-          "changePercent": 0.12
-        },
-        {
-          "date": "20260609",
-          "price": 4649.53,
-          "changePercent": -1.18
         }
       ]
     },
@@ -14010,23 +13602,6 @@
           "change": "+4",
           "changePercent": "+0.64%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 8318,
-          "changePercent": 0.74
-        },
-        {
-          "date": "20260608",
-          "price": 8128.69,
-          "changePercent": -2.28
-        },
-        {
-          "date": "20260609",
-          "price": 8120.16,
-          "changePercent": -0.1
-        }
       ]
     },
     {
@@ -15236,23 +14811,6 @@
           "price": "3,580",
           "change": "0",
           "changePercent": "0.00%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 5781.4,
-          "changePercent": 0.33
-        },
-        {
-          "date": "20260608",
-          "price": 5672.13,
-          "changePercent": -1.89
-        },
-        {
-          "date": "20260609",
-          "price": 5657.79,
-          "changePercent": -0.25
         }
       ]
     },
@@ -16464,23 +16022,6 @@
           "change": "+1",
           "changePercent": "+0.09%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2226.33,
-          "changePercent": 0.29
-        },
-        {
-          "date": "20260608",
-          "price": 2249.61,
-          "changePercent": 1.05
-        },
-        {
-          "date": "20260609",
-          "price": 2240,
-          "changePercent": -0.43
-        }
       ]
     },
     {
@@ -17163,23 +16704,6 @@
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 669.79,
-          "changePercent": 1.15
-        },
-        {
-          "date": "20260608",
-          "price": 659.95,
-          "changePercent": -1.47
-        },
-        {
-          "date": "20260609",
-          "price": 670.04,
-          "changePercent": 1.53
-        }
       ]
     },
     {
@@ -17486,23 +17010,6 @@
           "change": "-19",
           "changePercent": "-4.45%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 855.98,
-          "changePercent": 1.15
-        },
-        {
-          "date": "20260608",
-          "price": 848.06,
-          "changePercent": -0.93
-        },
-        {
-          "date": "20260609",
-          "price": 868.58,
-          "changePercent": 2.42
-        }
       ]
     },
     {
@@ -17632,23 +17139,6 @@
           "price": "1,650",
           "change": "-53",
           "changePercent": "-3.11%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 3570.63,
-          "changePercent": 1.46
-        },
-        {
-          "date": "20260608",
-          "price": 3642.7,
-          "changePercent": 2.02
-        },
-        {
-          "date": "20260609",
-          "price": 3750.38,
-          "changePercent": 2.96
         }
       ]
     },
@@ -17979,23 +17469,6 @@
           "price": "100",
           "change": "-3",
           "changePercent": "-2.91%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 1499.99,
-          "changePercent": -1.07
-        },
-        {
-          "date": "20260608",
-          "price": 1499.99,
-          "changePercent": 0
-        },
-        {
-          "date": "20260609",
-          "price": 1531.39,
-          "changePercent": 2.09
         }
       ]
     },
@@ -19110,23 +18583,6 @@
           "price": "－",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 2453.5,
-          "changePercent": 1.43
-        },
-        {
-          "date": "20260608",
-          "price": 2419.85,
-          "changePercent": -1.37
-        },
-        {
-          "date": "20260609",
-          "price": 2444.88,
-          "changePercent": 1.03
         }
       ]
     },
@@ -20337,23 +19793,6 @@
           "price": "1,039",
           "change": "+9",
           "changePercent": "+0.87%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260605",
-          "price": 3373.74,
-          "changePercent": 0.12
-        },
-        {
-          "date": "20260608",
-          "price": 3400.21,
-          "changePercent": 0.78
-        },
-        {
-          "date": "20260609",
-          "price": 3469.68,
-          "changePercent": 2.04
         }
       ]
     }
