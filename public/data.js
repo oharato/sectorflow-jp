@@ -1,118 +1,113 @@
 window.sectorData = {
   "success": true,
-  "timestamp": 1783407802203,
+  "timestamp": 1783494201743,
   "sectors": [
     {
       "id": "0050",
       "nameJa": "水産・農林業",
       "nameEn": "Fishery, Agriculture & Forestry",
-      "price": 752.98,
-      "change": "+2.07",
-      "changePercent": 0.28,
+      "price": 754.75,
+      "change": "+1.77",
+      "changePercent": 0.24,
       "stocks": [
         {
-          "code": "1375",
-          "name": "ユキグニ",
-          "market": "東Ｐ",
-          "price": "1,177",
-          "change": "+29",
-          "changePercent": "+2.53%"
-        },
-        {
-          "code": "1376",
-          "name": "カネコ種",
+          "code": "1383",
+          "name": "ベルグアース",
           "market": "東Ｓ",
-          "price": "1,485",
-          "change": "+16",
-          "changePercent": "+1.09%"
-        },
-        {
-          "code": "1379",
-          "name": "ホクト",
-          "market": "東Ｐ",
-          "price": "1,916",
-          "change": "+19",
-          "changePercent": "+1.00%"
-        },
-        {
-          "code": "1301",
-          "name": "極洋",
-          "market": "東Ｐ",
-          "price": "4,495",
-          "change": "+40",
-          "changePercent": "+0.90%"
+          "price": "2,929",
+          "change": "+23",
+          "changePercent": "+0.79%"
         },
         {
           "code": "1377",
           "name": "サカタタネ",
           "market": "東Ｐ",
-          "price": "4,245",
+          "price": "4,275",
           "change": "+30",
           "changePercent": "+0.71%"
         },
         {
-          "code": "1383",
-          "name": "ベルグアース",
-          "market": "東Ｓ",
-          "price": "2,906",
-          "change": "+17",
-          "changePercent": "+0.59%"
+          "code": "1375",
+          "name": "ユキグニ",
+          "market": "東Ｐ",
+          "price": "1,183",
+          "change": "+6",
+          "changePercent": "+0.51%"
+        },
+        {
+          "code": "1301",
+          "name": "極洋",
+          "market": "東Ｐ",
+          "price": "4,505",
+          "change": "+10",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "1333",
+          "name": "Ｕｍｉｏｓ",
+          "market": "東Ｐ",
+          "price": "1,318.0",
+          "change": "+2.5",
+          "changePercent": "+0.19%"
         },
         {
           "code": "1332",
           "name": "ニッスイ",
           "market": "東Ｐ",
-          "price": "1,303.5",
-          "change": "-0.5",
-          "changePercent": "-0.04%"
+          "price": "1,305.0",
+          "change": "+1.5",
+          "changePercent": "+0.12%"
         },
         {
           "code": "1380",
           "name": "秋川牧園",
           "market": "東Ｓ",
           "price": "1,002",
-          "change": "-2",
-          "changePercent": "-0.20%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "1333",
-          "name": "Ｕｍｉｏｓ",
+          "code": "1376",
+          "name": "カネコ種",
+          "market": "東Ｓ",
+          "price": "1,483",
+          "change": "-2",
+          "changePercent": "-0.13%"
+        },
+        {
+          "code": "1379",
+          "name": "ホクト",
           "market": "東Ｐ",
-          "price": "1,315.5",
-          "change": "-3.5",
-          "changePercent": "-0.27%"
+          "price": "1,911",
+          "change": "-5",
+          "changePercent": "-0.26%"
         },
         {
           "code": "1384",
           "name": "ホクリヨウ",
           "market": "東Ｓ",
-          "price": "2,041",
-          "change": "-10",
-          "changePercent": "-0.49%"
-        },
-        {
-          "code": "1381",
-          "name": "アクシーズ",
-          "market": "東Ｓ",
-          "price": "3,575",
+          "price": "2,021",
           "change": "-20",
-          "changePercent": "-0.56%"
+          "changePercent": "-0.98%"
         },
         {
           "code": "1382",
           "name": "ホーブ",
           "market": "東Ｓ",
-          "price": "1,079",
-          "change": "-9",
-          "changePercent": "-0.83%"
+          "price": "1,066",
+          "change": "-13",
+          "changePercent": "-1.20%"
+        },
+        {
+          "code": "1381",
+          "name": "アクシーズ",
+          "market": "東Ｓ",
+          "price": "3,515",
+          "change": "-60",
+          "changePercent": "-1.68%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 731.39,
-          "changePercent": -0.85
-        },
         {
           "date": "20260625",
           "price": 733.35,
@@ -157,6 +152,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 752.98,
           "changePercent": 0.28
+        },
+        {
+          "date": "20260708",
+          "price": 754.75,
+          "changePercent": 0.24
         }
       ]
     },
@@ -164,57 +164,52 @@ window.sectorData = {
       "id": "1050",
       "nameJa": "鉱業",
       "nameEn": "Mining",
-      "price": 963.94,
-      "change": "-10.41",
-      "changePercent": -1.07,
+      "price": 991.23,
+      "change": "+27.29",
+      "changePercent": 2.83,
       "stocks": [
         {
           "code": "1605",
           "name": "ＩＮＰＥＸ",
           "market": "東Ｐ",
-          "price": "3,281.0",
-          "change": "-28.0",
-          "changePercent": "-0.85%"
-        },
-        {
-          "code": "1663",
-          "name": "Ｋ＆Ｏエナジ",
-          "market": "東Ｐ",
-          "price": "1,861",
-          "change": "-20",
-          "changePercent": "-1.06%"
+          "price": "3,388.0",
+          "change": "+107.0",
+          "changePercent": "+3.26%"
         },
         {
           "code": "1662",
           "name": "石油資源",
           "market": "東Ｐ",
-          "price": "1,644",
-          "change": "-25",
-          "changePercent": "-1.50%"
+          "price": "1,670",
+          "change": "+26",
+          "changePercent": "+1.58%"
         },
         {
           "code": "1514",
           "name": "住石ＨＤ",
           "market": "東Ｓ",
           "price": "555",
-          "change": "-25",
-          "changePercent": "-4.31%"
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "1663",
+          "name": "Ｋ＆Ｏエナジ",
+          "market": "東Ｐ",
+          "price": "1,845",
+          "change": "-16",
+          "changePercent": "-0.86%"
         },
         {
           "code": "1515",
           "name": "日鉄鉱",
           "market": "東Ｐ",
-          "price": "2,447",
-          "change": "-124",
-          "changePercent": "-4.82%"
+          "price": "2,375",
+          "change": "-72",
+          "changePercent": "-2.94%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 992.96,
-          "changePercent": -1.47
-        },
         {
           "date": "20260625",
           "price": 961.36,
@@ -259,6 +254,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 963.94,
           "changePercent": -1.07
+        },
+        {
+          "date": "20260708",
+          "price": 991.23,
+          "changePercent": 2.83
         }
       ]
     },
@@ -266,583 +266,327 @@ window.sectorData = {
       "id": "2050",
       "nameJa": "建設業",
       "nameEn": "Construction",
-      "price": 2818.74,
-      "change": "-23.63",
-      "changePercent": -0.83,
+      "price": 2741.32,
+      "change": "-77.42",
+      "changePercent": -2.75,
       "stocks": [
         {
-          "code": "1815",
-          "name": "鉄建建設",
+          "code": "1447",
+          "name": "ＳＡＡＦＨＤ",
+          "market": "東Ｇ",
+          "price": "439",
+          "change": "+74",
+          "changePercent": "+20.27%"
+        },
+        {
+          "code": "1773",
+          "name": "ＹＴＬ",
           "market": "東Ｐ",
-          "price": "4,715",
-          "change": "+195",
-          "changePercent": "+4.31%"
+          "price": "81",
+          "change": "+6",
+          "changePercent": "+8.00%"
         },
         {
-          "code": "1811",
-          "name": "銭高組",
-          "market": "東Ｓ",
-          "price": "8,180",
-          "change": "+280",
-          "changePercent": "+3.54%"
-        },
-        {
-          "code": "1716",
-          "name": "第一カッタ",
-          "market": "東Ｓ",
-          "price": "1,418",
-          "change": "+34",
-          "changePercent": "+2.46%"
-        },
-        {
-          "code": "1764",
-          "name": "工藤建設",
-          "market": "東Ｓ",
-          "price": "2,705",
-          "change": "+56",
-          "changePercent": "+2.11%"
-        },
-        {
-          "code": "1965",
-          "name": "テクノ菱和",
-          "market": "東Ｓ",
-          "price": "6,380",
-          "change": "+130",
-          "changePercent": "+2.08%"
-        },
-        {
-          "code": "1892",
-          "name": "徳倉建",
-          "market": "名Ｍ",
-          "price": "7,880",
-          "change": "+160",
-          "changePercent": "+2.07%"
-        },
-        {
-          "code": "1869",
-          "name": "名工建",
-          "market": "名Ｍ",
-          "price": "2,058",
-          "change": "+40",
-          "changePercent": "+1.98%"
-        },
-        {
-          "code": "1975",
-          "name": "朝日工",
+          "code": "5076",
+          "name": "インフロニア",
           "market": "東Ｐ",
-          "price": "4,670",
-          "change": "+90",
-          "changePercent": "+1.97%"
+          "price": "2,874.0",
+          "change": "+104.5",
+          "changePercent": "+3.77%"
         },
         {
-          "code": "1828",
-          "name": "田辺工業",
+          "code": "1787",
+          "name": "ナカボテック",
           "market": "東Ｓ",
-          "price": "2,477",
-          "change": "+46",
-          "changePercent": "+1.89%"
+          "price": "5,750",
+          "change": "+150",
+          "changePercent": "+2.68%"
         },
         {
-          "code": "1982",
-          "name": "日比谷設",
-          "market": "東Ｐ",
-          "price": "3,220",
-          "change": "+55",
-          "changePercent": "+1.74%"
-        },
-        {
-          "code": "1848",
-          "name": "富士ＰＳ",
+          "code": "1798",
+          "name": "守谷商会",
           "market": "東Ｓ",
-          "price": "668",
-          "change": "+11",
-          "changePercent": "+1.67%"
-        },
-        {
-          "code": "1429",
-          "name": "日本アクア",
-          "market": "東Ｐ",
-          "price": "745",
-          "change": "+12",
-          "changePercent": "+1.64%"
-        },
-        {
-          "code": "1826",
-          "name": "佐田建",
-          "market": "東Ｓ",
-          "price": "1,046",
-          "change": "+16",
-          "changePercent": "+1.55%"
-        },
-        {
-          "code": "1866",
-          "name": "北野建",
-          "market": "東Ｓ",
-          "price": "1,201",
-          "change": "+18",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "1914",
-          "name": "日基技",
-          "market": "東Ｓ",
-          "price": "694",
-          "change": "+9",
-          "changePercent": "+1.31%"
-        },
-        {
-          "code": "1944",
-          "name": "きんでん",
-          "market": "東Ｐ",
-          "price": "8,142",
-          "change": "+104",
-          "changePercent": "+1.29%"
-        },
-        {
-          "code": "1820",
-          "name": "西松建",
-          "market": "東Ｐ",
-          "price": "5,445",
-          "change": "+69",
-          "changePercent": "+1.28%"
-        },
-        {
-          "code": "1810",
-          "name": "松井建",
-          "market": "東Ｓ",
-          "price": "1,433",
-          "change": "+18",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "1780",
-          "name": "ヤマウラ",
-          "market": "東Ｐ",
-          "price": "1,490",
-          "change": "+18",
-          "changePercent": "+1.22%"
-        },
-        {
-          "code": "1888",
-          "name": "若築建",
-          "market": "東Ｐ",
-          "price": "3,360",
-          "change": "+40",
-          "changePercent": "+1.20%"
-        },
-        {
-          "code": "1814",
-          "name": "大末建",
-          "market": "東Ｐ",
-          "price": "3,520",
-          "change": "+40",
-          "changePercent": "+1.15%"
-        },
-        {
-          "code": "1960",
-          "name": "サンテック",
-          "market": "東Ｓ",
-          "price": "1,547",
-          "change": "+17",
-          "changePercent": "+1.11%"
-        },
-        {
-          "code": "1766",
-          "name": "東建コーポ",
-          "market": "東Ｐ",
-          "price": "13,140",
-          "change": "+140",
-          "changePercent": "+1.08%"
-        },
-        {
-          "code": "1788",
-          "name": "三東工業",
-          "market": "東Ｓ",
-          "price": "4,300",
-          "change": "+45",
-          "changePercent": "+1.06%"
+          "price": "1,130",
+          "change": "+27",
+          "changePercent": "+2.45%"
         },
         {
           "code": "1822",
           "name": "大豊建",
           "market": "東Ｓ",
-          "price": "785",
-          "change": "+8",
-          "changePercent": "+1.03%"
+          "price": "801",
+          "change": "+16",
+          "changePercent": "+2.04%"
         },
         {
-          "code": "1736",
-          "name": "オーテック",
-          "market": "東Ｓ",
-          "price": "2,578",
+          "code": "205A",
+          "name": "ロゴスＨＤ",
+          "market": "東Ｇ",
+          "price": "1,694",
+          "change": "+33",
+          "changePercent": "+1.99%"
+        },
+        {
+          "code": "1899",
+          "name": "福田組",
+          "market": "東Ｐ",
+          "price": "3,700",
+          "change": "+60",
+          "changePercent": "+1.65%"
+        },
+        {
+          "code": "1861",
+          "name": "熊谷組",
+          "market": "東Ｐ",
+          "price": "1,491",
           "change": "+24",
-          "changePercent": "+0.94%"
+          "changePercent": "+1.64%"
         },
         {
-          "code": "1793",
-          "name": "大本組",
+          "code": "3267",
+          "name": "フィルＣ",
           "market": "東Ｓ",
-          "price": "1,962",
-          "change": "+18",
-          "changePercent": "+0.93%"
+          "price": "731",
+          "change": "+11",
+          "changePercent": "+1.53%"
+        },
+        {
+          "code": "211A",
+          "name": "カドスＣ",
+          "market": "東Ｓ",
+          "price": "3,790",
+          "change": "+50",
+          "changePercent": "+1.34%"
+        },
+        {
+          "code": "1873",
+          "name": "日本ハウス",
+          "market": "東Ｐ",
+          "price": "309",
+          "change": "+4",
+          "changePercent": "+1.31%"
+        },
+        {
+          "code": "1869",
+          "name": "名工建",
+          "market": "名Ｍ",
+          "price": "2,082",
+          "change": "+24",
+          "changePercent": "+1.17%"
         },
         {
           "code": "1850",
           "name": "南海辰村",
           "market": "東Ｓ",
-          "price": "435",
-          "change": "+4",
-          "changePercent": "+0.93%"
+          "price": "440",
+          "change": "+5",
+          "changePercent": "+1.15%"
         },
         {
-          "code": "1951",
-          "name": "エクシオＧ",
-          "market": "東Ｐ",
-          "price": "2,737.0",
-          "change": "+25.0",
+          "code": "231A",
+          "name": "クロスＥ",
+          "market": "福Ｑ",
+          "price": "1,080",
+          "change": "+12",
+          "changePercent": "+1.12%"
+        },
+        {
+          "code": "1758",
+          "name": "太洋基礎",
+          "market": "東Ｓ",
+          "price": "2,426",
+          "change": "+26",
+          "changePercent": "+1.08%"
+        },
+        {
+          "code": "1723",
+          "name": "日本電技",
+          "market": "東Ｓ",
+          "price": "2,421",
+          "change": "+24",
+          "changePercent": "+1.00%"
+        },
+        {
+          "code": "5075",
+          "name": "アップコン",
+          "market": "名Ｎ",
+          "price": "1,319",
+          "change": "+12",
           "changePercent": "+0.92%"
+        },
+        {
+          "code": "1430",
+          "name": "１ｓｔコーポ",
+          "market": "東Ｓ",
+          "price": "960",
+          "change": "+8",
+          "changePercent": "+0.84%"
+        },
+        {
+          "code": "1770",
+          "name": "藤田エンジ",
+          "market": "東Ｓ",
+          "price": "2,100",
+          "change": "+11",
+          "changePercent": "+0.53%"
+        },
+        {
+          "code": "1764",
+          "name": "工藤建設",
+          "market": "東Ｓ",
+          "price": "2,719",
+          "change": "+14",
+          "changePercent": "+0.52%"
+        },
+        {
+          "code": "1736",
+          "name": "オーテック",
+          "market": "東Ｓ",
+          "price": "2,589",
+          "change": "+11",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "1716",
+          "name": "第一カッタ",
+          "market": "東Ｓ",
+          "price": "1,424",
+          "change": "+6",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "1446",
+          "name": "キャンディル",
+          "market": "東Ｓ",
+          "price": "534",
+          "change": "+2",
+          "changePercent": "+0.38%"
+        },
+        {
+          "code": "5078",
+          "name": "セレ",
+          "market": "東Ｓ",
+          "price": "4,700",
+          "change": "+15",
+          "changePercent": "+0.32%"
+        },
+        {
+          "code": "1853",
+          "name": "森組",
+          "market": "東Ｓ",
+          "price": "326",
+          "change": "+1",
+          "changePercent": "+0.31%"
+        },
+        {
+          "code": "1436",
+          "name": "グリーンエナ",
+          "market": "東Ｇ",
+          "price": "1,413",
+          "change": "+4",
+          "changePercent": "+0.28%"
+        },
+        {
+          "code": "1419",
+          "name": "タマホーム",
+          "market": "東Ｐ",
+          "price": "3,005",
+          "change": "+8",
+          "changePercent": "+0.27%"
+        },
+        {
+          "code": "1431",
+          "name": "リブワーク",
+          "market": "東Ｇ",
+          "price": "645",
+          "change": "+1",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "1777",
+          "name": "川崎設備",
+          "market": "名Ｍ",
+          "price": "2,543",
+          "change": "+4",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "1793",
+          "name": "大本組",
+          "market": "東Ｓ",
+          "price": "1,965",
+          "change": "+3",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "1997",
+          "name": "暁飯島工業",
+          "market": "東Ｓ",
+          "price": "4,115",
+          "change": "+5",
+          "changePercent": "+0.12%"
+        },
+        {
+          "code": "1832",
+          "name": "北海電工",
+          "market": "札証",
+          "price": "1,395",
+          "change": "+1",
+          "changePercent": "+0.07%"
+        },
+        {
+          "code": "1882",
+          "name": "東亜道",
+          "market": "東Ｐ",
+          "price": "1,586",
+          "change": "+1",
+          "changePercent": "+0.06%"
+        },
+        {
+          "code": "1719",
+          "name": "安藤ハザマ",
+          "market": "東Ｐ",
+          "price": "1,826.0",
+          "change": "0.0",
+          "changePercent": "0.00%"
         },
         {
           "code": "1786",
           "name": "オリエン白石",
           "market": "東Ｐ",
           "price": "355",
-          "change": "+3",
-          "changePercent": "+0.85%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "1711",
-          "name": "ＳＤＳＨＤ",
+          "code": "1826",
+          "name": "佐田建",
           "market": "東Ｓ",
-          "price": "241",
-          "change": "+2",
-          "changePercent": "+0.84%"
+          "price": "1,046",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "1882",
-          "name": "東亜道",
-          "market": "東Ｐ",
-          "price": "1,585",
-          "change": "+13",
-          "changePercent": "+0.83%"
-        },
-        {
-          "code": "1768",
-          "name": "ソネック",
+          "code": "1840",
+          "name": "土屋ＨＤ",
           "market": "東Ｓ",
-          "price": "1,068",
-          "change": "+8",
-          "changePercent": "+0.75%"
+          "price": "238",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "1887",
-          "name": "日本国土開発",
-          "market": "東Ｐ",
-          "price": "536",
-          "change": "+4",
-          "changePercent": "+0.75%"
-        },
-        {
-          "code": "1898",
-          "name": "世紀東急",
-          "market": "東Ｐ",
-          "price": "1,475",
-          "change": "+11",
-          "changePercent": "+0.75%"
-        },
-        {
-          "code": "1897",
-          "name": "金下建",
+          "code": "1848",
+          "name": "富士ＰＳ",
           "market": "東Ｓ",
-          "price": "3,235",
-          "change": "+20",
-          "changePercent": "+0.62%"
+          "price": "668",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "275A",
-          "name": "ハンワＨ",
-          "market": "名Ｎ",
-          "price": "354",
-          "change": "+2",
-          "changePercent": "+0.57%"
-        },
-        {
-          "code": "1959",
-          "name": "クラフティア",
-          "market": "東Ｐ",
-          "price": "9,348",
-          "change": "+49",
-          "changePercent": "+0.53%"
-        },
-        {
-          "code": "1997",
-          "name": "暁飯島工業",
-          "market": "東Ｓ",
-          "price": "4,110",
-          "change": "+20",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "1870",
-          "name": "矢作建",
-          "market": "東Ｐ",
-          "price": "1,885",
-          "change": "+9",
-          "changePercent": "+0.48%"
-        },
-        {
-          "code": "1414",
-          "name": "ショーボンド",
-          "market": "東Ｐ",
-          "price": "1,280.5",
-          "change": "+6.0",
-          "changePercent": "+0.47%"
-        },
-        {
-          "code": "1905",
-          "name": "テノックス",
-          "market": "東Ｓ",
-          "price": "1,537",
-          "change": "+7",
-          "changePercent": "+0.46%"
-        },
-        {
-          "code": "1807",
-          "name": "佐藤渡辺",
-          "market": "東Ｓ",
-          "price": "1,834",
-          "change": "+8",
-          "changePercent": "+0.44%"
-        },
-        {
-          "code": "1929",
-          "name": "日特建",
-          "market": "東Ｐ",
-          "price": "1,131",
-          "change": "+5",
-          "changePercent": "+0.44%"
-        },
-        {
-          "code": "5079",
-          "name": "ノバック",
-          "market": "東Ｓ",
-          "price": "2,523",
-          "change": "+11",
-          "changePercent": "+0.44%"
-        },
-        {
-          "code": "1770",
-          "name": "藤田エンジ",
-          "market": "東Ｓ",
-          "price": "2,089",
-          "change": "+9",
-          "changePercent": "+0.43%"
-        },
-        {
-          "code": "1720",
-          "name": "東急建設",
-          "market": "東Ｐ",
-          "price": "1,223",
-          "change": "+5",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "1762",
-          "name": "高松グループ",
-          "market": "東Ｐ",
-          "price": "3,685",
-          "change": "+15",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "1444",
-          "name": "ニッソウ",
-          "market": "東Ｇ",
-          "price": "2,882",
-          "change": "+11",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "1418",
-          "name": "インタライフ",
-          "market": "東Ｓ",
-          "price": "540",
-          "change": "+2",
-          "changePercent": "+0.37%"
-        },
-        {
-          "code": "1833",
-          "name": "奥村組",
-          "market": "東Ｐ",
-          "price": "5,780",
-          "change": "+20",
-          "changePercent": "+0.35%"
-        },
-        {
-          "code": "1948",
-          "name": "弘電社",
-          "market": "東Ｓ",
-          "price": "11,450",
-          "change": "+40",
-          "changePercent": "+0.35%"
-        },
-        {
-          "code": "1946",
-          "name": "トーエネク",
-          "market": "東Ｐ",
-          "price": "2,281",
-          "change": "+7",
-          "changePercent": "+0.31%"
-        },
-        {
-          "code": "1925",
-          "name": "大和ハウス",
-          "market": "東Ｐ",
-          "price": "4,576",
-          "change": "+13",
-          "changePercent": "+0.28%"
-        },
-        {
-          "code": "1433",
-          "name": "ベステラ",
-          "market": "東Ｐ",
-          "price": "1,145",
-          "change": "+3",
-          "changePercent": "+0.26%"
-        },
-        {
-          "code": "341A",
-          "name": "トヨコー",
-          "market": "東Ｇ",
-          "price": "2,057",
-          "change": "+5",
-          "changePercent": "+0.24%"
-        },
-        {
-          "code": "1972",
-          "name": "三晃金",
-          "market": "東Ｓ",
-          "price": "1,283",
-          "change": "+3",
-          "changePercent": "+0.23%"
-        },
-        {
-          "code": "1777",
-          "name": "川崎設備",
+          "code": "1892",
+          "name": "徳倉建",
           "market": "名Ｍ",
-          "price": "2,539",
-          "change": "+5",
-          "changePercent": "+0.20%"
-        },
-        {
-          "code": "1446",
-          "name": "キャンディル",
-          "market": "東Ｓ",
-          "price": "532",
-          "change": "+1",
-          "changePercent": "+0.19%"
-        },
-        {
-          "code": "1941",
-          "name": "中電工",
-          "market": "東Ｐ",
-          "price": "5,460",
-          "change": "+10",
-          "changePercent": "+0.18%"
-        },
-        {
-          "code": "1419",
-          "name": "タマホーム",
-          "market": "東Ｐ",
-          "price": "2,997",
-          "change": "+5",
-          "changePercent": "+0.17%"
-        },
-        {
-          "code": "1431",
-          "name": "リブワーク",
-          "market": "東Ｇ",
-          "price": "644",
-          "change": "+1",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "1867",
-          "name": "植木組",
-          "market": "東Ｓ",
-          "price": "2,640",
-          "change": "+2",
-          "changePercent": "+0.08%"
-        },
-        {
-          "code": "1992",
-          "name": "神田通機",
-          "market": "東Ｓ",
-          "price": "2,912",
-          "change": "+2",
-          "changePercent": "+0.07%"
-        },
-        {
-          "code": "1976",
-          "name": "明星工",
-          "market": "東Ｐ",
-          "price": "1,850",
-          "change": "+1",
-          "changePercent": "+0.05%"
-        },
-        {
-          "code": "1420",
-          "name": "サンヨーＨ",
-          "market": "東Ｓ",
-          "price": "639",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "1438",
-          "name": "岐阜造園",
-          "market": "東Ｓ",
-          "price": "1,915",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "1738",
-          "name": "ＮＩＴＴＯＨ",
-          "market": "名Ｍ",
-          "price": "576",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "1853",
-          "name": "森組",
-          "market": "東Ｓ",
-          "price": "325",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "1873",
-          "name": "日本ハウス",
-          "market": "東Ｐ",
-          "price": "305",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "1921",
-          "name": "巴",
-          "market": "東Ｓ",
-          "price": "1,796",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "1926",
-          "name": "ライト",
-          "market": "東Ｐ",
-          "price": "4,100",
+          "price": "7,880",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -855,612 +599,844 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "407A",
-          "name": "ＵＮＩＣＯＮ",
-          "market": "東Ｓ",
-          "price": "876",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "1808",
-          "name": "長谷工",
-          "market": "東Ｐ",
-          "price": "2,868.5",
-          "change": "-1.0",
-          "changePercent": "-0.03%"
-        },
-        {
-          "code": "1832",
-          "name": "北海電工",
-          "market": "札証",
-          "price": "1,394",
-          "change": "-1",
-          "changePercent": "-0.07%"
-        },
-        {
-          "code": "1981",
-          "name": "協和日成",
-          "market": "東Ｓ",
-          "price": "1,317",
-          "change": "-1",
-          "changePercent": "-0.08%"
-        },
-        {
-          "code": "1430",
-          "name": "１ｓｔコーポ",
-          "market": "東Ｓ",
-          "price": "952",
-          "change": "-1",
-          "changePercent": "-0.10%"
-        },
-        {
-          "code": "5078",
-          "name": "セレ",
-          "market": "東Ｓ",
-          "price": "4,685",
-          "change": "-5",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "1928",
-          "name": "積水ハウス",
-          "market": "東Ｐ",
-          "price": "3,520.0",
-          "change": "-5.0",
-          "changePercent": "-0.14%"
-        },
-        {
-          "code": "1911",
-          "name": "住友林",
-          "market": "東Ｐ",
-          "price": "1,376.5",
-          "change": "-2.0",
-          "changePercent": "-0.15%"
-        },
-        {
-          "code": "1904",
-          "name": "大成温調",
-          "market": "東Ｓ",
-          "price": "5,140",
-          "change": "-10",
-          "changePercent": "-0.19%"
-        },
-        {
-          "code": "1964",
-          "name": "中外炉",
-          "market": "東Ｐ",
-          "price": "4,050",
-          "change": "-10",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "5076",
-          "name": "インフロニア",
-          "market": "東Ｐ",
-          "price": "2,769.5",
-          "change": "-7.0",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "231A",
-          "name": "クロスＥ",
-          "market": "福Ｑ",
-          "price": "1,068",
-          "change": "-3",
-          "changePercent": "-0.28%"
-        },
-        {
-          "code": "1450",
-          "name": "タナケン",
-          "market": "東Ｓ",
-          "price": "1,381",
-          "change": "-4",
-          "changePercent": "-0.29%"
-        },
-        {
-          "code": "1861",
-          "name": "熊谷組",
-          "market": "東Ｐ",
-          "price": "1,467",
-          "change": "-5",
-          "changePercent": "-0.34%"
-        },
-        {
-          "code": "1401",
-          "name": "エムビーエス",
+          "code": "1444",
+          "name": "ニッソウ",
           "market": "東Ｇ",
-          "price": "1,297",
-          "change": "-5",
-          "changePercent": "-0.38%"
-        },
-        {
-          "code": "1443",
-          "name": "技研ＨＤ",
-          "market": "東Ｓ",
-          "price": "255",
+          "price": "2,881",
           "change": "-1",
-          "changePercent": "-0.39%"
-        },
-        {
-          "code": "1840",
-          "name": "土屋ＨＤ",
-          "market": "東Ｓ",
-          "price": "238",
-          "change": "-1",
-          "changePercent": "-0.42%"
-        },
-        {
-          "code": "1799",
-          "name": "第一建設",
-          "market": "東Ｓ",
-          "price": "3,505",
-          "change": "-15",
-          "changePercent": "-0.43%"
-        },
-        {
-          "code": "1835",
-          "name": "東鉄工",
-          "market": "東Ｐ",
-          "price": "4,280",
-          "change": "-20",
-          "changePercent": "-0.47%"
-        },
-        {
-          "code": "6379",
-          "name": "レイズネク",
-          "market": "東Ｐ",
-          "price": "2,402",
-          "change": "-12",
-          "changePercent": "-0.50%"
+          "changePercent": "-0.03%"
         },
         {
           "code": "1771",
           "name": "日本乾溜工",
           "market": "福証",
-          "price": "956",
-          "change": "-5",
-          "changePercent": "-0.52%"
+          "price": "955",
+          "change": "-1",
+          "changePercent": "-0.10%"
         },
         {
-          "code": "1994",
-          "name": "高橋ウォール",
-          "market": "東Ｓ",
-          "price": "564",
-          "change": "-3",
-          "changePercent": "-0.53%"
-        },
-        {
-          "code": "211A",
-          "name": "カドスＣ",
-          "market": "東Ｓ",
-          "price": "3,740",
+          "code": "1766",
+          "name": "東建コーポ",
+          "market": "東Ｐ",
+          "price": "13,120",
           "change": "-20",
-          "changePercent": "-0.53%"
+          "changePercent": "-0.15%"
         },
         {
-          "code": "1966",
-          "name": "高田工",
+          "code": "1981",
+          "name": "協和日成",
           "market": "東Ｓ",
-          "price": "1,755",
-          "change": "-10",
-          "changePercent": "-0.57%"
-        },
-        {
-          "code": "1942",
-          "name": "関電工",
-          "market": "東Ｐ",
-          "price": "6,808",
-          "change": "-49",
-          "changePercent": "-0.71%"
-        },
-        {
-          "code": "1719",
-          "name": "安藤ハザマ",
-          "market": "東Ｐ",
-          "price": "1,826.0",
-          "change": "-14.0",
-          "changePercent": "-0.76%"
-        },
-        {
-          "code": "1852",
-          "name": "浅沼組",
-          "market": "東Ｐ",
-          "price": "868",
-          "change": "-7",
-          "changePercent": "-0.80%"
-        },
-        {
-          "code": "1934",
-          "name": "ユアテック",
-          "market": "東Ｐ",
-          "price": "2,451",
-          "change": "-21",
-          "changePercent": "-0.85%"
-        },
-        {
-          "code": "1939",
-          "name": "四電工",
-          "market": "東Ｐ",
-          "price": "2,036",
-          "change": "-18",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "1795",
-          "name": "マサル",
-          "market": "東Ｓ",
-          "price": "4,955",
-          "change": "-45",
-          "changePercent": "-0.90%"
+          "price": "1,315",
+          "change": "-2",
+          "changePercent": "-0.15%"
         },
         {
           "code": "256A",
           "name": "飛島ＨＤ",
           "market": "東Ｐ",
-          "price": "2,050",
-          "change": "-19",
-          "changePercent": "-0.92%"
+          "price": "2,045",
+          "change": "-5",
+          "changePercent": "-0.24%"
         },
         {
-          "code": "1417",
-          "name": "ミライトワン",
-          "market": "東Ｐ",
-          "price": "3,830",
-          "change": "-38",
-          "changePercent": "-0.98%"
-        },
-        {
-          "code": "1798",
-          "name": "守谷商会",
+          "code": "1438",
+          "name": "岐阜造園",
           "market": "東Ｓ",
-          "price": "1,103",
-          "change": "-11",
-          "changePercent": "-0.99%"
+          "price": "1,910",
+          "change": "-5",
+          "changePercent": "-0.26%"
         },
         {
-          "code": "1724",
-          "name": "シンクレイヤ",
+          "code": "1948",
+          "name": "弘電社",
           "market": "東Ｓ",
-          "price": "688",
-          "change": "-7",
-          "changePercent": "-1.01%"
-        },
-        {
-          "code": "1787",
-          "name": "ナカボテック",
-          "market": "東Ｓ",
-          "price": "5,600",
-          "change": "-60",
-          "changePercent": "-1.06%"
-        },
-        {
-          "code": "1802",
-          "name": "大林組",
-          "market": "東Ｐ",
-          "price": "3,369.0",
-          "change": "-36.0",
-          "changePercent": "-1.06%"
-        },
-        {
-          "code": "1871",
-          "name": "ピーエス",
-          "market": "東Ｐ",
-          "price": "2,240",
-          "change": "-25",
-          "changePercent": "-1.10%"
-        },
-        {
-          "code": "1879",
-          "name": "新日本建",
-          "market": "東Ｐ",
-          "price": "2,120",
-          "change": "-24",
-          "changePercent": "-1.12%"
-        },
-        {
-          "code": "1847",
-          "name": "イチケン",
-          "market": "東Ｓ",
-          "price": "2,709",
-          "change": "-31",
-          "changePercent": "-1.13%"
-        },
-        {
-          "code": "6366",
-          "name": "千代建",
-          "market": "東Ｓ",
-          "price": "735",
-          "change": "-9",
-          "changePercent": "-1.21%"
-        },
-        {
-          "code": "1813",
-          "name": "不動テトラ",
-          "market": "東Ｐ",
-          "price": "2,767",
-          "change": "-35",
-          "changePercent": "-1.25%"
+          "price": "11,420",
+          "change": "-30",
+          "changePercent": "-0.26%"
         },
         {
           "code": "1827",
           "name": "ナカノフドー",
           "market": "東Ｓ",
-          "price": "1,268",
-          "change": "-16",
-          "changePercent": "-1.25%"
+          "price": "1,264",
+          "change": "-4",
+          "changePercent": "-0.32%"
         },
         {
-          "code": "1718",
-          "name": "美樹工業",
+          "code": "1994",
+          "name": "高橋ウォール",
           "market": "東Ｓ",
-          "price": "6,960",
-          "change": "-90",
-          "changePercent": "-1.28%"
+          "price": "562",
+          "change": "-2",
+          "changePercent": "-0.35%"
         },
         {
-          "code": "1885",
-          "name": "東亜建",
-          "market": "東Ｐ",
-          "price": "2,130",
-          "change": "-28",
-          "changePercent": "-1.30%"
+          "code": "1904",
+          "name": "大成温調",
+          "market": "東Ｓ",
+          "price": "5,120",
+          "change": "-20",
+          "changePercent": "-0.39%"
         },
         {
-          "code": "1899",
-          "name": "福田組",
+          "code": "1780",
+          "name": "ヤマウラ",
           "market": "東Ｐ",
-          "price": "3,640",
-          "change": "-50",
-          "changePercent": "-1.36%"
+          "price": "1,484",
+          "change": "-6",
+          "changePercent": "-0.40%"
         },
         {
-          "code": "1969",
-          "name": "高砂熱",
+          "code": "1928",
+          "name": "積水ハウス",
           "market": "東Ｐ",
-          "price": "5,113",
-          "change": "-73",
-          "changePercent": "-1.41%"
+          "price": "3,505.0",
+          "change": "-15.0",
+          "changePercent": "-0.43%"
         },
         {
-          "code": "1979",
-          "name": "大気社",
+          "code": "1929",
+          "name": "日特建",
           "market": "東Ｐ",
-          "price": "4,855",
-          "change": "-70",
-          "changePercent": "-1.42%"
-        },
-        {
-          "code": "5074",
-          "name": "テスＨＤ",
-          "market": "東Ｐ",
-          "price": "828",
-          "change": "-12",
-          "changePercent": "-1.43%"
-        },
-        {
-          "code": "1950",
-          "name": "日本電設",
-          "market": "東Ｐ",
-          "price": "4,360",
-          "change": "-65",
-          "changePercent": "-1.47%"
-        },
-        {
-          "code": "1980",
-          "name": "ダイダン",
-          "market": "東Ｐ",
-          "price": "2,924",
-          "change": "-45",
-          "changePercent": "-1.52%"
+          "price": "1,126",
+          "change": "-5",
+          "changePercent": "-0.44%"
         },
         {
           "code": "1860",
           "name": "戸田建",
           "market": "東Ｐ",
-          "price": "1,605.0",
-          "change": "-25.0",
-          "changePercent": "-1.53%"
+          "price": "1,597.0",
+          "change": "-8.0",
+          "changePercent": "-0.50%"
         },
         {
-          "code": "1801",
-          "name": "大成建",
-          "market": "東Ｐ",
-          "price": "14,870",
-          "change": "-235",
-          "changePercent": "-1.56%"
-        },
-        {
-          "code": "1721",
-          "name": "コムシスＨＤ",
-          "market": "東Ｐ",
-          "price": "5,445",
-          "change": "-87",
-          "changePercent": "-1.57%"
-        },
-        {
-          "code": "1945",
-          "name": "東京エネシス",
-          "market": "東Ｐ",
-          "price": "2,175",
-          "change": "-35",
-          "changePercent": "-1.58%"
-        },
-        {
-          "code": "1758",
-          "name": "太洋基礎",
-          "market": "東Ｓ",
-          "price": "2,400",
-          "change": "-39",
-          "changePercent": "-1.60%"
-        },
-        {
-          "code": "1952",
-          "name": "新日本空調",
-          "market": "東Ｐ",
-          "price": "3,870",
-          "change": "-65",
-          "changePercent": "-1.65%"
-        },
-        {
-          "code": "1803",
-          "name": "清水建",
-          "market": "東Ｐ",
-          "price": "2,639.0",
-          "change": "-46.5",
-          "changePercent": "-1.73%"
-        },
-        {
-          "code": "1723",
-          "name": "日本電技",
-          "market": "東Ｓ",
-          "price": "2,397",
-          "change": "-45",
-          "changePercent": "-1.84%"
-        },
-        {
-          "code": "1968",
-          "name": "太平電",
-          "market": "東Ｐ",
-          "price": "2,579",
-          "change": "-51",
-          "changePercent": "-1.94%"
-        },
-        {
-          "code": "1407",
-          "name": "ウエストＨＤ",
-          "market": "東Ｓ",
-          "price": "2,275",
-          "change": "-46",
-          "changePercent": "-1.98%"
-        },
-        {
-          "code": "253A",
-          "name": "ＥＴＳ・Ｇ",
-          "market": "東Ｓ",
-          "price": "1,113",
-          "change": "-23",
-          "changePercent": "-2.02%"
-        },
-        {
-          "code": "3267",
-          "name": "フィルＣ",
-          "market": "東Ｓ",
-          "price": "720",
-          "change": "-16",
-          "changePercent": "-2.17%"
-        },
-        {
-          "code": "1930",
-          "name": "北陸電工",
-          "market": "東Ｐ",
-          "price": "1,637",
-          "change": "-37",
-          "changePercent": "-2.21%"
-        },
-        {
-          "code": "1812",
-          "name": "鹿島",
-          "market": "東Ｐ",
-          "price": "6,089",
-          "change": "-138",
-          "changePercent": "-2.22%"
-        },
-        {
-          "code": "1938",
-          "name": "日リーテック",
-          "market": "東Ｐ",
-          "price": "2,676",
-          "change": "-63",
-          "changePercent": "-2.30%"
-        },
-        {
-          "code": "1436",
-          "name": "グリーンエナ",
+          "code": "1401",
+          "name": "エムビーエス",
           "market": "東Ｇ",
-          "price": "1,409",
-          "change": "-34",
-          "changePercent": "-2.36%"
+          "price": "1,290",
+          "change": "-7",
+          "changePercent": "-0.54%"
+        },
+        {
+          "code": "1429",
+          "name": "日本アクア",
+          "market": "東Ｐ",
+          "price": "741",
+          "change": "-4",
+          "changePercent": "-0.54%"
+        },
+        {
+          "code": "1887",
+          "name": "日本国土開発",
+          "market": "東Ｐ",
+          "price": "533",
+          "change": "-3",
+          "changePercent": "-0.56%"
+        },
+        {
+          "code": "1724",
+          "name": "シンクレイヤ",
+          "market": "東Ｓ",
+          "price": "684",
+          "change": "-4",
+          "changePercent": "-0.58%"
+        },
+        {
+          "code": "1925",
+          "name": "大和ハウス",
+          "market": "東Ｐ",
+          "price": "4,545",
+          "change": "-31",
+          "changePercent": "-0.68%"
+        },
+        {
+          "code": "1811",
+          "name": "銭高組",
+          "market": "東Ｓ",
+          "price": "8,120",
+          "change": "-60",
+          "changePercent": "-0.73%"
+        },
+        {
+          "code": "1926",
+          "name": "ライト",
+          "market": "東Ｐ",
+          "price": "4,070",
+          "change": "-30",
+          "changePercent": "-0.73%"
+        },
+        {
+          "code": "1964",
+          "name": "中外炉",
+          "market": "東Ｐ",
+          "price": "4,020",
+          "change": "-30",
+          "changePercent": "-0.74%"
+        },
+        {
+          "code": "1420",
+          "name": "サンヨーＨ",
+          "market": "東Ｓ",
+          "price": "634",
+          "change": "-5",
+          "changePercent": "-0.78%"
+        },
+        {
+          "code": "1414",
+          "name": "ショーボンド",
+          "market": "東Ｐ",
+          "price": "1,270.0",
+          "change": "-10.5",
+          "changePercent": "-0.82%"
+        },
+        {
+          "code": "1807",
+          "name": "佐藤渡辺",
+          "market": "東Ｓ",
+          "price": "1,819",
+          "change": "-15",
+          "changePercent": "-0.82%"
+        },
+        {
+          "code": "1433",
+          "name": "ベステラ",
+          "market": "東Ｐ",
+          "price": "1,135",
+          "change": "-10",
+          "changePercent": "-0.87%"
+        },
+        {
+          "code": "1738",
+          "name": "ＮＩＴＴＯＨ",
+          "market": "名Ｍ",
+          "price": "571",
+          "change": "-5",
+          "changePercent": "-0.87%"
+        },
+        {
+          "code": "1898",
+          "name": "世紀東急",
+          "market": "東Ｐ",
+          "price": "1,462",
+          "change": "-13",
+          "changePercent": "-0.88%"
+        },
+        {
+          "code": "1870",
+          "name": "矢作建",
+          "market": "東Ｐ",
+          "price": "1,868",
+          "change": "-17",
+          "changePercent": "-0.90%"
+        },
+        {
+          "code": "1820",
+          "name": "西松建",
+          "market": "東Ｐ",
+          "price": "5,395",
+          "change": "-50",
+          "changePercent": "-0.92%"
+        },
+        {
+          "code": "6379",
+          "name": "レイズネク",
+          "market": "東Ｐ",
+          "price": "2,380",
+          "change": "-22",
+          "changePercent": "-0.92%"
+        },
+        {
+          "code": "1418",
+          "name": "インタライフ",
+          "market": "東Ｓ",
+          "price": "535",
+          "change": "-5",
+          "changePercent": "-0.93%"
+        },
+        {
+          "code": "1768",
+          "name": "ソネック",
+          "market": "東Ｓ",
+          "price": "1,058",
+          "change": "-10",
+          "changePercent": "-0.94%"
+        },
+        {
+          "code": "1450",
+          "name": "タナケン",
+          "market": "東Ｓ",
+          "price": "1,367",
+          "change": "-14",
+          "changePercent": "-1.01%"
+        },
+        {
+          "code": "1718",
+          "name": "美樹工業",
+          "market": "東Ｓ",
+          "price": "6,890",
+          "change": "-70",
+          "changePercent": "-1.01%"
+        },
+        {
+          "code": "1828",
+          "name": "田辺工業",
+          "market": "東Ｓ",
+          "price": "2,452",
+          "change": "-25",
+          "changePercent": "-1.01%"
+        },
+        {
+          "code": "5079",
+          "name": "ノバック",
+          "market": "東Ｓ",
+          "price": "2,496",
+          "change": "-27",
+          "changePercent": "-1.07%"
+        },
+        {
+          "code": "1808",
+          "name": "長谷工",
+          "market": "東Ｐ",
+          "price": "2,836.0",
+          "change": "-32.5",
+          "changePercent": "-1.13%"
+        },
+        {
+          "code": "275A",
+          "name": "ハンワＨ",
+          "market": "名Ｎ",
+          "price": "350",
+          "change": "-4",
+          "changePercent": "-1.13%"
         },
         {
           "code": "1844",
           "name": "大盛工業",
           "market": "東Ｓ",
-          "price": "509",
-          "change": "-14",
-          "changePercent": "-2.68%"
+          "price": "503",
+          "change": "-6",
+          "changePercent": "-1.18%"
+        },
+        {
+          "code": "1879",
+          "name": "新日本建",
+          "market": "東Ｐ",
+          "price": "2,095",
+          "change": "-25",
+          "changePercent": "-1.18%"
+        },
+        {
+          "code": "1888",
+          "name": "若築建",
+          "market": "東Ｐ",
+          "price": "3,320",
+          "change": "-40",
+          "changePercent": "-1.19%"
+        },
+        {
+          "code": "1911",
+          "name": "住友林",
+          "market": "東Ｐ",
+          "price": "1,360.0",
+          "change": "-16.5",
+          "changePercent": "-1.20%"
+        },
+        {
+          "code": "1930",
+          "name": "北陸電工",
+          "market": "東Ｐ",
+          "price": "1,617",
+          "change": "-20",
+          "changePercent": "-1.22%"
+        },
+        {
+          "code": "1711",
+          "name": "ＳＤＳＨＤ",
+          "market": "東Ｓ",
+          "price": "238",
+          "change": "-3",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "1810",
+          "name": "松井建",
+          "market": "東Ｓ",
+          "price": "1,415",
+          "change": "-18",
+          "changePercent": "-1.26%"
+        },
+        {
+          "code": "1835",
+          "name": "東鉄工",
+          "market": "東Ｐ",
+          "price": "4,225",
+          "change": "-55",
+          "changePercent": "-1.29%"
+        },
+        {
+          "code": "1951",
+          "name": "エクシオＧ",
+          "market": "東Ｐ",
+          "price": "2,700.0",
+          "change": "-37.0",
+          "changePercent": "-1.35%"
+        },
+        {
+          "code": "407A",
+          "name": "ＵＮＩＣＯＮ",
+          "market": "東Ｓ",
+          "price": "863",
+          "change": "-13",
+          "changePercent": "-1.48%"
+        },
+        {
+          "code": "1976",
+          "name": "明星工",
+          "market": "東Ｐ",
+          "price": "1,821",
+          "change": "-29",
+          "changePercent": "-1.57%"
+        },
+        {
+          "code": "1866",
+          "name": "北野建",
+          "market": "東Ｓ",
+          "price": "1,182",
+          "change": "-19",
+          "changePercent": "-1.58%"
+        },
+        {
+          "code": "341A",
+          "name": "トヨコー",
+          "market": "東Ｇ",
+          "price": "2,024",
+          "change": "-33",
+          "changePercent": "-1.60%"
+        },
+        {
+          "code": "253A",
+          "name": "ＥＴＳ・Ｇ",
+          "market": "東Ｓ",
+          "price": "1,095",
+          "change": "-18",
+          "changePercent": "-1.62%"
+        },
+        {
+          "code": "1762",
+          "name": "高松グループ",
+          "market": "東Ｐ",
+          "price": "3,625",
+          "change": "-60",
+          "changePercent": "-1.63%"
+        },
+        {
+          "code": "1407",
+          "name": "ウエストＨＤ",
+          "market": "東Ｓ",
+          "price": "2,237",
+          "change": "-38",
+          "changePercent": "-1.67%"
+        },
+        {
+          "code": "1934",
+          "name": "ユアテック",
+          "market": "東Ｐ",
+          "price": "2,410",
+          "change": "-41",
+          "changePercent": "-1.67%"
+        },
+        {
+          "code": "1897",
+          "name": "金下建",
+          "market": "東Ｓ",
+          "price": "3,180",
+          "change": "-55",
+          "changePercent": "-1.70%"
+        },
+        {
+          "code": "1966",
+          "name": "高田工",
+          "market": "東Ｓ",
+          "price": "1,725",
+          "change": "-30",
+          "changePercent": "-1.71%"
+        },
+        {
+          "code": "1833",
+          "name": "奥村組",
+          "market": "東Ｐ",
+          "price": "5,680",
+          "change": "-100",
+          "changePercent": "-1.73%"
+        },
+        {
+          "code": "1721",
+          "name": "コムシスＨＤ",
+          "market": "東Ｐ",
+          "price": "5,350",
+          "change": "-95",
+          "changePercent": "-1.74%"
+        },
+        {
+          "code": "1814",
+          "name": "大末建",
+          "market": "東Ｐ",
+          "price": "3,455",
+          "change": "-65",
+          "changePercent": "-1.85%"
+        },
+        {
+          "code": "1939",
+          "name": "四電工",
+          "market": "東Ｐ",
+          "price": "1,998",
+          "change": "-38",
+          "changePercent": "-1.87%"
+        },
+        {
+          "code": "1417",
+          "name": "ミライトワン",
+          "market": "東Ｐ",
+          "price": "3,757",
+          "change": "-73",
+          "changePercent": "-1.91%"
+        },
+        {
+          "code": "1871",
+          "name": "ピーエス",
+          "market": "東Ｐ",
+          "price": "2,197",
+          "change": "-43",
+          "changePercent": "-1.92%"
         },
         {
           "code": "1434",
           "name": "ＪＥＳＣＯ",
           "market": "東Ｓ",
-          "price": "1,846",
-          "change": "-53",
-          "changePercent": "-2.79%"
+          "price": "1,810",
+          "change": "-36",
+          "changePercent": "-1.95%"
         },
         {
-          "code": "1961",
-          "name": "三機工",
+          "code": "1720",
+          "name": "東急建設",
           "market": "東Ｐ",
-          "price": "2,817",
-          "change": "-82",
-          "changePercent": "-2.83%"
+          "price": "1,199",
+          "change": "-24",
+          "changePercent": "-1.96%"
         },
         {
-          "code": "5075",
-          "name": "アップコン",
-          "market": "名Ｎ",
-          "price": "1,307",
-          "change": "-38",
-          "changePercent": "-2.83%"
+          "code": "1852",
+          "name": "浅沼組",
+          "market": "東Ｐ",
+          "price": "851",
+          "change": "-17",
+          "changePercent": "-1.96%"
+        },
+        {
+          "code": "1905",
+          "name": "テノックス",
+          "market": "東Ｓ",
+          "price": "1,506",
+          "change": "-31",
+          "changePercent": "-2.02%"
+        },
+        {
+          "code": "1813",
+          "name": "不動テトラ",
+          "market": "東Ｐ",
+          "price": "2,705",
+          "change": "-62",
+          "changePercent": "-2.24%"
+        },
+        {
+          "code": "1960",
+          "name": "サンテック",
+          "market": "東Ｓ",
+          "price": "1,511",
+          "change": "-36",
+          "changePercent": "-2.33%"
+        },
+        {
+          "code": "1968",
+          "name": "太平電",
+          "market": "東Ｐ",
+          "price": "2,519",
+          "change": "-60",
+          "changePercent": "-2.33%"
+        },
+        {
+          "code": "1975",
+          "name": "朝日工",
+          "market": "東Ｐ",
+          "price": "4,560",
+          "change": "-110",
+          "changePercent": "-2.36%"
+        },
+        {
+          "code": "1914",
+          "name": "日基技",
+          "market": "東Ｓ",
+          "price": "677",
+          "change": "-17",
+          "changePercent": "-2.45%"
         },
         {
           "code": "1893",
           "name": "五洋建",
           "market": "東Ｐ",
-          "price": "1,704.5",
-          "change": "-52.5",
-          "changePercent": "-2.99%"
+          "price": "1,662.0",
+          "change": "-42.5",
+          "changePercent": "-2.49%"
         },
         {
-          "code": "1963",
-          "name": "日揮ＨＤ",
+          "code": "1815",
+          "name": "鉄建建設",
           "market": "東Ｐ",
-          "price": "2,474.0",
-          "change": "-78.0",
-          "changePercent": "-3.06%"
+          "price": "4,590",
+          "change": "-125",
+          "changePercent": "-2.65%"
         },
         {
-          "code": "205A",
-          "name": "ロゴスＨＤ",
-          "market": "東Ｇ",
-          "price": "1,661",
-          "change": "-57",
-          "changePercent": "-3.32%"
+          "code": "1799",
+          "name": "第一建設",
+          "market": "東Ｓ",
+          "price": "3,410",
+          "change": "-95",
+          "changePercent": "-2.71%"
         },
         {
-          "code": "1447",
-          "name": "ＳＡＡＦＨＤ",
-          "market": "東Ｇ",
-          "price": "365",
-          "change": "-15",
-          "changePercent": "-3.95%"
+          "code": "1965",
+          "name": "テクノ菱和",
+          "market": "東Ｓ",
+          "price": "6,200",
+          "change": "-180",
+          "changePercent": "-2.82%"
         },
         {
-          "code": "1773",
-          "name": "ＹＴＬ",
+          "code": "1867",
+          "name": "植木組",
+          "market": "東Ｓ",
+          "price": "2,564",
+          "change": "-76",
+          "changePercent": "-2.88%"
+        },
+        {
+          "code": "1972",
+          "name": "三晃金",
+          "market": "東Ｓ",
+          "price": "1,246",
+          "change": "-37",
+          "changePercent": "-2.88%"
+        },
+        {
+          "code": "1847",
+          "name": "イチケン",
+          "market": "東Ｓ",
+          "price": "2,630",
+          "change": "-79",
+          "changePercent": "-2.92%"
+        },
+        {
+          "code": "1979",
+          "name": "大気社",
           "market": "東Ｐ",
-          "price": "75",
-          "change": "-4",
-          "changePercent": "-5.06%"
+          "price": "4,705",
+          "change": "-150",
+          "changePercent": "-3.09%"
+        },
+        {
+          "code": "1885",
+          "name": "東亜建",
+          "market": "東Ｐ",
+          "price": "2,064",
+          "change": "-66",
+          "changePercent": "-3.10%"
+        },
+        {
+          "code": "1443",
+          "name": "技研ＨＤ",
+          "market": "東Ｓ",
+          "price": "247",
+          "change": "-8",
+          "changePercent": "-3.14%"
+        },
+        {
+          "code": "1938",
+          "name": "日リーテック",
+          "market": "東Ｐ",
+          "price": "2,588",
+          "change": "-88",
+          "changePercent": "-3.29%"
+        },
+        {
+          "code": "1802",
+          "name": "大林組",
+          "market": "東Ｐ",
+          "price": "3,255.0",
+          "change": "-114.0",
+          "changePercent": "-3.38%"
+        },
+        {
+          "code": "1950",
+          "name": "日本電設",
+          "market": "東Ｐ",
+          "price": "4,210",
+          "change": "-150",
+          "changePercent": "-3.44%"
         },
         {
           "code": "6330",
           "name": "東洋エンジ",
           "market": "東Ｐ",
-          "price": "2,048",
-          "change": "-118",
-          "changePercent": "-5.45%"
+          "price": "1,975",
+          "change": "-73",
+          "changePercent": "-3.56%"
+        },
+        {
+          "code": "1959",
+          "name": "クラフティア",
+          "market": "東Ｐ",
+          "price": "9,007",
+          "change": "-341",
+          "changePercent": "-3.65%"
+        },
+        {
+          "code": "1812",
+          "name": "鹿島",
+          "market": "東Ｐ",
+          "price": "5,840",
+          "change": "-249",
+          "changePercent": "-4.09%"
+        },
+        {
+          "code": "1946",
+          "name": "トーエネク",
+          "market": "東Ｐ",
+          "price": "2,185",
+          "change": "-96",
+          "changePercent": "-4.21%"
+        },
+        {
+          "code": "6366",
+          "name": "千代建",
+          "market": "東Ｓ",
+          "price": "704",
+          "change": "-31",
+          "changePercent": "-4.22%"
+        },
+        {
+          "code": "1952",
+          "name": "新日本空調",
+          "market": "東Ｐ",
+          "price": "3,705",
+          "change": "-165",
+          "changePercent": "-4.26%"
+        },
+        {
+          "code": "1944",
+          "name": "きんでん",
+          "market": "東Ｐ",
+          "price": "7,792",
+          "change": "-350",
+          "changePercent": "-4.30%"
+        },
+        {
+          "code": "1980",
+          "name": "ダイダン",
+          "market": "東Ｐ",
+          "price": "2,798",
+          "change": "-126",
+          "changePercent": "-4.31%"
+        },
+        {
+          "code": "1941",
+          "name": "中電工",
+          "market": "東Ｐ",
+          "price": "5,220",
+          "change": "-240",
+          "changePercent": "-4.40%"
+        },
+        {
+          "code": "1969",
+          "name": "高砂熱",
+          "market": "東Ｐ",
+          "price": "4,883",
+          "change": "-230",
+          "changePercent": "-4.50%"
+        },
+        {
+          "code": "1945",
+          "name": "東京エネシス",
+          "market": "東Ｐ",
+          "price": "2,070",
+          "change": "-105",
+          "changePercent": "-4.83%"
+        },
+        {
+          "code": "1942",
+          "name": "関電工",
+          "market": "東Ｐ",
+          "price": "6,468",
+          "change": "-340",
+          "changePercent": "-4.99%"
+        },
+        {
+          "code": "1982",
+          "name": "日比谷設",
+          "market": "東Ｐ",
+          "price": "3,055",
+          "change": "-165",
+          "changePercent": "-5.12%"
+        },
+        {
+          "code": "1963",
+          "name": "日揮ＨＤ",
+          "market": "東Ｐ",
+          "price": "2,345.5",
+          "change": "-128.5",
+          "changePercent": "-5.19%"
+        },
+        {
+          "code": "1803",
+          "name": "清水建",
+          "market": "東Ｐ",
+          "price": "2,501.0",
+          "change": "-138.0",
+          "changePercent": "-5.23%"
+        },
+        {
+          "code": "5074",
+          "name": "テスＨＤ",
+          "market": "東Ｐ",
+          "price": "784",
+          "change": "-44",
+          "changePercent": "-5.31%"
+        },
+        {
+          "code": "1801",
+          "name": "大成建",
+          "market": "東Ｐ",
+          "price": "14,050",
+          "change": "-820",
+          "changePercent": "-5.51%"
+        },
+        {
+          "code": "1961",
+          "name": "三機工",
+          "market": "東Ｐ",
+          "price": "2,640",
+          "change": "-177",
+          "changePercent": "-6.28%"
+        },
+        {
+          "code": "1921",
+          "name": "巴",
+          "market": "東Ｓ",
+          "price": "1,681",
+          "change": "-115",
+          "changePercent": "-6.40%"
         },
         {
           "code": "1449",
@@ -1469,14 +1445,33 @@ window.sectorData = {
           "price": "－",
           "change": "－",
           "changePercent": "－%"
+        },
+        {
+          "code": "1788",
+          "name": "三東工業",
+          "market": "東Ｓ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "1795",
+          "name": "マサル",
+          "market": "東Ｓ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "1992",
+          "name": "神田通機",
+          "market": "東Ｓ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2712.58,
-          "changePercent": 0.37
-        },
         {
           "date": "20260625",
           "price": 2705.43,
@@ -1521,6 +1516,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2818.74,
           "changePercent": -0.83
+        },
+        {
+          "date": "20260708",
+          "price": 2741.32,
+          "changePercent": -2.75
         }
       ]
     },
@@ -1528,623 +1528,599 @@ window.sectorData = {
       "id": "3050",
       "nameJa": "食料品",
       "nameEn": "Foods",
-      "price": 2876.46,
-      "change": "-3.97",
-      "changePercent": -0.14,
+      "price": 2876.29,
+      "change": "-0.17",
+      "changePercent": -0.01,
       "stocks": [
-        {
-          "code": "2501",
-          "name": "サッポロ",
-          "market": "東Ｐ",
-          "price": "2,045.5",
-          "change": "+150.0",
-          "changePercent": "+7.91%"
-        },
-        {
-          "code": "2915",
-          "name": "ケンコーマヨ",
-          "market": "東Ｐ",
-          "price": "2,083",
-          "change": "+111",
-          "changePercent": "+5.63%"
-        },
         {
           "code": "2934",
           "name": "ジェイフロ",
           "market": "東Ｇ",
-          "price": "1,612",
-          "change": "+45",
-          "changePercent": "+2.87%"
+          "price": "1,690",
+          "change": "+78",
+          "changePercent": "+4.84%"
         },
         {
-          "code": "2585",
-          "name": "Ｌドリンク",
-          "market": "東Ｐ",
-          "price": "1,626",
-          "change": "+45",
-          "changePercent": "+2.85%"
-        },
-        {
-          "code": "2805",
-          "name": "エスビー",
+          "code": "2923",
+          "name": "サトウ食品",
           "market": "東Ｓ",
-          "price": "5,890",
-          "change": "+160",
-          "changePercent": "+2.79%"
-        },
-        {
-          "code": "2220",
-          "name": "亀田製菓",
-          "market": "東Ｐ",
-          "price": "1,293",
-          "change": "+32",
-          "changePercent": "+2.54%"
-        },
-        {
-          "code": "2897",
-          "name": "日清食ＨＤ",
-          "market": "東Ｐ",
-          "price": "2,975.0",
-          "change": "+66.0",
-          "changePercent": "+2.27%"
-        },
-        {
-          "code": "2938",
-          "name": "オカムラ食品",
-          "market": "東Ｓ",
-          "price": "1,271",
-          "change": "+28",
-          "changePercent": "+2.25%"
-        },
-        {
-          "code": "2590",
-          "name": "ＤｙＤｏ",
-          "market": "東Ｐ",
-          "price": "2,792",
-          "change": "+61",
-          "changePercent": "+2.23%"
-        },
-        {
-          "code": "2932",
-          "name": "ＳＴＩＦＨＤ",
-          "market": "東Ｓ",
-          "price": "1,092",
-          "change": "+20",
-          "changePercent": "+1.87%"
+          "price": "8,570",
+          "change": "+300",
+          "changePercent": "+3.63%"
         },
         {
           "code": "2216",
           "name": "カンロ",
           "market": "東Ｓ",
-          "price": "1,137",
-          "change": "+20",
-          "changePercent": "+1.79%"
-        },
-        {
-          "code": "2282",
-          "name": "日ハム",
-          "market": "東Ｐ",
-          "price": "6,320",
-          "change": "+109",
-          "changePercent": "+1.75%"
-        },
-        {
-          "code": "2204",
-          "name": "中村屋",
-          "market": "東Ｓ",
-          "price": "3,220",
-          "change": "+55",
-          "changePercent": "+1.74%"
-        },
-        {
-          "code": "2931",
-          "name": "ユーグレナ",
-          "market": "東Ｐ",
-          "price": "350",
-          "change": "+6",
-          "changePercent": "+1.74%"
-        },
-        {
-          "code": "2003",
-          "name": "日東富士",
-          "market": "東Ｓ",
-          "price": "1,765",
-          "change": "+29",
-          "changePercent": "+1.67%"
-        },
-        {
-          "code": "2291",
-          "name": "福留ハ",
-          "market": "東Ｓ",
-          "price": "503",
-          "change": "+8",
-          "changePercent": "+1.62%"
-        },
-        {
-          "code": "2004",
-          "name": "昭和産",
-          "market": "東Ｐ",
-          "price": "3,470",
-          "change": "+55",
-          "changePercent": "+1.61%"
-        },
-        {
-          "code": "4526",
-          "name": "理ビタ",
-          "market": "東Ｐ",
-          "price": "3,165",
-          "change": "+50",
-          "changePercent": "+1.61%"
-        },
-        {
-          "code": "2112",
-          "name": "塩水糖",
-          "market": "東Ｓ",
-          "price": "447",
-          "change": "+7",
-          "changePercent": "+1.59%"
-        },
-        {
-          "code": "2819",
-          "name": "エバラ食品",
-          "market": "東Ｓ",
-          "price": "2,455",
-          "change": "+35",
-          "changePercent": "+1.45%"
-        },
-        {
-          "code": "2211",
-          "name": "不二家",
-          "market": "東Ｐ",
-          "price": "2,430",
-          "change": "+34",
-          "changePercent": "+1.42%"
-        },
-        {
-          "code": "2587",
-          "name": "サントリＢＦ",
-          "market": "東Ｐ",
-          "price": "4,681",
-          "change": "+60",
-          "changePercent": "+1.30%"
-        },
-        {
-          "code": "2801",
-          "name": "キッコマン",
-          "market": "東Ｐ",
-          "price": "1,678.5",
-          "change": "+21.0",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "559A",
-          "name": "梅乃宿酒造",
-          "market": "東Ｓ",
-          "price": "1,054",
-          "change": "+13",
-          "changePercent": "+1.25%"
-        },
-        {
-          "code": "2884",
-          "name": "ヨシムラＨＤ",
-          "market": "東Ｐ",
-          "price": "631",
-          "change": "+7",
-          "changePercent": "+1.12%"
-        },
-        {
-          "code": "2613",
-          "name": "Ｊオイル",
-          "market": "東Ｐ",
-          "price": "2,098",
-          "change": "+22",
-          "changePercent": "+1.06%"
-        },
-        {
-          "code": "2588",
-          "name": "プレミアムＷ",
-          "market": "東Ｓ",
-          "price": "3,845",
+          "price": "1,177",
           "change": "+40",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "2908",
-          "name": "フジッコ",
-          "market": "東Ｐ",
-          "price": "1,540",
-          "change": "+16",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "2935",
-          "name": "ピックルス",
-          "market": "東Ｐ",
-          "price": "1,152",
-          "change": "+12",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "2910",
-          "name": "Ｒフィールド",
-          "market": "東Ｐ",
-          "price": "1,361",
-          "change": "+14",
-          "changePercent": "+1.04%"
-        },
-        {
-          "code": "2266",
-          "name": "六甲バタ",
-          "market": "東Ｐ",
-          "price": "1,104",
-          "change": "+11",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "2292",
-          "name": "ＳＦＯＯＤＳ",
-          "market": "東Ｐ",
-          "price": "2,712",
-          "change": "+27",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "2503",
-          "name": "キリンＨＤ",
-          "market": "東Ｐ",
-          "price": "2,876.5",
-          "change": "+27.5",
-          "changePercent": "+0.97%"
-        },
-        {
-          "code": "2117",
-          "name": "ウェルネオＳ",
-          "market": "東Ｐ",
-          "price": "2,724",
-          "change": "+26",
-          "changePercent": "+0.96%"
-        },
-        {
-          "code": "2593",
-          "name": "伊藤園",
-          "market": "東Ｐ",
-          "price": "3,037.0",
-          "change": "+28.0",
-          "changePercent": "+0.93%"
-        },
-        {
-          "code": "2922",
-          "name": "なとり",
-          "market": "東Ｐ",
-          "price": "1,970",
-          "change": "+18",
-          "changePercent": "+0.92%"
-        },
-        {
-          "code": "2294",
-          "name": "柿安本店",
-          "market": "東Ｐ",
-          "price": "2,566",
-          "change": "+23",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "2882",
-          "name": "イートアンド",
-          "market": "東Ｐ",
-          "price": "2,043",
-          "change": "+18",
-          "changePercent": "+0.89%"
-        },
-        {
-          "code": "2933",
-          "name": "紀文食品",
-          "market": "東Ｐ",
-          "price": "1,075",
-          "change": "+9",
-          "changePercent": "+0.84%"
-        },
-        {
-          "code": "2924",
-          "name": "イフジ産業",
-          "market": "東Ｓ",
-          "price": "2,077",
-          "change": "+17",
-          "changePercent": "+0.83%"
-        },
-        {
-          "code": "2531",
-          "name": "宝ＨＬＤ",
-          "market": "東Ｐ",
-          "price": "2,154.5",
-          "change": "+17.5",
-          "changePercent": "+0.82%"
-        },
-        {
-          "code": "2533",
-          "name": "オエノンＨＤ",
-          "market": "東Ｐ",
-          "price": "497",
-          "change": "+4",
-          "changePercent": "+0.81%"
-        },
-        {
-          "code": "2579",
-          "name": "コカＢＪＨ",
-          "market": "東Ｐ",
-          "price": "4,483",
-          "change": "+36",
-          "changePercent": "+0.81%"
-        },
-        {
-          "code": "2809",
-          "name": "キユーピー",
-          "market": "東Ｐ",
-          "price": "4,503",
-          "change": "+36",
-          "changePercent": "+0.81%"
-        },
-        {
-          "code": "4404",
-          "name": "ミヨシ",
-          "market": "東Ｓ",
-          "price": "1,877",
-          "change": "+15",
-          "changePercent": "+0.81%"
-        },
-        {
-          "code": "2602",
-          "name": "日清オイリオ",
-          "market": "東Ｐ",
-          "price": "1,898",
-          "change": "+15",
-          "changePercent": "+0.80%"
-        },
-        {
-          "code": "2264",
-          "name": "森永乳",
-          "market": "東Ｐ",
-          "price": "1,308.0",
-          "change": "+9.5",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "2296",
-          "name": "伊藤米久ＨＤ",
-          "market": "東Ｐ",
-          "price": "4,835",
-          "change": "+35",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "2217",
-          "name": "モロゾフ",
-          "market": "東Ｐ",
-          "price": "1,562",
-          "change": "+11",
-          "changePercent": "+0.71%"
-        },
-        {
-          "code": "2594",
-          "name": "キーコーヒー",
-          "market": "東Ｐ",
-          "price": "1,994",
-          "change": "+14",
-          "changePercent": "+0.71%"
-        },
-        {
-          "code": "2281",
-          "name": "プリマ",
-          "market": "東Ｐ",
-          "price": "2,438",
-          "change": "+17",
-          "changePercent": "+0.70%"
-        },
-        {
-          "code": "2916",
-          "name": "仙波糖化",
-          "market": "東Ｓ",
-          "price": "743",
-          "change": "+5",
-          "changePercent": "+0.68%"
-        },
-        {
-          "code": "2212",
-          "name": "山パン",
-          "market": "東Ｐ",
-          "price": "3,321.0",
-          "change": "+22.0",
-          "changePercent": "+0.67%"
-        },
-        {
-          "code": "2206",
-          "name": "グリコ",
-          "market": "東Ｐ",
-          "price": "5,389",
-          "change": "+34",
-          "changePercent": "+0.63%"
-        },
-        {
-          "code": "2055",
-          "name": "日和産",
-          "market": "東Ｓ",
-          "price": "333",
-          "change": "+2",
-          "changePercent": "+0.60%"
-        },
-        {
-          "code": "2229",
-          "name": "カルビー",
-          "market": "東Ｐ",
-          "price": "3,053.0",
-          "change": "+18.0",
-          "changePercent": "+0.59%"
-        },
-        {
-          "code": "2002",
-          "name": "日清粉Ｇ",
-          "market": "東Ｐ",
-          "price": "2,039.0",
-          "change": "+11.5",
-          "changePercent": "+0.57%"
-        },
-        {
-          "code": "2815",
-          "name": "アリアケ",
-          "market": "東Ｐ",
-          "price": "5,280",
-          "change": "+30",
-          "changePercent": "+0.57%"
-        },
-        {
-          "code": "2009",
-          "name": "鳥越粉",
-          "market": "東Ｓ",
-          "price": "1,085",
-          "change": "+6",
-          "changePercent": "+0.56%"
-        },
-        {
-          "code": "2607",
-          "name": "不二製油",
-          "market": "東Ｐ",
-          "price": "4,119",
-          "change": "+23",
-          "changePercent": "+0.56%"
-        },
-        {
-          "code": "250A",
-          "name": "シマダヤ",
-          "market": "東Ｓ",
-          "price": "1,665",
-          "change": "+9",
-          "changePercent": "+0.54%"
-        },
-        {
-          "code": "2811",
-          "name": "カゴメ",
-          "market": "東Ｐ",
-          "price": "2,692.0",
-          "change": "+14.5",
-          "changePercent": "+0.54%"
+          "changePercent": "+3.52%"
         },
         {
           "code": "2502",
           "name": "アサヒ",
           "market": "東Ｐ",
-          "price": "1,610.5",
-          "change": "+8.5",
-          "changePercent": "+0.53%"
+          "price": "1,660.5",
+          "change": "+50.0",
+          "changePercent": "+3.10%"
         },
         {
-          "code": "2597",
-          "name": "ユニカフェ",
+          "code": "2296",
+          "name": "伊藤米久ＨＤ",
+          "market": "東Ｐ",
+          "price": "4,955",
+          "change": "+120",
+          "changePercent": "+2.48%"
+        },
+        {
+          "code": "2809",
+          "name": "キユーピー",
+          "market": "東Ｐ",
+          "price": "4,602",
+          "change": "+99",
+          "changePercent": "+2.20%"
+        },
+        {
+          "code": "2907",
+          "name": "あじかん",
           "market": "東Ｓ",
-          "price": "1,136",
-          "change": "+6",
-          "changePercent": "+0.53%"
+          "price": "1,574",
+          "change": "+33",
+          "changePercent": "+2.14%"
         },
         {
-          "code": "2810",
-          "name": "ハウス食Ｇ",
-          "market": "東Ｐ",
-          "price": "3,911",
-          "change": "+20",
-          "changePercent": "+0.51%"
-        },
-        {
-          "code": "2871",
-          "name": "ニチレイ",
-          "market": "東Ｐ",
-          "price": "2,201.0",
-          "change": "+11.0",
-          "changePercent": "+0.50%"
-        },
-        {
-          "code": "2914",
-          "name": "ＪＴ",
-          "market": "東Ｐ",
-          "price": "6,219",
-          "change": "+30",
-          "changePercent": "+0.48%"
-        },
-        {
-          "code": "2207",
-          "name": "ｍｅｉｔｏ",
-          "market": "東Ｐ",
-          "price": "3,240",
-          "change": "+15",
-          "changePercent": "+0.47%"
-        },
-        {
-          "code": "2875",
-          "name": "東洋水",
-          "market": "東Ｐ",
-          "price": "10,905",
-          "change": "+40",
-          "changePercent": "+0.37%"
-        },
-        {
-          "code": "2917",
-          "name": "大森屋",
+          "code": "2612",
+          "name": "かどや製油",
           "market": "東Ｓ",
-          "price": "922",
-          "change": "+3",
-          "changePercent": "+0.33%"
+          "price": "1,842",
+          "change": "+38",
+          "changePercent": "+2.11%"
         },
         {
-          "code": "2929",
-          "name": "ファーマＦ",
+          "code": "2270",
+          "name": "雪印メグ",
           "market": "東Ｐ",
-          "price": "600",
-          "change": "+2",
-          "changePercent": "+0.33%"
+          "price": "3,755",
+          "change": "+70",
+          "changePercent": "+1.90%"
         },
         {
-          "code": "2894",
-          "name": "石井食",
+          "code": "2938",
+          "name": "オカムラ食品",
           "market": "東Ｓ",
-          "price": "330",
-          "change": "+1",
-          "changePercent": "+0.30%"
+          "price": "1,294",
+          "change": "+23",
+          "changePercent": "+1.81%"
         },
         {
-          "code": "2573",
-          "name": "北海コカ",
-          "market": "東Ｓ",
-          "price": "3,990",
-          "change": "+10",
-          "changePercent": "+0.25%"
-        },
-        {
-          "code": "2804",
-          "name": "ブルドック",
+          "code": "409A",
+          "name": "オリオン",
           "market": "東Ｐ",
-          "price": "1,783",
-          "change": "+3",
-          "changePercent": "+0.17%"
+          "price": "1,243",
+          "change": "+22",
+          "changePercent": "+1.80%"
+        },
+        {
+          "code": "2501",
+          "name": "サッポロ",
+          "market": "東Ｐ",
+          "price": "2,082.0",
+          "change": "+36.5",
+          "changePercent": "+1.78%"
+        },
+        {
+          "code": "2915",
+          "name": "ケンコーマヨ",
+          "market": "東Ｐ",
+          "price": "2,120",
+          "change": "+37",
+          "changePercent": "+1.78%"
+        },
+        {
+          "code": "2811",
+          "name": "カゴメ",
+          "market": "東Ｐ",
+          "price": "2,738.0",
+          "change": "+46.0",
+          "changePercent": "+1.71%"
+        },
+        {
+          "code": "2293",
+          "name": "滝沢ハム",
+          "market": "東Ｓ",
+          "price": "2,722",
+          "change": "+41",
+          "changePercent": "+1.53%"
         },
         {
           "code": "2053",
           "name": "中部飼",
           "market": "東Ｐ",
-          "price": "1,897",
-          "change": "+3",
-          "changePercent": "+0.16%"
+          "price": "1,925",
+          "change": "+28",
+          "changePercent": "+1.48%"
+        },
+        {
+          "code": "2613",
+          "name": "Ｊオイル",
+          "market": "東Ｐ",
+          "price": "2,128",
+          "change": "+30",
+          "changePercent": "+1.43%"
+        },
+        {
+          "code": "2819",
+          "name": "エバラ食品",
+          "market": "東Ｓ",
+          "price": "2,488",
+          "change": "+33",
+          "changePercent": "+1.34%"
+        },
+        {
+          "code": "2607",
+          "name": "不二製油",
+          "market": "東Ｐ",
+          "price": "4,173",
+          "change": "+54",
+          "changePercent": "+1.31%"
+        },
+        {
+          "code": "2903",
+          "name": "シノブフズ",
+          "market": "東Ｓ",
+          "price": "1,560",
+          "change": "+20",
+          "changePercent": "+1.30%"
+        },
+        {
+          "code": "2001",
+          "name": "ニップン",
+          "market": "東Ｐ",
+          "price": "2,830",
+          "change": "+36",
+          "changePercent": "+1.29%"
+        },
+        {
+          "code": "2266",
+          "name": "六甲バタ",
+          "market": "東Ｐ",
+          "price": "1,118",
+          "change": "+14",
+          "changePercent": "+1.27%"
+        },
+        {
+          "code": "2894",
+          "name": "石井食",
+          "market": "東Ｓ",
+          "price": "334",
+          "change": "+4",
+          "changePercent": "+1.21%"
+        },
+        {
+          "code": "2810",
+          "name": "ハウス食Ｇ",
+          "market": "東Ｐ",
+          "price": "3,958",
+          "change": "+47",
+          "changePercent": "+1.20%"
+        },
+        {
+          "code": "2201",
+          "name": "森永",
+          "market": "東Ｐ",
+          "price": "2,733.5",
+          "change": "+31.0",
+          "changePercent": "+1.15%"
+        },
+        {
+          "code": "2876",
+          "name": "デルソーレ",
+          "market": "東Ｓ",
+          "price": "459",
+          "change": "+5",
+          "changePercent": "+1.10%"
+        },
+        {
+          "code": "2267",
+          "name": "ヤクルト",
+          "market": "東Ｐ",
+          "price": "2,920.0",
+          "change": "+31.0",
+          "changePercent": "+1.07%"
+        },
+        {
+          "code": "2588",
+          "name": "プレミアムＷ",
+          "market": "東Ｓ",
+          "price": "3,885",
+          "change": "+40",
+          "changePercent": "+1.04%"
+        },
+        {
+          "code": "2503",
+          "name": "キリンＨＤ",
+          "market": "東Ｐ",
+          "price": "2,905.0",
+          "change": "+28.5",
+          "changePercent": "+0.99%"
+        },
+        {
+          "code": "2926",
+          "name": "篠崎屋",
+          "market": "東Ｓ",
+          "price": "103",
+          "change": "+1",
+          "changePercent": "+0.98%"
+        },
+        {
+          "code": "2919",
+          "name": "マルタイ",
+          "market": "福証",
+          "price": "4,160",
+          "change": "+40",
+          "changePercent": "+0.97%"
+        },
+        {
+          "code": "2877",
+          "name": "日東ベスト",
+          "market": "東Ｓ",
+          "price": "740",
+          "change": "+7",
+          "changePercent": "+0.95%"
+        },
+        {
+          "code": "2220",
+          "name": "亀田製菓",
+          "market": "東Ｐ",
+          "price": "1,305",
+          "change": "+12",
+          "changePercent": "+0.93%"
+        },
+        {
+          "code": "2292",
+          "name": "ＳＦＯＯＤＳ",
+          "market": "東Ｐ",
+          "price": "2,737",
+          "change": "+25",
+          "changePercent": "+0.92%"
+        },
+        {
+          "code": "2222",
+          "name": "寿スピリッツ",
+          "market": "東Ｐ",
+          "price": "2,586.0",
+          "change": "+22.5",
+          "changePercent": "+0.88%"
         },
         {
           "code": "2060",
           "name": "フィードワン",
           "market": "東Ｐ",
-          "price": "1,261",
-          "change": "+2",
-          "changePercent": "+0.16%"
+          "price": "1,272",
+          "change": "+11",
+          "changePercent": "+0.87%"
+        },
+        {
+          "code": "2269",
+          "name": "明治ＨＤ",
+          "market": "東Ｐ",
+          "price": "3,920",
+          "change": "+34",
+          "changePercent": "+0.87%"
+        },
+        {
+          "code": "2229",
+          "name": "カルビー",
+          "market": "東Ｐ",
+          "price": "3,079.0",
+          "change": "+26.0",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "2805",
+          "name": "エスビー",
+          "market": "東Ｓ",
+          "price": "5,940",
+          "change": "+50",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "2922",
+          "name": "なとり",
+          "market": "東Ｐ",
+          "price": "1,986",
+          "change": "+16",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "2291",
+          "name": "福留ハ",
+          "market": "東Ｓ",
+          "price": "507",
+          "change": "+4",
+          "changePercent": "+0.80%"
+        },
+        {
+          "code": "2288",
+          "name": "丸大食",
+          "market": "東Ｐ",
+          "price": "2,303",
+          "change": "+18",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "2804",
+          "name": "ブルドック",
+          "market": "東Ｐ",
+          "price": "1,797",
+          "change": "+14",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "2211",
+          "name": "不二家",
+          "market": "東Ｐ",
+          "price": "2,449",
+          "change": "+19",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "250A",
+          "name": "シマダヤ",
+          "market": "東Ｓ",
+          "price": "1,678",
+          "change": "+13",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "2590",
+          "name": "ＤｙＤｏ",
+          "market": "東Ｐ",
+          "price": "2,813",
+          "change": "+21",
+          "changePercent": "+0.75%"
+        },
+        {
+          "code": "2806",
+          "name": "ユタカフーズ",
+          "market": "東Ｓ",
+          "price": "1,872",
+          "change": "+14",
+          "changePercent": "+0.75%"
+        },
+        {
+          "code": "2597",
+          "name": "ユニカフェ",
+          "market": "東Ｓ",
+          "price": "1,144",
+          "change": "+8",
+          "changePercent": "+0.70%"
+        },
+        {
+          "code": "2910",
+          "name": "Ｒフィールド",
+          "market": "東Ｐ",
+          "price": "1,370",
+          "change": "+9",
+          "changePercent": "+0.66%"
+        },
+        {
+          "code": "2908",
+          "name": "フジッコ",
+          "market": "東Ｐ",
+          "price": "1,549",
+          "change": "+9",
+          "changePercent": "+0.58%"
+        },
+        {
+          "code": "2551",
+          "name": "マルサンアイ",
+          "market": "名Ｍ",
+          "price": "3,570",
+          "change": "+20",
+          "changePercent": "+0.56%"
+        },
+        {
+          "code": "2932",
+          "name": "ＳＴＩＦＨＤ",
+          "market": "東Ｓ",
+          "price": "1,098",
+          "change": "+6",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "2917",
+          "name": "大森屋",
+          "market": "東Ｓ",
+          "price": "927",
+          "change": "+5",
+          "changePercent": "+0.54%"
+        },
+        {
+          "code": "2901",
+          "name": "Ｗディッシュ",
+          "market": "東Ｓ",
+          "price": "191",
+          "change": "+1",
+          "changePercent": "+0.53%"
+        },
+        {
+          "code": "2904",
+          "name": "一正蒲鉾",
+          "market": "東Ｓ",
+          "price": "762",
+          "change": "+4",
+          "changePercent": "+0.53%"
+        },
+        {
+          "code": "2929",
+          "name": "ファーマＦ",
+          "market": "東Ｐ",
+          "price": "603",
+          "change": "+3",
+          "changePercent": "+0.50%"
+        },
+        {
+          "code": "2882",
+          "name": "イートアンド",
+          "market": "東Ｐ",
+          "price": "2,053",
+          "change": "+10",
+          "changePercent": "+0.49%"
+        },
+        {
+          "code": "2002",
+          "name": "日清粉Ｇ",
+          "market": "東Ｐ",
+          "price": "2,048.5",
+          "change": "+9.5",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "2294",
+          "name": "柿安本店",
+          "market": "東Ｐ",
+          "price": "2,578",
+          "change": "+12",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "2933",
+          "name": "紀文食品",
+          "market": "東Ｐ",
+          "price": "1,080",
+          "change": "+5",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "2207",
+          "name": "ｍｅｉｔｏ",
+          "market": "東Ｐ",
+          "price": "3,255",
+          "change": "+15",
+          "changePercent": "+0.46%"
+        },
+        {
+          "code": "2209",
+          "name": "井村屋Ｇ",
+          "market": "東Ｐ",
+          "price": "2,402",
+          "change": "+11",
+          "changePercent": "+0.46%"
+        },
+        {
+          "code": "2109",
+          "name": "ＤＭ三井製糖",
+          "market": "東Ｐ",
+          "price": "3,345",
+          "change": "+15",
+          "changePercent": "+0.45%"
+        },
+        {
+          "code": "2004",
+          "name": "昭和産",
+          "market": "東Ｐ",
+          "price": "3,485",
+          "change": "+15",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "2831",
+          "name": "はごろも",
+          "market": "東Ｓ",
+          "price": "3,465",
+          "change": "+15",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "2108",
+          "name": "甜菜糖",
+          "market": "東Ｐ",
+          "price": "4,920",
+          "change": "+20",
+          "changePercent": "+0.41%"
+        },
+        {
+          "code": "2003",
+          "name": "日東富士",
+          "market": "東Ｓ",
+          "price": "1,771",
+          "change": "+6",
+          "changePercent": "+0.34%"
+        },
+        {
+          "code": "2587",
+          "name": "サントリＢＦ",
+          "market": "東Ｐ",
+          "price": "4,694",
+          "change": "+13",
+          "changePercent": "+0.28%"
+        },
+        {
+          "code": "2801",
+          "name": "キッコマン",
+          "market": "東Ｐ",
+          "price": "1,683.0",
+          "change": "+4.5",
+          "changePercent": "+0.27%"
+        },
+        {
+          "code": "2281",
+          "name": "プリマ",
+          "market": "東Ｐ",
+          "price": "2,444",
+          "change": "+6",
+          "changePercent": "+0.25%"
+        },
+        {
+          "code": "2264",
+          "name": "森永乳",
+          "market": "東Ｐ",
+          "price": "1,311.0",
+          "change": "+3.0",
+          "changePercent": "+0.23%"
+        },
+        {
+          "code": "2112",
+          "name": "塩水糖",
+          "market": "東Ｓ",
+          "price": "448",
+          "change": "+1",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "2883",
+          "name": "大冷",
+          "market": "東Ｓ",
+          "price": "1,992",
+          "change": "+4",
+          "changePercent": "+0.20%"
         },
         {
           "code": "2114",
           "name": "フジ日本",
           "market": "東Ｓ",
-          "price": "629",
+          "price": "630",
           "change": "+1",
           "changePercent": "+0.16%"
         },
@@ -2152,89 +2128,57 @@ window.sectorData = {
           "code": "2208",
           "name": "ブルボン",
           "market": "東Ｓ",
-          "price": "3,135",
+          "price": "3,140",
           "change": "+5",
           "changePercent": "+0.16%"
         },
         {
-          "code": "2814",
-          "name": "佐藤食品",
-          "market": "東Ｓ",
-          "price": "3,090",
-          "change": "+5",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "409A",
-          "name": "オリオン",
+          "code": "2871",
+          "name": "ニチレイ",
           "market": "東Ｐ",
-          "price": "1,221",
+          "price": "2,204.5",
+          "change": "+3.5",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "2816",
+          "name": "ダイショー",
+          "market": "東Ｓ",
+          "price": "1,407",
           "change": "+2",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "2109",
-          "name": "ＤＭ三井製糖",
-          "market": "東Ｐ",
-          "price": "3,330",
-          "change": "+5",
-          "changePercent": "+0.15%"
-        },
-        {
-          "code": "2883",
-          "name": "大冷",
-          "market": "東Ｓ",
-          "price": "1,988",
-          "change": "+3",
-          "changePercent": "+0.15%"
-        },
-        {
-          "code": "2224",
-          "name": "コモ",
-          "market": "東Ｓ",
-          "price": "3,675",
-          "change": "+5",
           "changePercent": "+0.14%"
         },
         {
-          "code": "2288",
-          "name": "丸大食",
+          "code": "2594",
+          "name": "キーコーヒー",
           "market": "東Ｐ",
-          "price": "2,285",
-          "change": "+3",
-          "changePercent": "+0.13%"
+          "price": "1,996",
+          "change": "+2",
+          "changePercent": "+0.10%"
         },
         {
-          "code": "2269",
-          "name": "明治ＨＤ",
-          "market": "東Ｐ",
-          "price": "3,886",
-          "change": "+3",
-          "changePercent": "+0.08%"
-        },
-        {
-          "code": "2806",
-          "name": "ユタカフーズ",
+          "code": "2009",
+          "name": "鳥越粉",
           "market": "東Ｓ",
-          "price": "1,858",
-          "change": "+1",
-          "changePercent": "+0.05%"
+          "price": "1,085",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "2209",
-          "name": "井村屋Ｇ",
-          "market": "東Ｐ",
-          "price": "2,391",
-          "change": "+1",
-          "changePercent": "+0.04%"
+          "code": "2055",
+          "name": "日和産",
+          "market": "東Ｓ",
+          "price": "333",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "2222",
-          "name": "寿スピリッツ",
-          "market": "東Ｐ",
-          "price": "2,563.5",
-          "change": "+1.0",
-          "changePercent": "+0.04%"
+          "code": "2204",
+          "name": "中村屋",
+          "market": "東Ｓ",
+          "price": "3,220",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "2215",
@@ -2245,324 +2189,375 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "2218",
-          "name": "日糧パン",
-          "market": "札証",
-          "price": "2,163",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "2270",
-          "name": "雪印メグ",
-          "market": "東Ｐ",
-          "price": "3,685",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "2816",
-          "name": "ダイショー",
+          "code": "2221",
+          "name": "岩塚製菓",
           "market": "東Ｓ",
-          "price": "1,405",
+          "price": "3,070",
           "change": "0",
           "changePercent": "0.00%"
-        },
-        {
-          "code": "2831",
-          "name": "はごろも",
-          "market": "東Ｓ",
-          "price": "3,450",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "2904",
-          "name": "一正蒲鉾",
-          "market": "東Ｓ",
-          "price": "758",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "3069",
-          "name": "ＪＦＬＡＨＤ",
-          "market": "東Ｓ",
-          "price": "154",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "2201",
-          "name": "森永",
-          "market": "東Ｐ",
-          "price": "2,702.5",
-          "change": "-1.0",
-          "changePercent": "-0.04%"
-        },
-        {
-          "code": "2818",
-          "name": "ピエトロ",
-          "market": "東Ｓ",
-          "price": "1,749",
-          "change": "-1",
-          "changePercent": "-0.06%"
-        },
-        {
-          "code": "2937",
-          "name": "サンクゼール",
-          "market": "東Ｇ",
-          "price": "1,676",
-          "change": "-1",
-          "changePercent": "-0.06%"
-        },
-        {
-          "code": "2001",
-          "name": "ニップン",
-          "market": "東Ｐ",
-          "price": "2,794",
-          "change": "-2",
-          "changePercent": "-0.07%"
         },
         {
           "code": "2226",
           "name": "コイケヤ",
           "market": "東Ｓ",
           "price": "4,745",
-          "change": "-5",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "2268",
-          "name": "サーティワン",
-          "market": "東Ｓ",
-          "price": "4,080",
-          "change": "-5",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "2902",
-          "name": "太陽化",
-          "market": "名Ｍ",
-          "price": "2,789",
-          "change": "-4",
-          "changePercent": "-0.14%"
-        },
-        {
-          "code": "2221",
-          "name": "岩塚製菓",
-          "market": "東Ｓ",
-          "price": "3,070",
-          "change": "-5",
-          "changePercent": "-0.16%"
-        },
-        {
-          "code": "2927",
-          "name": "ＡＦＣ－ＨＤ",
-          "market": "東Ｓ",
-          "price": "858",
-          "change": "-3",
-          "changePercent": "-0.35%"
-        },
-        {
-          "code": "2872",
-          "name": "セイヒョー",
-          "market": "東Ｓ",
-          "price": "2,019",
-          "change": "-8",
-          "changePercent": "-0.39%"
-        },
-        {
-          "code": "2876",
-          "name": "デルソーレ",
-          "market": "東Ｓ",
-          "price": "454",
-          "change": "-2",
-          "changePercent": "-0.44%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "2813",
           "name": "和弘食品",
           "market": "東Ｓ",
           "price": "3,980",
-          "change": "-20",
-          "changePercent": "-0.50%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "2267",
-          "name": "ヤクルト",
-          "market": "東Ｐ",
-          "price": "2,889.0",
-          "change": "-15.0",
-          "changePercent": "-0.52%"
-        },
-        {
-          "code": "2903",
-          "name": "シノブフズ",
+          "code": "2814",
+          "name": "佐藤食品",
           "market": "東Ｓ",
-          "price": "1,540",
-          "change": "-8",
-          "changePercent": "-0.52%"
+          "price": "3,090",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "2286",
-          "name": "林兼",
+          "code": "2818",
+          "name": "ピエトロ",
           "market": "東Ｓ",
-          "price": "890",
-          "change": "-5",
-          "changePercent": "-0.56%"
-        },
-        {
-          "code": "2919",
-          "name": "マルタイ",
-          "market": "福証",
-          "price": "4,120",
-          "change": "-25",
-          "changePercent": "-0.60%"
-        },
-        {
-          "code": "2108",
-          "name": "甜菜糖",
-          "market": "東Ｐ",
-          "price": "4,900",
-          "change": "-30",
-          "changePercent": "-0.61%"
-        },
-        {
-          "code": "2293",
-          "name": "滝沢ハム",
-          "market": "東Ｓ",
-          "price": "2,681",
-          "change": "-18",
-          "changePercent": "-0.67%"
-        },
-        {
-          "code": "2911",
-          "name": "旭松食品",
-          "market": "東Ｓ",
-          "price": "2,257",
-          "change": "-17",
-          "changePercent": "-0.75%"
-        },
-        {
-          "code": "2918",
-          "name": "わらべ日洋",
-          "market": "東Ｐ",
-          "price": "2,689",
-          "change": "-24",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "2926",
-          "name": "篠崎屋",
-          "market": "東Ｓ",
-          "price": "102",
-          "change": "-1",
-          "changePercent": "-0.97%"
-        },
-        {
-          "code": "2901",
-          "name": "Ｗディッシュ",
-          "market": "東Ｓ",
-          "price": "190",
-          "change": "-2",
-          "changePercent": "-1.04%"
-        },
-        {
-          "code": "2551",
-          "name": "マルサンアイ",
-          "market": "名Ｍ",
-          "price": "3,550",
-          "change": "-40",
-          "changePercent": "-1.11%"
-        },
-        {
-          "code": "2923",
-          "name": "サトウ食品",
-          "market": "東Ｓ",
-          "price": "8,270",
-          "change": "-100",
-          "changePercent": "-1.19%"
+          "price": "1,749",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "2892",
           "name": "日食品",
           "market": "東Ｓ",
           "price": "4,190",
-          "change": "-55",
-          "changePercent": "-1.30%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "2877",
-          "name": "日東ベスト",
+          "code": "2927",
+          "name": "ＡＦＣ－ＨＤ",
           "market": "東Ｓ",
-          "price": "733",
-          "change": "-10",
-          "changePercent": "-1.35%"
+          "price": "858",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "2820",
-          "name": "やまみ",
-          "market": "東Ｓ",
-          "price": "4,835",
-          "change": "-85",
-          "changePercent": "-1.73%"
-        },
-        {
-          "code": "2586",
-          "name": "フルッタ",
+          "code": "2937",
+          "name": "サンクゼール",
           "market": "東Ｇ",
-          "price": "107",
+          "price": "1,676",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "2212",
+          "name": "山パン",
+          "market": "東Ｐ",
+          "price": "3,319.0",
+          "change": "-2.0",
+          "changePercent": "-0.06%"
+        },
+        {
+          "code": "2217",
+          "name": "モロゾフ",
+          "market": "東Ｐ",
+          "price": "1,561",
+          "change": "-1",
+          "changePercent": "-0.06%"
+        },
+        {
+          "code": "2282",
+          "name": "日ハム",
+          "market": "東Ｐ",
+          "price": "6,316",
+          "change": "-4",
+          "changePercent": "-0.06%"
+        },
+        {
+          "code": "2602",
+          "name": "日清オイリオ",
+          "market": "東Ｐ",
+          "price": "1,896",
+          "change": "-2",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "2573",
+          "name": "北海コカ",
+          "market": "東Ｓ",
+          "price": "3,985",
+          "change": "-5",
+          "changePercent": "-0.13%"
+        },
+        {
+          "code": "2218",
+          "name": "日糧パン",
+          "market": "札証",
+          "price": "2,160",
           "change": "-3",
-          "changePercent": "-2.73%"
+          "changePercent": "-0.14%"
+        },
+        {
+          "code": "2884",
+          "name": "ヨシムラＨＤ",
+          "market": "東Ｐ",
+          "price": "630",
+          "change": "-1",
+          "changePercent": "-0.16%"
+        },
+        {
+          "code": "2286",
+          "name": "林兼",
+          "market": "東Ｓ",
+          "price": "888",
+          "change": "-2",
+          "changePercent": "-0.22%"
+        },
+        {
+          "code": "2268",
+          "name": "サーティワン",
+          "market": "東Ｓ",
+          "price": "4,070",
+          "change": "-10",
+          "changePercent": "-0.25%"
+        },
+        {
+          "code": "2593",
+          "name": "伊藤園",
+          "market": "東Ｐ",
+          "price": "3,029.0",
+          "change": "-8.0",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "2935",
+          "name": "ピックルス",
+          "market": "東Ｐ",
+          "price": "1,149",
+          "change": "-3",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "2224",
+          "name": "コモ",
+          "market": "東Ｓ",
+          "price": "3,665",
+          "change": "-10",
+          "changePercent": "-0.27%"
+        },
+        {
+          "code": "2914",
+          "name": "ＪＴ",
+          "market": "東Ｐ",
+          "price": "6,202",
+          "change": "-17",
+          "changePercent": "-0.27%"
         },
         {
           "code": "2936",
           "name": "ベースフード",
           "market": "東Ｇ",
-          "price": "283",
-          "change": "-8",
-          "changePercent": "-2.75%"
+          "price": "282",
+          "change": "-1",
+          "changePercent": "-0.35%"
         },
         {
-          "code": "2907",
-          "name": "あじかん",
-          "market": "東Ｓ",
-          "price": "1,541",
-          "change": "-49",
-          "changePercent": "-3.08%"
-        },
-        {
-          "code": "2802",
-          "name": "味の素",
+          "code": "2533",
+          "name": "オエノンＨＤ",
           "market": "東Ｐ",
-          "price": "5,831",
-          "change": "-260",
-          "changePercent": "-4.27%"
+          "price": "495",
+          "change": "-2",
+          "changePercent": "-0.40%"
         },
         {
-          "code": "2612",
-          "name": "かどや製油",
+          "code": "2924",
+          "name": "イフジ産業",
           "market": "東Ｓ",
-          "price": "1,804",
-          "change": "-87",
-          "changePercent": "-4.60%"
+          "price": "2,067",
+          "change": "-10",
+          "changePercent": "-0.48%"
+        },
+        {
+          "code": "2531",
+          "name": "宝ＨＬＤ",
+          "market": "東Ｐ",
+          "price": "2,144.0",
+          "change": "-10.5",
+          "changePercent": "-0.49%"
         },
         {
           "code": "2058",
           "name": "ヒガシマル",
           "market": "福証",
-          "price": "996",
+          "price": "991",
+          "change": "-5",
+          "changePercent": "-0.50%"
+        },
+        {
+          "code": "2206",
+          "name": "グリコ",
+          "market": "東Ｐ",
+          "price": "5,362",
+          "change": "-27",
+          "changePercent": "-0.50%"
+        },
+        {
+          "code": "2815",
+          "name": "アリアケ",
+          "market": "東Ｐ",
+          "price": "5,250",
+          "change": "-30",
+          "changePercent": "-0.57%"
+        },
+        {
+          "code": "2117",
+          "name": "ウェルネオＳ",
+          "market": "東Ｐ",
+          "price": "2,707",
+          "change": "-17",
+          "changePercent": "-0.62%"
+        },
+        {
+          "code": "4526",
+          "name": "理ビタ",
+          "market": "東Ｐ",
+          "price": "3,145",
+          "change": "-20",
+          "changePercent": "-0.63%"
+        },
+        {
+          "code": "2872",
+          "name": "セイヒョー",
+          "market": "東Ｓ",
+          "price": "2,006",
+          "change": "-13",
+          "changePercent": "-0.64%"
+        },
+        {
+          "code": "2875",
+          "name": "東洋水",
+          "market": "東Ｐ",
+          "price": "10,835",
+          "change": "-70",
+          "changePercent": "-0.64%"
+        },
+        {
+          "code": "3069",
+          "name": "ＪＦＬＡＨＤ",
+          "market": "東Ｓ",
+          "price": "153",
+          "change": "-1",
+          "changePercent": "-0.65%"
+        },
+        {
+          "code": "2916",
+          "name": "仙波糖化",
+          "market": "東Ｓ",
+          "price": "738",
+          "change": "-5",
+          "changePercent": "-0.67%"
+        },
+        {
+          "code": "4404",
+          "name": "ミヨシ",
+          "market": "東Ｓ",
+          "price": "1,863",
+          "change": "-14",
+          "changePercent": "-0.75%"
+        },
+        {
+          "code": "2931",
+          "name": "ユーグレナ",
+          "market": "東Ｐ",
+          "price": "347",
+          "change": "-3",
+          "changePercent": "-0.86%"
+        },
+        {
+          "code": "559A",
+          "name": "梅乃宿酒造",
+          "market": "東Ｓ",
+          "price": "1,041",
+          "change": "-13",
+          "changePercent": "-1.23%"
+        },
+        {
+          "code": "2579",
+          "name": "コカＢＪＨ",
+          "market": "東Ｐ",
+          "price": "4,422",
+          "change": "-61",
+          "changePercent": "-1.36%"
+        },
+        {
+          "code": "2820",
+          "name": "やまみ",
+          "market": "東Ｓ",
+          "price": "4,750",
+          "change": "-85",
+          "changePercent": "-1.76%"
+        },
+        {
+          "code": "2897",
+          "name": "日清食ＨＤ",
+          "market": "東Ｐ",
+          "price": "2,919.0",
+          "change": "-56.0",
+          "changePercent": "-1.88%"
+        },
+        {
+          "code": "2918",
+          "name": "わらべ日洋",
+          "market": "東Ｐ",
+          "price": "2,638",
+          "change": "-51",
+          "changePercent": "-1.90%"
+        },
+        {
+          "code": "2802",
+          "name": "味の素",
+          "market": "東Ｐ",
+          "price": "5,702",
+          "change": "-129",
+          "changePercent": "-2.21%"
+        },
+        {
+          "code": "2585",
+          "name": "Ｌドリンク",
+          "market": "東Ｐ",
+          "price": "1,580",
+          "change": "-46",
+          "changePercent": "-2.83%"
+        },
+        {
+          "code": "2902",
+          "name": "太陽化",
+          "market": "名Ｍ",
+          "price": "2,710",
+          "change": "-79",
+          "changePercent": "-2.83%"
+        },
+        {
+          "code": "2586",
+          "name": "フルッタ",
+          "market": "東Ｇ",
+          "price": "100",
+          "change": "-7",
+          "changePercent": "-6.54%"
+        },
+        {
+          "code": "2911",
+          "name": "旭松食品",
+          "market": "東Ｓ",
+          "price": "－",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2728.95,
-          "changePercent": -0.13
-        },
         {
           "date": "20260625",
           "price": 2771.9,
@@ -2607,6 +2602,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2876.46,
           "changePercent": -0.14
+        },
+        {
+          "date": "20260708",
+          "price": 2876.29,
+          "changePercent": -0.01
         }
       ]
     },
@@ -2614,215 +2614,183 @@ window.sectorData = {
       "id": "3100",
       "nameJa": "繊維製品",
       "nameEn": "Textiles & Apparels",
-      "price": 956.92,
-      "change": "-6.44",
-      "changePercent": -0.67,
+      "price": 951.57,
+      "change": "-5.35",
+      "changePercent": -0.56,
       "stocks": [
         {
-          "code": "3583",
-          "name": "オーベクス",
+          "code": "3513",
+          "name": "イチカワ",
           "market": "東Ｓ",
-          "price": "1,238",
-          "change": "+28",
-          "changePercent": "+2.31%"
+          "price": "3,625",
+          "change": "+150",
+          "changePercent": "+4.32%"
+        },
+        {
+          "code": "3001",
+          "name": "片倉",
+          "market": "東Ｓ",
+          "price": "2,631",
+          "change": "+85",
+          "changePercent": "+3.34%"
+        },
+        {
+          "code": "8107",
+          "name": "キムラタン",
+          "market": "東Ｓ",
+          "price": "33",
+          "change": "+1",
+          "changePercent": "+3.13%"
+        },
+        {
+          "code": "3529",
+          "name": "アツギ",
+          "market": "東Ｓ",
+          "price": "1,077",
+          "change": "+22",
+          "changePercent": "+2.09%"
+        },
+        {
+          "code": "3201",
+          "name": "ニッケ",
+          "market": "東Ｐ",
+          "price": "1,829",
+          "change": "+35",
+          "changePercent": "+1.95%"
+        },
+        {
+          "code": "3551",
+          "name": "ダイニック",
+          "market": "東Ｓ",
+          "price": "1,362",
+          "change": "+23",
+          "changePercent": "+1.72%"
+        },
+        {
+          "code": "8111",
+          "name": "ゴルドウイン",
+          "market": "東Ｐ",
+          "price": "2,311.0",
+          "change": "+32.5",
+          "changePercent": "+1.43%"
+        },
+        {
+          "code": "3512",
+          "name": "フエルト",
+          "market": "東Ｓ",
+          "price": "1,042",
+          "change": "+14",
+          "changePercent": "+1.36%"
+        },
+        {
+          "code": "8127",
+          "name": "ヤマトインタ",
+          "market": "東Ｓ",
+          "price": "602",
+          "change": "+8",
+          "changePercent": "+1.35%"
         },
         {
           "code": "3409",
           "name": "北紡",
           "market": "東Ｓ",
-          "price": "93",
-          "change": "+2",
-          "changePercent": "+2.20%"
+          "price": "94",
+          "change": "+1",
+          "changePercent": "+1.08%"
         },
         {
-          "code": "442A",
-          "name": "クラシコ",
-          "market": "東Ｇ",
-          "price": "1,023",
-          "change": "+17",
-          "changePercent": "+1.69%"
+          "code": "3504",
+          "name": "丸八ＨＤ",
+          "market": "名Ｍ",
+          "price": "1,360",
+          "change": "+14",
+          "changePercent": "+1.04%"
         },
         {
-          "code": "3611",
-          "name": "マツオカ",
-          "market": "東Ｓ",
-          "price": "2,592",
-          "change": "+39",
-          "changePercent": "+1.53%"
-        },
-        {
-          "code": "3591",
-          "name": "ワコールＨＤ",
+          "code": "8016",
+          "name": "オンワード",
           "market": "東Ｐ",
-          "price": "4,522",
-          "change": "+67",
-          "changePercent": "+1.50%"
-        },
-        {
-          "code": "325A",
-          "name": "テンシャル",
-          "market": "東Ｇ",
-          "price": "1,443",
-          "change": "+20",
-          "changePercent": "+1.41%"
-        },
-        {
-          "code": "3111",
-          "name": "オーミケンシ",
-          "market": "東Ｓ",
-          "price": "161",
-          "change": "+2",
-          "changePercent": "+1.26%"
+          "price": "748",
+          "change": "+6",
+          "changePercent": "+0.81%"
         },
         {
           "code": "3598",
           "name": "山喜",
           "market": "東Ｓ",
-          "price": "162",
+          "price": "163",
+          "change": "+1",
+          "changePercent": "+0.62%"
+        },
+        {
+          "code": "3607",
+          "name": "クラウディア",
+          "market": "東Ｓ",
+          "price": "356",
           "change": "+2",
-          "changePercent": "+1.25%"
+          "changePercent": "+0.56%"
+        },
+        {
+          "code": "8118",
+          "name": "キング",
+          "market": "東Ｓ",
+          "price": "1,255",
+          "change": "+3",
+          "changePercent": "+0.24%"
+        },
+        {
+          "code": "3109",
+          "name": "シキボウ",
+          "market": "東Ｐ",
+          "price": "1,037",
+          "change": "+2",
+          "changePercent": "+0.19%"
+        },
+        {
+          "code": "3571",
+          "name": "ソトー",
+          "market": "東Ｓ",
+          "price": "711",
+          "change": "+1",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "8040",
+          "name": "東ソワール",
+          "market": "東Ｓ",
+          "price": "1,030",
+          "change": "+1",
+          "changePercent": "+0.10%"
+        },
+        {
+          "code": "3600",
+          "name": "フジックス",
+          "market": "東Ｓ",
+          "price": "1,701",
+          "change": "+1",
+          "changePercent": "+0.06%"
+        },
+        {
+          "code": "3202",
+          "name": "ダイトウボウ",
+          "market": "東Ｓ",
+          "price": "128",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "3204",
           "name": "トーア紡",
           "market": "東Ｓ",
           "price": "507",
-          "change": "+6",
-          "changePercent": "+1.20%"
-        },
-        {
-          "code": "3551",
-          "name": "ダイニック",
-          "market": "東Ｓ",
-          "price": "1,339",
-          "change": "+14",
-          "changePercent": "+1.06%"
-        },
-        {
-          "code": "8029",
-          "name": "ルックＨＤ",
-          "market": "東Ｓ",
-          "price": "2,713",
-          "change": "+27",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "3597",
-          "name": "自重堂",
-          "market": "東Ｓ",
-          "price": "8,940",
-          "change": "+80",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "8040",
-          "name": "東ソワール",
-          "market": "東Ｓ",
-          "price": "1,029",
-          "change": "+9",
-          "changePercent": "+0.88%"
-        },
-        {
-          "code": "3577",
-          "name": "東海染",
-          "market": "東Ｓ",
-          "price": "939",
-          "change": "+8",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "3205",
-          "name": "ダイドー",
-          "market": "東Ｓ",
-          "price": "741",
-          "change": "+6",
-          "changePercent": "+0.82%"
-        },
-        {
-          "code": "8143",
-          "name": "ラピーヌ",
-          "market": "東Ｓ",
-          "price": "142",
-          "change": "+1",
-          "changePercent": "+0.71%"
-        },
-        {
-          "code": "8111",
-          "name": "ゴルドウイン",
-          "market": "東Ｐ",
-          "price": "2,278.5",
-          "change": "+15.0",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "3607",
-          "name": "クラウディア",
-          "market": "東Ｓ",
-          "price": "354",
-          "change": "+2",
-          "changePercent": "+0.57%"
-        },
-        {
-          "code": "8127",
-          "name": "ヤマトインタ",
-          "market": "東Ｓ",
-          "price": "594",
-          "change": "+2",
-          "changePercent": "+0.34%"
-        },
-        {
-          "code": "3109",
-          "name": "シキボウ",
-          "market": "東Ｐ",
-          "price": "1,035",
-          "change": "+3",
-          "changePercent": "+0.29%"
-        },
-        {
-          "code": "3608",
-          "name": "ＴＳＩＨＤ",
-          "market": "東Ｐ",
-          "price": "1,233",
-          "change": "+2",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "3524",
-          "name": "日東網",
-          "market": "東Ｓ",
-          "price": "1,420",
-          "change": "+1",
-          "changePercent": "+0.07%"
-        },
-        {
-          "code": "3002",
-          "name": "グンゼ",
-          "market": "東Ｐ",
-          "price": "4,040",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "3571",
-          "name": "ソトー",
-          "market": "東Ｓ",
-          "price": "710",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "3600",
-          "name": "フジックス",
-          "market": "東Ｓ",
-          "price": "1,700",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "365A",
-          "name": "伊沢タオル",
-          "market": "東Ｓ",
-          "price": "748",
+          "code": "3591",
+          "name": "ワコールＨＤ",
+          "market": "東Ｐ",
+          "price": "4,522",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -2835,188 +2803,215 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "3501",
-          "name": "ＳＭＩＮＯＥ",
-          "market": "東Ｐ",
-          "price": "1,096",
-          "change": "-3",
-          "changePercent": "-0.27%"
-        },
-        {
-          "code": "3612",
-          "name": "ワールド",
-          "market": "東Ｐ",
-          "price": "1,660",
-          "change": "-6",
-          "changePercent": "-0.36%"
-        },
-        {
-          "code": "3402",
-          "name": "東レ",
-          "market": "東Ｐ",
-          "price": "1,170.5",
-          "change": "-4.5",
-          "changePercent": "-0.38%"
-        },
-        {
-          "code": "3302",
-          "name": "帝国繊維",
-          "market": "東Ｐ",
-          "price": "3,435",
-          "change": "-15",
-          "changePercent": "-0.43%"
-        },
-        {
-          "code": "3123",
-          "name": "サイボー",
+          "code": "3611",
+          "name": "マツオカ",
           "market": "東Ｓ",
-          "price": "657",
-          "change": "-3",
-          "changePercent": "-0.45%"
+          "price": "2,590",
+          "change": "-2",
+          "changePercent": "-0.08%"
         },
         {
-          "code": "3401",
-          "name": "帝人",
-          "market": "東Ｐ",
-          "price": "1,731.5",
-          "change": "-10.5",
-          "changePercent": "-0.60%"
-        },
-        {
-          "code": "3504",
-          "name": "丸八ＨＤ",
-          "market": "名Ｍ",
-          "price": "1,346",
-          "change": "-9",
-          "changePercent": "-0.66%"
-        },
-        {
-          "code": "8118",
-          "name": "キング",
+          "code": "3205",
+          "name": "ダイドー",
           "market": "東Ｓ",
-          "price": "1,252",
-          "change": "-9",
-          "changePercent": "-0.71%"
+          "price": "740",
+          "change": "-1",
+          "changePercent": "-0.13%"
+        },
+        {
+          "code": "365A",
+          "name": "伊沢タオル",
+          "market": "東Ｓ",
+          "price": "747",
+          "change": "-1",
+          "changePercent": "-0.13%"
+        },
+        {
+          "code": "3524",
+          "name": "日東網",
+          "market": "東Ｓ",
+          "price": "1,417",
+          "change": "-3",
+          "changePercent": "-0.21%"
         },
         {
           "code": "3580",
           "name": "小松マテーレ",
           "market": "東Ｐ",
-          "price": "713",
-          "change": "-6",
-          "changePercent": "-0.83%"
+          "price": "711",
+          "change": "-2",
+          "changePercent": "-0.28%"
         },
         {
-          "code": "3201",
-          "name": "ニッケ",
-          "market": "東Ｐ",
-          "price": "1,794",
-          "change": "-19",
-          "changePercent": "-1.05%"
-        },
-        {
-          "code": "3512",
-          "name": "フエルト",
+          "code": "3583",
+          "name": "オーベクス",
           "market": "東Ｓ",
-          "price": "1,028",
-          "change": "-12",
-          "changePercent": "-1.15%"
+          "price": "1,234",
+          "change": "-4",
+          "changePercent": "-0.32%"
+        },
+        {
+          "code": "3597",
+          "name": "自重堂",
+          "market": "東Ｓ",
+          "price": "8,910",
+          "change": "-30",
+          "changePercent": "-0.34%"
+        },
+        {
+          "code": "3402",
+          "name": "東レ",
+          "market": "東Ｐ",
+          "price": "1,166.0",
+          "change": "-4.5",
+          "changePercent": "-0.38%"
+        },
+        {
+          "code": "3501",
+          "name": "ＳＭＩＮＯＥ",
+          "market": "東Ｐ",
+          "price": "1,091",
+          "change": "-5",
+          "changePercent": "-0.46%"
+        },
+        {
+          "code": "3608",
+          "name": "ＴＳＩＨＤ",
+          "market": "東Ｐ",
+          "price": "1,227",
+          "change": "-6",
+          "changePercent": "-0.49%"
+        },
+        {
+          "code": "3002",
+          "name": "グンゼ",
+          "market": "東Ｐ",
+          "price": "4,020",
+          "change": "-20",
+          "changePercent": "-0.50%"
+        },
+        {
+          "code": "3302",
+          "name": "帝国繊維",
+          "market": "東Ｐ",
+          "price": "3,415",
+          "change": "-20",
+          "changePercent": "-0.58%"
+        },
+        {
+          "code": "8029",
+          "name": "ルックＨＤ",
+          "market": "東Ｓ",
+          "price": "2,695",
+          "change": "-18",
+          "changePercent": "-0.66%"
+        },
+        {
+          "code": "8143",
+          "name": "ラピーヌ",
+          "market": "東Ｓ",
+          "price": "141",
+          "change": "-1",
+          "changePercent": "-0.70%"
+        },
+        {
+          "code": "3401",
+          "name": "帝人",
+          "market": "東Ｐ",
+          "price": "1,718.5",
+          "change": "-13.0",
+          "changePercent": "-0.75%"
+        },
+        {
+          "code": "325A",
+          "name": "テンシャル",
+          "market": "東Ｇ",
+          "price": "1,429",
+          "change": "-14",
+          "changePercent": "-0.97%"
+        },
+        {
+          "code": "3111",
+          "name": "オーミケンシ",
+          "market": "東Ｓ",
+          "price": "159",
+          "change": "-2",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "3612",
+          "name": "ワールド",
+          "market": "東Ｐ",
+          "price": "1,637",
+          "change": "-23",
+          "changePercent": "-1.39%"
+        },
+        {
+          "code": "3577",
+          "name": "東海染",
+          "market": "東Ｓ",
+          "price": "924",
+          "change": "-15",
+          "changePercent": "-1.60%"
         },
         {
           "code": "3569",
           "name": "セーレン",
           "market": "東Ｐ",
-          "price": "3,360",
-          "change": "-45",
-          "changePercent": "-1.32%"
+          "price": "3,295",
+          "change": "-65",
+          "changePercent": "-1.93%"
         },
         {
-          "code": "8016",
-          "name": "オンワード",
-          "market": "東Ｐ",
-          "price": "742",
-          "change": "-10",
-          "changePercent": "-1.33%"
-        },
-        {
-          "code": "3202",
-          "name": "ダイトウボウ",
-          "market": "東Ｓ",
-          "price": "128",
-          "change": "-2",
-          "changePercent": "-1.54%"
-        },
-        {
-          "code": "3001",
-          "name": "片倉",
-          "market": "東Ｓ",
-          "price": "2,546",
-          "change": "-49",
-          "changePercent": "-1.89%"
-        },
-        {
-          "code": "3103",
-          "name": "ユニチカ",
-          "market": "東Ｓ",
-          "price": "982",
+          "code": "442A",
+          "name": "クラシコ",
+          "market": "東Ｇ",
+          "price": "1,001",
           "change": "-22",
-          "changePercent": "-2.19%"
+          "changePercent": "-2.15%"
         },
         {
-          "code": "3529",
-          "name": "アツギ",
+          "code": "3123",
+          "name": "サイボー",
           "market": "東Ｓ",
-          "price": "1,055",
-          "change": "-25",
-          "changePercent": "-2.31%"
-        },
-        {
-          "code": "3106",
-          "name": "クラボウ",
-          "market": "東Ｐ",
-          "price": "10,490",
-          "change": "-250",
-          "changePercent": "-2.33%"
-        },
-        {
-          "code": "3513",
-          "name": "イチカワ",
-          "market": "東Ｓ",
-          "price": "3,475",
-          "change": "-85",
-          "changePercent": "-2.39%"
+          "price": "642",
+          "change": "-15",
+          "changePercent": "-2.28%"
         },
         {
           "code": "8011",
           "name": "三陽商",
           "market": "東Ｐ",
-          "price": "4,315",
-          "change": "-120",
-          "changePercent": "-2.71%"
-        },
-        {
-          "code": "8107",
-          "name": "キムラタン",
-          "market": "東Ｓ",
-          "price": "32",
-          "change": "-1",
-          "changePercent": "-3.03%"
+          "price": "4,215",
+          "change": "-100",
+          "changePercent": "-2.32%"
         },
         {
           "code": "3104",
           "name": "富士紡ＨＤ",
           "market": "東Ｐ",
-          "price": "4,010",
-          "change": "-290",
-          "changePercent": "-6.74%"
+          "price": "3,880",
+          "change": "-130",
+          "changePercent": "-3.24%"
+        },
+        {
+          "code": "3106",
+          "name": "クラボウ",
+          "market": "東Ｐ",
+          "price": "10,070",
+          "change": "-420",
+          "changePercent": "-4.00%"
+        },
+        {
+          "code": "3103",
+          "name": "ユニチカ",
+          "market": "東Ｓ",
+          "price": "940",
+          "change": "-42",
+          "changePercent": "-4.28%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 926.1,
-          "changePercent": 0.21
-        },
         {
           "date": "20260625",
           "price": 935.56,
@@ -3061,6 +3056,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 956.92,
           "changePercent": -0.67
+        },
+        {
+          "date": "20260708",
+          "price": 951.57,
+          "changePercent": -0.56
         }
       ]
     },
@@ -3068,193 +3068,193 @@ window.sectorData = {
       "id": "3150",
       "nameJa": "パルプ・紙",
       "nameEn": "Pulp & Paper",
-      "price": 648.89,
-      "change": "-1.08",
-      "changePercent": -0.17,
+      "price": 651.95,
+      "change": "+3.06",
+      "changePercent": 0.47,
       "stocks": [
-        {
-          "code": "3955",
-          "name": "イムラ",
-          "market": "東Ｓ",
-          "price": "831",
-          "change": "+25",
-          "changePercent": "+3.10%"
-        },
         {
           "code": "3953",
           "name": "大村紙業",
           "market": "東Ｓ",
-          "price": "771",
-          "change": "+20",
-          "changePercent": "+2.66%"
-        },
-        {
-          "code": "3947",
-          "name": "ダイナパック",
-          "market": "東Ｓ",
-          "price": "2,299",
-          "change": "+43",
-          "changePercent": "+1.91%"
-        },
-        {
-          "code": "3946",
-          "name": "トーモク",
-          "market": "東Ｐ",
-          "price": "4,015",
-          "change": "+25",
-          "changePercent": "+0.63%"
-        },
-        {
-          "code": "3877",
-          "name": "中越パ",
-          "market": "東Ｐ",
-          "price": "2,060",
-          "change": "+10",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "3944",
-          "name": "古林紙",
-          "market": "東Ｓ",
-          "price": "2,362",
-          "change": "+7",
-          "changePercent": "+0.30%"
-        },
-        {
-          "code": "3945",
-          "name": "スパバッグ",
-          "market": "東Ｓ",
-          "price": "2,225",
-          "change": "+6",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "3943",
-          "name": "大石産業",
-          "market": "東Ｓ",
-          "price": "1,245",
-          "change": "+3",
-          "changePercent": "+0.24%"
-        },
-        {
-          "code": "3861",
-          "name": "王子ＨＤ",
-          "market": "東Ｐ",
-          "price": "831.0",
-          "change": "+1.3",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "3863",
-          "name": "日本紙",
-          "market": "東Ｐ",
-          "price": "1,339",
-          "change": "+2",
-          "changePercent": "+0.15%"
-        },
-        {
-          "code": "3951",
-          "name": "朝日印刷",
-          "market": "東Ｓ",
-          "price": "881",
-          "change": "+1",
-          "changePercent": "+0.11%"
-        },
-        {
-          "code": "3948",
-          "name": "光ビジネス",
-          "market": "東Ｓ",
-          "price": "1,117",
-          "change": "+1",
-          "changePercent": "+0.09%"
-        },
-        {
-          "code": "3880",
-          "name": "大王紙",
-          "market": "東Ｐ",
-          "price": "942",
-          "change": "0",
-          "changePercent": "0.00%"
+          "price": "795",
+          "change": "+24",
+          "changePercent": "+3.11%"
         },
         {
           "code": "3708",
           "name": "特種東海",
           "market": "東Ｐ",
-          "price": "1,933",
-          "change": "-7",
-          "changePercent": "-0.36%"
+          "price": "1,974",
+          "change": "+41",
+          "changePercent": "+2.12%"
+        },
+        {
+          "code": "3941",
+          "name": "レンゴー",
+          "market": "東Ｐ",
+          "price": "1,448.0",
+          "change": "+28.5",
+          "changePercent": "+2.01%"
+        },
+        {
+          "code": "3946",
+          "name": "トーモク",
+          "market": "東Ｐ",
+          "price": "4,080",
+          "change": "+65",
+          "changePercent": "+1.62%"
+        },
+        {
+          "code": "3864",
+          "name": "三菱紙",
+          "market": "東Ｐ",
+          "price": "1,013",
+          "change": "+14",
+          "changePercent": "+1.40%"
+        },
+        {
+          "code": "3944",
+          "name": "古林紙",
+          "market": "東Ｓ",
+          "price": "2,380",
+          "change": "+18",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "3958",
+          "name": "笹徳印刷",
+          "market": "東Ｓ",
+          "price": "549",
+          "change": "+3",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "3863",
+          "name": "日本紙",
+          "market": "東Ｐ",
+          "price": "1,344",
+          "change": "+5",
+          "changePercent": "+0.37%"
+        },
+        {
+          "code": "3892",
+          "name": "岡山製紙",
+          "market": "東Ｓ",
+          "price": "1,669",
+          "change": "+3",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "3948",
+          "name": "光ビジネス",
+          "market": "東Ｓ",
+          "price": "1,119",
+          "change": "+2",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "3955",
+          "name": "イムラ",
+          "market": "東Ｓ",
+          "price": "832",
+          "change": "+1",
+          "changePercent": "+0.12%"
+        },
+        {
+          "code": "3943",
+          "name": "大石産業",
+          "market": "東Ｓ",
+          "price": "1,246",
+          "change": "+1",
+          "changePercent": "+0.08%"
         },
         {
           "code": "3895",
           "name": "ハビックス",
           "market": "東Ｓ",
           "price": "405",
-          "change": "-2",
-          "changePercent": "-0.49%"
-        },
-        {
-          "code": "3958",
-          "name": "笹徳印刷",
-          "market": "東Ｓ",
-          "price": "546",
-          "change": "-3",
-          "changePercent": "-0.55%"
-        },
-        {
-          "code": "3941",
-          "name": "レンゴー",
-          "market": "東Ｐ",
-          "price": "1,419.5",
-          "change": "-9.0",
-          "changePercent": "-0.63%"
-        },
-        {
-          "code": "3950",
-          "name": "ザ・パック",
-          "market": "東Ｐ",
-          "price": "1,334",
-          "change": "-13",
-          "changePercent": "-0.97%"
-        },
-        {
-          "code": "3892",
-          "name": "岡山製紙",
-          "market": "東Ｓ",
-          "price": "1,666",
-          "change": "-20",
-          "changePercent": "-1.19%"
-        },
-        {
-          "code": "3865",
-          "name": "北越コーポ",
-          "market": "東Ｐ",
-          "price": "857",
-          "change": "-11",
-          "changePercent": "-1.27%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "3896",
           "name": "阿波製紙",
           "market": "東Ｓ",
           "price": "358",
-          "change": "-5",
-          "changePercent": "-1.38%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "3864",
-          "name": "三菱紙",
+          "code": "3945",
+          "name": "スパバッグ",
+          "market": "東Ｓ",
+          "price": "2,225",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "3947",
+          "name": "ダイナパック",
+          "market": "東Ｓ",
+          "price": "2,299",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "3951",
+          "name": "朝日印刷",
+          "market": "東Ｓ",
+          "price": "880",
+          "change": "-1",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "3861",
+          "name": "王子ＨＤ",
           "market": "東Ｐ",
-          "price": "999",
-          "change": "-17",
-          "changePercent": "-1.67%"
+          "price": "829.8",
+          "change": "-1.2",
+          "changePercent": "-0.14%"
+        },
+        {
+          "code": "3877",
+          "name": "中越パ",
+          "market": "東Ｐ",
+          "price": "2,057",
+          "change": "-3",
+          "changePercent": "-0.15%"
+        },
+        {
+          "code": "3950",
+          "name": "ザ・パック",
+          "market": "東Ｐ",
+          "price": "1,331",
+          "change": "-3",
+          "changePercent": "-0.22%"
+        },
+        {
+          "code": "3865",
+          "name": "北越コーポ",
+          "market": "東Ｐ",
+          "price": "854",
+          "change": "-3",
+          "changePercent": "-0.35%"
+        },
+        {
+          "code": "3880",
+          "name": "大王紙",
+          "market": "東Ｐ",
+          "price": "933",
+          "change": "-9",
+          "changePercent": "-0.96%"
         },
         {
           "code": "3891",
           "name": "高度紙",
           "market": "東Ｓ",
-          "price": "8,120",
-          "change": "-500",
-          "changePercent": "-5.80%"
+          "price": "7,970",
+          "change": "-150",
+          "changePercent": "-1.85%"
         },
         {
           "code": "3954",
@@ -3266,11 +3266,6 @@ window.sectorData = {
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 615.38,
-          "changePercent": -0.9
-        },
         {
           "date": "20260625",
           "price": 623.59,
@@ -3315,6 +3310,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 648.89,
           "changePercent": -0.17
+        },
+        {
+          "date": "20260708",
+          "price": 651.95,
+          "changePercent": 0.47
         }
       ]
     },
@@ -3322,431 +3322,551 @@ window.sectorData = {
       "id": "3200",
       "nameJa": "化学",
       "nameEn": "Chemicals",
-      "price": 3244.55,
-      "change": "-69.20",
-      "changePercent": -2.09,
+      "price": 3191.44,
+      "change": "-53.11",
+      "changePercent": -1.64,
       "stocks": [
         {
-          "code": "4125",
-          "name": "三和油化工業",
+          "code": "4935",
+          "name": "リベルタ",
           "market": "東Ｓ",
-          "price": "3,490",
+          "price": "379",
+          "change": "+70",
+          "changePercent": "+22.65%"
+        },
+        {
+          "code": "4968",
+          "name": "荒川化",
+          "market": "東Ｐ",
+          "price": "2,101",
+          "change": "+150",
+          "changePercent": "+7.69%"
+        },
+        {
+          "code": "4933",
+          "name": "Ｉｎｅ",
+          "market": "東Ｐ",
+          "price": "1,228",
+          "change": "+50",
+          "changePercent": "+4.24%"
+        },
+        {
+          "code": "4918",
+          "name": "アイビー",
+          "market": "東Ｓ",
+          "price": "348",
+          "change": "+10",
+          "changePercent": "+2.96%"
+        },
+        {
+          "code": "4212",
+          "name": "積水樹",
+          "market": "東Ｐ",
+          "price": "2,772",
+          "change": "+78",
+          "changePercent": "+2.90%"
+        },
+        {
+          "code": "2930",
+          "name": "北の達人",
+          "market": "東Ｐ",
+          "price": "129",
+          "change": "+3",
+          "changePercent": "+2.38%"
+        },
+        {
+          "code": "7950",
+          "name": "日デコラ",
+          "market": "名Ｍ",
+          "price": "9,000",
           "change": "+190",
-          "changePercent": "+5.76%"
+          "changePercent": "+2.16%"
+        },
+        {
+          "code": "7886",
+          "name": "ヤマトモビＭ",
+          "market": "東Ｓ",
+          "price": "733",
+          "change": "+15",
+          "changePercent": "+2.09%"
+        },
+        {
+          "code": "4120",
+          "name": "スガイ",
+          "market": "東Ｓ",
+          "price": "3,205",
+          "change": "+65",
+          "changePercent": "+2.07%"
+        },
+        {
+          "code": "7877",
+          "name": "永大化工",
+          "market": "東Ｓ",
+          "price": "2,080",
+          "change": "+40",
+          "changePercent": "+1.96%"
+        },
+        {
+          "code": "4625",
+          "name": "アトミクス",
+          "market": "東Ｓ",
+          "price": "785",
+          "change": "+15",
+          "changePercent": "+1.95%"
+        },
+        {
+          "code": "4119",
+          "name": "日ピグＨＤ",
+          "market": "東Ｓ",
+          "price": "5,620",
+          "change": "+100",
+          "changePercent": "+1.81%"
+        },
+        {
+          "code": "9845",
+          "name": "パーカー",
+          "market": "東Ｓ",
+          "price": "1,422",
+          "change": "+20",
+          "changePercent": "+1.43%"
+        },
+        {
+          "code": "9385",
+          "name": "ショーエイ",
+          "market": "東Ｓ",
+          "price": "756",
+          "change": "+10",
+          "changePercent": "+1.34%"
+        },
+        {
+          "code": "4998",
+          "name": "フマキラ",
+          "market": "東Ｓ",
+          "price": "1,178",
+          "change": "+15",
+          "changePercent": "+1.29%"
+        },
+        {
+          "code": "4247",
+          "name": "ポバール興業",
+          "market": "東Ｓ",
+          "price": "1,350",
+          "change": "+17",
+          "changePercent": "+1.28%"
+        },
+        {
+          "code": "4102",
+          "name": "丸尾カル",
+          "market": "東Ｓ",
+          "price": "1,450",
+          "change": "+17",
+          "changePercent": "+1.19%"
+        },
+        {
+          "code": "4452",
+          "name": "花王",
+          "market": "東Ｐ",
+          "price": "3,337.0",
+          "change": "+36.0",
+          "changePercent": "+1.09%"
+        },
+        {
+          "code": "4005",
+          "name": "住友化",
+          "market": "東Ｐ",
+          "price": "541.3",
+          "change": "+5.5",
+          "changePercent": "+1.03%"
+        },
+        {
+          "code": "4221",
+          "name": "大倉工",
+          "market": "東Ｐ",
+          "price": "4,950",
+          "change": "+50",
+          "changePercent": "+1.02%"
+        },
+        {
+          "code": "4951",
+          "name": "エステー",
+          "market": "東Ｐ",
+          "price": "1,531",
+          "change": "+15",
+          "changePercent": "+0.99%"
+        },
+        {
+          "code": "4912",
+          "name": "ライオン",
+          "market": "東Ｐ",
+          "price": "1,742.0",
+          "change": "+16.5",
+          "changePercent": "+0.96%"
+        },
+        {
+          "code": "4189",
+          "name": "ＫＨネオケム",
+          "market": "東Ｐ",
+          "price": "2,954",
+          "change": "+26",
+          "changePercent": "+0.89%"
+        },
+        {
+          "code": "4936",
+          "name": "アクシージア",
+          "market": "東Ｓ",
+          "price": "345",
+          "change": "+3",
+          "changePercent": "+0.88%"
+        },
+        {
+          "code": "4367",
+          "name": "広栄化学",
+          "market": "東Ｓ",
+          "price": "2,643",
+          "change": "+22",
+          "changePercent": "+0.84%"
+        },
+        {
+          "code": "4362",
+          "name": "日精化",
+          "market": "東Ｐ",
+          "price": "2,595",
+          "change": "+21",
+          "changePercent": "+0.82%"
+        },
+        {
+          "code": "4979",
+          "name": "ＯＡＴアグリ",
+          "market": "東Ｓ",
+          "price": "2,516",
+          "change": "+19",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "6776",
+          "name": "天昇電",
+          "market": "東Ｓ",
+          "price": "272",
+          "change": "+2",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "7928",
+          "name": "旭化学",
+          "market": "東Ｓ",
+          "price": "629",
+          "change": "+4",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "4623",
+          "name": "アサヒペン",
+          "market": "東Ｓ",
+          "price": "1,720",
+          "change": "+10",
+          "changePercent": "+0.58%"
+        },
+        {
+          "code": "4929",
+          "name": "アジュバン",
+          "market": "東Ｓ",
+          "price": "735",
+          "change": "+4",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "4218",
+          "name": "ニチバン",
+          "market": "東Ｐ",
+          "price": "1,913",
+          "change": "+10",
+          "changePercent": "+0.53%"
+        },
+        {
+          "code": "4633",
+          "name": "サカタＩＮＸ",
+          "market": "東Ｐ",
+          "price": "2,400",
+          "change": "+12",
+          "changePercent": "+0.50%"
+        },
+        {
+          "code": "4624",
+          "name": "イサム",
+          "market": "東Ｓ",
+          "price": "3,455",
+          "change": "+15",
+          "changePercent": "+0.44%"
+        },
+        {
+          "code": "4928",
+          "name": "ノエビアＨＤ",
+          "market": "東Ｐ",
+          "price": "4,580",
+          "change": "+20",
+          "changePercent": "+0.44%"
+        },
+        {
+          "code": "4956",
+          "name": "コニシ",
+          "market": "東Ｐ",
+          "price": "1,446",
+          "change": "+6",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "4248",
+          "name": "竹本容器",
+          "market": "東Ｓ",
+          "price": "867",
+          "change": "+3",
+          "changePercent": "+0.35%"
+        },
+        {
+          "code": "4361",
+          "name": "川口化",
+          "market": "東Ｓ",
+          "price": "1,496",
+          "change": "+5",
+          "changePercent": "+0.34%"
+        },
+        {
+          "code": "4958",
+          "name": "長谷川香料",
+          "market": "東Ｐ",
+          "price": "3,250",
+          "change": "+10",
+          "changePercent": "+0.31%"
+        },
+        {
+          "code": "4246",
+          "name": "ＤＮＣ",
+          "market": "東Ｐ",
+          "price": "1,014",
+          "change": "+3",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "4365",
+          "name": "松本油脂",
+          "market": "東Ｓ",
+          "price": "20,110",
+          "change": "+60",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "4216",
+          "name": "旭有機材",
+          "market": "東Ｐ",
+          "price": "6,800",
+          "change": "+20",
+          "changePercent": "+0.29%"
+        },
+        {
+          "code": "4635",
+          "name": "東インキ",
+          "market": "東Ｓ",
+          "price": "1,379",
+          "change": "+4",
+          "changePercent": "+0.29%"
+        },
+        {
+          "code": "4116",
+          "name": "大日精",
+          "market": "東Ｐ",
+          "price": "1,077",
+          "change": "+3",
+          "changePercent": "+0.28%"
+        },
+        {
+          "code": "4931",
+          "name": "新日本製薬",
+          "market": "東Ｐ",
+          "price": "2,035",
+          "change": "+5",
+          "changePercent": "+0.25%"
+        },
+        {
+          "code": "4926",
+          "name": "シーボン",
+          "market": "東Ｓ",
+          "price": "1,238",
+          "change": "+3",
+          "changePercent": "+0.24%"
+        },
+        {
+          "code": "4967",
+          "name": "小林製薬",
+          "market": "東Ｐ",
+          "price": "5,727",
+          "change": "+12",
+          "changePercent": "+0.21%"
+        },
+        {
+          "code": "4082",
+          "name": "稀元素",
+          "market": "東Ｐ",
+          "price": "2,005",
+          "change": "+4",
+          "changePercent": "+0.20%"
+        },
+        {
+          "code": "4914",
+          "name": "高砂香",
+          "market": "東Ｐ",
+          "price": "1,159",
+          "change": "+2",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "4925",
+          "name": "ハーバー研",
+          "market": "東Ｓ",
+          "price": "1,732",
+          "change": "+3",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "4934",
+          "name": "Ｐアンチエイ",
+          "market": "東Ｇ",
+          "price": "631",
+          "change": "+1",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "4611",
+          "name": "大日塗",
+          "market": "東Ｐ",
+          "price": "1,380",
+          "change": "+2",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "4919",
+          "name": "ミルボン",
+          "market": "東Ｐ",
+          "price": "2,818",
+          "change": "+4",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "4996",
+          "name": "クミアイ化",
+          "market": "東Ｐ",
+          "price": "719",
+          "change": "+1",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "4631",
+          "name": "ＤＩＣ",
+          "market": "東Ｐ",
+          "price": "4,785",
+          "change": "+6",
+          "changePercent": "+0.13%"
+        },
+        {
+          "code": "4224",
+          "name": "ロンシール",
+          "market": "東Ｓ",
+          "price": "2,011",
+          "change": "+2",
+          "changePercent": "+0.10%"
         },
         {
           "code": "4616",
           "name": "川上塗",
           "market": "東Ｓ",
-          "price": "1,911",
-          "change": "+71",
-          "changePercent": "+3.86%"
+          "price": "1,913",
+          "change": "+2",
+          "changePercent": "+0.10%"
         },
         {
-          "code": "4923",
-          "name": "ＣＯＴＡ",
+          "code": "542A",
+          "name": "ビタブリッド",
+          "market": "東Ｇ",
+          "price": "991",
+          "change": "+1",
+          "changePercent": "+0.10%"
+        },
+        {
+          "code": "4927",
+          "name": "ポーラＨＤ",
           "market": "東Ｐ",
-          "price": "1,206",
-          "change": "+23",
-          "changePercent": "+1.94%"
+          "price": "1,342.5",
+          "change": "+0.5",
+          "changePercent": "+0.04%"
         },
         {
-          "code": "4235",
-          "name": "ＵＦＨＤ",
+          "code": "4094",
+          "name": "日化産",
           "market": "東Ｓ",
-          "price": "668",
-          "change": "+12",
-          "changePercent": "+1.83%"
+          "price": "2,089",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "4114",
+          "name": "日触媒",
+          "market": "東Ｐ",
+          "price": "2,088.0",
+          "change": "0.0",
+          "changePercent": "0.00%"
         },
         {
           "code": "4234",
           "name": "サンエー化研",
           "market": "東Ｓ",
           "price": "699",
-          "change": "+12",
-          "changePercent": "+1.75%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "4979",
-          "name": "ＯＡＴアグリ",
+          "code": "4242",
+          "name": "タカギセイコ",
           "market": "東Ｓ",
-          "price": "2,497",
-          "change": "+39",
-          "changePercent": "+1.59%"
-        },
-        {
-          "code": "4625",
-          "name": "アトミクス",
-          "market": "東Ｓ",
-          "price": "770",
-          "change": "+10",
-          "changePercent": "+1.32%"
-        },
-        {
-          "code": "4972",
-          "name": "綜研化学",
-          "market": "東Ｓ",
-          "price": "3,585",
-          "change": "+45",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "4931",
-          "name": "新日本製薬",
-          "market": "東Ｐ",
-          "price": "2,030",
-          "change": "+23",
-          "changePercent": "+1.15%"
-        },
-        {
-          "code": "4967",
-          "name": "小林製薬",
-          "market": "東Ｐ",
-          "price": "5,715",
-          "change": "+65",
-          "changePercent": "+1.15%"
-        },
-        {
-          "code": "542A",
-          "name": "ビタブリッド",
-          "market": "東Ｇ",
-          "price": "990",
-          "change": "+11",
-          "changePercent": "+1.12%"
-        },
-        {
-          "code": "4928",
-          "name": "ノエビアＨＤ",
-          "market": "東Ｐ",
-          "price": "4,560",
-          "change": "+50",
-          "changePercent": "+1.11%"
-        },
-        {
-          "code": "7931",
-          "name": "未来工業",
-          "market": "東Ｐ",
-          "price": "3,215",
-          "change": "+35",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "4920",
-          "name": "日本色材",
-          "market": "東Ｓ",
-          "price": "1,150",
-          "change": "+12",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "4911",
-          "name": "資生堂",
-          "market": "東Ｐ",
-          "price": "2,841.0",
-          "change": "+28.5",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "4994",
-          "name": "大成ラミック",
-          "market": "東Ｓ",
-          "price": "2,439",
-          "change": "+24",
-          "changePercent": "+0.99%"
-        },
-        {
-          "code": "4240",
-          "name": "クラスター",
-          "market": "東Ｓ",
-          "price": "320",
-          "change": "+3",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "4097",
-          "name": "高圧ガス",
-          "market": "東Ｐ",
-          "price": "1,126",
-          "change": "+10",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "4218",
-          "name": "ニチバン",
-          "market": "東Ｐ",
-          "price": "1,903",
-          "change": "+17",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "4925",
-          "name": "ハーバー研",
-          "market": "東Ｓ",
-          "price": "1,729",
-          "change": "+15",
-          "changePercent": "+0.88%"
-        },
-        {
-          "code": "4951",
-          "name": "エステー",
-          "market": "東Ｐ",
-          "price": "1,516",
-          "change": "+13",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "4922",
-          "name": "コーセーＨＤ",
-          "market": "東Ｐ",
-          "price": "5,462",
-          "change": "+45",
-          "changePercent": "+0.83%"
-        },
-        {
-          "code": "4612",
-          "name": "日本ペＨＤ",
-          "market": "東Ｐ",
-          "price": "1,102.5",
-          "change": "+9.0",
-          "changePercent": "+0.82%"
+          "price": "1,760",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "4615",
           "name": "神東塗",
           "market": "東Ｓ",
           "price": "128",
-          "change": "+1",
-          "changePercent": "+0.79%"
-        },
-        {
-          "code": "4978",
-          "name": "リプロセル",
-          "market": "東Ｇ",
-          "price": "127",
-          "change": "+1",
-          "changePercent": "+0.79%"
-        },
-        {
-          "code": "4212",
-          "name": "積水樹",
-          "market": "東Ｐ",
-          "price": "2,694",
-          "change": "+20",
-          "changePercent": "+0.75%"
-        },
-        {
-          "code": "7971",
-          "name": "東リ",
-          "market": "東Ｓ",
-          "price": "668",
-          "change": "+5",
-          "changePercent": "+0.75%"
-        },
-        {
-          "code": "4624",
-          "name": "イサム",
-          "market": "東Ｓ",
-          "price": "3,440",
-          "change": "+25",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "7886",
-          "name": "ヤマトモビＭ",
-          "market": "東Ｓ",
-          "price": "718",
-          "change": "+5",
-          "changePercent": "+0.70%"
-        },
-        {
-          "code": "4901",
-          "name": "富士フイルム",
-          "market": "東Ｐ",
-          "price": "3,646.0",
-          "change": "+24.0",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "4985",
-          "name": "アース製薬",
-          "market": "東Ｐ",
-          "price": "4,830",
-          "change": "+30",
-          "changePercent": "+0.63%"
-        },
-        {
-          "code": "4040",
-          "name": "南海化学",
-          "market": "東Ｓ",
-          "price": "3,670",
-          "change": "+20",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "7877",
-          "name": "永大化工",
-          "market": "東Ｓ",
-          "price": "2,040",
-          "change": "+10",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "4465",
-          "name": "ニイタカ",
-          "market": "東Ｓ",
-          "price": "2,196",
-          "change": "+10",
-          "changePercent": "+0.46%"
-        },
-        {
-          "code": "4977",
-          "name": "新田ゼラチン",
-          "market": "東Ｓ",
-          "price": "1,355",
-          "change": "+6",
-          "changePercent": "+0.44%"
-        },
-        {
-          "code": "7871",
-          "name": "フクビ",
-          "market": "東Ｓ",
-          "price": "934",
-          "change": "+4",
-          "changePercent": "+0.43%"
-        },
-        {
-          "code": "4927",
-          "name": "ポーラＨＤ",
-          "market": "東Ｐ",
-          "price": "1,342.0",
-          "change": "+5.5",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "4243",
-          "name": "ニックス",
-          "market": "東Ｓ",
-          "price": "916",
-          "change": "+3",
-          "changePercent": "+0.33%"
-        },
-        {
-          "code": "4241",
-          "name": "アテクト",
-          "market": "東Ｓ",
-          "price": "643",
-          "change": "+2",
-          "changePercent": "+0.31%"
-        },
-        {
-          "code": "8113",
-          "name": "ユニチャーム",
-          "market": "東Ｐ",
-          "price": "993.1",
-          "change": "+3.1",
-          "changePercent": "+0.31%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "4932",
           "name": "アルマード",
           "market": "東Ｓ",
           "price": "692",
-          "change": "+2",
-          "changePercent": "+0.29%"
-        },
-        {
-          "code": "4361",
-          "name": "川口化",
-          "market": "東Ｓ",
-          "price": "1,491",
-          "change": "+4",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "4231",
-          "name": "タイガポリ",
-          "market": "東Ｓ",
-          "price": "1,033",
-          "change": "+2",
-          "changePercent": "+0.19%"
-        },
-        {
-          "code": "4124",
-          "name": "大阪油化",
-          "market": "東Ｓ",
-          "price": "2,720",
-          "change": "+5",
-          "changePercent": "+0.18%"
-        },
-        {
-          "code": "7928",
-          "name": "旭化学",
-          "market": "東Ｓ",
-          "price": "625",
-          "change": "+1",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "4102",
-          "name": "丸尾カル",
-          "market": "東Ｓ",
-          "price": "1,433",
-          "change": "+2",
-          "changePercent": "+0.14%"
-        },
-        {
-          "code": "4464",
-          "name": "ソフト９９",
-          "market": "東Ｓ",
-          "price": "3,610",
-          "change": "+5",
-          "changePercent": "+0.14%"
-        },
-        {
-          "code": "177A",
-          "name": "コージンＢ",
-          "market": "東Ｇ",
-          "price": "866",
-          "change": "+1",
-          "changePercent": "+0.12%"
-        },
-        {
-          "code": "4627",
-          "name": "ナトコ",
-          "market": "東Ｓ",
-          "price": "1,775",
-          "change": "+2",
-          "changePercent": "+0.11%"
-        },
-        {
-          "code": "4926",
-          "name": "シーボン",
-          "market": "東Ｓ",
-          "price": "1,235",
-          "change": "+1",
-          "changePercent": "+0.08%"
-        },
-        {
-          "code": "4098",
-          "name": "チタン",
-          "market": "東Ｓ",
-          "price": "1,046",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "4409",
-          "name": "東邦化",
+          "code": "4976",
+          "name": "東洋ドライ",
           "market": "東Ｓ",
-          "price": "736",
+          "price": "1,300",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "4919",
-          "name": "ミルボン",
-          "market": "東Ｐ",
-          "price": "2,814",
+          "code": "4990",
+          "name": "昭和化",
+          "market": "東Ｓ",
+          "price": "507",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "4994",
+          "name": "大成ラミック",
+          "market": "東Ｓ",
+          "price": "2,439",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -3759,780 +3879,655 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "7908",
-          "name": "ＫＩＭＯＴＯ",
+          "code": "7940",
+          "name": "ウェーブＨＤ",
           "market": "東Ｓ",
-          "price": "236",
+          "price": "1,057",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "4976",
-          "name": "東洋ドライ",
-          "market": "東Ｓ",
-          "price": "1,300",
-          "change": "-1",
-          "changePercent": "-0.08%"
-        },
-        {
-          "code": "5142",
-          "name": "アキレス",
+          "code": "4612",
+          "name": "日本ペＨＤ",
           "market": "東Ｐ",
-          "price": "1,201",
-          "change": "-1",
-          "changePercent": "-0.08%"
+          "price": "1,102.0",
+          "change": "-0.5",
+          "changePercent": "-0.05%"
         },
         {
-          "code": "7940",
-          "name": "ウェーブＨＤ",
+          "code": "4627",
+          "name": "ナトコ",
+          "market": "東Ｓ",
+          "price": "1,774",
+          "change": "-1",
+          "changePercent": "-0.06%"
+        },
+        {
+          "code": "4031",
+          "name": "片倉コープ",
           "market": "東Ｓ",
           "price": "1,057",
           "change": "-1",
           "changePercent": "-0.09%"
         },
         {
-          "code": "3101",
-          "name": "東洋紡",
-          "market": "東Ｐ",
-          "price": "1,820",
-          "change": "-2",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "4205",
-          "name": "ゼオン",
-          "market": "東Ｐ",
-          "price": "2,341.5",
-          "change": "-2.5",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "4220",
-          "name": "リケンテクノ",
-          "market": "東Ｐ",
-          "price": "1,802",
-          "change": "-2",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "4934",
-          "name": "Ｐアンチエイ",
-          "market": "東Ｇ",
-          "price": "630",
-          "change": "-1",
-          "changePercent": "-0.16%"
-        },
-        {
-          "code": "4912",
-          "name": "ライオン",
-          "market": "東Ｐ",
-          "price": "1,725.5",
-          "change": "-3.5",
-          "changePercent": "-0.20%"
-        },
-        {
-          "code": "4956",
-          "name": "コニシ",
-          "market": "東Ｐ",
-          "price": "1,440",
-          "change": "-3",
-          "changePercent": "-0.21%"
-        },
-        {
-          "code": "4628",
-          "name": "エスケー化研",
-          "market": "東Ｓ",
-          "price": "9,150",
-          "change": "-20",
-          "changePercent": "-0.22%"
-        },
-        {
-          "code": "3553",
-          "name": "共和レ",
-          "market": "東Ｓ",
-          "price": "881",
-          "change": "-2",
-          "changePercent": "-0.23%"
-        },
-        {
-          "code": "4365",
-          "name": "松本油脂",
-          "market": "東Ｓ",
-          "price": "20,050",
-          "change": "-50",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "4613",
-          "name": "関西ペ",
-          "market": "東Ｐ",
-          "price": "2,791.0",
-          "change": "-7.5",
-          "changePercent": "-0.27%"
-        },
-        {
-          "code": "4206",
-          "name": "アイカ",
-          "market": "東Ｐ",
-          "price": "3,726",
-          "change": "-11",
-          "changePercent": "-0.29%"
-        },
-        {
-          "code": "4936",
-          "name": "アクシージア",
-          "market": "東Ｓ",
-          "price": "342",
-          "change": "-1",
-          "changePercent": "-0.29%"
-        },
-        {
-          "code": "4221",
-          "name": "大倉工",
-          "market": "東Ｐ",
-          "price": "4,900",
-          "change": "-15",
-          "changePercent": "-0.31%"
-        },
-        {
-          "code": "4958",
-          "name": "長谷川香料",
-          "market": "東Ｐ",
-          "price": "3,240",
-          "change": "-10",
-          "changePercent": "-0.31%"
-        },
-        {
-          "code": "4224",
-          "name": "ロンシール",
-          "market": "東Ｓ",
-          "price": "2,009",
-          "change": "-7",
-          "changePercent": "-0.35%"
-        },
-        {
-          "code": "4626",
-          "name": "太陽ＨＤ",
-          "market": "東Ｐ",
-          "price": "4,937",
-          "change": "-18",
-          "changePercent": "-0.36%"
-        },
-        {
-          "code": "7988",
-          "name": "ニフコ",
-          "market": "東Ｐ",
-          "price": "5,143",
-          "change": "-20",
-          "changePercent": "-0.39%"
-        },
-        {
           "code": "4272",
           "name": "日化薬",
           "market": "東Ｐ",
-          "price": "2,013.5",
-          "change": "-8.0",
-          "changePercent": "-0.40%"
+          "price": "2,011.5",
+          "change": "-2.0",
+          "changePercent": "-0.10%"
         },
         {
-          "code": "4095",
-          "name": "パーカライ",
+          "code": "4025",
+          "name": "多木化",
           "market": "東Ｐ",
-          "price": "1,699",
-          "change": "-7",
-          "changePercent": "-0.41%"
-        },
-        {
-          "code": "4929",
-          "name": "アジュバン",
-          "market": "東Ｓ",
-          "price": "731",
-          "change": "-3",
-          "changePercent": "-0.41%"
-        },
-        {
-          "code": "7947",
-          "name": "エフピコ",
-          "market": "東Ｐ",
-          "price": "2,626",
-          "change": "-12",
-          "changePercent": "-0.45%"
-        },
-        {
-          "code": "4248",
-          "name": "竹本容器",
-          "market": "東Ｓ",
-          "price": "864",
-          "change": "-4",
-          "changePercent": "-0.46%"
-        },
-        {
-          "code": "4362",
-          "name": "日精化",
-          "market": "東Ｐ",
-          "price": "2,574",
-          "change": "-13",
-          "changePercent": "-0.50%"
-        },
-        {
-          "code": "4403",
-          "name": "日油",
-          "market": "東Ｐ",
-          "price": "2,826.5",
-          "change": "-15.5",
-          "changePercent": "-0.55%"
-        },
-        {
-          "code": "4996",
-          "name": "クミアイ化",
-          "market": "東Ｐ",
-          "price": "718",
-          "change": "-4",
-          "changePercent": "-0.55%"
-        },
-        {
-          "code": "6988",
-          "name": "日東電",
-          "market": "東Ｐ",
-          "price": "3,213.0",
-          "change": "-18.0",
-          "changePercent": "-0.56%"
-        },
-        {
-          "code": "4094",
-          "name": "日化産",
-          "market": "東Ｓ",
-          "price": "2,089",
-          "change": "-12",
-          "changePercent": "-0.57%"
-        },
-        {
-          "code": "4619",
-          "name": "日特塗",
-          "market": "東Ｓ",
-          "price": "2,411",
-          "change": "-14",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "4623",
-          "name": "アサヒペン",
-          "market": "東Ｓ",
-          "price": "1,710",
-          "change": "-10",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "4023",
-          "name": "クレハ",
-          "market": "東Ｐ",
-          "price": "4,115",
-          "change": "-25",
-          "changePercent": "-0.60%"
-        },
-        {
-          "code": "4633",
-          "name": "サカタＩＮＸ",
-          "market": "東Ｐ",
-          "price": "2,388",
-          "change": "-15",
-          "changePercent": "-0.62%"
-        },
-        {
-          "code": "7888",
-          "name": "三光合成",
-          "market": "東Ｐ",
-          "price": "767",
+          "price": "4,725",
           "change": "-5",
-          "changePercent": "-0.65%"
-        },
-        {
-          "code": "4031",
-          "name": "片倉コープ",
-          "market": "東Ｓ",
-          "price": "1,058",
-          "change": "-7",
-          "changePercent": "-0.66%"
-        },
-        {
-          "code": "4611",
-          "name": "大日塗",
-          "market": "東Ｐ",
-          "price": "1,378",
-          "change": "-10",
-          "changePercent": "-0.72%"
-        },
-        {
-          "code": "4116",
-          "name": "大日精",
-          "market": "東Ｐ",
-          "price": "1,074",
-          "change": "-8",
-          "changePercent": "-0.74%"
-        },
-        {
-          "code": "6776",
-          "name": "天昇電",
-          "market": "東Ｓ",
-          "price": "270",
-          "change": "-2",
-          "changePercent": "-0.74%"
-        },
-        {
-          "code": "373A",
-          "name": "リップス",
-          "market": "東Ｇ",
-          "price": "1,524",
-          "change": "-12",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "4249",
-          "name": "森六",
-          "market": "東Ｐ",
-          "price": "2,402",
-          "change": "-19",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "4452",
-          "name": "花王",
-          "market": "東Ｐ",
-          "price": "3,301.0",
-          "change": "-26.0",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "4242",
-          "name": "タカギセイコ",
-          "market": "東Ｓ",
-          "price": "1,760",
-          "change": "-14",
-          "changePercent": "-0.79%"
-        },
-        {
-          "code": "4617",
-          "name": "中国塗",
-          "market": "東Ｐ",
-          "price": "3,775",
-          "change": "-30",
-          "changePercent": "-0.79%"
-        },
-        {
-          "code": "4937",
-          "name": "ワクー",
-          "market": "東Ｇ",
-          "price": "1,473",
-          "change": "-12",
-          "changePercent": "-0.81%"
-        },
-        {
-          "code": "4998",
-          "name": "フマキラ",
-          "market": "東Ｓ",
-          "price": "1,163",
-          "change": "-10",
-          "changePercent": "-0.85%"
-        },
-        {
-          "code": "7927",
-          "name": "ムトー精工",
-          "market": "東Ｓ",
-          "price": "2,210",
-          "change": "-20",
-          "changePercent": "-0.90%"
-        },
-        {
-          "code": "4093",
-          "name": "アセチレン",
-          "market": "東Ｓ",
-          "price": "422",
-          "change": "-4",
-          "changePercent": "-0.94%"
-        },
-        {
-          "code": "3407",
-          "name": "旭化成",
-          "market": "東Ｐ",
-          "price": "1,881.5",
-          "change": "-19.5",
-          "changePercent": "-1.03%"
-        },
-        {
-          "code": "4914",
-          "name": "高砂香",
-          "market": "東Ｐ",
-          "price": "1,157",
-          "change": "-12",
-          "changePercent": "-1.03%"
-        },
-        {
-          "code": "4204",
-          "name": "積水化",
-          "market": "東Ｐ",
-          "price": "2,655.0",
-          "change": "-28.0",
-          "changePercent": "-1.04%"
-        },
-        {
-          "code": "4960",
-          "name": "ケミプロ",
-          "market": "東Ｓ",
-          "price": "560",
-          "change": "-6",
-          "changePercent": "-1.06%"
-        },
-        {
-          "code": "4228",
-          "name": "積化成",
-          "market": "東Ｐ",
-          "price": "530",
-          "change": "-6",
-          "changePercent": "-1.12%"
-        },
-        {
-          "code": "4188",
-          "name": "三菱ケミＧ",
-          "market": "東Ｐ",
-          "price": "1,193.5",
-          "change": "-14.0",
-          "changePercent": "-1.16%"
-        },
-        {
-          "code": "4245",
-          "name": "Ｄ・アクシス",
-          "market": "東Ｓ",
-          "price": "676",
-          "change": "-8",
-          "changePercent": "-1.17%"
-        },
-        {
-          "code": "4027",
-          "name": "テイカ",
-          "market": "東Ｐ",
-          "price": "2,351",
-          "change": "-29",
-          "changePercent": "-1.22%"
-        },
-        {
-          "code": "4634",
-          "name": "ａｒｔｉｅｎ",
-          "market": "東Ｐ",
-          "price": "4,320",
-          "change": "-55",
-          "changePercent": "-1.26%"
-        },
-        {
-          "code": "4246",
-          "name": "ＤＮＣ",
-          "market": "東Ｐ",
-          "price": "1,011",
-          "change": "-13",
-          "changePercent": "-1.27%"
-        },
-        {
-          "code": "4531",
-          "name": "有機薬",
-          "market": "東Ｓ",
-          "price": "363",
-          "change": "-5",
-          "changePercent": "-1.36%"
-        },
-        {
-          "code": "4990",
-          "name": "昭和化",
-          "market": "東Ｓ",
-          "price": "507",
-          "change": "-7",
-          "changePercent": "-1.36%"
-        },
-        {
-          "code": "4114",
-          "name": "日触媒",
-          "market": "東Ｐ",
-          "price": "2,088.0",
-          "change": "-29.0",
-          "changePercent": "-1.37%"
-        },
-        {
-          "code": "4251",
-          "name": "恵和",
-          "market": "東Ｐ",
-          "price": "1,190",
-          "change": "-17",
-          "changePercent": "-1.41%"
-        },
-        {
-          "code": "4635",
-          "name": "東インキ",
-          "market": "東Ｓ",
-          "price": "1,375",
-          "change": "-20",
-          "changePercent": "-1.43%"
+          "changePercent": "-0.11%"
         },
         {
           "code": "4629",
           "name": "大伸化学",
           "market": "東Ｓ",
-          "price": "1,802",
-          "change": "-27",
-          "changePercent": "-1.48%"
+          "price": "1,800",
+          "change": "-2",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "4023",
+          "name": "クレハ",
+          "market": "東Ｐ",
+          "price": "4,110",
+          "change": "-5",
+          "changePercent": "-0.12%"
+        },
+        {
+          "code": "8113",
+          "name": "ユニチャーム",
+          "market": "東Ｐ",
+          "price": "991.9",
+          "change": "-1.2",
+          "changePercent": "-0.12%"
         },
         {
           "code": "4041",
           "name": "日曹達",
           "market": "東Ｐ",
-          "price": "3,630",
-          "change": "-55",
-          "changePercent": "-1.49%"
-        },
-        {
-          "code": "3405",
-          "name": "クラレ",
-          "market": "東Ｐ",
-          "price": "1,704.5",
-          "change": "-26.0",
-          "changePercent": "-1.50%"
-        },
-        {
-          "code": "4208",
-          "name": "ＵＢＥ",
-          "market": "東Ｐ",
-          "price": "3,212.0",
-          "change": "-49.0",
-          "changePercent": "-1.50%"
-        },
-        {
-          "code": "4401",
-          "name": "ＡＤＥＫＡ",
-          "market": "東Ｐ",
-          "price": "4,189",
-          "change": "-64",
-          "changePercent": "-1.50%"
-        },
-        {
-          "code": "4631",
-          "name": "ＤＩＣ",
-          "market": "東Ｐ",
-          "price": "4,779",
-          "change": "-73",
-          "changePercent": "-1.50%"
-        },
-        {
-          "code": "4202",
-          "name": "ダイセル",
-          "market": "東Ｐ",
-          "price": "1,411.0",
-          "change": "-22.0",
-          "changePercent": "-1.54%"
-        },
-        {
-          "code": "4183",
-          "name": "三井化学",
-          "market": "東Ｐ",
-          "price": "2,157.5",
-          "change": "-34.0",
-          "changePercent": "-1.55%"
-        },
-        {
-          "code": "4189",
-          "name": "ＫＨネオケム",
-          "market": "東Ｐ",
-          "price": "2,928",
-          "change": "-46",
-          "changePercent": "-1.55%"
-        },
-        {
-          "code": "2930",
-          "name": "北の達人",
-          "market": "東Ｐ",
-          "price": "126",
-          "change": "-2",
-          "changePercent": "-1.56%"
+          "price": "3,625",
+          "change": "-5",
+          "changePercent": "-0.14%"
         },
         {
           "code": "4118",
           "name": "カネカ",
           "market": "東Ｐ",
-          "price": "5,666",
-          "change": "-91",
-          "changePercent": "-1.58%"
+          "price": "5,658",
+          "change": "-8",
+          "changePercent": "-0.14%"
         },
         {
-          "code": "9385",
-          "name": "ショーエイ",
+          "code": "4409",
+          "name": "東邦化",
           "market": "東Ｓ",
-          "price": "746",
-          "change": "-12",
-          "changePercent": "-1.58%"
+          "price": "735",
+          "change": "-1",
+          "changePercent": "-0.14%"
         },
         {
-          "code": "4933",
-          "name": "Ｉｎｅ",
+          "code": "4626",
+          "name": "太陽ＨＤ",
           "market": "東Ｐ",
-          "price": "1,178",
-          "change": "-19",
-          "changePercent": "-1.59%"
+          "price": "4,930",
+          "change": "-7",
+          "changePercent": "-0.14%"
         },
         {
-          "code": "4247",
-          "name": "ポバール興業",
+          "code": "4124",
+          "name": "大阪油化",
           "market": "東Ｓ",
-          "price": "1,333",
-          "change": "-22",
-          "changePercent": "-1.62%"
+          "price": "2,716",
+          "change": "-4",
+          "changePercent": "-0.15%"
         },
         {
-          "code": "4045",
-          "name": "東合成",
-          "market": "東Ｐ",
-          "price": "1,755.0",
-          "change": "-29.0",
-          "changePercent": "-1.63%"
+          "code": "4619",
+          "name": "日特塗",
+          "market": "東Ｓ",
+          "price": "2,407",
+          "change": "-4",
+          "changePercent": "-0.17%"
         },
         {
-          "code": "4203",
-          "name": "住友ベ",
+          "code": "4206",
+          "name": "アイカ",
           "market": "東Ｐ",
-          "price": "7,223",
-          "change": "-126",
-          "changePercent": "-1.71%"
+          "price": "3,718",
+          "change": "-8",
+          "changePercent": "-0.21%"
         },
         {
-          "code": "4410",
-          "name": "ハリマ化成Ｇ",
+          "code": "3405",
+          "name": "クラレ",
           "market": "東Ｐ",
+          "price": "1,700.0",
+          "change": "-4.5",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "4464",
+          "name": "ソフト９９",
+          "market": "東Ｓ",
+          "price": "3,600",
+          "change": "-10",
+          "changePercent": "-0.28%"
+        },
+        {
+          "code": "4231",
+          "name": "タイガポリ",
+          "market": "東Ｓ",
           "price": "1,030",
-          "change": "-18",
-          "changePercent": "-1.72%"
+          "change": "-3",
+          "changePercent": "-0.29%"
         },
         {
-          "code": "4471",
-          "name": "三洋化",
+          "code": "4202",
+          "name": "ダイセル",
           "market": "東Ｐ",
-          "price": "4,865",
-          "change": "-85",
-          "changePercent": "-1.72%"
+          "price": "1,406.5",
+          "change": "-4.5",
+          "changePercent": "-0.32%"
         },
         {
-          "code": "4091",
-          "name": "日本酸素ＨＤ",
+          "code": "4220",
+          "name": "リケンテクノ",
           "market": "東Ｐ",
-          "price": "6,201",
-          "change": "-111",
-          "changePercent": "-1.76%"
+          "price": "1,796",
+          "change": "-6",
+          "changePercent": "-0.33%"
         },
         {
-          "code": "4463",
-          "name": "日華化学",
+          "code": "4245",
+          "name": "Ｄ・アクシス",
           "market": "東Ｓ",
-          "price": "1,726",
-          "change": "-31",
-          "changePercent": "-1.76%"
+          "price": "673",
+          "change": "-3",
+          "changePercent": "-0.44%"
         },
         {
-          "code": "7917",
-          "name": "ＺＡＣＲＯＳ",
+          "code": "4249",
+          "name": "森六",
           "market": "東Ｐ",
-          "price": "1,317",
-          "change": "-24",
-          "changePercent": "-1.79%"
+          "price": "2,391",
+          "change": "-11",
+          "changePercent": "-0.46%"
         },
         {
-          "code": "4367",
-          "name": "広栄化学",
-          "market": "東Ｓ",
-          "price": "2,621",
-          "change": "-48",
-          "changePercent": "-1.80%"
-        },
-        {
-          "code": "9845",
-          "name": "パーカー",
-          "market": "東Ｓ",
-          "price": "1,402",
-          "change": "-26",
-          "changePercent": "-1.82%"
-        },
-        {
-          "code": "4997",
-          "name": "日農薬",
+          "code": "4095",
+          "name": "パーカライ",
           "market": "東Ｐ",
-          "price": "1,018",
-          "change": "-19",
-          "changePercent": "-1.83%"
+          "price": "1,691",
+          "change": "-8",
+          "changePercent": "-0.47%"
         },
         {
-          "code": "4360",
-          "name": "ＭＣＰｓ",
+          "code": "4241",
+          "name": "アテクト",
           "market": "東Ｓ",
-          "price": "800",
-          "change": "-15",
-          "changePercent": "-1.84%"
-        },
-        {
-          "code": "7970",
-          "name": "信越ポリ",
-          "market": "東Ｐ",
-          "price": "2,436",
-          "change": "-46",
-          "changePercent": "-1.85%"
-        },
-        {
-          "code": "4088",
-          "name": "エアウォータ",
-          "market": "東Ｐ",
-          "price": "2,715",
-          "change": "-52",
-          "changePercent": "-1.88%"
-        },
-        {
-          "code": "4120",
-          "name": "スガイ",
-          "market": "東Ｓ",
-          "price": "3,140",
-          "change": "-60",
-          "changePercent": "-1.88%"
+          "price": "640",
+          "change": "-3",
+          "changePercent": "-0.47%"
         },
         {
           "code": "4406",
           "name": "日理化",
           "market": "東Ｓ",
-          "price": "203",
+          "price": "202",
+          "change": "-1",
+          "changePercent": "-0.49%"
+        },
+        {
+          "code": "4097",
+          "name": "高圧ガス",
+          "market": "東Ｐ",
+          "price": "1,120",
+          "change": "-6",
+          "changePercent": "-0.53%"
+        },
+        {
+          "code": "4113",
+          "name": "田岡化",
+          "market": "東Ｓ",
+          "price": "717",
           "change": "-4",
-          "changePercent": "-1.93%"
+          "changePercent": "-0.55%"
+        },
+        {
+          "code": "4243",
+          "name": "ニックス",
+          "market": "東Ｓ",
+          "price": "911",
+          "change": "-5",
+          "changePercent": "-0.55%"
+        },
+        {
+          "code": "373A",
+          "name": "リップス",
+          "market": "東Ｇ",
+          "price": "1,515",
+          "change": "-9",
+          "changePercent": "-0.59%"
+        },
+        {
+          "code": "4235",
+          "name": "ＵＦＨＤ",
+          "market": "東Ｓ",
+          "price": "664",
+          "change": "-4",
+          "changePercent": "-0.60%"
+        },
+        {
+          "code": "4985",
+          "name": "アース製薬",
+          "market": "東Ｐ",
+          "price": "4,800",
+          "change": "-30",
+          "changePercent": "-0.62%"
+        },
+        {
+          "code": "7931",
+          "name": "未来工業",
+          "market": "東Ｐ",
+          "price": "3,195",
+          "change": "-20",
+          "changePercent": "-0.62%"
+        },
+        {
+          "code": "4091",
+          "name": "日本酸素ＨＤ",
+          "market": "東Ｐ",
+          "price": "6,160",
+          "change": "-41",
+          "changePercent": "-0.66%"
+        },
+        {
+          "code": "4204",
+          "name": "積水化",
+          "market": "東Ｐ",
+          "price": "2,637.5",
+          "change": "-17.5",
+          "changePercent": "-0.66%"
         },
         {
           "code": "4112",
           "name": "保土谷",
           "market": "東Ｐ",
-          "price": "2,045",
+          "price": "2,030",
+          "change": "-15",
+          "changePercent": "-0.73%"
+        },
+        {
+          "code": "4613",
+          "name": "関西ペ",
+          "market": "東Ｐ",
+          "price": "2,770.0",
+          "change": "-21.0",
+          "changePercent": "-0.75%"
+        },
+        {
+          "code": "3407",
+          "name": "旭化成",
+          "market": "東Ｐ",
+          "price": "1,867.0",
+          "change": "-14.5",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "7927",
+          "name": "ムトー精工",
+          "market": "東Ｓ",
+          "price": "2,193",
+          "change": "-17",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "4471",
+          "name": "三洋化",
+          "market": "東Ｐ",
+          "price": "4,825",
+          "change": "-40",
+          "changePercent": "-0.82%"
+        },
+        {
+          "code": "4229",
+          "name": "群栄化",
+          "market": "東Ｐ",
+          "price": "4,500",
+          "change": "-40",
+          "changePercent": "-0.88%"
+        },
+        {
+          "code": "4960",
+          "name": "ケミプロ",
+          "market": "東Ｓ",
+          "price": "555",
+          "change": "-5",
+          "changePercent": "-0.89%"
+        },
+        {
+          "code": "4923",
+          "name": "ＣＯＴＡ",
+          "market": "東Ｐ",
+          "price": "1,195",
+          "change": "-11",
+          "changePercent": "-0.91%"
+        },
+        {
+          "code": "4251",
+          "name": "恵和",
+          "market": "東Ｐ",
+          "price": "1,179",
+          "change": "-11",
+          "changePercent": "-0.92%"
+        },
+        {
+          "code": "4634",
+          "name": "ａｒｔｉｅｎ",
+          "market": "東Ｐ",
+          "price": "4,280",
+          "change": "-40",
+          "changePercent": "-0.93%"
+        },
+        {
+          "code": "4093",
+          "name": "アセチレン",
+          "market": "東Ｓ",
+          "price": "418",
+          "change": "-4",
+          "changePercent": "-0.95%"
+        },
+        {
+          "code": "4045",
+          "name": "東合成",
+          "market": "東Ｐ",
+          "price": "1,737.0",
+          "change": "-18.0",
+          "changePercent": "-1.03%"
+        },
+        {
+          "code": "4920",
+          "name": "日本色材",
+          "market": "東Ｓ",
+          "price": "1,138",
+          "change": "-12",
+          "changePercent": "-1.04%"
+        },
+        {
+          "code": "4205",
+          "name": "ゼオン",
+          "market": "東Ｐ",
+          "price": "2,317.0",
+          "change": "-24.5",
+          "changePercent": "-1.05%"
+        },
+        {
+          "code": "7917",
+          "name": "ＺＡＣＲＯＳ",
+          "market": "東Ｐ",
+          "price": "1,303",
+          "change": "-14",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "4182",
+          "name": "菱ガス化",
+          "market": "東Ｐ",
+          "price": "4,607",
+          "change": "-50",
+          "changePercent": "-1.07%"
+        },
+        {
+          "code": "5142",
+          "name": "アキレス",
+          "market": "東Ｐ",
+          "price": "1,188",
+          "change": "-13",
+          "changePercent": "-1.08%"
+        },
+        {
+          "code": "4628",
+          "name": "エスケー化研",
+          "market": "東Ｓ",
+          "price": "9,050",
+          "change": "-100",
+          "changePercent": "-1.09%"
+        },
+        {
+          "code": "4971",
+          "name": "メック",
+          "market": "東Ｐ",
+          "price": "8,790",
+          "change": "-100",
+          "changePercent": "-1.12%"
+        },
+        {
+          "code": "4360",
+          "name": "ＭＣＰｓ",
+          "market": "東Ｓ",
+          "price": "791",
+          "change": "-9",
+          "changePercent": "-1.13%"
+        },
+        {
+          "code": "177A",
+          "name": "コージンＢ",
+          "market": "東Ｇ",
+          "price": "856",
+          "change": "-10",
+          "changePercent": "-1.15%"
+        },
+        {
+          "code": "4237",
+          "name": "フジプレアム",
+          "market": "東Ｓ",
+          "price": "336",
+          "change": "-4",
+          "changePercent": "-1.18%"
+        },
+        {
+          "code": "7871",
+          "name": "フクビ",
+          "market": "東Ｓ",
+          "price": "923",
+          "change": "-11",
+          "changePercent": "-1.18%"
+        },
+        {
+          "code": "4042",
+          "name": "東ソー",
+          "market": "東Ｐ",
+          "price": "2,718.0",
+          "change": "-34.0",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "4208",
+          "name": "ＵＢＥ",
+          "market": "東Ｐ",
+          "price": "3,172.0",
+          "change": "-40.0",
+          "changePercent": "-1.25%"
+        },
+        {
+          "code": "4997",
+          "name": "日農薬",
+          "market": "東Ｐ",
+          "price": "1,005",
+          "change": "-13",
+          "changePercent": "-1.28%"
+        },
+        {
+          "code": "4465",
+          "name": "ニイタカ",
+          "market": "東Ｓ",
+          "price": "2,167",
+          "change": "-29",
+          "changePercent": "-1.32%"
+        },
+        {
+          "code": "4183",
+          "name": "三井化学",
+          "market": "東Ｐ",
+          "price": "2,128.0",
+          "change": "-29.5",
+          "changePercent": "-1.37%"
+        },
+        {
+          "code": "4046",
+          "name": "大阪ソーダ",
+          "market": "東Ｐ",
+          "price": "1,802",
+          "change": "-26",
+          "changePercent": "-1.42%"
+        },
+        {
+          "code": "7947",
+          "name": "エフピコ",
+          "market": "東Ｐ",
+          "price": "2,588",
+          "change": "-38",
+          "changePercent": "-1.45%"
+        },
+        {
+          "code": "4410",
+          "name": "ハリマ化成Ｇ",
+          "market": "東Ｐ",
+          "price": "1,015",
+          "change": "-15",
+          "changePercent": "-1.46%"
+        },
+        {
+          "code": "4188",
+          "name": "三菱ケミＧ",
+          "market": "東Ｐ",
+          "price": "1,176.0",
+          "change": "-17.5",
+          "changePercent": "-1.47%"
+        },
+        {
+          "code": "4368",
+          "name": "扶桑化学",
+          "market": "東Ｐ",
+          "price": "3,955",
+          "change": "-60",
+          "changePercent": "-1.49%"
+        },
+        {
+          "code": "4008",
+          "name": "住友精化",
+          "market": "東Ｐ",
+          "price": "1,287",
+          "change": "-20",
+          "changePercent": "-1.53%"
+        },
+        {
+          "code": "4401",
+          "name": "ＡＤＥＫＡ",
+          "market": "東Ｐ",
+          "price": "4,125",
+          "change": "-64",
+          "changePercent": "-1.53%"
+        },
+        {
+          "code": "4240",
+          "name": "クラスター",
+          "market": "東Ｓ",
+          "price": "315",
+          "change": "-5",
+          "changePercent": "-1.56%"
+        },
+        {
+          "code": "4973",
+          "name": "日本高純度",
+          "market": "東Ｐ",
+          "price": "5,060",
+          "change": "-80",
+          "changePercent": "-1.56%"
+        },
+        {
+          "code": "7888",
+          "name": "三光合成",
+          "market": "東Ｐ",
+          "price": "755",
+          "change": "-12",
+          "changePercent": "-1.56%"
+        },
+        {
+          "code": "4403",
+          "name": "日油",
+          "market": "東Ｐ",
+          "price": "2,782.0",
+          "change": "-44.5",
+          "changePercent": "-1.57%"
+        },
+        {
+          "code": "3553",
+          "name": "共和レ",
+          "market": "東Ｓ",
+          "price": "867",
+          "change": "-14",
+          "changePercent": "-1.59%"
+        },
+        {
+          "code": "7988",
+          "name": "ニフコ",
+          "market": "東Ｐ",
+          "price": "5,059",
+          "change": "-84",
+          "changePercent": "-1.63%"
+        },
+        {
+          "code": "7942",
+          "name": "ＪＳＰ",
+          "market": "東Ｐ",
+          "price": "2,446",
           "change": "-41",
-          "changePercent": "-1.97%"
+          "changePercent": "-1.65%"
         },
         {
           "code": "4274",
           "name": "細火工",
           "market": "東Ｓ",
-          "price": "1,083",
-          "change": "-22",
-          "changePercent": "-1.99%"
+          "price": "1,065",
+          "change": "-18",
+          "changePercent": "-1.66%"
         },
         {
-          "code": "4918",
-          "name": "アイビー",
+          "code": "4966",
+          "name": "上村工",
           "market": "東Ｓ",
-          "price": "338",
-          "change": "-7",
-          "changePercent": "-2.03%"
+          "price": "23,750",
+          "change": "-400",
+          "changePercent": "-1.66%"
+        },
+        {
+          "code": "7908",
+          "name": "ＫＩＭＯＴＯ",
+          "market": "東Ｓ",
+          "price": "232",
+          "change": "-4",
+          "changePercent": "-1.69%"
+        },
+        {
+          "code": "3878",
+          "name": "巴川コーポ",
+          "market": "東Ｓ",
+          "price": "753",
+          "change": "-13",
+          "changePercent": "-1.70%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 3194.35,
-          "changePercent": -0.99
-        },
         {
           "date": "20260625",
           "price": 3243.09,
@@ -4577,6 +4572,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 3244.55,
           "changePercent": -2.09
+        },
+        {
+          "date": "20260708",
+          "price": 3191.44,
+          "changePercent": -1.64
         }
       ]
     },
@@ -4584,191 +4584,175 @@ window.sectorData = {
       "id": "3250",
       "nameJa": "医薬品",
       "nameEn": "Pharmaceutical",
-      "price": 3957.38,
-      "change": "-32.01",
-      "changePercent": -0.8,
+      "price": 3909.23,
+      "change": "-48.15",
+      "changePercent": -1.22,
       "stocks": [
         {
-          "code": "4591",
-          "name": "リボミック",
+          "code": "4881",
+          "name": "ファンペップ",
           "market": "東Ｇ",
-          "price": "98",
-          "change": "+30",
-          "changePercent": "+44.12%"
-        },
-        {
-          "code": "4563",
-          "name": "アンジェス",
-          "market": "東Ｇ",
-          "price": "52",
-          "change": "+3",
-          "changePercent": "+6.12%"
-        },
-        {
-          "code": "4564",
-          "name": "オンコセラピ",
-          "market": "東Ｇ",
-          "price": "21",
-          "change": "+1",
-          "changePercent": "+5.00%"
-        },
-        {
-          "code": "4527",
-          "name": "ロート",
-          "market": "東Ｐ",
-          "price": "2,525.5",
-          "change": "+119.0",
-          "changePercent": "+4.94%"
-        },
-        {
-          "code": "4571",
-          "name": "ＮＡＮＯＨＤ",
-          "market": "東Ｇ",
-          "price": "106",
-          "change": "+4",
-          "changePercent": "+3.92%"
-        },
-        {
-          "code": "4574",
-          "name": "大幸薬品",
-          "market": "東Ｐ",
-          "price": "275",
-          "change": "+6",
-          "changePercent": "+2.23%"
-        },
-        {
-          "code": "4884",
-          "name": "クリングル",
-          "market": "東Ｇ",
-          "price": "340",
-          "change": "+4",
-          "changePercent": "+1.19%"
-        },
-        {
-          "code": "4519",
-          "name": "中外薬",
-          "market": "東Ｐ",
-          "price": "7,620",
-          "change": "+79",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "4599",
-          "name": "ステムリム",
-          "market": "東Ｇ",
-          "price": "310",
-          "change": "+3",
-          "changePercent": "+0.98%"
+          "price": "75",
+          "change": "+11",
+          "changePercent": "+17.19%"
         },
         {
           "code": "4539",
           "name": "ケミファ",
           "market": "東Ｓ",
-          "price": "1,571",
-          "change": "+14",
-          "changePercent": "+0.90%"
+          "price": "1,692",
+          "change": "+121",
+          "changePercent": "+7.70%"
+        },
+        {
+          "code": "4575",
+          "name": "ＣＡＮＢＡＳ",
+          "market": "東Ｇ",
+          "price": "670",
+          "change": "+19",
+          "changePercent": "+2.92%"
+        },
+        {
+          "code": "4598",
+          "name": "デルタフライ",
+          "market": "東Ｇ",
+          "price": "135",
+          "change": "+3",
+          "changePercent": "+2.27%"
         },
         {
           "code": "4890",
           "name": "坪田ラボ",
           "market": "東Ｇ",
-          "price": "246",
-          "change": "+2",
-          "changePercent": "+0.82%"
+          "price": "250",
+          "change": "+4",
+          "changePercent": "+1.63%"
         },
         {
-          "code": "4595",
-          "name": "ミズホメディ",
-          "market": "東Ｓ",
-          "price": "1,685",
-          "change": "+11",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "197A",
-          "name": "タウンズ",
-          "market": "東Ｓ",
-          "price": "470",
-          "change": "+3",
-          "changePercent": "+0.64%"
-        },
-        {
-          "code": "4538",
-          "name": "扶桑薬",
+          "code": "4521",
+          "name": "科研薬",
           "market": "東Ｐ",
-          "price": "2,156",
-          "change": "+11",
-          "changePercent": "+0.51%"
-        },
-        {
-          "code": "4547",
-          "name": "キッセイ",
-          "market": "東Ｐ",
-          "price": "4,140",
-          "change": "+20",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "4552",
-          "name": "ＪＣＲファ",
-          "market": "東Ｐ",
-          "price": "460",
-          "change": "+2",
-          "changePercent": "+0.44%"
+          "price": "3,815",
+          "change": "+50",
+          "changePercent": "+1.33%"
         },
         {
           "code": "4875",
           "name": "メディシノバ",
           "market": "東Ｓ",
-          "price": "227",
-          "change": "+1",
-          "changePercent": "+0.44%"
+          "price": "230",
+          "change": "+3",
+          "changePercent": "+1.32%"
         },
         {
-          "code": "4548",
-          "name": "生化学",
-          "market": "東Ｐ",
-          "price": "724",
-          "change": "+3",
-          "changePercent": "+0.42%"
+          "code": "4896",
+          "name": "ケイファーマ",
+          "market": "東Ｇ",
+          "price": "707",
+          "change": "+9",
+          "changePercent": "+1.29%"
         },
         {
           "code": "4528",
           "name": "小野薬",
           "market": "東Ｐ",
-          "price": "2,458.5",
-          "change": "+10.0",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "4587",
-          "name": "ペプドリ",
-          "market": "東Ｐ",
-          "price": "1,043.5",
-          "change": "+3.5",
-          "changePercent": "+0.34%"
-        },
-        {
-          "code": "4572",
-          "name": "カルナバイオ",
-          "market": "東Ｇ",
-          "price": "349",
-          "change": "+1",
-          "changePercent": "+0.29%"
+          "price": "2,489.0",
+          "change": "+30.5",
+          "changePercent": "+1.24%"
         },
         {
           "code": "4885",
           "name": "室町ケミカル",
           "market": "東Ｓ",
-          "price": "926",
-          "change": "+2",
-          "changePercent": "+0.22%"
+          "price": "934",
+          "change": "+8",
+          "changePercent": "+0.86%"
         },
         {
-          "code": "4512",
-          "name": "わかもと",
+          "code": "4559",
+          "name": "ゼリア新薬",
+          "market": "東Ｐ",
+          "price": "2,084",
+          "change": "+17",
+          "changePercent": "+0.82%"
+        },
+        {
+          "code": "4577",
+          "name": "ダイト",
+          "market": "東Ｐ",
+          "price": "1,249",
+          "change": "+10",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "4549",
+          "name": "栄研化",
+          "market": "東Ｐ",
+          "price": "2,546",
+          "change": "+16",
+          "changePercent": "+0.63%"
+        },
+        {
+          "code": "4547",
+          "name": "キッセイ",
+          "market": "東Ｐ",
+          "price": "4,165",
+          "change": "+25",
+          "changePercent": "+0.60%"
+        },
+        {
+          "code": "4523",
+          "name": "エーザイ",
+          "market": "東Ｐ",
+          "price": "4,318",
+          "change": "+13",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "4540",
+          "name": "ツムラ",
+          "market": "東Ｐ",
+          "price": "3,786",
+          "change": "+11",
+          "changePercent": "+0.29%"
+        },
+        {
+          "code": "4569",
+          "name": "杏林製薬",
+          "market": "東Ｐ",
+          "price": "1,193",
+          "change": "+2",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "4524",
+          "name": "仁丹",
           "market": "東Ｓ",
-          "price": "277",
+          "price": "2,165",
+          "change": "+2",
+          "changePercent": "+0.09%"
+        },
+        {
+          "code": "4502",
+          "name": "武田",
+          "market": "東Ｐ",
+          "price": "5,451",
+          "change": "+3",
+          "changePercent": "+0.06%"
+        },
+        {
+          "code": "130A",
+          "name": "ウェリタス",
+          "market": "東Ｇ",
+          "price": "425",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "4534",
+          "name": "持田薬",
+          "market": "東Ｐ",
+          "price": "3,155",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -4781,460 +4765,471 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "4598",
-          "name": "デルタフライ",
-          "market": "東Ｇ",
-          "price": "132",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "4883",
-          "name": "モダリス",
-          "market": "東Ｇ",
-          "price": "34",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "4577",
-          "name": "ダイト",
-          "market": "東Ｐ",
-          "price": "1,239",
-          "change": "-1",
-          "changePercent": "-0.08%"
-        },
-        {
-          "code": "4524",
-          "name": "仁丹",
-          "market": "東Ｓ",
-          "price": "2,163",
-          "change": "-6",
-          "changePercent": "-0.28%"
-        },
-        {
-          "code": "4886",
-          "name": "あすか薬ＨＤ",
-          "market": "東Ｐ",
-          "price": "2,378",
-          "change": "-7",
-          "changePercent": "-0.29%"
-        },
-        {
-          "code": "4559",
-          "name": "ゼリア新薬",
-          "market": "東Ｐ",
-          "price": "2,067",
-          "change": "-8",
-          "changePercent": "-0.39%"
-        },
-        {
-          "code": "4887",
-          "name": "サワイＧＨＤ",
-          "market": "東Ｐ",
-          "price": "1,740.5",
-          "change": "-7.0",
-          "changePercent": "-0.40%"
-        },
-        {
-          "code": "4534",
-          "name": "持田薬",
-          "market": "東Ｐ",
-          "price": "3,155",
-          "change": "-15",
-          "changePercent": "-0.47%"
-        },
-        {
-          "code": "4507",
-          "name": "塩野義",
-          "market": "東Ｐ",
-          "price": "2,909.0",
-          "change": "-14.0",
-          "changePercent": "-0.48%"
-        },
-        {
-          "code": "4540",
-          "name": "ツムラ",
-          "market": "東Ｐ",
-          "price": "3,775",
-          "change": "-19",
-          "changePercent": "-0.50%"
-        },
-        {
-          "code": "4569",
-          "name": "杏林製薬",
-          "market": "東Ｐ",
-          "price": "1,191",
-          "change": "-6",
-          "changePercent": "-0.50%"
-        },
-        {
-          "code": "4579",
-          "name": "ラクオリア",
-          "market": "東Ｇ",
-          "price": "481",
-          "change": "-3",
-          "changePercent": "-0.62%"
-        },
-        {
-          "code": "520A",
-          "name": "Ｊファーマ",
-          "market": "東Ｇ",
-          "price": "301",
-          "change": "-2",
-          "changePercent": "-0.66%"
-        },
-        {
-          "code": "4151",
-          "name": "協和キリン",
-          "market": "東Ｐ",
-          "price": "2,714.5",
-          "change": "-21.0",
-          "changePercent": "-0.77%"
-        },
-        {
-          "code": "4536",
-          "name": "参天薬",
-          "market": "東Ｐ",
-          "price": "2,218.5",
-          "change": "-17.5",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "4893",
-          "name": "ノイル",
-          "market": "東Ｇ",
-          "price": "127",
-          "change": "-1",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "4523",
-          "name": "エーザイ",
-          "market": "東Ｐ",
-          "price": "4,305",
-          "change": "-35",
-          "changePercent": "-0.81%"
-        },
-        {
-          "code": "4516",
-          "name": "日本新薬",
-          "market": "東Ｐ",
-          "price": "4,121",
-          "change": "-35",
-          "changePercent": "-0.84%"
-        },
-        {
-          "code": "4888",
-          "name": "ステラファ",
-          "market": "東Ｇ",
-          "price": "308",
-          "change": "-3",
-          "changePercent": "-0.96%"
-        },
-        {
-          "code": "4570",
-          "name": "免疫生物研",
-          "market": "東Ｇ",
-          "price": "987",
-          "change": "-11",
-          "changePercent": "-1.10%"
-        },
-        {
-          "code": "4576",
-          "name": "ＤＷセラピ研",
-          "market": "東Ｇ",
-          "price": "82",
-          "change": "-1",
-          "changePercent": "-1.20%"
-        },
-        {
-          "code": "4502",
-          "name": "武田",
-          "market": "東Ｐ",
-          "price": "5,448",
-          "change": "-69",
-          "changePercent": "-1.25%"
-        },
-        {
           "code": "4568",
           "name": "第一三共",
           "market": "東Ｐ",
-          "price": "2,719.0",
-          "change": "-39.0",
-          "changePercent": "-1.41%"
+          "price": "2,717.0",
+          "change": "-2.0",
+          "changePercent": "-0.07%"
         },
         {
-          "code": "4578",
-          "name": "大塚ＨＤ",
-          "market": "東Ｐ",
-          "price": "11,515",
-          "change": "-165",
-          "changePercent": "-1.41%"
-        },
-        {
-          "code": "4503",
-          "name": "アステラス",
-          "market": "東Ｐ",
-          "price": "2,174.5",
-          "change": "-33.5",
-          "changePercent": "-1.52%"
-        },
-        {
-          "code": "4553",
-          "name": "東和薬品",
-          "market": "東Ｐ",
-          "price": "4,115",
-          "change": "-65",
-          "changePercent": "-1.56%"
-        },
-        {
-          "code": "4565",
-          "name": "ネクセラ",
-          "market": "東Ｐ",
-          "price": "955",
-          "change": "-17",
-          "changePercent": "-1.75%"
-        },
-        {
-          "code": "4586",
-          "name": "メドレックス",
-          "market": "東Ｇ",
-          "price": "55",
-          "change": "-1",
-          "changePercent": "-1.79%"
-        },
-        {
-          "code": "4880",
-          "name": "セルソース",
+          "code": "4595",
+          "name": "ミズホメディ",
           "market": "東Ｓ",
-          "price": "329",
-          "change": "-6",
-          "changePercent": "-1.79%"
-        },
-        {
-          "code": "4506",
-          "name": "住友ファーマ",
-          "market": "東Ｐ",
-          "price": "1,525.0",
-          "change": "-28.0",
-          "changePercent": "-1.80%"
-        },
-        {
-          "code": "130A",
-          "name": "ウェリタス",
-          "market": "東Ｇ",
-          "price": "425",
-          "change": "-8",
-          "changePercent": "-1.85%"
-        },
-        {
-          "code": "4891",
-          "name": "ティムス",
-          "market": "東Ｇ",
-          "price": "104",
-          "change": "-2",
-          "changePercent": "-1.89%"
-        },
-        {
-          "code": "2160",
-          "name": "ジーエヌアイ",
-          "market": "東Ｇ",
-          "price": "2,830",
-          "change": "-55",
-          "changePercent": "-1.91%"
-        },
-        {
-          "code": "4896",
-          "name": "ケイファーマ",
-          "market": "東Ｇ",
-          "price": "698",
-          "change": "-14",
-          "changePercent": "-1.97%"
-        },
-        {
-          "code": "4594",
-          "name": "ブライトパス",
-          "market": "東Ｇ",
-          "price": "49",
-          "change": "-1",
-          "changePercent": "-2.00%"
-        },
-        {
-          "code": "4521",
-          "name": "科研薬",
-          "market": "東Ｐ",
-          "price": "3,765",
-          "change": "-85",
-          "changePercent": "-2.21%"
-        },
-        {
-          "code": "4892",
-          "name": "サイフューズ",
-          "market": "東Ｇ",
-          "price": "548",
-          "change": "-13",
-          "changePercent": "-2.32%"
-        },
-        {
-          "code": "4882",
-          "name": "ペルセウス",
-          "market": "東Ｇ",
-          "price": "155",
-          "change": "-4",
-          "changePercent": "-2.52%"
-        },
-        {
-          "code": "4592",
-          "name": "サンバイオ",
-          "market": "東Ｇ",
-          "price": "1,023",
-          "change": "-32",
-          "changePercent": "-3.03%"
-        },
-        {
-          "code": "4549",
-          "name": "栄研化",
-          "market": "東Ｐ",
-          "price": "2,530",
-          "change": "-82",
-          "changePercent": "-3.14%"
-        },
-        {
-          "code": "4584",
-          "name": "キッズバイオ",
-          "market": "東Ｇ",
-          "price": "149",
-          "change": "-5",
-          "changePercent": "-3.25%"
-        },
-        {
-          "code": "4575",
-          "name": "ＣＡＮＢＡＳ",
-          "market": "東Ｇ",
-          "price": "651",
-          "change": "-25",
-          "changePercent": "-3.70%"
-        },
-        {
-          "code": "4583",
-          "name": "カイオム",
-          "market": "東Ｇ",
-          "price": "76",
+          "price": "1,682",
           "change": "-3",
-          "changePercent": "-3.80%"
+          "changePercent": "-0.18%"
         },
         {
-          "code": "4582",
-          "name": "シンバイオ",
-          "market": "東Ｇ",
-          "price": "73",
+          "code": "197A",
+          "name": "タウンズ",
+          "market": "東Ｓ",
+          "price": "467",
           "change": "-3",
-          "changePercent": "-3.95%"
-        },
-        {
-          "code": "4894",
-          "name": "クオリプス",
-          "market": "東Ｇ",
-          "price": "4,640",
-          "change": "-200",
-          "changePercent": "-4.13%"
-        },
-        {
-          "code": "4554",
-          "name": "富士製薬",
-          "market": "東Ｐ",
-          "price": "1,909",
-          "change": "-84",
-          "changePercent": "-4.21%"
-        },
-        {
-          "code": "219A",
-          "name": "ハートシード",
-          "market": "東Ｇ",
-          "price": "1,640",
-          "change": "-75",
-          "changePercent": "-4.37%"
-        },
-        {
-          "code": "4593",
-          "name": "ヘリオス",
-          "market": "東Ｇ",
-          "price": "241",
-          "change": "-11",
-          "changePercent": "-4.37%"
-        },
-        {
-          "code": "4881",
-          "name": "ファンペップ",
-          "market": "東Ｇ",
-          "price": "64",
-          "change": "-3",
-          "changePercent": "-4.48%"
+          "changePercent": "-0.64%"
         },
         {
           "code": "206A",
           "name": "ＰＲＩＳＭバ",
           "market": "東Ｇ",
-          "price": "149",
-          "change": "-7",
-          "changePercent": "-4.49%"
+          "price": "148",
+          "change": "-1",
+          "changePercent": "-0.67%"
+        },
+        {
+          "code": "4548",
+          "name": "生化学",
+          "market": "東Ｐ",
+          "price": "719",
+          "change": "-5",
+          "changePercent": "-0.69%"
+        },
+        {
+          "code": "4538",
+          "name": "扶桑薬",
+          "market": "東Ｐ",
+          "price": "2,140",
+          "change": "-16",
+          "changePercent": "-0.74%"
+        },
+        {
+          "code": "4552",
+          "name": "ＪＣＲファ",
+          "market": "東Ｐ",
+          "price": "456",
+          "change": "-4",
+          "changePercent": "-0.87%"
+        },
+        {
+          "code": "4516",
+          "name": "日本新薬",
+          "market": "東Ｐ",
+          "price": "4,084",
+          "change": "-37",
+          "changePercent": "-0.90%"
+        },
+        {
+          "code": "4880",
+          "name": "セルソース",
+          "market": "東Ｓ",
+          "price": "326",
+          "change": "-3",
+          "changePercent": "-0.91%"
+        },
+        {
+          "code": "4891",
+          "name": "ティムス",
+          "market": "東Ｇ",
+          "price": "103",
+          "change": "-1",
+          "changePercent": "-0.96%"
+        },
+        {
+          "code": "4507",
+          "name": "塩野義",
+          "market": "東Ｐ",
+          "price": "2,873.5",
+          "change": "-35.5",
+          "changePercent": "-1.22%"
+        },
+        {
+          "code": "4593",
+          "name": "ヘリオス",
+          "market": "東Ｇ",
+          "price": "238",
+          "change": "-3",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "4151",
+          "name": "協和キリン",
+          "market": "東Ｐ",
+          "price": "2,679.5",
+          "change": "-35.0",
+          "changePercent": "-1.29%"
+        },
+        {
+          "code": "4503",
+          "name": "アステラス",
+          "market": "東Ｐ",
+          "price": "2,146.5",
+          "change": "-28.0",
+          "changePercent": "-1.29%"
+        },
+        {
+          "code": "4553",
+          "name": "東和薬品",
+          "market": "東Ｐ",
+          "price": "4,060",
+          "change": "-55",
+          "changePercent": "-1.34%"
+        },
+        {
+          "code": "4887",
+          "name": "サワイＧＨＤ",
+          "market": "東Ｐ",
+          "price": "1,716.0",
+          "change": "-24.5",
+          "changePercent": "-1.41%"
+        },
+        {
+          "code": "4512",
+          "name": "わかもと",
+          "market": "東Ｓ",
+          "price": "273",
+          "change": "-4",
+          "changePercent": "-1.44%"
+        },
+        {
+          "code": "4574",
+          "name": "大幸薬品",
+          "market": "東Ｐ",
+          "price": "271",
+          "change": "-4",
+          "changePercent": "-1.45%"
+        },
+        {
+          "code": "4527",
+          "name": "ロート",
+          "market": "東Ｐ",
+          "price": "2,482.5",
+          "change": "-43.0",
+          "changePercent": "-1.70%"
+        },
+        {
+          "code": "4894",
+          "name": "クオリプス",
+          "market": "東Ｇ",
+          "price": "4,560",
+          "change": "-80",
+          "changePercent": "-1.72%"
+        },
+        {
+          "code": "4554",
+          "name": "富士製薬",
+          "market": "東Ｐ",
+          "price": "1,875",
+          "change": "-34",
+          "changePercent": "-1.78%"
+        },
+        {
+          "code": "4586",
+          "name": "メドレックス",
+          "market": "東Ｇ",
+          "price": "54",
+          "change": "-1",
+          "changePercent": "-1.82%"
         },
         {
           "code": "4889",
           "name": "レナ",
           "market": "東Ｇ",
-          "price": "1,446",
-          "change": "-79",
-          "changePercent": "-5.18%"
+          "price": "1,418",
+          "change": "-28",
+          "changePercent": "-1.94%"
         },
         {
-          "code": "190A",
-          "name": "コーディア",
-          "market": "東Ｇ",
-          "price": "81",
-          "change": "-5",
-          "changePercent": "-5.81%"
+          "code": "4536",
+          "name": "参天薬",
+          "market": "東Ｐ",
+          "price": "2,174.0",
+          "change": "-44.5",
+          "changePercent": "-2.01%"
         },
         {
-          "code": "4588",
-          "name": "オンコリス",
-          "market": "東Ｇ",
-          "price": "2,622",
-          "change": "-163",
-          "changePercent": "-5.85%"
+          "code": "4587",
+          "name": "ペプドリ",
+          "market": "東Ｐ",
+          "price": "1,022.5",
+          "change": "-21.0",
+          "changePercent": "-2.01%"
         },
         {
-          "code": "4597",
-          "name": "ソレイジア",
+          "code": "4594",
+          "name": "ブライトパス",
           "market": "東Ｇ",
-          "price": "26",
-          "change": "-2",
-          "changePercent": "-7.14%"
+          "price": "48",
+          "change": "-1",
+          "changePercent": "-2.04%"
         },
         {
           "code": "504A",
           "name": "イノバセル",
           "market": "東Ｇ",
-          "price": "543",
-          "change": "-100",
-          "changePercent": "-15.55%"
+          "price": "531",
+          "change": "-12",
+          "changePercent": "-2.21%"
+        },
+        {
+          "code": "4888",
+          "name": "ステラファ",
+          "market": "東Ｇ",
+          "price": "301",
+          "change": "-7",
+          "changePercent": "-2.27%"
+        },
+        {
+          "code": "4893",
+          "name": "ノイル",
+          "market": "東Ｇ",
+          "price": "124",
+          "change": "-3",
+          "changePercent": "-2.36%"
+        },
+        {
+          "code": "4886",
+          "name": "あすか薬ＨＤ",
+          "market": "東Ｐ",
+          "price": "2,318",
+          "change": "-60",
+          "changePercent": "-2.52%"
+        },
+        {
+          "code": "4583",
+          "name": "カイオム",
+          "market": "東Ｇ",
+          "price": "74",
+          "change": "-2",
+          "changePercent": "-2.63%"
+        },
+        {
+          "code": "4579",
+          "name": "ラクオリア",
+          "market": "東Ｇ",
+          "price": "468",
+          "change": "-13",
+          "changePercent": "-2.70%"
+        },
+        {
+          "code": "4571",
+          "name": "ＮＡＮＯＨＤ",
+          "market": "東Ｇ",
+          "price": "103",
+          "change": "-3",
+          "changePercent": "-2.83%"
+        },
+        {
+          "code": "4572",
+          "name": "カルナバイオ",
+          "market": "東Ｇ",
+          "price": "339",
+          "change": "-10",
+          "changePercent": "-2.87%"
+        },
+        {
+          "code": "4599",
+          "name": "ステムリム",
+          "market": "東Ｇ",
+          "price": "301",
+          "change": "-9",
+          "changePercent": "-2.90%"
+        },
+        {
+          "code": "4883",
+          "name": "モダリス",
+          "market": "東Ｇ",
+          "price": "33",
+          "change": "-1",
+          "changePercent": "-2.94%"
+        },
+        {
+          "code": "4578",
+          "name": "大塚ＨＤ",
+          "market": "東Ｐ",
+          "price": "11,160",
+          "change": "-355",
+          "changePercent": "-3.08%"
+        },
+        {
+          "code": "4892",
+          "name": "サイフューズ",
+          "market": "東Ｇ",
+          "price": "530",
+          "change": "-18",
+          "changePercent": "-3.28%"
+        },
+        {
+          "code": "4519",
+          "name": "中外薬",
+          "market": "東Ｐ",
+          "price": "7,345",
+          "change": "-275",
+          "changePercent": "-3.61%"
+        },
+        {
+          "code": "190A",
+          "name": "コーディア",
+          "market": "東Ｇ",
+          "price": "78",
+          "change": "-3",
+          "changePercent": "-3.70%"
+        },
+        {
+          "code": "4563",
+          "name": "アンジェス",
+          "market": "東Ｇ",
+          "price": "50",
+          "change": "-2",
+          "changePercent": "-3.85%"
+        },
+        {
+          "code": "4882",
+          "name": "ペルセウス",
+          "market": "東Ｇ",
+          "price": "149",
+          "change": "-6",
+          "changePercent": "-3.87%"
+        },
+        {
+          "code": "4570",
+          "name": "免疫生物研",
+          "market": "東Ｇ",
+          "price": "948",
+          "change": "-39",
+          "changePercent": "-3.95%"
+        },
+        {
+          "code": "4584",
+          "name": "キッズバイオ",
+          "market": "東Ｇ",
+          "price": "143",
+          "change": "-6",
+          "changePercent": "-4.03%"
+        },
+        {
+          "code": "4884",
+          "name": "クリングル",
+          "market": "東Ｇ",
+          "price": "325",
+          "change": "-15",
+          "changePercent": "-4.41%"
+        },
+        {
+          "code": "4506",
+          "name": "住友ファーマ",
+          "market": "東Ｐ",
+          "price": "1,450.0",
+          "change": "-75.0",
+          "changePercent": "-4.92%"
+        },
+        {
+          "code": "219A",
+          "name": "ハートシード",
+          "market": "東Ｇ",
+          "price": "1,557",
+          "change": "-83",
+          "changePercent": "-5.06%"
+        },
+        {
+          "code": "4588",
+          "name": "オンコリス",
+          "market": "東Ｇ",
+          "price": "2,484",
+          "change": "-138",
+          "changePercent": "-5.26%"
+        },
+        {
+          "code": "4582",
+          "name": "シンバイオ",
+          "market": "東Ｇ",
+          "price": "69",
+          "change": "-4",
+          "changePercent": "-5.48%"
+        },
+        {
+          "code": "4576",
+          "name": "ＤＷセラピ研",
+          "market": "東Ｇ",
+          "price": "77",
+          "change": "-5",
+          "changePercent": "-6.10%"
+        },
+        {
+          "code": "4565",
+          "name": "ネクセラ",
+          "market": "東Ｐ",
+          "price": "896",
+          "change": "-59",
+          "changePercent": "-6.18%"
+        },
+        {
+          "code": "4592",
+          "name": "サンバイオ",
+          "market": "東Ｇ",
+          "price": "950",
+          "change": "-73",
+          "changePercent": "-7.14%"
+        },
+        {
+          "code": "520A",
+          "name": "Ｊファーマ",
+          "market": "東Ｇ",
+          "price": "279",
+          "change": "-22",
+          "changePercent": "-7.31%"
+        },
+        {
+          "code": "4597",
+          "name": "ソレイジア",
+          "market": "東Ｇ",
+          "price": "24",
+          "change": "-2",
+          "changePercent": "-7.69%"
+        },
+        {
+          "code": "2160",
+          "name": "ジーエヌアイ",
+          "market": "東Ｇ",
+          "price": "2,605",
+          "change": "-225",
+          "changePercent": "-7.95%"
+        },
+        {
+          "code": "4564",
+          "name": "オンコセラピ",
+          "market": "東Ｇ",
+          "price": "19",
+          "change": "-2",
+          "changePercent": "-9.52%"
         },
         {
           "code": "4596",
           "name": "窪田製薬ＨＤ",
           "market": "東Ｇ",
-          "price": "78",
-          "change": "-39",
-          "changePercent": "-33.33%"
+          "price": "70",
+          "change": "-8",
+          "changePercent": "-10.26%"
+        },
+        {
+          "code": "4591",
+          "name": "リボミック",
+          "market": "東Ｇ",
+          "price": "79",
+          "change": "-19",
+          "changePercent": "-19.39%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 3768.73,
-          "changePercent": 1.14
-        },
         {
           "date": "20260625",
           "price": 3761.03,
@@ -5279,6 +5274,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 3957.38,
           "changePercent": -0.8
+        },
+        {
+          "date": "20260708",
+          "price": 3909.23,
+          "changePercent": -1.22
         }
       ]
     },
@@ -5286,17 +5286,33 @@ window.sectorData = {
       "id": "3300",
       "nameJa": "石油・石炭製品",
       "nameEn": "Oil & Coal Products",
-      "price": 2665.6,
-      "change": "-25.21",
-      "changePercent": -0.94,
+      "price": 2658.14,
+      "change": "-7.46",
+      "changePercent": -0.28,
       "stocks": [
         {
-          "code": "5011",
-          "name": "ニチレキＧ",
+          "code": "5013",
+          "name": "ユシロ",
+          "market": "東Ｓ",
+          "price": "3,050",
+          "change": "+146",
+          "changePercent": "+5.03%"
+        },
+        {
+          "code": "5015",
+          "name": "ＢＰカストロ",
+          "market": "東Ｓ",
+          "price": "995",
+          "change": "+6",
+          "changePercent": "+0.61%"
+        },
+        {
+          "code": "5019",
+          "name": "出光興産",
           "market": "東Ｐ",
-          "price": "2,098",
-          "change": "+15",
-          "changePercent": "+0.72%"
+          "price": "1,236.5",
+          "change": "+1.0",
+          "changePercent": "+0.08%"
         },
         {
           "code": "5010",
@@ -5307,68 +5323,47 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "5015",
-          "name": "ＢＰカストロ",
-          "market": "東Ｓ",
-          "price": "989",
-          "change": "-1",
-          "changePercent": "-0.10%"
-        },
-        {
-          "code": "5019",
-          "name": "出光興産",
-          "market": "東Ｐ",
-          "price": "1,235.5",
-          "change": "-8.0",
-          "changePercent": "-0.64%"
-        },
-        {
-          "code": "5013",
-          "name": "ユシロ",
-          "market": "東Ｓ",
-          "price": "2,904",
-          "change": "-21",
-          "changePercent": "-0.72%"
-        },
-        {
           "code": "5020",
           "name": "ＥＮＥＯＳ",
           "market": "東Ｐ",
-          "price": "1,248.5",
-          "change": "-11.5",
-          "changePercent": "-0.91%"
-        },
-        {
-          "code": "3315",
-          "name": "日本コークス",
-          "market": "東Ｐ",
-          "price": "94",
-          "change": "-1",
-          "changePercent": "-1.05%"
-        },
-        {
-          "code": "5018",
-          "name": "ＭＯＲＥＳＣ",
-          "market": "東Ｓ",
-          "price": "1,903",
-          "change": "-37",
-          "changePercent": "-1.91%"
+          "price": "1,243.5",
+          "change": "-5.0",
+          "changePercent": "-0.40%"
         },
         {
           "code": "5021",
           "name": "コスモＨＤ",
           "market": "東Ｐ",
-          "price": "3,885",
-          "change": "-79",
-          "changePercent": "-1.99%"
+          "price": "3,869",
+          "change": "-16",
+          "changePercent": "-0.41%"
+        },
+        {
+          "code": "5011",
+          "name": "ニチレキＧ",
+          "market": "東Ｐ",
+          "price": "2,088",
+          "change": "-10",
+          "changePercent": "-0.48%"
+        },
+        {
+          "code": "5018",
+          "name": "ＭＯＲＥＳＣ",
+          "market": "東Ｓ",
+          "price": "1,866",
+          "change": "-37",
+          "changePercent": "-1.94%"
+        },
+        {
+          "code": "3315",
+          "name": "日本コークス",
+          "market": "東Ｐ",
+          "price": "92",
+          "change": "-2",
+          "changePercent": "-2.13%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2592.65,
-          "changePercent": -2.23
-        },
         {
           "date": "20260625",
           "price": 2556.78,
@@ -5413,6 +5408,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2665.6,
           "changePercent": -0.94
+        },
+        {
+          "date": "20260708",
+          "price": 2658.14,
+          "changePercent": -0.28
         }
       ]
     },
@@ -5420,153 +5420,148 @@ window.sectorData = {
       "id": "3350",
       "nameJa": "ゴム製品",
       "nameEn": "Rubber Products",
-      "price": 5890.98,
-      "change": "+27.38",
-      "changePercent": 0.47,
+      "price": 5852.15,
+      "change": "-38.83",
+      "changePercent": -0.66,
       "stocks": [
         {
-          "code": "5189",
-          "name": "桜ゴム",
-          "market": "東Ｓ",
-          "price": "3,545",
-          "change": "+170",
-          "changePercent": "+5.04%"
-        },
-        {
-          "code": "5108",
-          "name": "ブリヂストン",
+          "code": "5186",
+          "name": "ニッタ",
           "market": "東Ｐ",
-          "price": "3,638.0",
-          "change": "+32.0",
-          "changePercent": "+0.89%"
-        },
-        {
-          "code": "5110",
-          "name": "住友ゴ",
-          "market": "東Ｐ",
-          "price": "2,317.5",
-          "change": "+18.5",
-          "changePercent": "+0.80%"
-        },
-        {
-          "code": "5122",
-          "name": "オカモト",
-          "market": "東Ｐ",
-          "price": "5,400",
-          "change": "+20",
-          "changePercent": "+0.37%"
-        },
-        {
-          "code": "5185",
-          "name": "フコク",
-          "market": "東Ｐ",
-          "price": "1,824",
-          "change": "+5",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "5195",
-          "name": "バンドー",
-          "market": "東Ｐ",
-          "price": "2,251",
-          "change": "+5",
-          "changePercent": "+0.22%"
-        },
-        {
-          "code": "5161",
-          "name": "西川ゴム",
-          "market": "東Ｓ",
-          "price": "3,140",
-          "change": "+5",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "5103",
-          "name": "昭和ＨＤ",
-          "market": "東Ｓ",
-          "price": "37",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "5184",
-          "name": "ニチリン",
-          "market": "東Ｓ",
-          "price": "4,115",
-          "change": "-5",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "5121",
-          "name": "藤コンポ",
-          "market": "東Ｐ",
-          "price": "2,575",
-          "change": "-5",
-          "changePercent": "-0.19%"
-        },
-        {
-          "code": "5101",
-          "name": "浜ゴム",
-          "market": "東Ｐ",
-          "price": "7,894",
-          "change": "-25",
-          "changePercent": "-0.32%"
-        },
-        {
-          "code": "5192",
-          "name": "三星ベ",
-          "market": "東Ｐ",
-          "price": "3,950",
-          "change": "-15",
-          "changePercent": "-0.38%"
+          "price": "6,250",
+          "change": "+250",
+          "changePercent": "+4.17%"
         },
         {
           "code": "5194",
           "name": "相模ゴ",
           "market": "東Ｓ",
-          "price": "633",
-          "change": "-5",
-          "changePercent": "-0.78%"
+          "price": "646",
+          "change": "+13",
+          "changePercent": "+2.05%"
         },
         {
-          "code": "5186",
-          "name": "ニッタ",
+          "code": "5122",
+          "name": "オカモト",
           "market": "東Ｐ",
-          "price": "6,000",
-          "change": "-50",
-          "changePercent": "-0.83%"
+          "price": "5,430",
+          "change": "+30",
+          "changePercent": "+0.56%"
         },
         {
           "code": "5105",
           "name": "ＴＯＹＯ",
           "market": "東Ｐ",
-          "price": "3,939",
-          "change": "-48",
-          "changePercent": "-1.20%"
+          "price": "3,942",
+          "change": "+3",
+          "changePercent": "+0.08%"
+        },
+        {
+          "code": "5185",
+          "name": "フコク",
+          "market": "東Ｐ",
+          "price": "1,817",
+          "change": "-7",
+          "changePercent": "-0.38%"
+        },
+        {
+          "code": "5192",
+          "name": "三星ベ",
+          "market": "東Ｐ",
+          "price": "3,930",
+          "change": "-20",
+          "changePercent": "-0.51%"
+        },
+        {
+          "code": "5195",
+          "name": "バンドー",
+          "market": "東Ｐ",
+          "price": "2,238",
+          "change": "-13",
+          "changePercent": "-0.58%"
+        },
+        {
+          "code": "5108",
+          "name": "ブリヂストン",
+          "market": "東Ｐ",
+          "price": "3,616.0",
+          "change": "-22.0",
+          "changePercent": "-0.60%"
+        },
+        {
+          "code": "5184",
+          "name": "ニチリン",
+          "market": "東Ｓ",
+          "price": "4,090",
+          "change": "-25",
+          "changePercent": "-0.61%"
+        },
+        {
+          "code": "5121",
+          "name": "藤コンポ",
+          "market": "東Ｐ",
+          "price": "2,546",
+          "change": "-29",
+          "changePercent": "-1.13%"
+        },
+        {
+          "code": "5189",
+          "name": "桜ゴム",
+          "market": "東Ｓ",
+          "price": "3,500",
+          "change": "-45",
+          "changePercent": "-1.27%"
+        },
+        {
+          "code": "5101",
+          "name": "浜ゴム",
+          "market": "東Ｐ",
+          "price": "7,776",
+          "change": "-118",
+          "changePercent": "-1.49%"
         },
         {
           "code": "5162",
           "name": "朝日ラバー",
           "market": "東Ｓ",
-          "price": "780",
-          "change": "-10",
-          "changePercent": "-1.27%"
+          "price": "768",
+          "change": "-12",
+          "changePercent": "-1.54%"
+        },
+        {
+          "code": "5110",
+          "name": "住友ゴ",
+          "market": "東Ｐ",
+          "price": "2,279.5",
+          "change": "-38.0",
+          "changePercent": "-1.64%"
+        },
+        {
+          "code": "5161",
+          "name": "西川ゴム",
+          "market": "東Ｓ",
+          "price": "3,065",
+          "change": "-75",
+          "changePercent": "-2.39%"
+        },
+        {
+          "code": "5103",
+          "name": "昭和ＨＤ",
+          "market": "東Ｓ",
+          "price": "34",
+          "change": "-3",
+          "changePercent": "-8.11%"
         },
         {
           "code": "5199",
           "name": "不二ラテ",
           "market": "東Ｓ",
-          "price": "－",
+          "price": "1,924",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 5481.31,
-          "changePercent": -0.91
-        },
         {
           "date": "20260625",
           "price": 5595.77,
@@ -5611,6 +5606,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 5890.98,
           "changePercent": 0.47
+        },
+        {
+          "date": "20260708",
+          "price": 5852.15,
+          "changePercent": -0.66
         }
       ]
     },
@@ -5618,433 +5618,428 @@ window.sectorData = {
       "id": "3400",
       "nameJa": "ガラス・土石製品",
       "nameEn": "Glass & Ceramics Products",
-      "price": 2645.79,
-      "change": "-78.56",
-      "changePercent": -2.88,
+      "price": 2574.62,
+      "change": "-71.17",
+      "changePercent": -2.69,
       "stocks": [
-        {
-          "code": "5268",
-          "name": "旭コン",
-          "market": "東Ｓ",
-          "price": "855",
-          "change": "+22",
-          "changePercent": "+2.64%"
-        },
         {
           "code": "5342",
           "name": "ジャニス",
           "market": "名Ｍ",
-          "price": "378",
+          "price": "386",
           "change": "+8",
-          "changePercent": "+2.16%"
-        },
-        {
-          "code": "5282",
-          "name": "ジオスター",
-          "market": "東Ｓ",
-          "price": "448",
-          "change": "+9",
-          "changePercent": "+2.05%"
-        },
-        {
-          "code": "3110",
-          "name": "日東紡",
-          "market": "東Ｐ",
-          "price": "3,570",
-          "change": "+55",
-          "changePercent": "+1.56%"
-        },
-        {
-          "code": "5273",
-          "name": "三谷セキ",
-          "market": "東Ｓ",
-          "price": "1,777",
-          "change": "+27",
-          "changePercent": "+1.54%"
-        },
-        {
-          "code": "5269",
-          "name": "日コン",
-          "market": "東Ｐ",
-          "price": "336",
-          "change": "+5",
-          "changePercent": "+1.51%"
-        },
-        {
-          "code": "5237",
-          "name": "ノザワ",
-          "market": "東Ｓ",
-          "price": "1,225",
-          "change": "+14",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "5288",
-          "name": "アジアパイル",
-          "market": "東Ｐ",
-          "price": "1,517",
-          "change": "+17",
-          "changePercent": "+1.13%"
+          "changePercent": "+2.12%"
         },
         {
           "code": "5368",
           "name": "日本インシュ",
           "market": "東Ｓ",
-          "price": "952",
-          "change": "+10",
-          "changePercent": "+1.06%"
-        },
-        {
-          "code": "5337",
-          "name": "ダントーＨＤ",
-          "market": "東Ｓ",
-          "price": "895",
-          "change": "+7",
-          "changePercent": "+0.79%"
-        },
-        {
-          "code": "5287",
-          "name": "イトヨーギョ",
-          "market": "東Ｓ",
-          "price": "848",
-          "change": "+6",
-          "changePercent": "+0.71%"
-        },
-        {
-          "code": "5343",
-          "name": "ニッコー",
-          "market": "名Ｍ",
-          "price": "188",
-          "change": "+1",
-          "changePercent": "+0.53%"
-        },
-        {
-          "code": "5357",
-          "name": "ヨータイ",
-          "market": "東Ｐ",
-          "price": "1,750",
-          "change": "+7",
-          "changePercent": "+0.40%"
-        },
-        {
-          "code": "7943",
-          "name": "ニチハ",
-          "market": "東Ｐ",
-          "price": "3,005",
-          "change": "+7",
-          "changePercent": "+0.23%"
-        },
-        {
-          "code": "5355",
-          "name": "ルツボ",
-          "market": "東Ｓ",
-          "price": "684",
-          "change": "+1",
-          "changePercent": "+0.15%"
-        },
-        {
-          "code": "5284",
-          "name": "ヤマウＨＤ",
-          "market": "東Ｓ",
-          "price": "2,260",
-          "change": "+1",
-          "changePercent": "+0.04%"
-        },
-        {
-          "code": "5290",
-          "name": "ベルテクス",
-          "market": "東Ｓ",
-          "price": "1,365",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "5341",
-          "name": "アサヒエイト",
-          "market": "東Ｓ",
-          "price": "182",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "5271",
-          "name": "トーヨアサノ",
-          "market": "東Ｓ",
-          "price": "2,198",
-          "change": "-2",
-          "changePercent": "-0.09%"
-        },
-        {
-          "code": "5285",
-          "name": "ヤマックス",
-          "market": "東Ｓ",
-          "price": "1,370",
-          "change": "-2",
-          "changePercent": "-0.15%"
-        },
-        {
-          "code": "5388",
-          "name": "クニミネ",
-          "market": "東Ｓ",
-          "price": "1,275",
-          "change": "-3",
-          "changePercent": "-0.23%"
-        },
-        {
-          "code": "5386",
-          "name": "鶴弥",
-          "market": "名Ｍ",
-          "price": "381",
-          "change": "-1",
-          "changePercent": "-0.26%"
+          "price": "971",
+          "change": "+19",
+          "changePercent": "+2.00%"
         },
         {
           "code": "5279",
           "name": "日本興業",
           "market": "東Ｓ",
-          "price": "1,230",
-          "change": "-4",
-          "changePercent": "-0.32%"
+          "price": "1,245",
+          "change": "+15",
+          "changePercent": "+1.22%"
         },
         {
-          "code": "5391",
-          "name": "Ａ＆ＡＭ",
+          "code": "5218",
+          "name": "オハラ",
           "market": "東Ｓ",
-          "price": "1,491",
-          "change": "-6",
-          "changePercent": "-0.40%"
+          "price": "1,532",
+          "change": "+10",
+          "changePercent": "+0.66%"
+        },
+        {
+          "code": "5351",
+          "name": "品川リフラ",
+          "market": "東Ｐ",
+          "price": "1,967",
+          "change": "+11",
+          "changePercent": "+0.56%"
+        },
+        {
+          "code": "5284",
+          "name": "ヤマウＨＤ",
+          "market": "東Ｓ",
+          "price": "2,271",
+          "change": "+11",
+          "changePercent": "+0.49%"
+        },
+        {
+          "code": "5269",
+          "name": "日コン",
+          "market": "東Ｐ",
+          "price": "337",
+          "change": "+1",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "5290",
+          "name": "ベルテクス",
+          "market": "東Ｓ",
+          "price": "1,369",
+          "change": "+4",
+          "changePercent": "+0.29%"
+        },
+        {
+          "code": "5237",
+          "name": "ノザワ",
+          "market": "東Ｓ",
+          "price": "1,226",
+          "change": "+1",
+          "changePercent": "+0.08%"
+        },
+        {
+          "code": "5357",
+          "name": "ヨータイ",
+          "market": "東Ｐ",
+          "price": "1,751",
+          "change": "+1",
+          "changePercent": "+0.06%"
         },
         {
           "code": "5202",
           "name": "板硝子",
           "market": "東Ｐ",
           "price": "482",
-          "change": "-2",
-          "changePercent": "-0.41%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "5363",
-          "name": "ＴＹＫ",
+          "code": "5388",
+          "name": "クニミネ",
+          "market": "東Ｓ",
+          "price": "1,271",
+          "change": "-4",
+          "changePercent": "-0.31%"
+        },
+        {
+          "code": "5271",
+          "name": "トーヨアサノ",
+          "market": "東Ｓ",
+          "price": "2,190",
+          "change": "-8",
+          "changePercent": "-0.36%"
+        },
+        {
+          "code": "5391",
+          "name": "Ａ＆ＡＭ",
+          "market": "東Ｓ",
+          "price": "1,485",
+          "change": "-6",
+          "changePercent": "-0.40%"
+        },
+        {
+          "code": "5355",
+          "name": "ルツボ",
           "market": "東Ｓ",
           "price": "681",
-          "change": "-4",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "5356",
-          "name": "美濃窯",
-          "market": "東Ｓ",
-          "price": "1,311",
-          "change": "-9",
-          "changePercent": "-0.68%"
-        },
-        {
-          "code": "5351",
-          "name": "品川リフラ",
-          "market": "東Ｐ",
-          "price": "1,956",
-          "change": "-20",
-          "changePercent": "-1.01%"
-        },
-        {
-          "code": "5332",
-          "name": "ＴＯＴＯ",
-          "market": "東Ｐ",
-          "price": "8,435",
-          "change": "-116",
-          "changePercent": "-1.36%"
-        },
-        {
-          "code": "5262",
-          "name": "日ヒュム",
-          "market": "東Ｐ",
-          "price": "1,055",
-          "change": "-15",
-          "changePercent": "-1.40%"
-        },
-        {
-          "code": "5210",
-          "name": "日山村硝",
-          "market": "東Ｓ",
-          "price": "2,832",
-          "change": "-45",
-          "changePercent": "-1.56%"
-        },
-        {
-          "code": "5393",
-          "name": "ニチアス",
-          "market": "東Ｐ",
-          "price": "3,787",
-          "change": "-63",
-          "changePercent": "-1.64%"
-        },
-        {
-          "code": "5304",
-          "name": "ＳＥＣカーボ",
-          "market": "東Ｓ",
-          "price": "2,516",
-          "change": "-45",
-          "changePercent": "-1.76%"
-        },
-        {
-          "code": "5218",
-          "name": "オハラ",
-          "market": "東Ｓ",
-          "price": "1,522",
-          "change": "-28",
-          "changePercent": "-1.81%"
-        },
-        {
-          "code": "4026",
-          "name": "神島化",
-          "market": "東Ｓ",
-          "price": "1,627",
-          "change": "-31",
-          "changePercent": "-1.87%"
-        },
-        {
-          "code": "5216",
-          "name": "倉元",
-          "market": "東Ｓ",
-          "price": "156",
           "change": "-3",
-          "changePercent": "-1.89%"
-        },
-        {
-          "code": "5233",
-          "name": "太平洋セメ",
-          "market": "東Ｐ",
-          "price": "4,090",
-          "change": "-84",
-          "changePercent": "-2.01%"
-        },
-        {
-          "code": "5334",
-          "name": "特殊陶",
-          "market": "東Ｐ",
-          "price": "10,575",
-          "change": "-225",
-          "changePercent": "-2.08%"
-        },
-        {
-          "code": "5301",
-          "name": "東海カーボン",
-          "market": "東Ｐ",
-          "price": "1,705.0",
-          "change": "-37.5",
-          "changePercent": "-2.15%"
-        },
-        {
-          "code": "5302",
-          "name": "カーボン",
-          "market": "東Ｐ",
-          "price": "4,875",
-          "change": "-110",
-          "changePercent": "-2.21%"
-        },
-        {
-          "code": "5204",
-          "name": "石塚硝",
-          "market": "東Ｓ",
-          "price": "3,030",
-          "change": "-70",
-          "changePercent": "-2.26%"
-        },
-        {
-          "code": "5201",
-          "name": "ＡＧＣ",
-          "market": "東Ｐ",
-          "price": "6,578",
-          "change": "-159",
-          "changePercent": "-2.36%"
-        },
-        {
-          "code": "5232",
-          "name": "住友大阪",
-          "market": "東Ｐ",
-          "price": "5,724",
-          "change": "-154",
-          "changePercent": "-2.62%"
-        },
-        {
-          "code": "5310",
-          "name": "東洋炭素",
-          "market": "東Ｐ",
-          "price": "7,320",
-          "change": "-250",
-          "changePercent": "-3.30%"
-        },
-        {
-          "code": "5367",
-          "name": "ニッカトー",
-          "market": "東Ｓ",
-          "price": "1,317",
-          "change": "-49",
-          "changePercent": "-3.59%"
-        },
-        {
-          "code": "5333",
-          "name": "ＮＧＫ",
-          "market": "東Ｐ",
-          "price": "7,125",
-          "change": "-266",
-          "changePercent": "-3.60%"
-        },
-        {
-          "code": "5214",
-          "name": "日電硝",
-          "market": "東Ｐ",
-          "price": "6,036",
-          "change": "-283",
-          "changePercent": "-4.48%"
-        },
-        {
-          "code": "5384",
-          "name": "フジミインコ",
-          "market": "東Ｐ",
-          "price": "4,130",
-          "change": "-195",
-          "changePercent": "-4.51%"
-        },
-        {
-          "code": "5331",
-          "name": "ノリタケ",
-          "market": "東Ｐ",
-          "price": "3,765",
-          "change": "-220",
-          "changePercent": "-5.52%"
-        },
-        {
-          "code": "5381",
-          "name": "マイポックス",
-          "market": "東Ｓ",
-          "price": "922",
-          "change": "-74",
-          "changePercent": "-7.43%"
+          "changePercent": "-0.44%"
         },
         {
           "code": "5344",
           "name": "ＭＡＲＵＷＡ",
           "market": "東Ｐ",
-          "price": "59,580",
-          "change": "-8,700",
-          "changePercent": "-12.74%"
+          "price": "59,120",
+          "change": "-460",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "5356",
+          "name": "美濃窯",
+          "market": "東Ｓ",
+          "price": "1,299",
+          "change": "-12",
+          "changePercent": "-0.92%"
+        },
+        {
+          "code": "5204",
+          "name": "石塚硝",
+          "market": "東Ｓ",
+          "price": "2,999",
+          "change": "-31",
+          "changePercent": "-1.02%"
+        },
+        {
+          "code": "5214",
+          "name": "日電硝",
+          "market": "東Ｐ",
+          "price": "5,972",
+          "change": "-64",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "5343",
+          "name": "ニッコー",
+          "market": "名Ｍ",
+          "price": "186",
+          "change": "-2",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "5288",
+          "name": "アジアパイル",
+          "market": "東Ｐ",
+          "price": "1,500",
+          "change": "-17",
+          "changePercent": "-1.12%"
+        },
+        {
+          "code": "5273",
+          "name": "三谷セキ",
+          "market": "東Ｓ",
+          "price": "1,754",
+          "change": "-23",
+          "changePercent": "-1.29%"
+        },
+        {
+          "code": "5384",
+          "name": "フジミインコ",
+          "market": "東Ｐ",
+          "price": "4,075",
+          "change": "-55",
+          "changePercent": "-1.33%"
+        },
+        {
+          "code": "5262",
+          "name": "日ヒュム",
+          "market": "東Ｐ",
+          "price": "1,040",
+          "change": "-15",
+          "changePercent": "-1.42%"
+        },
+        {
+          "code": "5301",
+          "name": "東海カーボン",
+          "market": "東Ｐ",
+          "price": "1,680.0",
+          "change": "-25.0",
+          "changePercent": "-1.47%"
+        },
+        {
+          "code": "5363",
+          "name": "ＴＹＫ",
+          "market": "東Ｓ",
+          "price": "671",
+          "change": "-10",
+          "changePercent": "-1.47%"
+        },
+        {
+          "code": "3110",
+          "name": "日東紡",
+          "market": "東Ｐ",
+          "price": "3,515",
+          "change": "-55",
+          "changePercent": "-1.54%"
+        },
+        {
+          "code": "5285",
+          "name": "ヤマックス",
+          "market": "東Ｓ",
+          "price": "1,348",
+          "change": "-22",
+          "changePercent": "-1.61%"
+        },
+        {
+          "code": "5210",
+          "name": "日山村硝",
+          "market": "東Ｓ",
+          "price": "2,783",
+          "change": "-49",
+          "changePercent": "-1.73%"
+        },
+        {
+          "code": "5331",
+          "name": "ノリタケ",
+          "market": "東Ｐ",
+          "price": "3,695",
+          "change": "-70",
+          "changePercent": "-1.86%"
+        },
+        {
+          "code": "5268",
+          "name": "旭コン",
+          "market": "東Ｓ",
+          "price": "839",
+          "change": "-16",
+          "changePercent": "-1.87%"
+        },
+        {
+          "code": "5304",
+          "name": "ＳＥＣカーボ",
+          "market": "東Ｓ",
+          "price": "2,468",
+          "change": "-48",
+          "changePercent": "-1.91%"
+        },
+        {
+          "code": "5302",
+          "name": "カーボン",
+          "market": "東Ｐ",
+          "price": "4,780",
+          "change": "-95",
+          "changePercent": "-1.95%"
+        },
+        {
+          "code": "5233",
+          "name": "太平洋セメ",
+          "market": "東Ｐ",
+          "price": "4,000",
+          "change": "-90",
+          "changePercent": "-2.20%"
+        },
+        {
+          "code": "7943",
+          "name": "ニチハ",
+          "market": "東Ｐ",
+          "price": "2,937",
+          "change": "-68",
+          "changePercent": "-2.26%"
+        },
+        {
+          "code": "5381",
+          "name": "マイポックス",
+          "market": "東Ｓ",
+          "price": "901",
+          "change": "-21",
+          "changePercent": "-2.28%"
+        },
+        {
+          "code": "5201",
+          "name": "ＡＧＣ",
+          "market": "東Ｐ",
+          "price": "6,418",
+          "change": "-160",
+          "changePercent": "-2.43%"
+        },
+        {
+          "code": "5287",
+          "name": "イトヨーギョ",
+          "market": "東Ｓ",
+          "price": "827",
+          "change": "-21",
+          "changePercent": "-2.48%"
+        },
+        {
+          "code": "5341",
+          "name": "アサヒエイト",
+          "market": "東Ｓ",
+          "price": "177",
+          "change": "-5",
+          "changePercent": "-2.75%"
+        },
+        {
+          "code": "5393",
+          "name": "ニチアス",
+          "market": "東Ｐ",
+          "price": "3,678",
+          "change": "-109",
+          "changePercent": "-2.88%"
+        },
+        {
+          "code": "5334",
+          "name": "特殊陶",
+          "market": "東Ｐ",
+          "price": "10,265",
+          "change": "-310",
+          "changePercent": "-2.93%"
+        },
+        {
+          "code": "5232",
+          "name": "住友大阪",
+          "market": "東Ｐ",
+          "price": "5,541",
+          "change": "-183",
+          "changePercent": "-3.20%"
+        },
+        {
+          "code": "5216",
+          "name": "倉元",
+          "market": "東Ｓ",
+          "price": "151",
+          "change": "-5",
+          "changePercent": "-3.21%"
+        },
+        {
+          "code": "4026",
+          "name": "神島化",
+          "market": "東Ｓ",
+          "price": "1,567",
+          "change": "-60",
+          "changePercent": "-3.69%"
+        },
+        {
+          "code": "5333",
+          "name": "ＮＧＫ",
+          "market": "東Ｐ",
+          "price": "6,856",
+          "change": "-269",
+          "changePercent": "-3.78%"
+        },
+        {
+          "code": "5337",
+          "name": "ダントーＨＤ",
+          "market": "東Ｓ",
+          "price": "861",
+          "change": "-34",
+          "changePercent": "-3.80%"
+        },
+        {
+          "code": "5332",
+          "name": "ＴＯＴＯ",
+          "market": "東Ｐ",
+          "price": "8,076",
+          "change": "-359",
+          "changePercent": "-4.26%"
+        },
+        {
+          "code": "5282",
+          "name": "ジオスター",
+          "market": "東Ｓ",
+          "price": "424",
+          "change": "-24",
+          "changePercent": "-5.36%"
+        },
+        {
+          "code": "5310",
+          "name": "東洋炭素",
+          "market": "東Ｐ",
+          "price": "6,920",
+          "change": "-400",
+          "changePercent": "-5.46%"
+        },
+        {
+          "code": "5367",
+          "name": "ニッカトー",
+          "market": "東Ｓ",
+          "price": "1,240",
+          "change": "-77",
+          "changePercent": "-5.85%"
         },
         {
           "code": "5380",
           "name": "新東",
           "market": "東Ｓ",
+          "price": "1,071",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "5386",
+          "name": "鶴弥",
+          "market": "名Ｍ",
           "price": "－",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2774.5,
-          "changePercent": -0.52
-        },
         {
           "date": "20260625",
           "price": 2840.76,
@@ -6089,6 +6084,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2645.79,
           "changePercent": -2.88
+        },
+        {
+          "date": "20260708",
+          "price": 2574.62,
+          "changePercent": -2.69
         }
       ]
     },
@@ -6096,185 +6096,65 @@ window.sectorData = {
       "id": "3450",
       "nameJa": "鉄鋼",
       "nameEn": "Iron & Steel",
-      "price": 743.26,
-      "change": "-3.66",
-      "changePercent": -0.49,
+      "price": 736.87,
+      "change": "-6.39",
+      "changePercent": -0.86,
       "stocks": [
-        {
-          "code": "5449",
-          "name": "大阪製鉄",
-          "market": "東Ｓ",
-          "price": "2,510",
-          "change": "+105",
-          "changePercent": "+4.37%"
-        },
-        {
-          "code": "5408",
-          "name": "中山鋼",
-          "market": "東Ｐ",
-          "price": "644",
-          "change": "+16",
-          "changePercent": "+2.55%"
-        },
-        {
-          "code": "5482",
-          "name": "愛知鋼",
-          "market": "東Ｐ",
-          "price": "3,135",
-          "change": "+50",
-          "changePercent": "+1.62%"
-        },
-        {
-          "code": "5609",
-          "name": "日鋳造",
-          "market": "東Ｓ",
-          "price": "984",
-          "change": "+14",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "5445",
-          "name": "東京鉄",
-          "market": "東Ｐ",
-          "price": "1,910",
-          "change": "+23",
-          "changePercent": "+1.22%"
-        },
-        {
-          "code": "5410",
-          "name": "合同鉄",
-          "market": "東Ｐ",
-          "price": "2,699",
-          "change": "+32",
-          "changePercent": "+1.20%"
-        },
         {
           "code": "5697",
           "name": "サンユウ",
           "market": "東Ｓ",
-          "price": "706",
-          "change": "+8",
-          "changePercent": "+1.15%"
-        },
-        {
-          "code": "5602",
-          "name": "栗本鉄",
-          "market": "東Ｐ",
-          "price": "1,472",
-          "change": "+15",
-          "changePercent": "+1.03%"
-        },
-        {
-          "code": "5603",
-          "name": "虹技",
-          "market": "東Ｓ",
-          "price": "1,254",
-          "change": "+8",
-          "changePercent": "+0.64%"
-        },
-        {
-          "code": "5491",
-          "name": "日金属",
-          "market": "東Ｓ",
-          "price": "866",
-          "change": "+5",
-          "changePercent": "+0.58%"
-        },
-        {
-          "code": "5440",
-          "name": "共英製鋼",
-          "market": "東Ｐ",
-          "price": "1,808",
-          "change": "+10",
-          "changePercent": "+0.56%"
-        },
-        {
-          "code": "5480",
-          "name": "冶金工",
-          "market": "東Ｐ",
-          "price": "4,940",
-          "change": "+20",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "5607",
-          "name": "中可鍛",
-          "market": "名Ｍ",
-          "price": "615",
-          "change": "+2",
-          "changePercent": "+0.33%"
-        },
-        {
-          "code": "5464",
-          "name": "モリ工業",
-          "market": "東Ｓ",
-          "price": "952",
-          "change": "+3",
-          "changePercent": "+0.32%"
-        },
-        {
-          "code": "7305",
-          "name": "新家工",
-          "market": "東Ｓ",
-          "price": "2,571",
-          "change": "+7",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "5644",
-          "name": "メタルアート",
-          "market": "東Ｓ",
-          "price": "7,650",
-          "change": "+20",
-          "changePercent": "+0.26%"
-        },
-        {
-          "code": "5461",
-          "name": "中部鋼鈑",
-          "market": "東Ｐ",
-          "price": "2,069",
-          "change": "+5",
-          "changePercent": "+0.24%"
-        },
-        {
-          "code": "5401",
-          "name": "日本製鉄",
-          "market": "東Ｐ",
-          "price": "560.3",
-          "change": "+1.3",
-          "changePercent": "+0.23%"
-        },
-        {
-          "code": "5542",
-          "name": "報国マテリア",
-          "market": "東Ｓ",
-          "price": "809",
-          "change": "+1",
-          "changePercent": "+0.12%"
+          "price": "717",
+          "change": "+11",
+          "changePercent": "+1.56%"
         },
         {
           "code": "5451",
           "name": "ヨドコウ",
           "market": "東Ｐ",
-          "price": "1,312",
-          "change": "+1",
-          "changePercent": "+0.08%"
+          "price": "1,322",
+          "change": "+10",
+          "changePercent": "+0.76%"
         },
         {
-          "code": "5423",
-          "name": "東京製鉄",
-          "market": "東Ｐ",
-          "price": "1,750",
-          "change": "+1",
-          "changePercent": "+0.06%"
+          "code": "5542",
+          "name": "報国マテリア",
+          "market": "東Ｓ",
+          "price": "812",
+          "change": "+3",
+          "changePercent": "+0.37%"
         },
         {
-          "code": "5411",
-          "name": "ＪＦＥ",
-          "market": "東Ｐ",
-          "price": "1,654.0",
-          "change": "0.0",
-          "changePercent": "0.00%"
+          "code": "5695",
+          "name": "パウダテック",
+          "market": "東Ｓ",
+          "price": "2,945",
+          "change": "+5",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "5607",
+          "name": "中可鍛",
+          "market": "名Ｍ",
+          "price": "616",
+          "change": "+1",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "5644",
+          "name": "メタルアート",
+          "market": "東Ｓ",
+          "price": "7,660",
+          "change": "+10",
+          "changePercent": "+0.13%"
+        },
+        {
+          "code": "5449",
+          "name": "大阪製鉄",
+          "market": "東Ｓ",
+          "price": "2,513",
+          "change": "+3",
+          "changePercent": "+0.12%"
         },
         {
           "code": "5484",
@@ -6285,140 +6165,255 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "5660",
-          "name": "神鋼線",
-          "market": "東Ｓ",
-          "price": "1,778",
-          "change": "-1",
-          "changePercent": "-0.06%"
-        },
-        {
-          "code": "5446",
-          "name": "北越メ",
-          "market": "東Ｓ",
-          "price": "1,156",
-          "change": "-2",
-          "changePercent": "-0.17%"
-        },
-        {
-          "code": "5658",
-          "name": "日亜鋼",
-          "market": "東Ｓ",
-          "price": "356",
-          "change": "-1",
-          "changePercent": "-0.28%"
-        },
-        {
-          "code": "5444",
-          "name": "大和工",
-          "market": "東Ｐ",
-          "price": "12,565",
-          "change": "-40",
-          "changePercent": "-0.32%"
-        },
-        {
-          "code": "5699",
-          "name": "イボキン",
-          "market": "東Ｓ",
-          "price": "1,458",
-          "change": "-10",
-          "changePercent": "-0.68%"
-        },
-        {
-          "code": "5698",
-          "name": "エンビプロ",
-          "market": "東Ｓ",
-          "price": "801",
-          "change": "-6",
-          "changePercent": "-0.74%"
-        },
-        {
-          "code": "5406",
-          "name": "神戸鋼",
-          "market": "東Ｐ",
-          "price": "1,909.5",
-          "change": "-14.5",
-          "changePercent": "-0.75%"
-        },
-        {
-          "code": "5632",
-          "name": "菱製鋼",
-          "market": "東Ｐ",
-          "price": "2,170",
-          "change": "-18",
-          "changePercent": "-0.82%"
-        },
-        {
-          "code": "5695",
-          "name": "パウダテック",
-          "market": "東Ｓ",
-          "price": "2,940",
-          "change": "-30",
-          "changePercent": "-1.01%"
-        },
-        {
-          "code": "5563",
-          "name": "新日本電工",
-          "market": "東Ｐ",
-          "price": "446",
-          "change": "-6",
-          "changePercent": "-1.33%"
-        },
-        {
           "code": "5612",
           "name": "鋳鉄管",
           "market": "東Ｓ",
-          "price": "1,570",
-          "change": "-26",
-          "changePercent": "-1.63%"
-        },
-        {
-          "code": "5458",
-          "name": "高砂鉄",
-          "market": "東Ｓ",
-          "price": "1,220",
-          "change": "-25",
-          "changePercent": "-2.01%"
-        },
-        {
-          "code": "5659",
-          "name": "日精線",
-          "market": "東Ｐ",
-          "price": "1,442",
-          "change": "-40",
-          "changePercent": "-2.70%"
-        },
-        {
-          "code": "5541",
-          "name": "大平金",
-          "market": "東Ｐ",
-          "price": "2,271",
-          "change": "-75",
-          "changePercent": "-3.20%"
+          "price": "1,568",
+          "change": "-2",
+          "changePercent": "-0.13%"
         },
         {
           "code": "5463",
           "name": "丸一管",
           "market": "東Ｐ",
-          "price": "1,852.5",
-          "change": "-79.0",
-          "changePercent": "-4.09%"
+          "price": "1,849.0",
+          "change": "-3.5",
+          "changePercent": "-0.19%"
+        },
+        {
+          "code": "5464",
+          "name": "モリ工業",
+          "market": "東Ｓ",
+          "price": "950",
+          "change": "-2",
+          "changePercent": "-0.21%"
+        },
+        {
+          "code": "7305",
+          "name": "新家工",
+          "market": "東Ｓ",
+          "price": "2,565",
+          "change": "-6",
+          "changePercent": "-0.23%"
+        },
+        {
+          "code": "5440",
+          "name": "共英製鋼",
+          "market": "東Ｐ",
+          "price": "1,803",
+          "change": "-5",
+          "changePercent": "-0.28%"
+        },
+        {
+          "code": "5423",
+          "name": "東京製鉄",
+          "market": "東Ｐ",
+          "price": "1,744",
+          "change": "-6",
+          "changePercent": "-0.34%"
+        },
+        {
+          "code": "5411",
+          "name": "ＪＦＥ",
+          "market": "東Ｐ",
+          "price": "1,647.5",
+          "change": "-6.5",
+          "changePercent": "-0.39%"
+        },
+        {
+          "code": "5445",
+          "name": "東京鉄",
+          "market": "東Ｐ",
+          "price": "1,902",
+          "change": "-8",
+          "changePercent": "-0.42%"
+        },
+        {
+          "code": "5480",
+          "name": "冶金工",
+          "market": "東Ｐ",
+          "price": "4,915",
+          "change": "-25",
+          "changePercent": "-0.51%"
+        },
+        {
+          "code": "5658",
+          "name": "日亜鋼",
+          "market": "東Ｓ",
+          "price": "354",
+          "change": "-2",
+          "changePercent": "-0.56%"
+        },
+        {
+          "code": "5458",
+          "name": "高砂鉄",
+          "market": "東Ｓ",
+          "price": "1,213",
+          "change": "-7",
+          "changePercent": "-0.57%"
+        },
+        {
+          "code": "5609",
+          "name": "日鋳造",
+          "market": "東Ｓ",
+          "price": "978",
+          "change": "-6",
+          "changePercent": "-0.61%"
+        },
+        {
+          "code": "5461",
+          "name": "中部鋼鈑",
+          "market": "東Ｐ",
+          "price": "2,055",
+          "change": "-14",
+          "changePercent": "-0.68%"
+        },
+        {
+          "code": "5401",
+          "name": "日本製鉄",
+          "market": "東Ｐ",
+          "price": "556.0",
+          "change": "-4.3",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "5603",
+          "name": "虹技",
+          "market": "東Ｓ",
+          "price": "1,243",
+          "change": "-11",
+          "changePercent": "-0.88%"
+        },
+        {
+          "code": "5410",
+          "name": "合同鉄",
+          "market": "東Ｐ",
+          "price": "2,675",
+          "change": "-24",
+          "changePercent": "-0.89%"
+        },
+        {
+          "code": "5444",
+          "name": "大和工",
+          "market": "東Ｐ",
+          "price": "12,445",
+          "change": "-120",
+          "changePercent": "-0.96%"
+        },
+        {
+          "code": "5699",
+          "name": "イボキン",
+          "market": "東Ｓ",
+          "price": "1,441",
+          "change": "-17",
+          "changePercent": "-1.17%"
+        },
+        {
+          "code": "5660",
+          "name": "神鋼線",
+          "market": "東Ｓ",
+          "price": "1,756",
+          "change": "-22",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "5446",
+          "name": "北越メ",
+          "market": "東Ｓ",
+          "price": "1,140",
+          "change": "-16",
+          "changePercent": "-1.38%"
+        },
+        {
+          "code": "5406",
+          "name": "神戸鋼",
+          "market": "東Ｐ",
+          "price": "1,883.0",
+          "change": "-26.5",
+          "changePercent": "-1.39%"
+        },
+        {
+          "code": "5602",
+          "name": "栗本鉄",
+          "market": "東Ｐ",
+          "price": "1,447",
+          "change": "-25",
+          "changePercent": "-1.70%"
+        },
+        {
+          "code": "5659",
+          "name": "日精線",
+          "market": "東Ｐ",
+          "price": "1,415",
+          "change": "-27",
+          "changePercent": "-1.87%"
+        },
+        {
+          "code": "5408",
+          "name": "中山鋼",
+          "market": "東Ｐ",
+          "price": "631",
+          "change": "-13",
+          "changePercent": "-2.02%"
         },
         {
           "code": "5471",
           "name": "大同特鋼",
           "market": "東Ｐ",
-          "price": "2,624.0",
-          "change": "-150.0",
-          "changePercent": "-5.41%"
+          "price": "2,571.0",
+          "change": "-53.0",
+          "changePercent": "-2.02%"
+        },
+        {
+          "code": "5491",
+          "name": "日金属",
+          "market": "東Ｓ",
+          "price": "847",
+          "change": "-19",
+          "changePercent": "-2.19%"
+        },
+        {
+          "code": "5632",
+          "name": "菱製鋼",
+          "market": "東Ｐ",
+          "price": "2,122",
+          "change": "-48",
+          "changePercent": "-2.21%"
+        },
+        {
+          "code": "5541",
+          "name": "大平金",
+          "market": "東Ｐ",
+          "price": "2,220",
+          "change": "-51",
+          "changePercent": "-2.25%"
+        },
+        {
+          "code": "5482",
+          "name": "愛知鋼",
+          "market": "東Ｐ",
+          "price": "3,060",
+          "change": "-75",
+          "changePercent": "-2.39%"
+        },
+        {
+          "code": "5698",
+          "name": "エンビプロ",
+          "market": "東Ｓ",
+          "price": "780",
+          "change": "-21",
+          "changePercent": "-2.62%"
+        },
+        {
+          "code": "5563",
+          "name": "新日本電工",
+          "market": "東Ｐ",
+          "price": "429",
+          "change": "-17",
+          "changePercent": "-3.81%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 721.22,
-          "changePercent": -0.48
-        },
         {
           "date": "20260625",
           "price": 722.35,
@@ -6463,6 +6458,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 743.26,
           "changePercent": -0.49
+        },
+        {
+          "date": "20260708",
+          "price": 736.87,
+          "changePercent": -0.86
         }
       ]
     },
@@ -6470,273 +6470,268 @@ window.sectorData = {
       "id": "3500",
       "nameJa": "非鉄金属",
       "nameEn": "Nonferrous Metals",
-      "price": 5779.16,
-      "change": "-313.09",
-      "changePercent": -5.14,
+      "price": 5549.29,
+      "change": "-229.87",
+      "changePercent": -3.98,
       "stocks": [
         {
-          "code": "5704",
-          "name": "ＪＭＣ",
-          "market": "東Ｇ",
-          "price": "391",
-          "change": "+6",
-          "changePercent": "+1.56%"
-        },
-        {
-          "code": "5757",
-          "name": "ＣＫサンエツ",
-          "market": "東Ｐ",
-          "price": "5,380",
-          "change": "+30",
-          "changePercent": "+0.56%"
-        },
-        {
-          "code": "5819",
-          "name": "カナレ電気",
+          "code": "5753",
+          "name": "日伸銅",
           "market": "東Ｓ",
-          "price": "1,760",
-          "change": "+3",
-          "changePercent": "+0.17%"
+          "price": "2,365",
+          "change": "+45",
+          "changePercent": "+1.94%"
+        },
+        {
+          "code": "1491",
+          "name": "中外鉱",
+          "market": "東Ｓ",
+          "price": "728",
+          "change": "+12",
+          "changePercent": "+1.68%"
         },
         {
           "code": "5742",
           "name": "ＮＩＣ",
           "market": "東Ｓ",
-          "price": "715",
-          "change": "-3",
-          "changePercent": "-0.42%"
-        },
-        {
-          "code": "5753",
-          "name": "日伸銅",
-          "market": "東Ｓ",
-          "price": "2,320",
-          "change": "-15",
-          "changePercent": "-0.64%"
+          "price": "725",
+          "change": "+10",
+          "changePercent": "+1.40%"
         },
         {
           "code": "5858",
           "name": "ＳＴＧ",
           "market": "東Ｇ",
-          "price": "1,352",
-          "change": "-11",
-          "changePercent": "-0.81%"
-        },
-        {
-          "code": "5851",
-          "name": "リョービ",
-          "market": "東Ｐ",
-          "price": "2,531",
-          "change": "-37",
-          "changePercent": "-1.44%"
-        },
-        {
-          "code": "5820",
-          "name": "三ッ星",
-          "market": "東Ｓ",
-          "price": "748",
-          "change": "-12",
-          "changePercent": "-1.58%"
-        },
-        {
-          "code": "5702",
-          "name": "大紀ア",
-          "market": "東Ｐ",
-          "price": "1,485",
-          "change": "-26",
-          "changePercent": "-1.72%"
-        },
-        {
-          "code": "5852",
-          "name": "アーレスティ",
-          "market": "東Ｐ",
-          "price": "722",
-          "change": "-13",
-          "changePercent": "-1.77%"
-        },
-        {
-          "code": "5703",
-          "name": "日軽金ＨＤ",
-          "market": "東Ｐ",
-          "price": "2,693",
-          "change": "-59",
-          "changePercent": "-2.14%"
-        },
-        {
-          "code": "5729",
-          "name": "日精鉱",
-          "market": "東Ｓ",
-          "price": "1,468",
-          "change": "-34",
-          "changePercent": "-2.26%"
-        },
-        {
-          "code": "5816",
-          "name": "オーナンバ",
-          "market": "東Ｓ",
-          "price": "1,620",
-          "change": "-41",
-          "changePercent": "-2.47%"
-        },
-        {
-          "code": "5857",
-          "name": "ＡＲＥＨＤ",
-          "market": "東Ｐ",
-          "price": "3,005",
-          "change": "-80",
-          "changePercent": "-2.59%"
-        },
-        {
-          "code": "5715",
-          "name": "古河機金",
-          "market": "東Ｐ",
-          "price": "3,615",
-          "change": "-100",
-          "changePercent": "-2.69%"
-        },
-        {
-          "code": "5741",
-          "name": "ＵＡＣＪ",
-          "market": "東Ｐ",
-          "price": "2,494",
-          "change": "-79",
-          "changePercent": "-3.07%"
+          "price": "1,367",
+          "change": "+15",
+          "changePercent": "+1.11%"
         },
         {
           "code": "5721",
           "name": "Ｓクリプトエ",
           "market": "東Ｓ",
           "price": "62",
-          "change": "-2",
-          "changePercent": "-3.13%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "1491",
-          "name": "中外鉱",
+          "code": "5819",
+          "name": "カナレ電気",
           "market": "東Ｓ",
-          "price": "716",
-          "change": "-25",
-          "changePercent": "-3.37%"
+          "price": "1,757",
+          "change": "-3",
+          "changePercent": "-0.17%"
         },
         {
-          "code": "5726",
-          "name": "大阪チタ",
+          "code": "5704",
+          "name": "ＪＭＣ",
+          "market": "東Ｇ",
+          "price": "390",
+          "change": "-1",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "5857",
+          "name": "ＡＲＥＨＤ",
           "market": "東Ｐ",
-          "price": "2,646",
-          "change": "-94",
-          "changePercent": "-3.43%"
+          "price": "2,967",
+          "change": "-38",
+          "changePercent": "-1.26%"
         },
         {
           "code": "5817",
           "name": "ＪＭＡＣＳ",
           "market": "東Ｓ",
-          "price": "839",
-          "change": "-30",
-          "changePercent": "-3.45%"
+          "price": "827",
+          "change": "-12",
+          "changePercent": "-1.43%"
         },
         {
-          "code": "5805",
-          "name": "ＳＷＣＣ",
+          "code": "5851",
+          "name": "リョービ",
           "market": "東Ｐ",
-          "price": "11,910",
-          "change": "-470",
-          "changePercent": "-3.80%"
+          "price": "2,493",
+          "change": "-38",
+          "changePercent": "-1.50%"
         },
         {
-          "code": "5821",
-          "name": "平河ヒューテ",
+          "code": "5715",
+          "name": "古河機金",
           "market": "東Ｐ",
-          "price": "3,370",
-          "change": "-135",
-          "changePercent": "-3.85%"
+          "price": "3,560",
+          "change": "-55",
+          "changePercent": "-1.52%"
         },
         {
-          "code": "5016",
-          "name": "ＪＸ金属",
+          "code": "5816",
+          "name": "オーナンバ",
+          "market": "東Ｓ",
+          "price": "1,592",
+          "change": "-28",
+          "changePercent": "-1.73%"
+        },
+        {
+          "code": "5729",
+          "name": "日精鉱",
+          "market": "東Ｓ",
+          "price": "1,441",
+          "change": "-27",
+          "changePercent": "-1.84%"
+        },
+        {
+          "code": "5741",
+          "name": "ＵＡＣＪ",
           "market": "東Ｐ",
-          "price": "3,855",
-          "change": "-167",
-          "changePercent": "-4.15%"
+          "price": "2,448",
+          "change": "-46",
+          "changePercent": "-1.84%"
+        },
+        {
+          "code": "5820",
+          "name": "三ッ星",
+          "market": "東Ｓ",
+          "price": "734",
+          "change": "-14",
+          "changePercent": "-1.87%"
         },
         {
           "code": "5714",
           "name": "ＤＯＷＡ",
           "market": "東Ｐ",
-          "price": "8,586",
-          "change": "-377",
-          "changePercent": "-4.21%"
+          "price": "8,425",
+          "change": "-161",
+          "changePercent": "-1.88%"
         },
         {
-          "code": "5706",
-          "name": "三井金属",
+          "code": "5702",
+          "name": "大紀ア",
           "market": "東Ｐ",
-          "price": "35,930",
-          "change": "-1,590",
-          "changePercent": "-4.24%"
-        },
-        {
-          "code": "5803",
-          "name": "フジクラ",
-          "market": "東Ｐ",
-          "price": "5,072",
-          "change": "-282",
-          "changePercent": "-5.27%"
-        },
-        {
-          "code": "5801",
-          "name": "古河電",
-          "market": "東Ｐ",
-          "price": "3,674",
-          "change": "-214",
-          "changePercent": "-5.50%"
-        },
-        {
-          "code": "5711",
-          "name": "三菱マ",
-          "market": "東Ｐ",
-          "price": "4,359",
-          "change": "-267",
-          "changePercent": "-5.77%"
-        },
-        {
-          "code": "5802",
-          "name": "住友電",
-          "market": "東Ｐ",
-          "price": "2,443.0",
-          "change": "-149.5",
-          "changePercent": "-5.77%"
+          "price": "1,456",
+          "change": "-29",
+          "changePercent": "-1.95%"
         },
         {
           "code": "5713",
           "name": "住友鉱",
           "market": "東Ｐ",
-          "price": "7,462",
-          "change": "-462",
-          "changePercent": "-5.83%"
+          "price": "7,305",
+          "change": "-157",
+          "changePercent": "-2.10%"
         },
         {
           "code": "5707",
           "name": "東邦鉛",
           "market": "東Ｐ",
-          "price": "810",
-          "change": "-52",
-          "changePercent": "-6.03%"
+          "price": "791",
+          "change": "-19",
+          "changePercent": "-2.35%"
+        },
+        {
+          "code": "5711",
+          "name": "三菱マ",
+          "market": "東Ｐ",
+          "price": "4,254",
+          "change": "-105",
+          "changePercent": "-2.41%"
+        },
+        {
+          "code": "5852",
+          "name": "アーレスティ",
+          "market": "東Ｐ",
+          "price": "704",
+          "change": "-18",
+          "changePercent": "-2.49%"
+        },
+        {
+          "code": "5757",
+          "name": "ＣＫサンエツ",
+          "market": "東Ｐ",
+          "price": "5,240",
+          "change": "-140",
+          "changePercent": "-2.60%"
+        },
+        {
+          "code": "5703",
+          "name": "日軽金ＨＤ",
+          "market": "東Ｐ",
+          "price": "2,622",
+          "change": "-71",
+          "changePercent": "-2.64%"
+        },
+        {
+          "code": "5726",
+          "name": "大阪チタ",
+          "market": "東Ｐ",
+          "price": "2,567",
+          "change": "-79",
+          "changePercent": "-2.99%"
+        },
+        {
+          "code": "5802",
+          "name": "住友電",
+          "market": "東Ｐ",
+          "price": "2,361.5",
+          "change": "-81.5",
+          "changePercent": "-3.34%"
+        },
+        {
+          "code": "5821",
+          "name": "平河ヒューテ",
+          "market": "東Ｐ",
+          "price": "3,255",
+          "change": "-115",
+          "changePercent": "-3.41%"
+        },
+        {
+          "code": "5801",
+          "name": "古河電",
+          "market": "東Ｐ",
+          "price": "3,541.0",
+          "change": "-133.0",
+          "changePercent": "-3.62%"
         },
         {
           "code": "5724",
           "name": "アサカ理研",
           "market": "東Ｓ",
-          "price": "2,575",
-          "change": "-176",
-          "changePercent": "-6.40%"
+          "price": "2,473",
+          "change": "-102",
+          "changePercent": "-3.96%"
+        },
+        {
+          "code": "5016",
+          "name": "ＪＸ金属",
+          "market": "東Ｐ",
+          "price": "3,681",
+          "change": "-174",
+          "changePercent": "-4.51%"
+        },
+        {
+          "code": "5803",
+          "name": "フジクラ",
+          "market": "東Ｐ",
+          "price": "4,824",
+          "change": "-248",
+          "changePercent": "-4.89%"
+        },
+        {
+          "code": "5805",
+          "name": "ＳＷＣＣ",
+          "market": "東Ｐ",
+          "price": "11,260",
+          "change": "-650",
+          "changePercent": "-5.46%"
+        },
+        {
+          "code": "5706",
+          "name": "三井金属",
+          "market": "東Ｐ",
+          "price": "33,730",
+          "change": "-2,200",
+          "changePercent": "-6.12%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 7043.68,
-          "changePercent": -2.43
-        },
         {
           "date": "20260625",
           "price": 7128.8,
@@ -6781,6 +6776,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 5779.16,
           "changePercent": -5.14
+        },
+        {
+          "date": "20260708",
+          "price": 5549.29,
+          "changePercent": -3.98
         }
       ]
     },
@@ -6788,391 +6788,231 @@ window.sectorData = {
       "id": "3550",
       "nameJa": "金属製品",
       "nameEn": "Metal Products",
-      "price": 2252.61,
-      "change": "-99.26",
-      "changePercent": -4.22,
+      "price": 2215.12,
+      "change": "-37.49",
+      "changePercent": -1.66,
       "stocks": [
         {
-          "code": "5951",
-          "name": "ダイニチ工業",
+          "code": "3420",
+          "name": "ケーエフシー",
           "market": "東Ｓ",
-          "price": "1,183",
-          "change": "+67",
-          "changePercent": "+6.00%"
+          "price": "1,655",
+          "change": "+85",
+          "changePercent": "+5.41%"
+        },
+        {
+          "code": "5957",
+          "name": "日東精",
+          "market": "東Ｐ",
+          "price": "800",
+          "change": "+29",
+          "changePercent": "+3.76%"
+        },
+        {
+          "code": "3440",
+          "name": "日創グループ",
+          "market": "東Ｓ",
+          "price": "970",
+          "change": "+35",
+          "changePercent": "+3.74%"
+        },
+        {
+          "code": "3449",
+          "name": "テクノフレ",
+          "market": "東Ｓ",
+          "price": "6,720",
+          "change": "+100",
+          "changePercent": "+1.51%"
+        },
+        {
+          "code": "5921",
+          "name": "川岸工",
+          "market": "東Ｓ",
+          "price": "4,000",
+          "change": "+55",
+          "changePercent": "+1.39%"
+        },
+        {
+          "code": "5974",
+          "name": "中国工",
+          "market": "東Ｓ",
+          "price": "859",
+          "change": "+11",
+          "changePercent": "+1.30%"
+        },
+        {
+          "code": "5955",
+          "name": "ワイズＨＤ",
+          "market": "東Ｓ",
+          "price": "80",
+          "change": "+1",
+          "changePercent": "+1.27%"
+        },
+        {
+          "code": "5969",
+          "name": "ロブテックス",
+          "market": "東Ｓ",
+          "price": "1,205",
+          "change": "+15",
+          "changePercent": "+1.26%"
+        },
+        {
+          "code": "3423",
+          "name": "エスイー",
+          "market": "東Ｓ",
+          "price": "268",
+          "change": "+3",
+          "changePercent": "+1.13%"
+        },
+        {
+          "code": "5967",
+          "name": "ＴＯＮＥ",
+          "market": "東Ｓ",
+          "price": "460",
+          "change": "+5",
+          "changePercent": "+1.10%"
+        },
+        {
+          "code": "5986",
+          "name": "モリテック",
+          "market": "東Ｓ",
+          "price": "236",
+          "change": "+2",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "5965",
+          "name": "フジマック",
+          "market": "東Ｓ",
+          "price": "1,163",
+          "change": "+9",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "5966",
+          "name": "ＫＴＣ",
+          "market": "東Ｓ",
+          "price": "2,558",
+          "change": "+15",
+          "changePercent": "+0.59%"
+        },
+        {
+          "code": "3434",
+          "name": "アルファＣｏ",
+          "market": "東Ｓ",
+          "price": "1,255",
+          "change": "+5",
+          "changePercent": "+0.40%"
+        },
+        {
+          "code": "5928",
+          "name": "アルメタクス",
+          "market": "東Ｓ",
+          "price": "289",
+          "change": "+1",
+          "changePercent": "+0.35%"
+        },
+        {
+          "code": "5923",
+          "name": "高田機",
+          "market": "東Ｓ",
+          "price": "1,135",
+          "change": "+2",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "5933",
+          "name": "アルインコ",
+          "market": "東Ｐ",
+          "price": "1,089",
+          "change": "+2",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "5941",
+          "name": "中西製",
+          "market": "東Ｓ",
+          "price": "2,505",
+          "change": "+4",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "5976",
+          "name": "ネツレン",
+          "market": "東Ｐ",
+          "price": "1,317",
+          "change": "+2",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "5900",
+          "name": "ダイケン",
+          "market": "東Ｓ",
+          "price": "858",
+          "change": "+1",
+          "changePercent": "+0.12%"
+        },
+        {
+          "code": "5903",
+          "name": "ＳＨＩＮＰＯ",
+          "market": "東Ｓ",
+          "price": "1,687",
+          "change": "+2",
+          "changePercent": "+0.12%"
+        },
+        {
+          "code": "3437",
+          "name": "特殊電極",
+          "market": "東Ｓ",
+          "price": "2,663",
+          "change": "+3",
+          "changePercent": "+0.11%"
+        },
+        {
+          "code": "5938",
+          "name": "ＬＩＸＩＬ",
+          "market": "東Ｐ",
+          "price": "1,893.5",
+          "change": "+2.0",
+          "changePercent": "+0.11%"
+        },
+        {
+          "code": "5959",
+          "name": "岡部",
+          "market": "東Ｐ",
+          "price": "899",
+          "change": "+1",
+          "changePercent": "+0.11%"
+        },
+        {
+          "code": "5990",
+          "name": "スーパツール",
+          "market": "東Ｓ",
+          "price": "1,980",
+          "change": "+2",
+          "changePercent": "+0.10%"
+        },
+        {
+          "code": "5905",
+          "name": "日カン",
+          "market": "東Ｓ",
+          "price": "1,351",
+          "change": "+1",
+          "changePercent": "+0.07%"
+        },
+        {
+          "code": "3439",
+          "name": "三ツ知",
+          "market": "東Ｓ",
+          "price": "674",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "3445",
           "name": "ＲＳテクノ",
           "market": "東Ｐ",
           "price": "8,320",
-          "change": "+360",
-          "changePercent": "+4.52%"
-        },
-        {
-          "code": "5997",
-          "name": "協立エアテク",
-          "market": "東Ｓ",
-          "price": "926",
-          "change": "+31",
-          "changePercent": "+3.46%"
-        },
-        {
-          "code": "3420",
-          "name": "ケーエフシー",
-          "market": "東Ｓ",
-          "price": "1,570",
-          "change": "+49",
-          "changePercent": "+3.22%"
-        },
-        {
-          "code": "5994",
-          "name": "ファインシン",
-          "market": "東Ｓ",
-          "price": "1,029",
-          "change": "+24",
-          "changePercent": "+2.39%"
-        },
-        {
-          "code": "5966",
-          "name": "ＫＴＣ",
-          "market": "東Ｓ",
-          "price": "2,543",
-          "change": "+50",
-          "changePercent": "+2.01%"
-        },
-        {
-          "code": "5909",
-          "name": "コロナ",
-          "market": "東Ｓ",
-          "price": "1,015",
-          "change": "+18",
-          "changePercent": "+1.81%"
-        },
-        {
-          "code": "5982",
-          "name": "マルゼン",
-          "market": "東Ｓ",
-          "price": "4,030",
-          "change": "+65",
-          "changePercent": "+1.64%"
-        },
-        {
-          "code": "5953",
-          "name": "昭和鉄",
-          "market": "福証",
-          "price": "6,700",
-          "change": "+100",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "5947",
-          "name": "リンナイ",
-          "market": "東Ｐ",
-          "price": "3,665.0",
-          "change": "+43.0",
-          "changePercent": "+1.19%"
-        },
-        {
-          "code": "5965",
-          "name": "フジマック",
-          "market": "東Ｓ",
-          "price": "1,154",
-          "change": "+13",
-          "changePercent": "+1.14%"
-        },
-        {
-          "code": "5939",
-          "name": "大谷工業",
-          "market": "東Ｓ",
-          "price": "5,020",
-          "change": "+55",
-          "changePercent": "+1.11%"
-        },
-        {
-          "code": "3437",
-          "name": "特殊電極",
-          "market": "東Ｓ",
-          "price": "2,660",
-          "change": "+29",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "5928",
-          "name": "アルメタクス",
-          "market": "東Ｓ",
-          "price": "288",
-          "change": "+3",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "3431",
-          "name": "宮地エンジ",
-          "market": "東Ｐ",
-          "price": "1,549",
-          "change": "+15",
-          "changePercent": "+0.98%"
-        },
-        {
-          "code": "5974",
-          "name": "中国工",
-          "market": "東Ｓ",
-          "price": "848",
-          "change": "+8",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "5989",
-          "name": "エイチワン",
-          "market": "東Ｐ",
-          "price": "1,595",
-          "change": "+15",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "5981",
-          "name": "東京綱",
-          "market": "東Ｐ",
-          "price": "1,971",
-          "change": "+18",
-          "changePercent": "+0.92%"
-        },
-        {
-          "code": "5984",
-          "name": "兼房",
-          "market": "東Ｓ",
-          "price": "734",
-          "change": "+6",
-          "changePercent": "+0.82%"
-        },
-        {
-          "code": "5943",
-          "name": "ノーリツ",
-          "market": "東Ｐ",
-          "price": "2,358",
-          "change": "+17",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "3434",
-          "name": "アルファＣｏ",
-          "market": "東Ｓ",
-          "price": "1,250",
-          "change": "+8",
-          "changePercent": "+0.64%"
-        },
-        {
-          "code": "5921",
-          "name": "川岸工",
-          "market": "東Ｓ",
-          "price": "3,945",
-          "change": "+25",
-          "changePercent": "+0.64%"
-        },
-        {
-          "code": "5938",
-          "name": "ＬＩＸＩＬ",
-          "market": "東Ｐ",
-          "price": "1,891.5",
-          "change": "+11.5",
-          "changePercent": "+0.61%"
-        },
-        {
-          "code": "5958",
-          "name": "三洋工",
-          "market": "東Ｓ",
-          "price": "4,490",
-          "change": "+25",
-          "changePercent": "+0.56%"
-        },
-        {
-          "code": "5940",
-          "name": "不二サッシ",
-          "market": "東Ｓ",
-          "price": "725",
-          "change": "+4",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "5987",
-          "name": "オーネックス",
-          "market": "東Ｓ",
-          "price": "1,820",
-          "change": "+10",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "5988",
-          "name": "パイオラック",
-          "market": "東Ｐ",
-          "price": "1,650",
-          "change": "+9",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "5936",
-          "name": "洋シヤタ",
-          "market": "東Ｓ",
-          "price": "933",
-          "change": "+5",
-          "changePercent": "+0.54%"
-        },
-        {
-          "code": "5930",
-          "name": "文化シヤタ",
-          "market": "東Ｐ",
-          "price": "1,936",
-          "change": "+10",
-          "changePercent": "+0.52%"
-        },
-        {
-          "code": "5922",
-          "name": "那須鉄",
-          "market": "東Ｓ",
-          "price": "17,780",
-          "change": "+80",
-          "changePercent": "+0.45%"
-        },
-        {
-          "code": "5945",
-          "name": "天竜製鋸",
-          "market": "東Ｓ",
-          "price": "2,455",
-          "change": "+11",
-          "changePercent": "+0.45%"
-        },
-        {
-          "code": "5975",
-          "name": "東プレ",
-          "market": "東Ｐ",
-          "price": "2,681",
-          "change": "+12",
-          "changePercent": "+0.45%"
-        },
-        {
-          "code": "5923",
-          "name": "高田機",
-          "market": "東Ｓ",
-          "price": "1,133",
-          "change": "+5",
-          "changePercent": "+0.44%"
-        },
-        {
-          "code": "5986",
-          "name": "モリテック",
-          "market": "東Ｓ",
-          "price": "234",
-          "change": "+1",
-          "changePercent": "+0.43%"
-        },
-        {
-          "code": "5902",
-          "name": "ホッカンＨＤ",
-          "market": "東Ｐ",
-          "price": "2,359",
-          "change": "+9",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "5970",
-          "name": "ジーテクト",
-          "market": "東Ｐ",
-          "price": "2,095",
-          "change": "+8",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "5976",
-          "name": "ネツレン",
-          "market": "東Ｐ",
-          "price": "1,315",
-          "change": "+5",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "5905",
-          "name": "日カン",
-          "market": "東Ｓ",
-          "price": "1,350",
-          "change": "+5",
-          "changePercent": "+0.37%"
-        },
-        {
-          "code": "5906",
-          "name": "エムケー精工",
-          "market": "東Ｓ",
-          "price": "820",
-          "change": "+3",
-          "changePercent": "+0.37%"
-        },
-        {
-          "code": "5933",
-          "name": "アルインコ",
-          "market": "東Ｐ",
-          "price": "1,087",
-          "change": "+4",
-          "changePercent": "+0.37%"
-        },
-        {
-          "code": "5946",
-          "name": "長府製",
-          "market": "東Ｐ",
-          "price": "2,003",
-          "change": "+7",
-          "changePercent": "+0.35%"
-        },
-        {
-          "code": "5973",
-          "name": "トーアミ",
-          "market": "東Ｓ",
-          "price": "604",
-          "change": "+2",
-          "changePercent": "+0.33%"
-        },
-        {
-          "code": "3443",
-          "name": "川田テク",
-          "market": "東Ｐ",
-          "price": "1,362",
-          "change": "+3",
-          "changePercent": "+0.22%"
-        },
-        {
-          "code": "3440",
-          "name": "日創グループ",
-          "market": "東Ｓ",
-          "price": "935",
-          "change": "+1",
-          "changePercent": "+0.11%"
-        },
-        {
-          "code": "3435",
-          "name": "サンコテクノ",
-          "market": "東Ｓ",
-          "price": "1,411",
-          "change": "+1",
-          "changePercent": "+0.07%"
-        },
-        {
-          "code": "5903",
-          "name": "ＳＨＩＮＰＯ",
-          "market": "東Ｓ",
-          "price": "1,685",
-          "change": "+1",
-          "changePercent": "+0.06%"
-        },
-        {
-          "code": "5941",
-          "name": "中西製",
-          "market": "東Ｓ",
-          "price": "2,501",
-          "change": "+1",
-          "changePercent": "+0.04%"
-        },
-        {
-          "code": "3426",
-          "name": "アトムリビン",
-          "market": "東Ｓ",
-          "price": "1,297",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -7193,14 +7033,6 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "5959",
-          "name": "岡部",
-          "market": "東Ｐ",
-          "price": "898",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
           "code": "5979",
           "name": "カネソウ",
           "market": "名Ｍ",
@@ -7209,290 +7041,458 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "5990",
-          "name": "スーパツール",
-          "market": "東Ｓ",
-          "price": "1,978",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "3421",
-          "name": "稲葉製作",
-          "market": "東Ｓ",
-          "price": "1,763",
+          "code": "3443",
+          "name": "川田テク",
+          "market": "東Ｐ",
+          "price": "1,361",
           "change": "-1",
-          "changePercent": "-0.06%"
+          "changePercent": "-0.07%"
         },
         {
           "code": "5911",
           "name": "横河ブＨＤ",
           "market": "東Ｐ",
-          "price": "2,875",
+          "price": "2,873",
           "change": "-2",
           "changePercent": "-0.07%"
         },
         {
-          "code": "5900",
-          "name": "ダイケン",
+          "code": "3421",
+          "name": "稲葉製作",
           "market": "東Ｓ",
-          "price": "857",
+          "price": "1,761",
+          "change": "-2",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "5987",
+          "name": "オーネックス",
+          "market": "東Ｓ",
+          "price": "1,818",
+          "change": "-2",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "5984",
+          "name": "兼房",
+          "market": "東Ｓ",
+          "price": "733",
           "change": "-1",
-          "changePercent": "-0.12%"
+          "changePercent": "-0.14%"
         },
         {
-          "code": "5915",
-          "name": "駒井ハルテク",
+          "code": "5922",
+          "name": "那須鉄",
           "market": "東Ｓ",
-          "price": "2,308",
-          "change": "-4",
+          "price": "17,750",
+          "change": "-30",
           "changePercent": "-0.17%"
-        },
-        {
-          "code": "7989",
-          "name": "ブラインド",
-          "market": "東Ｐ",
-          "price": "2,534",
-          "change": "-5",
-          "changePercent": "-0.20%"
-        },
-        {
-          "code": "3447",
-          "name": "信和",
-          "market": "東Ｓ",
-          "price": "954",
-          "change": "-2",
-          "changePercent": "-0.21%"
-        },
-        {
-          "code": "5929",
-          "name": "三和ＨＤ",
-          "market": "東Ｐ",
-          "price": "3,866",
-          "change": "-8",
-          "changePercent": "-0.21%"
-        },
-        {
-          "code": "5901",
-          "name": "洋缶ＨＤ",
-          "market": "東Ｐ",
-          "price": "4,149",
-          "change": "-13",
-          "changePercent": "-0.31%"
-        },
-        {
-          "code": "5932",
-          "name": "三協立山",
-          "market": "東Ｐ",
-          "price": "629",
-          "change": "-2",
-          "changePercent": "-0.32%"
-        },
-        {
-          "code": "5956",
-          "name": "トーソー",
-          "market": "東Ｓ",
-          "price": "599",
-          "change": "-2",
-          "changePercent": "-0.33%"
-        },
-        {
-          "code": "5969",
-          "name": "ロブテックス",
-          "market": "東Ｓ",
-          "price": "1,190",
-          "change": "-4",
-          "changePercent": "-0.34%"
-        },
-        {
-          "code": "5957",
-          "name": "日東精",
-          "market": "東Ｐ",
-          "price": "771",
-          "change": "-3",
-          "changePercent": "-0.39%"
         },
         {
           "code": "3422",
           "name": "Ｊ－ＭＡＸ",
           "market": "東Ｓ",
-          "price": "494",
-          "change": "-2",
-          "changePercent": "-0.40%"
+          "price": "493",
+          "change": "-1",
+          "changePercent": "-0.20%"
         },
         {
-          "code": "5942",
-          "name": "フイルコン",
-          "market": "東Ｓ",
-          "price": "676",
-          "change": "-4",
-          "changePercent": "-0.59%"
-        },
-        {
-          "code": "5971",
-          "name": "共和工業",
-          "market": "東Ｓ",
-          "price": "8,100",
-          "change": "-60",
-          "changePercent": "-0.74%"
-        },
-        {
-          "code": "5992",
-          "name": "中発条",
-          "market": "東Ｓ",
-          "price": "3,825",
-          "change": "-30",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "5983",
-          "name": "イワブチ",
-          "market": "東Ｓ",
-          "price": "13,650",
-          "change": "-130",
-          "changePercent": "-0.94%"
-        },
-        {
-          "code": "5967",
-          "name": "ＴＯＮＥ",
-          "market": "東Ｓ",
-          "price": "455",
-          "change": "-5",
-          "changePercent": "-1.09%"
-        },
-        {
-          "code": "3423",
-          "name": "エスイー",
-          "market": "東Ｓ",
-          "price": "265",
-          "change": "-4",
-          "changePercent": "-1.49%"
-        },
-        {
-          "code": "3439",
-          "name": "三ツ知",
-          "market": "東Ｓ",
-          "price": "674",
-          "change": "-14",
-          "changePercent": "-2.03%"
-        },
-        {
-          "code": "3446",
-          "name": "Ｊテック・Ｃ",
-          "market": "東Ｓ",
-          "price": "1,891",
-          "change": "-41",
-          "changePercent": "-2.12%"
-        },
-        {
-          "code": "5998",
-          "name": "アドバネクス",
-          "market": "東Ｓ",
-          "price": "2,717",
-          "change": "-64",
-          "changePercent": "-2.30%"
-        },
-        {
-          "code": "2961",
-          "name": "日本調理機",
-          "market": "東Ｓ",
-          "price": "6,610",
-          "change": "-160",
-          "changePercent": "-2.36%"
-        },
-        {
-          "code": "5955",
-          "name": "ワイズＨＤ",
-          "market": "東Ｓ",
-          "price": "79",
-          "change": "-2",
-          "changePercent": "-2.47%"
-        },
-        {
-          "code": "3449",
-          "name": "テクノフレ",
-          "market": "東Ｓ",
-          "price": "6,620",
-          "change": "-190",
-          "changePercent": "-2.79%"
+          "code": "7989",
+          "name": "ブラインド",
+          "market": "東Ｐ",
+          "price": "2,527",
+          "change": "-7",
+          "changePercent": "-0.28%"
         },
         {
           "code": "319A",
           "name": "技術承継機構",
           "market": "東Ｇ",
-          "price": "16,440",
-          "change": "-550",
-          "changePercent": "-3.24%"
+          "price": "16,390",
+          "change": "-50",
+          "changePercent": "-0.30%"
         },
         {
-          "code": "5991",
-          "name": "ニッパツ",
+          "code": "5902",
+          "name": "ホッカンＨＤ",
           "market": "東Ｐ",
-          "price": "3,912",
-          "change": "-152",
-          "changePercent": "-3.74%"
+          "price": "2,351",
+          "change": "-8",
+          "changePercent": "-0.34%"
         },
         {
-          "code": "5985",
-          "name": "サンコール",
+          "code": "3435",
+          "name": "サンコテクノ",
           "market": "東Ｓ",
-          "price": "1,500",
-          "change": "-72",
-          "changePercent": "-4.58%"
+          "price": "1,405",
+          "change": "-6",
+          "changePercent": "-0.43%"
         },
         {
-          "code": "523A",
-          "name": "セイワＨＤ",
-          "market": "東Ｇ",
-          "price": "1,665",
-          "change": "-96",
-          "changePercent": "-5.45%"
+          "code": "5936",
+          "name": "洋シヤタ",
+          "market": "東Ｓ",
+          "price": "929",
+          "change": "-4",
+          "changePercent": "-0.43%"
         },
         {
-          "code": "3433",
-          "name": "トーカロ",
+          "code": "5930",
+          "name": "文化シヤタ",
           "market": "東Ｐ",
-          "price": "3,105",
-          "change": "-200",
-          "changePercent": "-6.05%"
+          "price": "1,927",
+          "change": "-9",
+          "changePercent": "-0.46%"
         },
         {
-          "code": "3444",
-          "name": "菊池製作",
+          "code": "5909",
+          "name": "コロナ",
           "market": "東Ｓ",
-          "price": "1,162",
-          "change": "-79",
-          "changePercent": "-6.37%"
+          "price": "1,010",
+          "change": "-5",
+          "changePercent": "-0.49%"
         },
         {
-          "code": "2962",
-          "name": "テクニスコ",
+          "code": "5971",
+          "name": "共和工業",
           "market": "東Ｓ",
-          "price": "1,424",
-          "change": "-108",
-          "changePercent": "-7.05%"
+          "price": "8,050",
+          "change": "-50",
+          "changePercent": "-0.62%"
         },
         {
-          "code": "3441",
-          "name": "山王",
+          "code": "5982",
+          "name": "マルゼン",
           "market": "東Ｓ",
-          "price": "2,945",
-          "change": "-255",
-          "changePercent": "-7.97%"
+          "price": "4,005",
+          "change": "-25",
+          "changePercent": "-0.62%"
+        },
+        {
+          "code": "5958",
+          "name": "三洋工",
+          "market": "東Ｓ",
+          "price": "4,460",
+          "change": "-30",
+          "changePercent": "-0.67%"
+        },
+        {
+          "code": "5940",
+          "name": "不二サッシ",
+          "market": "東Ｓ",
+          "price": "720",
+          "change": "-5",
+          "changePercent": "-0.69%"
+        },
+        {
+          "code": "5932",
+          "name": "三協立山",
+          "market": "東Ｐ",
+          "price": "624",
+          "change": "-5",
+          "changePercent": "-0.79%"
+        },
+        {
+          "code": "5983",
+          "name": "イワブチ",
+          "market": "東Ｓ",
+          "price": "13,540",
+          "change": "-110",
+          "changePercent": "-0.81%"
+        },
+        {
+          "code": "5973",
+          "name": "トーアミ",
+          "market": "東Ｓ",
+          "price": "599",
+          "change": "-5",
+          "changePercent": "-0.83%"
+        },
+        {
+          "code": "3447",
+          "name": "信和",
+          "market": "東Ｓ",
+          "price": "946",
+          "change": "-8",
+          "changePercent": "-0.84%"
+        },
+        {
+          "code": "3431",
+          "name": "宮地エンジ",
+          "market": "東Ｐ",
+          "price": "1,535",
+          "change": "-14",
+          "changePercent": "-0.90%"
+        },
+        {
+          "code": "5945",
+          "name": "天竜製鋸",
+          "market": "東Ｓ",
+          "price": "2,432",
+          "change": "-23",
+          "changePercent": "-0.94%"
+        },
+        {
+          "code": "5970",
+          "name": "ジーテクト",
+          "market": "東Ｐ",
+          "price": "2,074",
+          "change": "-21",
+          "changePercent": "-1.00%"
+        },
+        {
+          "code": "5901",
+          "name": "洋缶ＨＤ",
+          "market": "東Ｐ",
+          "price": "4,105",
+          "change": "-44",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "5997",
+          "name": "協立エアテク",
+          "market": "東Ｓ",
+          "price": "916",
+          "change": "-10",
+          "changePercent": "-1.08%"
+        },
+        {
+          "code": "5939",
+          "name": "大谷工業",
+          "market": "東Ｓ",
+          "price": "4,965",
+          "change": "-55",
+          "changePercent": "-1.10%"
+        },
+        {
+          "code": "5947",
+          "name": "リンナイ",
+          "market": "東Ｐ",
+          "price": "3,621.0",
+          "change": "-44.0",
+          "changePercent": "-1.20%"
+        },
+        {
+          "code": "5988",
+          "name": "パイオラック",
+          "market": "東Ｐ",
+          "price": "1,630",
+          "change": "-20",
+          "changePercent": "-1.21%"
+        },
+        {
+          "code": "5906",
+          "name": "エムケー精工",
+          "market": "東Ｓ",
+          "price": "810",
+          "change": "-10",
+          "changePercent": "-1.22%"
+        },
+        {
+          "code": "5981",
+          "name": "東京綱",
+          "market": "東Ｐ",
+          "price": "1,947",
+          "change": "-24",
+          "changePercent": "-1.22%"
+        },
+        {
+          "code": "5946",
+          "name": "長府製",
+          "market": "東Ｐ",
+          "price": "1,977",
+          "change": "-26",
+          "changePercent": "-1.30%"
+        },
+        {
+          "code": "5989",
+          "name": "エイチワン",
+          "market": "東Ｐ",
+          "price": "1,574",
+          "change": "-21",
+          "changePercent": "-1.32%"
         },
         {
           "code": "3436",
           "name": "ＳＵＭＣＯ",
           "market": "東Ｐ",
-          "price": "4,570",
-          "change": "-601",
-          "changePercent": "-11.62%"
+          "price": "4,507",
+          "change": "-63",
+          "changePercent": "-1.38%"
+        },
+        {
+          "code": "5953",
+          "name": "昭和鉄",
+          "market": "福証",
+          "price": "6,600",
+          "change": "-100",
+          "changePercent": "-1.49%"
+        },
+        {
+          "code": "5943",
+          "name": "ノーリツ",
+          "market": "東Ｐ",
+          "price": "2,320",
+          "change": "-38",
+          "changePercent": "-1.61%"
+        },
+        {
+          "code": "5992",
+          "name": "中発条",
+          "market": "東Ｓ",
+          "price": "3,755",
+          "change": "-70",
+          "changePercent": "-1.83%"
+        },
+        {
+          "code": "5956",
+          "name": "トーソー",
+          "market": "東Ｓ",
+          "price": "588",
+          "change": "-11",
+          "changePercent": "-1.84%"
+        },
+        {
+          "code": "5975",
+          "name": "東プレ",
+          "market": "東Ｐ",
+          "price": "2,615",
+          "change": "-66",
+          "changePercent": "-2.46%"
+        },
+        {
+          "code": "5951",
+          "name": "ダイニチ工業",
+          "market": "東Ｓ",
+          "price": "1,153",
+          "change": "-30",
+          "changePercent": "-2.54%"
+        },
+        {
+          "code": "5915",
+          "name": "駒井ハルテク",
+          "market": "東Ｓ",
+          "price": "2,239",
+          "change": "-69",
+          "changePercent": "-2.99%"
+        },
+        {
+          "code": "3433",
+          "name": "トーカロ",
+          "market": "東Ｐ",
+          "price": "3,010",
+          "change": "-95",
+          "changePercent": "-3.06%"
+        },
+        {
+          "code": "5985",
+          "name": "サンコール",
+          "market": "東Ｓ",
+          "price": "1,453",
+          "change": "-47",
+          "changePercent": "-3.13%"
+        },
+        {
+          "code": "5991",
+          "name": "ニッパツ",
+          "market": "東Ｐ",
+          "price": "3,788",
+          "change": "-124",
+          "changePercent": "-3.17%"
+        },
+        {
+          "code": "5998",
+          "name": "アドバネクス",
+          "market": "東Ｓ",
+          "price": "2,628",
+          "change": "-89",
+          "changePercent": "-3.28%"
+        },
+        {
+          "code": "5942",
+          "name": "フイルコン",
+          "market": "東Ｓ",
+          "price": "652",
+          "change": "-24",
+          "changePercent": "-3.55%"
+        },
+        {
+          "code": "2961",
+          "name": "日本調理機",
+          "market": "東Ｓ",
+          "price": "6,360",
+          "change": "-250",
+          "changePercent": "-3.78%"
+        },
+        {
+          "code": "3441",
+          "name": "山王",
+          "market": "東Ｓ",
+          "price": "2,831",
+          "change": "-114",
+          "changePercent": "-3.87%"
+        },
+        {
+          "code": "5929",
+          "name": "三和ＨＤ",
+          "market": "東Ｐ",
+          "price": "3,708",
+          "change": "-158",
+          "changePercent": "-4.09%"
+        },
+        {
+          "code": "3446",
+          "name": "Ｊテック・Ｃ",
+          "market": "東Ｓ",
+          "price": "1,810",
+          "change": "-81",
+          "changePercent": "-4.28%"
+        },
+        {
+          "code": "5994",
+          "name": "ファインシン",
+          "market": "東Ｓ",
+          "price": "985",
+          "change": "-44",
+          "changePercent": "-4.28%"
+        },
+        {
+          "code": "523A",
+          "name": "セイワＨＤ",
+          "market": "東Ｇ",
+          "price": "1,585",
+          "change": "-80",
+          "changePercent": "-4.80%"
+        },
+        {
+          "code": "2962",
+          "name": "テクニスコ",
+          "market": "東Ｓ",
+          "price": "1,310",
+          "change": "-114",
+          "changePercent": "-8.01%"
+        },
+        {
+          "code": "3444",
+          "name": "菊池製作",
+          "market": "東Ｓ",
+          "price": "1,058",
+          "change": "-104",
+          "changePercent": "-8.95%"
+        },
+        {
+          "code": "3426",
+          "name": "アトムリビン",
+          "market": "東Ｓ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
         },
         {
           "code": "3442",
           "name": "ＭＩＥコーポ",
           "market": "名Ｍ",
-          "price": "－",
+          "price": "1,612",
           "change": "－",
           "changePercent": "－%"
         },
@@ -7500,7 +7500,7 @@ window.sectorData = {
           "code": "5918",
           "name": "滝上工",
           "market": "東Ｓ",
-          "price": "－",
+          "price": "7,100",
           "change": "－",
           "changePercent": "－%"
         },
@@ -7508,17 +7508,12 @@ window.sectorData = {
           "code": "7985",
           "name": "ネポン",
           "market": "福証",
-          "price": "710",
+          "price": "－",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2063.51,
-          "changePercent": -1.22
-        },
         {
           "date": "20260625",
           "price": 2103.53,
@@ -7563,6 +7558,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2252.61,
           "changePercent": -4.22
+        },
+        {
+          "date": "20260708",
+          "price": 2215.12,
+          "changePercent": -1.66
         }
       ]
     },
@@ -7570,425 +7570,353 @@ window.sectorData = {
       "id": "3600",
       "nameJa": "機械",
       "nameEn": "Machinery",
-      "price": 5174,
-      "change": "-172.20",
-      "changePercent": -3.22,
+      "price": 5009.54,
+      "change": "-164.46",
+      "changePercent": -3.18,
       "stocks": [
+        {
+          "code": "6469",
+          "name": "放電精密",
+          "market": "東Ｓ",
+          "price": "3,235",
+          "change": "+500",
+          "changePercent": "+18.28%"
+        },
         {
           "code": "6335",
           "name": "東京機",
           "market": "東Ｓ",
-          "price": "699",
-          "change": "+56",
-          "changePercent": "+8.71%"
-        },
-        {
-          "code": "6147",
-          "name": "ヤマザキ",
-          "market": "福証",
-          "price": "183",
-          "change": "+11",
-          "changePercent": "+6.40%"
-        },
-        {
-          "code": "6418",
-          "name": "日金銭",
-          "market": "東Ｐ",
-          "price": "1,077",
-          "change": "+50",
-          "changePercent": "+4.87%"
-        },
-        {
-          "code": "6306",
-          "name": "日工",
-          "market": "東Ｐ",
-          "price": "960",
-          "change": "+31",
-          "changePercent": "+3.34%"
-        },
-        {
-          "code": "6425",
-          "name": "ユニバーサル",
-          "market": "東Ｓ",
-          "price": "702",
-          "change": "+20",
-          "changePercent": "+2.93%"
-        },
-        {
-          "code": "6334",
-          "name": "明治機",
-          "market": "東Ｓ",
-          "price": "496",
-          "change": "+14",
-          "changePercent": "+2.90%"
-        },
-        {
-          "code": "6351",
-          "name": "鶴見製",
-          "market": "東Ｐ",
-          "price": "2,508",
+          "price": "762",
           "change": "+63",
-          "changePercent": "+2.58%"
+          "changePercent": "+9.01%"
+        },
+        {
+          "code": "6266",
+          "name": "タツモ",
+          "market": "東Ｐ",
+          "price": "4,630",
+          "change": "+230",
+          "changePercent": "+5.23%"
+        },
+        {
+          "code": "7726",
+          "name": "黒田精",
+          "market": "東Ｓ",
+          "price": "1,432",
+          "change": "+45",
+          "changePercent": "+3.24%"
         },
         {
           "code": "6159",
           "name": "ミクロン",
           "market": "東Ｓ",
-          "price": "1,880",
-          "change": "+45",
-          "changePercent": "+2.45%"
+          "price": "1,923",
+          "change": "+43",
+          "changePercent": "+2.29%"
         },
         {
-          "code": "6417",
-          "name": "ＳＡＮＫＹＯ",
-          "market": "東Ｐ",
-          "price": "1,670.5",
-          "change": "+36.5",
-          "changePercent": "+2.23%"
-        },
-        {
-          "code": "6469",
-          "name": "放電精密",
+          "code": "7022",
+          "name": "サノヤスＨＤ",
           "market": "東Ｓ",
-          "price": "2,735",
-          "change": "+55",
-          "changePercent": "+2.05%"
-        },
-        {
-          "code": "6222",
-          "name": "島精機",
-          "market": "東Ｐ",
-          "price": "908",
-          "change": "+18",
-          "changePercent": "+2.02%"
-        },
-        {
-          "code": "6262",
-          "name": "ペガサス",
-          "market": "東Ｓ",
-          "price": "551",
-          "change": "+10",
-          "changePercent": "+1.85%"
-        },
-        {
-          "code": "6231",
-          "name": "木村工機",
-          "market": "東Ｓ",
-          "price": "13,150",
-          "change": "+230",
-          "changePercent": "+1.78%"
-        },
-        {
-          "code": "7991",
-          "name": "マミヤＯＰ",
-          "market": "東Ｓ",
-          "price": "1,070",
-          "change": "+17",
-          "changePercent": "+1.61%"
-        },
-        {
-          "code": "6464",
-          "name": "ツバキナカ",
-          "market": "東Ｐ",
-          "price": "418",
+          "price": "272",
           "change": "+6",
-          "changePercent": "+1.46%"
+          "changePercent": "+2.26%"
         },
         {
-          "code": "6460",
-          "name": "セガサミー",
+          "code": "6111",
+          "name": "旭精機",
+          "market": "名Ｍ",
+          "price": "2,080",
+          "change": "+41",
+          "changePercent": "+2.01%"
+        },
+        {
+          "code": "575A",
+          "name": "前沢ＨＤ",
           "market": "東Ｐ",
-          "price": "2,443.0",
-          "change": "+34.5",
-          "changePercent": "+1.43%"
-        },
-        {
-          "code": "6430",
-          "name": "ダイコク電",
-          "market": "東Ｐ",
-          "price": "2,351",
-          "change": "+32",
-          "changePercent": "+1.38%"
-        },
-        {
-          "code": "6360",
-          "name": "東自機",
-          "market": "東Ｓ",
-          "price": "4,530",
-          "change": "+55",
-          "changePercent": "+1.23%"
-        },
-        {
-          "code": "6289",
-          "name": "技研製",
-          "market": "東Ｐ",
-          "price": "1,802",
-          "change": "+21",
-          "changePercent": "+1.18%"
-        },
-        {
-          "code": "6310",
-          "name": "井関農",
-          "market": "東Ｐ",
-          "price": "1,882",
-          "change": "+22",
-          "changePercent": "+1.18%"
-        },
-        {
-          "code": "6413",
-          "name": "理想科学",
-          "market": "東Ｐ",
-          "price": "1,033",
-          "change": "+12",
-          "changePercent": "+1.18%"
-        },
-        {
-          "code": "6267",
-          "name": "ゼネラルパ",
-          "market": "東Ｓ",
-          "price": "3,925",
-          "change": "+45",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "6424",
-          "name": "高見サイ",
-          "market": "東Ｓ",
-          "price": "891",
-          "change": "+10",
-          "changePercent": "+1.14%"
-        },
-        {
-          "code": "6249",
-          "name": "ゲームカード",
-          "market": "東Ｓ",
-          "price": "2,479",
+          "price": "1,517",
           "change": "+27",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "7021",
-          "name": "ニッチツ",
-          "market": "東Ｓ",
-          "price": "1,839",
-          "change": "+20",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "6317",
-          "name": "北川鉄",
-          "market": "東Ｓ",
-          "price": "1,690",
-          "change": "+18",
-          "changePercent": "+1.08%"
+          "changePercent": "+1.81%"
         },
         {
           "code": "6155",
           "name": "高松機械",
           "market": "東Ｓ",
-          "price": "496",
-          "change": "+5",
-          "changePercent": "+1.02%"
+          "price": "505",
+          "change": "+9",
+          "changePercent": "+1.81%"
         },
         {
-          "code": "6150",
-          "name": "タケダ機械",
+          "code": "6237",
+          "name": "イワキポンプ",
+          "market": "東Ｐ",
+          "price": "4,250",
+          "change": "+75",
+          "changePercent": "+1.80%"
+        },
+        {
+          "code": "6484",
+          "name": "ＫＶＫ",
           "market": "東Ｓ",
-          "price": "2,788",
+          "price": "2,457",
+          "change": "+42",
+          "changePercent": "+1.74%"
+        },
+        {
+          "code": "6231",
+          "name": "木村工機",
+          "market": "東Ｓ",
+          "price": "13,360",
+          "change": "+210",
+          "changePercent": "+1.60%"
+        },
+        {
+          "code": "6459",
+          "name": "だいわ",
+          "market": "東Ｐ",
+          "price": "1,680",
+          "change": "+23",
+          "changePercent": "+1.39%"
+        },
+        {
+          "code": "6485",
+          "name": "前沢給装",
+          "market": "東Ｓ",
+          "price": "1,547",
+          "change": "+20",
+          "changePercent": "+1.31%"
+        },
+        {
+          "code": "6363",
+          "name": "酉島",
+          "market": "東Ｐ",
+          "price": "2,952",
+          "change": "+34",
+          "changePercent": "+1.17%"
+        },
+        {
+          "code": "6328",
+          "name": "荏原実業",
+          "market": "東Ｐ",
+          "price": "2,437",
           "change": "+28",
+          "changePercent": "+1.16%"
+        },
+        {
+          "code": "6309",
+          "name": "巴工業",
+          "market": "東Ｐ",
+          "price": "1,849",
+          "change": "+21",
+          "changePercent": "+1.15%"
+        },
+        {
+          "code": "6325",
+          "name": "タカキタ",
+          "market": "東Ｓ",
+          "price": "401",
+          "change": "+4",
           "changePercent": "+1.01%"
         },
         {
-          "code": "6287",
-          "name": "サトー",
-          "market": "東Ｐ",
-          "price": "2,393",
-          "change": "+23",
-          "changePercent": "+0.97%"
-        },
-        {
-          "code": "6137",
-          "name": "小池工",
+          "code": "6408",
+          "name": "クラッチ",
           "market": "東Ｓ",
-          "price": "1,523",
-          "change": "+14",
-          "changePercent": "+0.93%"
+          "price": "3,990",
+          "change": "+35",
+          "changePercent": "+0.88%"
         },
         {
-          "code": "6347",
-          "name": "プラコー",
+          "code": "6157",
+          "name": "日進工具",
+          "market": "東Ｓ",
+          "price": "954",
+          "change": "+8",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "6249",
+          "name": "ゲームカード",
+          "market": "東Ｓ",
+          "price": "2,499",
+          "change": "+20",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "6233",
+          "name": "ＫＬＡＳＳ",
+          "market": "東Ｓ",
+          "price": "389",
+          "change": "+3",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "6400",
+          "name": "不二精機",
           "market": "東Ｓ",
           "price": "263",
           "change": "+2",
           "changePercent": "+0.77%"
         },
         {
-          "code": "7022",
-          "name": "サノヤスＨＤ",
+          "code": "6497",
+          "name": "ハマイ",
           "market": "東Ｓ",
-          "price": "266",
-          "change": "+2",
-          "changePercent": "+0.76%"
-        },
-        {
-          "code": "6412",
-          "name": "平和",
-          "market": "東Ｐ",
-          "price": "2,034",
-          "change": "+14",
-          "changePercent": "+0.69%"
-        },
-        {
-          "code": "6224",
-          "name": "ＪＲＣ",
-          "market": "東Ｇ",
-          "price": "1,364",
+          "price": "1,334",
           "change": "+9",
-          "changePercent": "+0.66%"
+          "changePercent": "+0.68%"
+        },
+        {
+          "code": "6428",
+          "name": "オーイズミ",
+          "market": "東Ｓ",
+          "price": "313",
+          "change": "+2",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "6395",
+          "name": "タダノ",
+          "market": "東Ｐ",
+          "price": "1,309",
+          "change": "+8",
+          "changePercent": "+0.61%"
         },
         {
           "code": "6156",
           "name": "エーワン精密",
           "market": "東Ｓ",
-          "price": "1,742",
+          "price": "1,752",
           "change": "+10",
-          "changePercent": "+0.58%"
+          "changePercent": "+0.57%"
         },
         {
-          "code": "6238",
-          "name": "フリュー",
-          "market": "東Ｐ",
-          "price": "1,402",
-          "change": "+7",
+          "code": "6342",
+          "name": "太平製",
+          "market": "東Ｓ",
+          "price": "2,807",
+          "change": "+15",
+          "changePercent": "+0.54%"
+        },
+        {
+          "code": "6166",
+          "name": "中村超硬",
+          "market": "東Ｇ",
+          "price": "797",
+          "change": "+4",
           "changePercent": "+0.50%"
-        },
-        {
-          "code": "6345",
-          "name": "アイチコーポ",
-          "market": "東Ｐ",
-          "price": "1,397",
-          "change": "+6",
-          "changePercent": "+0.43%"
-        },
-        {
-          "code": "6223",
-          "name": "西部技研",
-          "market": "東Ｓ",
-          "price": "2,222",
-          "change": "+9",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "6400",
-          "name": "不二精機",
-          "market": "東Ｓ",
-          "price": "261",
-          "change": "+1",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "6332",
-          "name": "月島ＨＤ",
-          "market": "東Ｐ",
-          "price": "2,681",
-          "change": "+10",
-          "changePercent": "+0.37%"
         },
         {
           "code": "6419",
           "name": "マースＧＨＤ",
           "market": "東Ｐ",
-          "price": "3,100",
-          "change": "+10",
-          "changePercent": "+0.32%"
+          "price": "3,115",
+          "change": "+15",
+          "changePercent": "+0.48%"
         },
         {
-          "code": "6142",
-          "name": "富士精",
-          "market": "名Ｍ",
-          "price": "1,645",
-          "change": "+4",
-          "changePercent": "+0.24%"
+          "code": "6364",
+          "name": "ＡＩＲＭＡＮ",
+          "market": "東Ｐ",
+          "price": "1,912",
+          "change": "+9",
+          "changePercent": "+0.47%"
         },
         {
-          "code": "6286",
-          "name": "静甲",
+          "code": "6144",
+          "name": "西部電機",
           "market": "東Ｓ",
-          "price": "1,363",
-          "change": "+3",
-          "changePercent": "+0.22%"
+          "price": "2,817",
+          "change": "+12",
+          "changePercent": "+0.43%"
         },
         {
-          "code": "6111",
-          "name": "旭精機",
-          "market": "名Ｍ",
-          "price": "2,039",
-          "change": "+4",
-          "changePercent": "+0.20%"
-        },
-        {
-          "code": "6165",
-          "name": "パンチ",
+          "code": "6346",
+          "name": "キクカワ",
           "market": "東Ｓ",
-          "price": "495",
+          "price": "5,790",
+          "change": "+20",
+          "changePercent": "+0.35%"
+        },
+        {
+          "code": "6322",
+          "name": "タクミナ",
+          "market": "東Ｓ",
+          "price": "1,610",
+          "change": "+5",
+          "changePercent": "+0.31%"
+        },
+        {
+          "code": "6467",
+          "name": "ニチダイ",
+          "market": "東Ｓ",
+          "price": "328",
           "change": "+1",
-          "changePercent": "+0.20%"
+          "changePercent": "+0.31%"
         },
         {
-          "code": "6485",
-          "name": "前沢給装",
+          "code": "6393",
+          "name": "油研工",
           "market": "東Ｓ",
-          "price": "1,527",
-          "change": "+3",
-          "changePercent": "+0.20%"
+          "price": "2,995",
+          "change": "+9",
+          "changePercent": "+0.30%"
         },
         {
-          "code": "6365",
-          "name": "電業社",
+          "code": "6246",
+          "name": "Ｔスマート",
           "market": "東Ｓ",
-          "price": "5,440",
-          "change": "+10",
-          "changePercent": "+0.18%"
+          "price": "1,901",
+          "change": "+5",
+          "changePercent": "+0.26%"
         },
         {
-          "code": "6484",
-          "name": "ＫＶＫ",
-          "market": "東Ｓ",
-          "price": "2,415",
+          "code": "6349",
+          "name": "小森",
+          "market": "東Ｐ",
+          "price": "1,563",
           "change": "+4",
-          "changePercent": "+0.17%"
+          "changePercent": "+0.26%"
         },
         {
-          "code": "6294",
-          "name": "オカアイヨン",
-          "market": "東Ｐ",
-          "price": "2,022",
+          "code": "6402",
+          "name": "兼松エンジ",
+          "market": "東Ｓ",
+          "price": "1,490",
           "change": "+3",
-          "changePercent": "+0.15%"
+          "changePercent": "+0.20%"
         },
         {
-          "code": "6151",
-          "name": "日東工器",
-          "market": "東Ｐ",
-          "price": "1,718",
+          "code": "6317",
+          "name": "北川鉄",
+          "market": "東Ｓ",
+          "price": "1,692",
           "change": "+2",
           "changePercent": "+0.12%"
         },
         {
-          "code": "6454",
-          "name": "マックス",
-          "market": "東Ｐ",
-          "price": "1,748",
+          "code": "6336",
+          "name": "石井表記",
+          "market": "東Ｓ",
+          "price": "1,691",
           "change": "+2",
+          "changePercent": "+0.12%"
+        },
+        {
+          "code": "6316",
+          "name": "丸山製",
+          "market": "東Ｓ",
+          "price": "2,701",
+          "change": "+3",
           "changePercent": "+0.11%"
         },
         {
-          "code": "6005",
-          "name": "三浦工",
+          "code": "6351",
+          "name": "鶴見製",
           "market": "東Ｐ",
-          "price": "3,210.0",
-          "change": "+3.0",
-          "changePercent": "+0.09%"
+          "price": "2,509",
+          "change": "+1",
+          "changePercent": "+0.04%"
         },
         {
           "code": "1909",
@@ -7999,788 +7927,855 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "6226",
-          "name": "守谷輸送機",
+          "code": "6267",
+          "name": "ゼネラルパ",
           "market": "東Ｓ",
-          "price": "2,345",
+          "price": "3,925",
           "change": "0",
           "changePercent": "0.00%"
-        },
-        {
-          "code": "6279",
-          "name": "瑞光",
-          "market": "東Ｐ",
-          "price": "904",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6292",
-          "name": "カワタ",
-          "market": "東Ｓ",
-          "price": "819",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6325",
-          "name": "タカキタ",
-          "market": "東Ｓ",
-          "price": "397",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6349",
-          "name": "小森",
-          "market": "東Ｐ",
-          "price": "1,559",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6357",
-          "name": "三精テクノロ",
-          "market": "東Ｓ",
-          "price": "2,501",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6380",
-          "name": "オリチェン",
-          "market": "東Ｓ",
-          "price": "4,530",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6467",
-          "name": "ニチダイ",
-          "market": "東Ｓ",
-          "price": "327",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6381",
-          "name": "アネスト岩田",
-          "market": "東Ｐ",
-          "price": "1,752",
-          "change": "-1",
-          "changePercent": "-0.06%"
-        },
-        {
-          "code": "575A",
-          "name": "前沢ＨＤ",
-          "market": "東Ｐ",
-          "price": "1,490",
-          "change": "-1",
-          "changePercent": "-0.07%"
-        },
-        {
-          "code": "6358",
-          "name": "酒井重",
-          "market": "東Ｐ",
-          "price": "2,112",
-          "change": "-2",
-          "changePercent": "-0.09%"
-        },
-        {
-          "code": "6257",
-          "name": "藤商事",
-          "market": "東Ｓ",
-          "price": "1,012",
-          "change": "-1",
-          "changePercent": "-0.10%"
-        },
-        {
-          "code": "6217",
-          "name": "津田駒",
-          "market": "東Ｓ",
-          "price": "848",
-          "change": "-1",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "6322",
-          "name": "タクミナ",
-          "market": "東Ｓ",
-          "price": "1,605",
-          "change": "-2",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "6436",
-          "name": "アマノ",
-          "market": "東Ｐ",
-          "price": "3,740",
-          "change": "-5",
-          "changePercent": "-0.13%"
-        },
-        {
-          "code": "6333",
-          "name": "ＴＥＩＫＯＫ",
-          "market": "東Ｐ",
-          "price": "3,160",
-          "change": "-5",
-          "changePercent": "-0.16%"
-        },
-        {
-          "code": "6364",
-          "name": "ＡＩＲＭＡＮ",
-          "market": "東Ｐ",
-          "price": "1,903",
-          "change": "-4",
-          "changePercent": "-0.21%"
-        },
-        {
-          "code": "6457",
-          "name": "グローリー",
-          "market": "東Ｐ",
-          "price": "4,178",
-          "change": "-9",
-          "changePercent": "-0.21%"
-        },
-        {
-          "code": "6209",
-          "name": "リケンＮＰＲ",
-          "market": "東Ｐ",
-          "price": "3,955",
-          "change": "-10",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "544A",
-          "name": "ＧＭＳ",
-          "market": "東Ｐ",
-          "price": "359",
-          "change": "-1",
-          "changePercent": "-0.28%"
-        },
-        {
-          "code": "6482",
-          "name": "ＹＵＳＨＩＮ",
-          "market": "東Ｓ",
-          "price": "698",
-          "change": "-2",
-          "changePercent": "-0.29%"
-        },
-        {
-          "code": "6428",
-          "name": "オーイズミ",
-          "market": "東Ｓ",
-          "price": "311",
-          "change": "-1",
-          "changePercent": "-0.32%"
-        },
-        {
-          "code": "6203",
-          "name": "豊和工",
-          "market": "東Ｓ",
-          "price": "1,672",
-          "change": "-6",
-          "changePercent": "-0.36%"
-        },
-        {
-          "code": "6291",
-          "name": "エアーテック",
-          "market": "東Ｓ",
-          "price": "1,281",
-          "change": "-5",
-          "changePercent": "-0.39%"
-        },
-        {
-          "code": "6272",
-          "name": "レオン",
-          "market": "東Ｐ",
-          "price": "1,525",
-          "change": "-7",
-          "changePercent": "-0.46%"
-        },
-        {
-          "code": "6393",
-          "name": "油研工",
-          "market": "東Ｓ",
-          "price": "2,986",
-          "change": "-14",
-          "changePercent": "-0.47%"
-        },
-        {
-          "code": "6233",
-          "name": "ＫＬＡＳＳ",
-          "market": "東Ｓ",
-          "price": "386",
-          "change": "-2",
-          "changePercent": "-0.52%"
-        },
-        {
-          "code": "6488",
-          "name": "ヨシタケ",
-          "market": "東Ｓ",
-          "price": "961",
-          "change": "-5",
-          "changePercent": "-0.52%"
-        },
-        {
-          "code": "6326",
-          "name": "クボタ",
-          "market": "東Ｐ",
-          "price": "2,778.5",
-          "change": "-15.0",
-          "changePercent": "-0.54%"
-        },
-        {
-          "code": "6301",
-          "name": "コマツ",
-          "market": "東Ｐ",
-          "price": "6,710",
-          "change": "-39",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "6339",
-          "name": "新東工",
-          "market": "東Ｐ",
-          "price": "1,197",
-          "change": "-7",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "6118",
-          "name": "アイダ",
-          "market": "東Ｐ",
-          "price": "1,182",
-          "change": "-7",
-          "changePercent": "-0.59%"
-        },
-        {
-          "code": "6420",
-          "name": "ガリレイ",
-          "market": "東Ｐ",
-          "price": "3,355",
-          "change": "-20",
-          "changePercent": "-0.59%"
-        },
-        {
-          "code": "6342",
-          "name": "太平製",
-          "market": "東Ｓ",
-          "price": "2,792",
-          "change": "-17",
-          "changePercent": "-0.61%"
-        },
-        {
-          "code": "6382",
-          "name": "トリニ工",
-          "market": "東Ｓ",
-          "price": "1,246",
-          "change": "-8",
-          "changePercent": "-0.64%"
-        },
-        {
-          "code": "6367",
-          "name": "ダイキン",
-          "market": "東Ｐ",
-          "price": "25,980",
-          "change": "-170",
-          "changePercent": "-0.65%"
-        },
-        {
-          "code": "6138",
-          "name": "ダイジェト",
-          "market": "東Ｓ",
-          "price": "1,135",
-          "change": "-8",
-          "changePercent": "-0.70%"
-        },
-        {
-          "code": "6458",
-          "name": "新晃工",
-          "market": "東Ｐ",
-          "price": "1,269",
-          "change": "-9",
-          "changePercent": "-0.70%"
-        },
-        {
-          "code": "6463",
-          "name": "ＴＰＲ",
-          "market": "東Ｐ",
-          "price": "1,408",
-          "change": "-10",
-          "changePercent": "-0.71%"
-        },
-        {
-          "code": "6497",
-          "name": "ハマイ",
-          "market": "東Ｓ",
-          "price": "1,325",
-          "change": "-10",
-          "changePercent": "-0.75%"
-        },
-        {
-          "code": "6470",
-          "name": "大豊工業",
-          "market": "東Ｓ",
-          "price": "1,062",
-          "change": "-9",
-          "changePercent": "-0.84%"
-        },
-        {
-          "code": "6269",
-          "name": "三井海洋",
-          "market": "東Ｐ",
-          "price": "10,150",
-          "change": "-90",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "6284",
-          "name": "ＡＳＢ機械",
-          "market": "東Ｐ",
-          "price": "10,140",
-          "change": "-90",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "6305",
-          "name": "日立建機",
-          "market": "東Ｐ",
-          "price": "5,405",
-          "change": "-48",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "6465",
-          "name": "ホシザキ",
-          "market": "東Ｐ",
-          "price": "5,723",
-          "change": "-57",
-          "changePercent": "-0.99%"
-        },
-        {
-          "code": "6277",
-          "name": "ホソミクロン",
-          "market": "東Ｐ",
-          "price": "4,960",
-          "change": "-50",
-          "changePercent": "-1.00%"
-        },
-        {
-          "code": "6282",
-          "name": "オイレス",
-          "market": "東Ｐ",
-          "price": "2,889",
-          "change": "-30",
-          "changePercent": "-1.03%"
-        },
-        {
-          "code": "6440",
-          "name": "ＪＵＫＩ",
-          "market": "東Ｐ",
-          "price": "537",
-          "change": "-6",
-          "changePercent": "-1.10%"
-        },
-        {
-          "code": "6239",
-          "name": "ナガオカ",
-          "market": "東Ｓ",
-          "price": "1,326",
-          "change": "-15",
-          "changePercent": "-1.12%"
-        },
-        {
-          "code": "6371",
-          "name": "椿本チ",
-          "market": "東Ｐ",
-          "price": "2,640",
-          "change": "-32",
-          "changePercent": "-1.20%"
-        },
-        {
-          "code": "6402",
-          "name": "兼松エンジ",
-          "market": "東Ｓ",
-          "price": "1,487",
-          "change": "-18",
-          "changePercent": "-1.20%"
-        },
-        {
-          "code": "6161",
-          "name": "エスティック",
-          "market": "東Ｓ",
-          "price": "1,041",
-          "change": "-13",
-          "changePercent": "-1.23%"
-        },
-        {
-          "code": "6408",
-          "name": "クラッチ",
-          "market": "東Ｓ",
-          "price": "3,955",
-          "change": "-50",
-          "changePercent": "-1.25%"
-        },
-        {
-          "code": "6167",
-          "name": "冨士ダイス",
-          "market": "東Ｐ",
-          "price": "1,015",
-          "change": "-14",
-          "changePercent": "-1.36%"
-        },
-        {
-          "code": "6459",
-          "name": "だいわ",
-          "market": "東Ｐ",
-          "price": "1,657",
-          "change": "-23",
-          "changePercent": "-1.37%"
-        },
-        {
-          "code": "6246",
-          "name": "Ｔスマート",
-          "market": "東Ｓ",
-          "price": "1,896",
-          "change": "-27",
-          "changePercent": "-1.40%"
-        },
-        {
-          "code": "6250",
-          "name": "やまびこ",
-          "market": "東Ｐ",
-          "price": "3,880",
-          "change": "-55",
-          "changePercent": "-1.40%"
-        },
-        {
-          "code": "6265",
-          "name": "コンバム",
-          "market": "東Ｓ",
-          "price": "3,505",
-          "change": "-50",
-          "changePercent": "-1.41%"
-        },
-        {
-          "code": "6158",
-          "name": "和井田",
-          "market": "東Ｓ",
-          "price": "972",
-          "change": "-14",
-          "changePercent": "-1.42%"
-        },
-        {
-          "code": "7003",
-          "name": "三井Ｅ＆Ｓ",
-          "market": "東Ｐ",
-          "price": "4,796",
-          "change": "-69",
-          "changePercent": "-1.42%"
-        },
-        {
-          "code": "6390",
-          "name": "加藤製",
-          "market": "東Ｐ",
-          "price": "1,286",
-          "change": "-19",
-          "changePercent": "-1.46%"
-        },
-        {
-          "code": "6405",
-          "name": "鈴茂器工",
-          "market": "東Ｓ",
-          "price": "1,065",
-          "change": "-16",
-          "changePercent": "-1.48%"
-        },
-        {
-          "code": "6369",
-          "name": "トヨカネツ",
-          "market": "東Ｐ",
-          "price": "2,511",
-          "change": "-38",
-          "changePercent": "-1.49%"
-        },
-        {
-          "code": "6245",
-          "name": "ヒラノテク",
-          "market": "東Ｓ",
-          "price": "1,761",
-          "change": "-27",
-          "changePercent": "-1.51%"
-        },
-        {
-          "code": "6309",
-          "name": "巴工業",
-          "market": "東Ｐ",
-          "price": "1,828",
-          "change": "-29",
-          "changePercent": "-1.56%"
-        },
-        {
-          "code": "6013",
-          "name": "タクマ",
-          "market": "東Ｐ",
-          "price": "3,650",
-          "change": "-60",
-          "changePercent": "-1.62%"
-        },
-        {
-          "code": "6157",
-          "name": "日進工具",
-          "market": "東Ｓ",
-          "price": "946",
-          "change": "-16",
-          "changePercent": "-1.66%"
-        },
-        {
-          "code": "6586",
-          "name": "マキタ",
-          "market": "東Ｐ",
-          "price": "5,929",
-          "change": "-100",
-          "changePercent": "-1.66%"
-        },
-        {
-          "code": "6316",
-          "name": "丸山製",
-          "market": "東Ｓ",
-          "price": "2,698",
-          "change": "-46",
-          "changePercent": "-1.68%"
-        },
-        {
-          "code": "6218",
-          "name": "エンシュウ",
-          "market": "東Ｓ",
-          "price": "641",
-          "change": "-11",
-          "changePercent": "-1.69%"
-        },
-        {
-          "code": "6395",
-          "name": "タダノ",
-          "market": "東Ｐ",
-          "price": "1,301",
-          "change": "-23",
-          "changePercent": "-1.74%"
-        },
-        {
-          "code": "6149",
-          "name": "小田原エンジ",
-          "market": "東Ｓ",
-          "price": "2,097",
-          "change": "-38",
-          "changePercent": "-1.78%"
-        },
-        {
-          "code": "6135",
-          "name": "牧野フ",
-          "market": "東Ｐ",
-          "price": "14,830",
-          "change": "-270",
-          "changePercent": "-1.79%"
-        },
-        {
-          "code": "6445",
-          "name": "ジャノメ",
-          "market": "東Ｐ",
-          "price": "1,358",
-          "change": "-25",
-          "changePercent": "-1.81%"
-        },
-        {
-          "code": "6328",
-          "name": "荏原実業",
-          "market": "東Ｐ",
-          "price": "2,409",
-          "change": "-45",
-          "changePercent": "-1.83%"
-        },
-        {
-          "code": "6229",
-          "name": "オーケーエム",
-          "market": "東Ｓ",
-          "price": "1,550",
-          "change": "-29",
-          "changePercent": "-1.84%"
-        },
-        {
-          "code": "6307",
-          "name": "サンセイ",
-          "market": "東Ｓ",
-          "price": "426",
-          "change": "-8",
-          "changePercent": "-1.84%"
-        },
-        {
-          "code": "6473",
-          "name": "ジェイテクト",
-          "market": "東Ｐ",
-          "price": "2,135.0",
-          "change": "-40.0",
-          "changePercent": "-1.84%"
-        },
-        {
-          "code": "6331",
-          "name": "化工機",
-          "market": "東Ｐ",
-          "price": "3,880",
-          "change": "-75",
-          "changePercent": "-1.90%"
-        },
-        {
-          "code": "6384",
-          "name": "昭和真空",
-          "market": "東Ｓ",
-          "price": "1,702",
-          "change": "-33",
-          "changePercent": "-1.90%"
-        },
-        {
-          "code": "6337",
-          "name": "テセック",
-          "market": "東Ｓ",
-          "price": "2,440",
-          "change": "-48",
-          "changePercent": "-1.93%"
-        },
-        {
-          "code": "6022",
-          "name": "赤阪鉄",
-          "market": "東Ｓ",
-          "price": "2,530",
-          "change": "-50",
-          "changePercent": "-1.94%"
-        },
-        {
-          "code": "6247",
-          "name": "日阪製",
-          "market": "東Ｐ",
-          "price": "1,760",
-          "change": "-35",
-          "changePercent": "-1.95%"
-        },
-        {
-          "code": "6343",
-          "name": "フリージア",
-          "market": "東Ｓ",
-          "price": "150",
-          "change": "-3",
-          "changePercent": "-1.96%"
-        },
-        {
-          "code": "6237",
-          "name": "イワキポンプ",
-          "market": "東Ｐ",
-          "price": "4,175",
-          "change": "-85",
-          "changePercent": "-2.00%"
         },
         {
           "code": "6494",
           "name": "ＮＦＫＨＤ",
           "market": "東Ｓ",
           "price": "95",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "6454",
+          "name": "マックス",
+          "market": "東Ｐ",
+          "price": "1,747",
+          "change": "-1",
+          "changePercent": "-0.06%"
+        },
+        {
+          "code": "6460",
+          "name": "セガサミー",
+          "market": "東Ｐ",
+          "price": "2,441.0",
+          "change": "-2.0",
+          "changePercent": "-0.08%"
+        },
+        {
+          "code": "6488",
+          "name": "ヨシタケ",
+          "market": "東Ｓ",
+          "price": "960",
+          "change": "-1",
+          "changePercent": "-0.10%"
+        },
+        {
+          "code": "6289",
+          "name": "技研製",
+          "market": "東Ｐ",
+          "price": "1,800",
           "change": "-2",
-          "changePercent": "-2.06%"
+          "changePercent": "-0.11%"
         },
         {
-          "code": "6240",
-          "name": "ヤマシン―Ｆ",
+          "code": "6424",
+          "name": "高見サイ",
+          "market": "東Ｓ",
+          "price": "890",
+          "change": "-1",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "6238",
+          "name": "フリュー",
           "market": "東Ｐ",
-          "price": "511",
+          "price": "1,400",
+          "change": "-2",
+          "changePercent": "-0.14%"
+        },
+        {
+          "code": "6420",
+          "name": "ガリレイ",
+          "market": "東Ｐ",
+          "price": "3,350",
+          "change": "-5",
+          "changePercent": "-0.15%"
+        },
+        {
+          "code": "6365",
+          "name": "電業社",
+          "market": "東Ｓ",
+          "price": "5,430",
+          "change": "-10",
+          "changePercent": "-0.18%"
+        },
+        {
+          "code": "6358",
+          "name": "酒井重",
+          "market": "東Ｐ",
+          "price": "2,108",
+          "change": "-4",
+          "changePercent": "-0.19%"
+        },
+        {
+          "code": "6306",
+          "name": "日工",
+          "market": "東Ｐ",
+          "price": "958",
+          "change": "-2",
+          "changePercent": "-0.21%"
+        },
+        {
+          "code": "6286",
+          "name": "静甲",
+          "market": "東Ｓ",
+          "price": "1,360",
+          "change": "-3",
+          "changePercent": "-0.22%"
+        },
+        {
+          "code": "5631",
+          "name": "日製鋼",
+          "market": "東Ｐ",
+          "price": "8,253",
+          "change": "-19",
+          "changePercent": "-0.23%"
+        },
+        {
+          "code": "6149",
+          "name": "小田原エンジ",
+          "market": "東Ｓ",
+          "price": "2,091",
+          "change": "-6",
+          "changePercent": "-0.29%"
+        },
+        {
+          "code": "6412",
+          "name": "平和",
+          "market": "東Ｐ",
+          "price": "2,028",
+          "change": "-6",
+          "changePercent": "-0.29%"
+        },
+        {
+          "code": "6257",
+          "name": "藤商事",
+          "market": "東Ｓ",
+          "price": "1,009",
+          "change": "-3",
+          "changePercent": "-0.30%"
+        },
+        {
+          "code": "6458",
+          "name": "新晃工",
+          "market": "東Ｐ",
+          "price": "1,265",
+          "change": "-4",
+          "changePercent": "-0.32%"
+        },
+        {
+          "code": "6161",
+          "name": "エスティック",
+          "market": "東Ｓ",
+          "price": "1,037",
+          "change": "-4",
+          "changePercent": "-0.38%"
+        },
+        {
+          "code": "6291",
+          "name": "エアーテック",
+          "market": "東Ｓ",
+          "price": "1,276",
+          "change": "-5",
+          "changePercent": "-0.39%"
+        },
+        {
+          "code": "6228",
+          "name": "ＪＥＴ",
+          "market": "東Ｓ",
+          "price": "504",
+          "change": "-2",
+          "changePercent": "-0.40%"
+        },
+        {
+          "code": "6158",
+          "name": "和井田",
+          "market": "東Ｓ",
+          "price": "968",
+          "change": "-4",
+          "changePercent": "-0.41%"
+        },
+        {
+          "code": "6279",
+          "name": "瑞光",
+          "market": "東Ｐ",
+          "price": "900",
+          "change": "-4",
+          "changePercent": "-0.44%"
+        },
+        {
+          "code": "6417",
+          "name": "ＳＡＮＫＹＯ",
+          "market": "東Ｐ",
+          "price": "1,662.5",
+          "change": "-8.0",
+          "changePercent": "-0.48%"
+        },
+        {
+          "code": "6345",
+          "name": "アイチコーポ",
+          "market": "東Ｐ",
+          "price": "1,390",
+          "change": "-7",
+          "changePercent": "-0.50%"
+        },
+        {
+          "code": "6436",
+          "name": "アマノ",
+          "market": "東Ｐ",
+          "price": "3,720",
+          "change": "-20",
+          "changePercent": "-0.53%"
+        },
+        {
+          "code": "6357",
+          "name": "三精テクノロ",
+          "market": "東Ｓ",
+          "price": "2,487",
+          "change": "-14",
+          "changePercent": "-0.56%"
+        },
+        {
+          "code": "7021",
+          "name": "ニッチツ",
+          "market": "東Ｓ",
+          "price": "1,826",
+          "change": "-13",
+          "changePercent": "-0.71%"
+        },
+        {
+          "code": "6418",
+          "name": "日金銭",
+          "market": "東Ｐ",
+          "price": "1,069",
+          "change": "-8",
+          "changePercent": "-0.74%"
+        },
+        {
+          "code": "6287",
+          "name": "サトー",
+          "market": "東Ｐ",
+          "price": "2,375",
+          "change": "-18",
+          "changePercent": "-0.75%"
+        },
+        {
+          "code": "6430",
+          "name": "ダイコク電",
+          "market": "東Ｐ",
+          "price": "2,333",
+          "change": "-18",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "6104",
+          "name": "芝浦機",
+          "market": "東Ｐ",
+          "price": "4,390",
+          "change": "-35",
+          "changePercent": "-0.79%"
+        },
+        {
+          "code": "6272",
+          "name": "レオン",
+          "market": "東Ｐ",
+          "price": "1,513",
+          "change": "-12",
+          "changePercent": "-0.79%"
+        },
+        {
+          "code": "6381",
+          "name": "アネスト岩田",
+          "market": "東Ｐ",
+          "price": "1,738",
+          "change": "-14",
+          "changePercent": "-0.80%"
+        },
+        {
+          "code": "6382",
+          "name": "トリニ工",
+          "market": "東Ｓ",
+          "price": "1,236",
+          "change": "-10",
+          "changePercent": "-0.80%"
+        },
+        {
+          "code": "6332",
+          "name": "月島ＨＤ",
+          "market": "東Ｐ",
+          "price": "2,659",
+          "change": "-22",
+          "changePercent": "-0.82%"
+        },
+        {
+          "code": "6282",
+          "name": "オイレス",
+          "market": "東Ｐ",
+          "price": "2,865",
+          "change": "-24",
+          "changePercent": "-0.83%"
+        },
+        {
+          "code": "544A",
+          "name": "ＧＭＳ",
+          "market": "東Ｐ",
+          "price": "356",
+          "change": "-3",
+          "changePercent": "-0.84%"
+        },
+        {
+          "code": "6292",
+          "name": "カワタ",
+          "market": "東Ｓ",
+          "price": "812",
+          "change": "-7",
+          "changePercent": "-0.85%"
+        },
+        {
+          "code": "6405",
+          "name": "鈴茂器工",
+          "market": "東Ｓ",
+          "price": "1,056",
+          "change": "-9",
+          "changePercent": "-0.85%"
+        },
+        {
+          "code": "6470",
+          "name": "大豊工業",
+          "market": "東Ｓ",
+          "price": "1,053",
+          "change": "-9",
+          "changePercent": "-0.85%"
+        },
+        {
+          "code": "6138",
+          "name": "ダイジェト",
+          "market": "東Ｓ",
+          "price": "1,125",
+          "change": "-10",
+          "changePercent": "-0.88%"
+        },
+        {
+          "code": "6140",
+          "name": "旭ダイヤ",
+          "market": "東Ｐ",
+          "price": "1,183",
           "change": "-11",
-          "changePercent": "-2.11%"
+          "changePercent": "-0.92%"
         },
         {
-          "code": "6302",
-          "name": "住友重",
-          "market": "東Ｐ",
-          "price": "5,352",
-          "change": "-125",
-          "changePercent": "-2.28%"
-        },
-        {
-          "code": "6486",
-          "name": "イーグル工",
-          "market": "東Ｐ",
-          "price": "2,867",
-          "change": "-67",
-          "changePercent": "-2.28%"
-        },
-        {
-          "code": "6232",
-          "name": "ＡＣＳＬ",
+          "code": "6224",
+          "name": "ＪＲＣ",
           "market": "東Ｇ",
-          "price": "1,837",
+          "price": "1,351",
+          "change": "-13",
+          "changePercent": "-0.95%"
+        },
+        {
+          "code": "6371",
+          "name": "椿本チ",
+          "market": "東Ｐ",
+          "price": "2,615",
+          "change": "-25",
+          "changePercent": "-0.95%"
+        },
+        {
+          "code": "6013",
+          "name": "タクマ",
+          "market": "東Ｐ",
+          "price": "3,615",
+          "change": "-35",
+          "changePercent": "-0.96%"
+        },
+        {
+          "code": "6150",
+          "name": "タケダ機械",
+          "market": "東Ｓ",
+          "price": "2,761",
+          "change": "-27",
+          "changePercent": "-0.97%"
+        },
+        {
+          "code": "6167",
+          "name": "冨士ダイス",
+          "market": "東Ｐ",
+          "price": "1,005",
+          "change": "-10",
+          "changePercent": "-0.99%"
+        },
+        {
+          "code": "6482",
+          "name": "ＹＵＳＨＩＮ",
+          "market": "東Ｓ",
+          "price": "691",
+          "change": "-7",
+          "changePercent": "-1.00%"
+        },
+        {
+          "code": "6250",
+          "name": "やまびこ",
+          "market": "東Ｐ",
+          "price": "3,840",
+          "change": "-40",
+          "changePercent": "-1.03%"
+        },
+        {
+          "code": "6457",
+          "name": "グローリー",
+          "market": "東Ｐ",
+          "price": "4,135",
           "change": "-43",
-          "changePercent": "-2.29%"
+          "changePercent": "-1.03%"
         },
         {
           "code": "6368",
           "name": "オルガノ",
           "market": "東Ｐ",
-          "price": "15,250",
-          "change": "-360",
-          "changePercent": "-2.31%"
+          "price": "15,090",
+          "change": "-160",
+          "changePercent": "-1.05%"
         },
         {
-          "code": "6230",
-          "name": "ＳＡＮＥＩ",
-          "market": "東Ｓ",
-          "price": "2,215",
-          "change": "-55",
-          "changePercent": "-2.42%"
-        },
-        {
-          "code": "7004",
-          "name": "カナデビア",
+          "code": "6413",
+          "name": "理想科学",
           "market": "東Ｐ",
-          "price": "1,319",
-          "change": "-33",
-          "changePercent": "-2.44%"
+          "price": "1,022",
+          "change": "-11",
+          "changePercent": "-1.06%"
         },
         {
-          "code": "7011",
-          "name": "三菱重",
+          "code": "6439",
+          "name": "中日鋳",
+          "market": "名Ｍ",
+          "price": "373",
+          "change": "-4",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "6390",
+          "name": "加藤製",
           "market": "東Ｐ",
-          "price": "4,009",
-          "change": "-101",
-          "changePercent": "-2.46%"
+          "price": "1,272",
+          "change": "-14",
+          "changePercent": "-1.09%"
         },
         {
-          "code": "6248",
-          "name": "横田製",
+          "code": "6005",
+          "name": "三浦工",
+          "market": "東Ｐ",
+          "price": "3,174.0",
+          "change": "-36.0",
+          "changePercent": "-1.12%"
+        },
+        {
+          "code": "6239",
+          "name": "ナガオカ",
           "market": "東Ｓ",
-          "price": "1,736",
-          "change": "-44",
-          "changePercent": "-2.47%"
+          "price": "1,311",
+          "change": "-15",
+          "changePercent": "-1.13%"
+        },
+        {
+          "code": "6255",
+          "name": "エヌピーシー",
+          "market": "東Ｇ",
+          "price": "686",
+          "change": "-8",
+          "changePercent": "-1.15%"
+        },
+        {
+          "code": "6307",
+          "name": "サンセイ",
+          "market": "東Ｓ",
+          "price": "421",
+          "change": "-5",
+          "changePercent": "-1.17%"
+        },
+        {
+          "code": "6465",
+          "name": "ホシザキ",
+          "market": "東Ｐ",
+          "price": "5,651",
+          "change": "-72",
+          "changePercent": "-1.26%"
+        },
+        {
+          "code": "6333",
+          "name": "ＴＥＩＫＯＫ",
+          "market": "東Ｐ",
+          "price": "3,120",
+          "change": "-40",
+          "changePercent": "-1.27%"
+        },
+        {
+          "code": "6343",
+          "name": "フリージア",
+          "market": "東Ｓ",
+          "price": "148",
+          "change": "-2",
+          "changePercent": "-1.33%"
+        },
+        {
+          "code": "6445",
+          "name": "ジャノメ",
+          "market": "東Ｐ",
+          "price": "1,340",
+          "change": "-18",
+          "changePercent": "-1.33%"
+        },
+        {
+          "code": "6369",
+          "name": "トヨカネツ",
+          "market": "東Ｐ",
+          "price": "2,476",
+          "change": "-35",
+          "changePercent": "-1.39%"
+        },
+        {
+          "code": "6151",
+          "name": "日東工器",
+          "market": "東Ｐ",
+          "price": "1,694",
+          "change": "-24",
+          "changePercent": "-1.40%"
+        },
+        {
+          "code": "6486",
+          "name": "イーグル工",
+          "market": "東Ｐ",
+          "price": "2,826",
+          "change": "-41",
+          "changePercent": "-1.43%"
+        },
+        {
+          "code": "6323",
+          "name": "ローツェ",
+          "market": "東Ｐ",
+          "price": "4,344",
+          "change": "-66",
+          "changePercent": "-1.50%"
         },
         {
           "code": "6391",
           "name": "加地テック",
           "market": "東Ｓ",
-          "price": "4,335",
-          "change": "-110",
-          "changePercent": "-2.47%"
+          "price": "4,270",
+          "change": "-65",
+          "changePercent": "-1.50%"
         },
         {
-          "code": "6433",
-          "name": "ヒーハイスト",
+          "code": "7991",
+          "name": "マミヤＯＰ",
           "market": "東Ｓ",
-          "price": "1,051",
-          "change": "-27",
+          "price": "1,054",
+          "change": "-16",
+          "changePercent": "-1.50%"
+        },
+        {
+          "code": "6347",
+          "name": "プラコー",
+          "market": "東Ｓ",
+          "price": "259",
+          "change": "-4",
+          "changePercent": "-1.52%"
+        },
+        {
+          "code": "6294",
+          "name": "オカアイヨン",
+          "market": "東Ｐ",
+          "price": "1,990",
+          "change": "-32",
+          "changePercent": "-1.58%"
+        },
+        {
+          "code": "6384",
+          "name": "昭和真空",
+          "market": "東Ｓ",
+          "price": "1,674",
+          "change": "-28",
+          "changePercent": "-1.65%"
+        },
+        {
+          "code": "6432",
+          "name": "竹内製作所",
+          "market": "東Ｐ",
+          "price": "7,170",
+          "change": "-120",
+          "changePercent": "-1.65%"
+        },
+        {
+          "code": "6135",
+          "name": "牧野フ",
+          "market": "東Ｐ",
+          "price": "14,580",
+          "change": "-250",
+          "changePercent": "-1.69%"
+        },
+        {
+          "code": "6209",
+          "name": "リケンＮＰＲ",
+          "market": "東Ｐ",
+          "price": "3,885",
+          "change": "-70",
+          "changePercent": "-1.77%"
+        },
+        {
+          "code": "6248",
+          "name": "横田製",
+          "market": "東Ｓ",
+          "price": "1,703",
+          "change": "-33",
+          "changePercent": "-1.90%"
+        },
+        {
+          "code": "6378",
+          "name": "木村化",
+          "market": "東Ｓ",
+          "price": "1,175",
+          "change": "-23",
+          "changePercent": "-1.92%"
+        },
+        {
+          "code": "6361",
+          "name": "荏原",
+          "market": "東Ｐ",
+          "price": "5,808",
+          "change": "-115",
+          "changePercent": "-1.94%"
+        },
+        {
+          "code": "6240",
+          "name": "ヤマシン―Ｆ",
+          "market": "東Ｐ",
+          "price": "501",
+          "change": "-10",
+          "changePercent": "-1.96%"
+        },
+        {
+          "code": "6222",
+          "name": "島精機",
+          "market": "東Ｐ",
+          "price": "890",
+          "change": "-18",
+          "changePercent": "-1.98%"
+        },
+        {
+          "code": "6360",
+          "name": "東自機",
+          "market": "東Ｓ",
+          "price": "4,440",
+          "change": "-90",
+          "changePercent": "-1.99%"
+        },
+        {
+          "code": "6262",
+          "name": "ペガサス",
+          "market": "東Ｓ",
+          "price": "540",
+          "change": "-11",
+          "changePercent": "-2.00%"
+        },
+        {
+          "code": "6367",
+          "name": "ダイキン",
+          "market": "東Ｐ",
+          "price": "25,460",
+          "change": "-520",
+          "changePercent": "-2.00%"
+        },
+        {
+          "code": "6118",
+          "name": "アイダ",
+          "market": "東Ｐ",
+          "price": "1,158",
+          "change": "-24",
+          "changePercent": "-2.03%"
+        },
+        {
+          "code": "6145",
+          "name": "ＮＩＴＴＯＫ",
+          "market": "東Ｓ",
+          "price": "2,792",
+          "change": "-58",
+          "changePercent": "-2.04%"
+        },
+        {
+          "code": "6247",
+          "name": "日阪製",
+          "market": "東Ｐ",
+          "price": "1,724",
+          "change": "-36",
+          "changePercent": "-2.05%"
+        },
+        {
+          "code": "6490",
+          "name": "ＰＩＬＬＡＲ",
+          "market": "東Ｐ",
+          "price": "9,500",
+          "change": "-200",
+          "changePercent": "-2.06%"
+        },
+        {
+          "code": "6305",
+          "name": "日立建機",
+          "market": "東Ｐ",
+          "price": "5,293",
+          "change": "-112",
+          "changePercent": "-2.07%"
+        },
+        {
+          "code": "6143",
+          "name": "ソディック",
+          "market": "東Ｐ",
+          "price": "1,698",
+          "change": "-36",
+          "changePercent": "-2.08%"
+        },
+        {
+          "code": "6141",
+          "name": "ＤＭＧ森精機",
+          "market": "東Ｐ",
+          "price": "3,465.0",
+          "change": "-76.0",
+          "changePercent": "-2.15%"
+        },
+        {
+          "code": "6339",
+          "name": "新東工",
+          "market": "東Ｐ",
+          "price": "1,171",
+          "change": "-26",
+          "changePercent": "-2.17%"
+        },
+        {
+          "code": "6472",
+          "name": "ＮＴＮ",
+          "market": "東Ｐ",
+          "price": "395.0",
+          "change": "-8.8",
+          "changePercent": "-2.18%"
+        },
+        {
+          "code": "6481",
+          "name": "ＴＨＫ",
+          "market": "東Ｐ",
+          "price": "7,063",
+          "change": "-158",
+          "changePercent": "-2.19%"
+        },
+        {
+          "code": "6463",
+          "name": "ＴＰＲ",
+          "market": "東Ｐ",
+          "price": "1,377",
+          "change": "-31",
+          "changePercent": "-2.20%"
+        },
+        {
+          "code": "6134",
+          "name": "ＦＵＪＩ",
+          "market": "東Ｐ",
+          "price": "7,600",
+          "change": "-173",
+          "changePercent": "-2.23%"
+        },
+        {
+          "code": "6407",
+          "name": "ＣＫＤ",
+          "market": "東Ｐ",
+          "price": "6,720",
+          "change": "-160",
+          "changePercent": "-2.33%"
+        },
+        {
+          "code": "6444",
+          "name": "サンデン",
+          "market": "東Ｓ",
+          "price": "156",
+          "change": "-4",
           "changePercent": "-2.50%"
+        },
+        {
+          "code": "6474",
+          "name": "不二越",
+          "market": "東Ｐ",
+          "price": "5,990",
+          "change": "-160",
+          "changePercent": "-2.60%"
+        },
+        {
+          "code": "6165",
+          "name": "パンチ",
+          "market": "東Ｓ",
+          "price": "482",
+          "change": "-13",
+          "changePercent": "-2.63%"
+        },
+        {
+          "code": "6370",
+          "name": "栗田工",
+          "market": "東Ｐ",
+          "price": "8,702",
+          "change": "-237",
+          "changePercent": "-2.65%"
+        },
+        {
+          "code": "6498",
+          "name": "キッツ",
+          "market": "東Ｐ",
+          "price": "2,380",
+          "change": "-65",
+          "changePercent": "-2.66%"
+        },
+        {
+          "code": "6326",
+          "name": "クボタ",
+          "market": "東Ｐ",
+          "price": "2,704.0",
+          "change": "-74.5",
+          "changePercent": "-2.68%"
+        },
+        {
+          "code": "6265",
+          "name": "コンバム",
+          "market": "東Ｓ",
+          "price": "3,410",
+          "change": "-95",
+          "changePercent": "-2.71%"
+        },
+        {
+          "code": "6425",
+          "name": "ユニバーサル",
+          "market": "東Ｓ",
+          "price": "683",
+          "change": "-19",
+          "changePercent": "-2.71%"
+        },
+        {
+          "code": "6277",
+          "name": "ホソミクロン",
+          "market": "東Ｐ",
+          "price": "4,825",
+          "change": "-135",
+          "changePercent": "-2.72%"
+        },
+        {
+          "code": "6147",
+          "name": "ヤマザキ",
+          "market": "福証",
+          "price": "178",
+          "change": "-5",
+          "changePercent": "-2.73%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 5064.67,
-          "changePercent": -0.76
-        },
         {
           "date": "20260625",
           "price": 5107.15,
@@ -8825,6 +8820,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 5174,
           "changePercent": -3.22
+        },
+        {
+          "date": "20260708",
+          "price": 5009.54,
+          "changePercent": -3.18
         }
       ]
     },
@@ -8832,393 +8832,217 @@ window.sectorData = {
       "id": "3650",
       "nameJa": "電気機器",
       "nameEn": "Electric Appliances",
-      "price": 8839.94,
-      "change": "-266.13",
-      "changePercent": -2.92,
+      "price": 8601.28,
+      "change": "-238.66",
+      "changePercent": -2.7,
       "stocks": [
         {
           "code": "6522",
           "name": "アスタリスク",
           "market": "東Ｇ",
-          "price": "2,096",
-          "change": "+400",
-          "changePercent": "+23.58%"
+          "price": "2,400",
+          "change": "+304",
+          "changePercent": "+14.50%"
         },
         {
-          "code": "6588",
-          "name": "東芝テック",
-          "market": "東Ｐ",
-          "price": "3,050",
-          "change": "+144",
-          "changePercent": "+4.96%"
-        },
-        {
-          "code": "6736",
-          "name": "サン電子",
-          "market": "東Ｓ",
-          "price": "11,340",
-          "change": "+530",
-          "changePercent": "+4.90%"
-        },
-        {
-          "code": "6276",
-          "name": "シリウスＶ",
-          "market": "東Ｓ",
-          "price": "317",
-          "change": "+10",
-          "changePercent": "+3.26%"
-        },
-        {
-          "code": "6778",
-          "name": "アルチザ",
-          "market": "東Ｓ",
-          "price": "745",
-          "change": "+21",
-          "changePercent": "+2.90%"
-        },
-        {
-          "code": "6501",
-          "name": "日立",
-          "market": "東Ｐ",
-          "price": "4,942",
-          "change": "+137",
-          "changePercent": "+2.85%"
-        },
-        {
-          "code": "6638",
-          "name": "ミマキエンジ",
-          "market": "東Ｐ",
-          "price": "1,988",
-          "change": "+51",
-          "changePercent": "+2.63%"
-        },
-        {
-          "code": "6824",
-          "name": "新コスモス",
-          "market": "東Ｓ",
-          "price": "5,620",
-          "change": "+140",
-          "changePercent": "+2.55%"
-        },
-        {
-          "code": "6753",
-          "name": "シャープ",
-          "market": "東Ｐ",
-          "price": "655.8",
-          "change": "+15.3",
-          "changePercent": "+2.39%"
-        },
-        {
-          "code": "6758",
-          "name": "ソニーＧ",
-          "market": "東Ｐ",
-          "price": "3,502.0",
-          "change": "+80.0",
-          "changePercent": "+2.34%"
-        },
-        {
-          "code": "6703",
-          "name": "ＯＫＩ",
-          "market": "東Ｐ",
-          "price": "3,620",
-          "change": "+70",
-          "changePercent": "+1.97%"
-        },
-        {
-          "code": "6678",
-          "name": "テクノメデカ",
-          "market": "東Ｓ",
-          "price": "2,039",
+          "code": "6696",
+          "name": "トラースＯＰ",
+          "market": "東Ｇ",
+          "price": "311",
           "change": "+39",
-          "changePercent": "+1.95%"
-        },
-        {
-          "code": "6655",
-          "name": "東洋電機",
-          "market": "名Ｍ",
-          "price": "795",
-          "change": "+15",
-          "changePercent": "+1.92%"
-        },
-        {
-          "code": "6964",
-          "name": "サンコー",
-          "market": "東Ｓ",
-          "price": "682",
-          "change": "+12",
-          "changePercent": "+1.79%"
-        },
-        {
-          "code": "6614",
-          "name": "シキノＨＴ",
-          "market": "東Ｓ",
-          "price": "875",
-          "change": "+13",
-          "changePercent": "+1.51%"
-        },
-        {
-          "code": "6849",
-          "name": "日本光電",
-          "market": "東Ｐ",
-          "price": "1,522.5",
-          "change": "+22.5",
-          "changePercent": "+1.50%"
-        },
-        {
-          "code": "6947",
-          "name": "図研",
-          "market": "東Ｐ",
-          "price": "4,825",
-          "change": "+70",
-          "changePercent": "+1.47%"
-        },
-        {
-          "code": "6702",
-          "name": "富士通",
-          "market": "東Ｐ",
-          "price": "3,392.0",
-          "change": "+43.0",
-          "changePercent": "+1.28%"
-        },
-        {
-          "code": "6523",
-          "name": "ＰＨＣＨＤ",
-          "market": "東Ｐ",
-          "price": "1,060",
-          "change": "+10",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "6809",
-          "name": "ＴＯＡ",
-          "market": "東Ｐ",
-          "price": "1,640",
-          "change": "+15",
-          "changePercent": "+0.92%"
-        },
-        {
-          "code": "6718",
-          "name": "アイホン",
-          "market": "東Ｐ",
-          "price": "2,773",
-          "change": "+25",
-          "changePercent": "+0.91%"
-        },
-        {
-          "code": "6513",
-          "name": "オリジン",
-          "market": "東Ｓ",
-          "price": "1,078",
-          "change": "+9",
-          "changePercent": "+0.84%"
-        },
-        {
-          "code": "6775",
-          "name": "ＴＢグループ",
-          "market": "東Ｓ",
-          "price": "122",
-          "change": "+1",
-          "changePercent": "+0.83%"
-        },
-        {
-          "code": "6723",
-          "name": "ルネサス",
-          "market": "東Ｐ",
-          "price": "4,744",
-          "change": "+34",
-          "changePercent": "+0.72%"
-        },
-        {
-          "code": "7752",
-          "name": "リコー",
-          "market": "東Ｐ",
-          "price": "1,477.0",
-          "change": "+9.0",
-          "changePercent": "+0.61%"
-        },
-        {
-          "code": "6908",
-          "name": "イリソ電子",
-          "market": "東Ｐ",
-          "price": "2,890",
-          "change": "+17",
-          "changePercent": "+0.59%"
-        },
-        {
-          "code": "6804",
-          "name": "ホシデン",
-          "market": "東Ｐ",
-          "price": "2,867",
-          "change": "+14",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "6632",
-          "name": "ＪＶＣケンウ",
-          "market": "東Ｐ",
-          "price": "1,156.0",
-          "change": "+5.5",
-          "changePercent": "+0.48%"
-        },
-        {
-          "code": "6694",
-          "name": "ズーム",
-          "market": "東Ｓ",
-          "price": "634",
-          "change": "+3",
-          "changePercent": "+0.48%"
-        },
-        {
-          "code": "6662",
-          "name": "ユビテック",
-          "market": "東Ｓ",
-          "price": "217",
-          "change": "+1",
-          "changePercent": "+0.46%"
-        },
-        {
-          "code": "6927",
-          "name": "ヘリオスＴＨ",
-          "market": "東Ｓ",
-          "price": "945",
-          "change": "+4",
-          "changePercent": "+0.43%"
-        },
-        {
-          "code": "4902",
-          "name": "コニカミノル",
-          "market": "東Ｐ",
-          "price": "589.4",
-          "change": "+2.4",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "3856",
-          "name": "Ａバランス",
-          "market": "東Ｓ",
-          "price": "523",
-          "change": "+2",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "6894",
-          "name": "パルステック",
-          "market": "東Ｓ",
-          "price": "2,149",
-          "change": "+8",
-          "changePercent": "+0.37%"
-        },
-        {
-          "code": "6676",
-          "name": "ＢＵＦ",
-          "market": "東Ｓ",
-          "price": "2,576",
-          "change": "+7",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "6637",
-          "name": "寺崎電気",
-          "market": "東Ｓ",
-          "price": "3,785",
-          "change": "+10",
-          "changePercent": "+0.26%"
-        },
-        {
-          "code": "6741",
-          "name": "日本信号",
-          "market": "東Ｐ",
-          "price": "1,585",
-          "change": "+2",
-          "changePercent": "+0.13%"
-        },
-        {
-          "code": "6850",
-          "name": "チノー",
-          "market": "東Ｐ",
-          "price": "1,640",
-          "change": "+2",
-          "changePercent": "+0.12%"
+          "changePercent": "+14.34%"
         },
         {
           "code": "6518",
           "name": "三相電機",
           "market": "東Ｓ",
-          "price": "1,863",
-          "change": "+2",
-          "changePercent": "+0.11%"
+          "price": "1,964",
+          "change": "+101",
+          "changePercent": "+5.42%"
         },
         {
-          "code": "6899",
-          "name": "ＡＳＴＩ",
+          "code": "6869",
+          "name": "シスメックス",
+          "market": "東Ｐ",
+          "price": "1,592.0",
+          "change": "+27.0",
+          "changePercent": "+1.73%"
+        },
+        {
+          "code": "6835",
+          "name": "アライドＨＤ",
           "market": "東Ｓ",
-          "price": "2,392",
-          "change": "+2",
-          "changePercent": "+0.08%"
+          "price": "243",
+          "change": "+4",
+          "changePercent": "+1.67%"
         },
         {
-          "code": "6871",
-          "name": "日本マイクロ",
+          "code": "6737",
+          "name": "ＥＩＺＯ",
           "market": "東Ｐ",
-          "price": "15,160",
-          "change": "+10",
-          "changePercent": "+0.07%"
+          "price": "2,577",
+          "change": "+35",
+          "changePercent": "+1.38%"
         },
         {
-          "code": "6701",
-          "name": "ＮＥＣ",
-          "market": "東Ｐ",
-          "price": "4,348",
-          "change": "+1",
-          "changePercent": "+0.02%"
-        },
-        {
-          "code": "6612",
-          "name": "バルミューダ",
-          "market": "東Ｇ",
-          "price": "592",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6615",
-          "name": "ＵＭＣエレ",
-          "market": "東Ｐ",
-          "price": "225",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6630",
-          "name": "ヤーマン",
-          "market": "東Ｐ",
-          "price": "718",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "6647",
-          "name": "森尾電",
+          "code": "6822",
+          "name": "大井電気",
           "market": "東Ｓ",
-          "price": "2,744",
-          "change": "0",
-          "changePercent": "0.00%"
+          "price": "5,500",
+          "change": "+50",
+          "changePercent": "+0.92%"
         },
         {
           "code": "6664",
           "name": "オプトエレ",
           "market": "東Ｓ",
-          "price": "245",
-          "change": "0",
-          "changePercent": "0.00%"
+          "price": "247",
+          "change": "+2",
+          "changePercent": "+0.82%"
         },
         {
-          "code": "6721",
-          "name": "ウインテスト",
+          "code": "6613",
+          "name": "ＱＤレーザ",
+          "market": "東Ｇ",
+          "price": "2,621",
+          "change": "+21",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "6899",
+          "name": "ＡＳＴＩ",
           "market": "東Ｓ",
-          "price": "91",
-          "change": "0",
-          "changePercent": "0.00%"
+          "price": "2,410",
+          "change": "+18",
+          "changePercent": "+0.75%"
+        },
+        {
+          "code": "6904",
+          "name": "原田工業",
+          "market": "東Ｓ",
+          "price": "452",
+          "change": "+3",
+          "changePercent": "+0.67%"
+        },
+        {
+          "code": "6770",
+          "name": "アルプスアル",
+          "market": "東Ｐ",
+          "price": "2,045.5",
+          "change": "+13.0",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "6655",
+          "name": "東洋電機",
+          "market": "名Ｍ",
+          "price": "800",
+          "change": "+5",
+          "changePercent": "+0.63%"
+        },
+        {
+          "code": "6633",
+          "name": "ＣＧＳＨＤ",
+          "market": "東Ｓ",
+          "price": "335",
+          "change": "+2",
+          "changePercent": "+0.60%"
+        },
+        {
+          "code": "6897",
+          "name": "ツインバード",
+          "market": "東Ｓ",
+          "price": "673",
+          "change": "+4",
+          "changePercent": "+0.60%"
+        },
+        {
+          "code": "6694",
+          "name": "ズーム",
+          "market": "東Ｓ",
+          "price": "637",
+          "change": "+3",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "6699",
+          "name": "ダイヤＨＤ",
+          "market": "東Ｓ",
+          "price": "482",
+          "change": "+2",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "6614",
+          "name": "シキノＨＴ",
+          "market": "東Ｓ",
+          "price": "878",
+          "change": "+3",
+          "changePercent": "+0.34%"
+        },
+        {
+          "code": "6630",
+          "name": "ヤーマン",
+          "market": "東Ｐ",
+          "price": "720",
+          "change": "+2",
+          "changePercent": "+0.28%"
+        },
+        {
+          "code": "6960",
+          "name": "フクダ電",
+          "market": "東Ｓ",
+          "price": "11,530",
+          "change": "+30",
+          "changePercent": "+0.26%"
+        },
+        {
+          "code": "7752",
+          "name": "リコー",
+          "market": "東Ｐ",
+          "price": "1,480.5",
+          "change": "+3.5",
+          "changePercent": "+0.24%"
+        },
+        {
+          "code": "6952",
+          "name": "カシオ",
+          "market": "東Ｐ",
+          "price": "1,858.5",
+          "change": "+4.0",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "6875",
+          "name": "メガチップス",
+          "market": "東Ｐ",
+          "price": "10,400",
+          "change": "+20",
+          "changePercent": "+0.19%"
+        },
+        {
+          "code": "6654",
+          "name": "不二電機",
+          "market": "東Ｓ",
+          "price": "1,137",
+          "change": "+2",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "6678",
+          "name": "テクノメデカ",
+          "market": "東Ｓ",
+          "price": "2,042",
+          "change": "+3",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "6701",
+          "name": "ＮＥＣ",
+          "market": "東Ｐ",
+          "price": "4,349",
+          "change": "+1",
+          "changePercent": "+0.02%"
         },
         {
           "code": "6772",
@@ -9229,820 +9053,991 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "6803",
-          "name": "ティアック",
-          "market": "東Ｓ",
-          "price": "103",
+          "code": "6794",
+          "name": "フォスター",
+          "market": "東Ｐ",
+          "price": "2,900",
           "change": "0",
           "changePercent": "0.00%"
-        },
-        {
-          "code": "7965",
-          "name": "象印",
-          "market": "東Ｐ",
-          "price": "1,424",
-          "change": "-1",
-          "changePercent": "-0.07%"
-        },
-        {
-          "code": "6654",
-          "name": "不二電機",
-          "market": "東Ｓ",
-          "price": "1,135",
-          "change": "-1",
-          "changePercent": "-0.09%"
-        },
-        {
-          "code": "6763",
-          "name": "帝通工",
-          "market": "東Ｐ",
-          "price": "2,897",
-          "change": "-3",
-          "changePercent": "-0.10%"
-        },
-        {
-          "code": "6744",
-          "name": "能美防災",
-          "market": "東Ｐ",
-          "price": "4,410",
-          "change": "-5",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "6592",
-          "name": "マブチ",
-          "market": "東Ｐ",
-          "price": "1,653.0",
-          "change": "-2.0",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "6750",
-          "name": "エレコム",
-          "market": "東Ｐ",
-          "price": "1,800",
-          "change": "-3",
-          "changePercent": "-0.17%"
-        },
-        {
-          "code": "6788",
-          "name": "日本トリム",
-          "market": "東Ｐ",
-          "price": "4,510",
-          "change": "-10",
-          "changePercent": "-0.22%"
-        },
-        {
-          "code": "6904",
-          "name": "原田工業",
-          "market": "東Ｓ",
-          "price": "449",
-          "change": "-1",
-          "changePercent": "-0.22%"
-        },
-        {
-          "code": "6955",
-          "name": "ＦＤＫ",
-          "market": "東Ｓ",
-          "price": "451",
-          "change": "-1",
-          "changePercent": "-0.22%"
-        },
-        {
-          "code": "6986",
-          "name": "双葉電",
-          "market": "東Ｐ",
-          "price": "580",
-          "change": "-2",
-          "changePercent": "-0.34%"
-        },
-        {
-          "code": "6696",
-          "name": "トラースＯＰ",
-          "market": "東Ｇ",
-          "price": "272",
-          "change": "-1",
-          "changePercent": "-0.37%"
-        },
-        {
-          "code": "6727",
-          "name": "ワコム",
-          "market": "東Ｐ",
-          "price": "778",
-          "change": "-3",
-          "changePercent": "-0.38%"
-        },
-        {
-          "code": "7244",
-          "name": "市光工",
-          "market": "東Ｐ",
-          "price": "521",
-          "change": "-2",
-          "changePercent": "-0.38%"
-        },
-        {
-          "code": "6626",
-          "name": "ＳＥＭＴＥＣ",
-          "market": "東Ｓ",
-          "price": "2,006",
-          "change": "-8",
-          "changePercent": "-0.40%"
-        },
-        {
-          "code": "6919",
-          "name": "ケル",
-          "market": "東Ｓ",
-          "price": "1,380",
-          "change": "-6",
-          "changePercent": "-0.43%"
-        },
-        {
-          "code": "6820",
-          "name": "アイコム",
-          "market": "東Ｐ",
-          "price": "3,220",
-          "change": "-15",
-          "changePercent": "-0.46%"
-        },
-        {
-          "code": "6797",
-          "name": "名古屋電機",
-          "market": "東Ｓ",
-          "price": "1,165",
-          "change": "-6",
-          "changePercent": "-0.51%"
-        },
-        {
-          "code": "7751",
-          "name": "キヤノン",
-          "market": "東Ｐ",
-          "price": "4,316",
-          "change": "-22",
-          "changePercent": "-0.51%"
-        },
-        {
-          "code": "6960",
-          "name": "フクダ電",
-          "market": "東Ｓ",
-          "price": "11,500",
-          "change": "-60",
-          "changePercent": "-0.52%"
-        },
-        {
-          "code": "6724",
-          "name": "エプソン",
-          "market": "東Ｐ",
-          "price": "2,862.5",
-          "change": "-15.5",
-          "changePercent": "-0.54%"
-        },
-        {
-          "code": "6874",
-          "name": "協立電機",
-          "market": "東Ｓ",
-          "price": "2,570",
-          "change": "-14",
-          "changePercent": "-0.54%"
         },
         {
           "code": "6926",
           "name": "ＯＫＡＹＡ",
           "market": "東Ｓ",
           "price": "185",
-          "change": "-1",
-          "changePercent": "-0.54%"
-        },
-        {
-          "code": "6757",
-          "name": "ＯＳＧコーポ",
-          "market": "東Ｓ",
-          "price": "861",
-          "change": "-5",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "6633",
-          "name": "ＣＧＳＨＤ",
-          "market": "東Ｓ",
-          "price": "333",
-          "change": "-2",
-          "changePercent": "-0.60%"
-        },
-        {
-          "code": "6848",
-          "name": "東亜ＤＫＫ",
-          "market": "東Ｓ",
-          "price": "860",
-          "change": "-6",
-          "changePercent": "-0.69%"
-        },
-        {
-          "code": "6448",
-          "name": "ブラザー",
-          "market": "東Ｐ",
-          "price": "3,732",
-          "change": "-27",
-          "changePercent": "-0.72%"
-        },
-        {
-          "code": "6897",
-          "name": "ツインバード",
-          "market": "東Ｓ",
-          "price": "669",
-          "change": "-5",
-          "changePercent": "-0.74%"
-        },
-        {
-          "code": "6675",
-          "name": "サクサ",
-          "market": "東Ｓ",
-          "price": "1,965",
-          "change": "-15",
-          "changePercent": "-0.76%"
-        },
-        {
-          "code": "6915",
-          "name": "千代田インテ",
-          "market": "東Ｓ",
-          "price": "3,245",
-          "change": "-25",
-          "changePercent": "-0.76%"
-        },
-        {
-          "code": "3105",
-          "name": "日清紡ＨＤ",
-          "market": "東Ｐ",
-          "price": "2,386.5",
-          "change": "-19.0",
-          "changePercent": "-0.79%"
-        },
-        {
-          "code": "6807",
-          "name": "航空電子",
-          "market": "東Ｐ",
-          "price": "2,340",
-          "change": "-19",
-          "changePercent": "-0.81%"
-        },
-        {
-          "code": "6877",
-          "name": "ＯＢＡＲＡＧ",
-          "market": "東Ｓ",
-          "price": "6,110",
-          "change": "-50",
-          "changePercent": "-0.81%"
-        },
-        {
-          "code": "6822",
-          "name": "大井電気",
-          "market": "東Ｓ",
-          "price": "5,450",
-          "change": "-50",
-          "changePercent": "-0.91%"
-        },
-        {
-          "code": "6943",
-          "name": "ＮＫＫ",
-          "market": "東Ｓ",
-          "price": "4,950",
-          "change": "-50",
-          "changePercent": "-1.00%"
-        },
-        {
-          "code": "6907",
-          "name": "ジオマテック",
-          "market": "東Ｓ",
-          "price": "648",
-          "change": "-7",
-          "changePercent": "-1.07%"
-        },
-        {
-          "code": "7276",
-          "name": "小糸製",
-          "market": "東Ｐ",
-          "price": "2,618.5",
-          "change": "-28.5",
-          "changePercent": "-1.08%"
-        },
-        {
-          "code": "6658",
-          "name": "シライ電子",
-          "market": "東Ｓ",
-          "price": "447",
-          "change": "-5",
-          "changePercent": "-1.11%"
-        },
-        {
-          "code": "6867",
-          "name": "リーダー電子",
-          "market": "東Ｓ",
-          "price": "446",
-          "change": "-5",
-          "changePercent": "-1.11%"
-        },
-        {
-          "code": "6932",
-          "name": "遠藤照明",
-          "market": "東Ｓ",
-          "price": "2,430",
-          "change": "-28",
-          "changePercent": "-1.14%"
-        },
-        {
-          "code": "6505",
-          "name": "東洋電",
-          "market": "東Ｓ",
-          "price": "2,010",
-          "change": "-24",
-          "changePercent": "-1.18%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "6929",
           "name": "日セラ",
           "market": "東Ｐ",
           "price": "3,710",
-          "change": "-45",
-          "changePercent": "-1.20%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "6835",
-          "name": "アライドＨＤ",
+          "code": "6626",
+          "name": "ＳＥＭＴＥＣ",
           "market": "東Ｓ",
-          "price": "239",
-          "change": "-3",
-          "changePercent": "-1.24%"
+          "price": "2,005",
+          "change": "-1",
+          "changePercent": "-0.05%"
         },
         {
-          "code": "6810",
-          "name": "マクセル",
-          "market": "東Ｐ",
-          "price": "2,132",
-          "change": "-27",
-          "changePercent": "-1.25%"
-        },
-        {
-          "code": "6706",
-          "name": "電気興",
-          "market": "東Ｐ",
-          "price": "2,972",
-          "change": "-38",
-          "changePercent": "-1.26%"
-        },
-        {
-          "code": "6794",
-          "name": "フォスター",
-          "market": "東Ｐ",
-          "price": "2,900",
-          "change": "-37",
-          "changePercent": "-1.26%"
-        },
-        {
-          "code": "6707",
-          "name": "サンケン",
-          "market": "東Ｐ",
-          "price": "10,545",
-          "change": "-140",
-          "changePercent": "-1.31%"
-        },
-        {
-          "code": "6517",
-          "name": "デンヨー",
-          "market": "東Ｐ",
-          "price": "3,600",
-          "change": "-50",
-          "changePercent": "-1.37%"
-        },
-        {
-          "code": "6644",
-          "name": "大崎電",
-          "market": "東Ｐ",
-          "price": "1,507",
-          "change": "-21",
-          "changePercent": "-1.37%"
-        },
-        {
-          "code": "6730",
-          "name": "アクセル",
+          "code": "6757",
+          "name": "ＯＳＧコーポ",
           "market": "東Ｓ",
-          "price": "1,178",
-          "change": "-17",
-          "changePercent": "-1.42%"
+          "price": "860",
+          "change": "-1",
+          "changePercent": "-0.12%"
         },
         {
-          "code": "6869",
-          "name": "シスメックス",
+          "code": "6612",
+          "name": "バルミューダ",
+          "market": "東Ｇ",
+          "price": "591",
+          "change": "-1",
+          "changePercent": "-0.17%"
+        },
+        {
+          "code": "6763",
+          "name": "帝通工",
           "market": "東Ｐ",
-          "price": "1,565.0",
-          "change": "-23.0",
-          "changePercent": "-1.45%"
+          "price": "2,892",
+          "change": "-5",
+          "changePercent": "-0.17%"
         },
         {
-          "code": "6748",
-          "name": "星和電",
+          "code": "6797",
+          "name": "名古屋電機",
           "market": "東Ｓ",
-          "price": "720",
-          "change": "-11",
-          "changePercent": "-1.50%"
+          "price": "1,163",
+          "change": "-2",
+          "changePercent": "-0.17%"
         },
         {
-          "code": "6503",
-          "name": "三菱電",
-          "market": "東Ｐ",
-          "price": "5,947",
-          "change": "-96",
-          "changePercent": "-1.59%"
-        },
-        {
-          "code": "6882",
-          "name": "三社電機",
+          "code": "6513",
+          "name": "オリジン",
           "market": "東Ｓ",
-          "price": "1,214",
-          "change": "-20",
-          "changePercent": "-1.62%"
-        },
-        {
-          "code": "6952",
-          "name": "カシオ",
-          "market": "東Ｐ",
-          "price": "1,854.5",
-          "change": "-31.0",
-          "changePercent": "-1.64%"
-        },
-        {
-          "code": "6989",
-          "name": "北電工",
-          "market": "東Ｓ",
-          "price": "2,748",
-          "change": "-47",
-          "changePercent": "-1.68%"
-        },
-        {
-          "code": "6648",
-          "name": "かわでん",
-          "market": "東Ｓ",
-          "price": "1,921",
-          "change": "-33",
-          "changePercent": "-1.69%"
-        },
-        {
-          "code": "6742",
-          "name": "京三",
-          "market": "東Ｐ",
-          "price": "892",
-          "change": "-16",
-          "changePercent": "-1.76%"
-        },
-        {
-          "code": "6853",
-          "name": "共和電",
-          "market": "東Ｓ",
-          "price": "776",
-          "change": "-14",
-          "changePercent": "-1.77%"
-        },
-        {
-          "code": "6823",
-          "name": "リオン",
-          "market": "東Ｐ",
-          "price": "3,560",
-          "change": "-65",
-          "changePercent": "-1.79%"
-        },
-        {
-          "code": "6923",
-          "name": "スタンレー",
-          "market": "東Ｐ",
-          "price": "3,610.0",
-          "change": "-68.0",
-          "changePercent": "-1.85%"
-        },
-        {
-          "code": "6594",
-          "name": "ニデック",
-          "market": "東Ｐ",
-          "price": "2,656",
-          "change": "-52",
-          "changePercent": "-1.92%"
-        },
-        {
-          "code": "6504",
-          "name": "富士電機",
-          "market": "東Ｐ",
-          "price": "13,215",
-          "change": "-265",
-          "changePercent": "-1.97%"
-        },
-        {
-          "code": "6743",
-          "name": "大同信",
-          "market": "東Ｓ",
-          "price": "819",
-          "change": "-17",
-          "changePercent": "-2.03%"
-        },
-        {
-          "code": "6837",
-          "name": "京写",
-          "market": "東Ｓ",
-          "price": "379",
-          "change": "-8",
-          "changePercent": "-2.07%"
-        },
-        {
-          "code": "6635",
-          "name": "大日光",
-          "market": "東Ｓ",
-          "price": "705",
-          "change": "-15",
-          "changePercent": "-2.08%"
-        },
-        {
-          "code": "6526",
-          "name": "ソシオネクス",
-          "market": "東Ｐ",
-          "price": "2,643.0",
-          "change": "-57.0",
-          "changePercent": "-2.11%"
-        },
-        {
-          "code": "6656",
-          "name": "インスペック",
-          "market": "東Ｓ",
-          "price": "1,336",
-          "change": "-29",
-          "changePercent": "-2.12%"
-        },
-        {
-          "code": "6651",
-          "name": "日東工",
-          "market": "東Ｐ",
-          "price": "4,555",
-          "change": "-100",
-          "changePercent": "-2.15%"
-        },
-        {
-          "code": "6771",
-          "name": "池上通",
-          "market": "東Ｓ",
-          "price": "636",
-          "change": "-14",
-          "changePercent": "-2.15%"
-        },
-        {
-          "code": "6629",
-          "name": "Ｔホライゾン",
-          "market": "東Ｓ",
-          "price": "998",
-          "change": "-22",
-          "changePercent": "-2.16%"
-        },
-        {
-          "code": "6845",
-          "name": "アズビル",
-          "market": "東Ｐ",
-          "price": "1,704.0",
-          "change": "-38.0",
-          "changePercent": "-2.18%"
-        },
-        {
-          "code": "6652",
-          "name": "ＩＤＥＣ",
-          "market": "東Ｐ",
-          "price": "3,325",
-          "change": "-75",
-          "changePercent": "-2.21%"
-        },
-        {
-          "code": "6663",
-          "name": "太洋テクノ",
-          "market": "東Ｓ",
-          "price": "308",
-          "change": "-7",
-          "changePercent": "-2.22%"
-        },
-        {
-          "code": "6699",
-          "name": "ダイヤＨＤ",
-          "market": "東Ｓ",
-          "price": "480",
-          "change": "-11",
-          "changePercent": "-2.24%"
-        },
-        {
-          "code": "6857",
-          "name": "アドテスト",
-          "market": "東Ｐ",
-          "price": "28,900",
-          "change": "-665",
-          "changePercent": "-2.25%"
-        },
-        {
-          "code": "6508",
-          "name": "明電舎",
-          "market": "東Ｐ",
-          "price": "9,290",
-          "change": "-220",
-          "changePercent": "-2.31%"
-        },
-        {
-          "code": "6737",
-          "name": "ＥＩＺＯ",
-          "market": "東Ｐ",
-          "price": "2,542",
-          "change": "-61",
-          "changePercent": "-2.34%"
-        },
-        {
-          "code": "6798",
-          "name": "ＳＭＫ",
-          "market": "東Ｐ",
-          "price": "2,922",
-          "change": "-72",
-          "changePercent": "-2.40%"
-        },
-        {
-          "code": "6832",
-          "name": "アオイ電子",
-          "market": "東Ｓ",
-          "price": "2,550",
-          "change": "-64",
-          "changePercent": "-2.45%"
-        },
-        {
-          "code": "6643",
-          "name": "戸上電",
-          "market": "東Ｓ",
-          "price": "5,450",
-          "change": "-140",
-          "changePercent": "-2.50%"
-        },
-        {
-          "code": "6677",
-          "name": "エスケーエレ",
-          "market": "東Ｓ",
-          "price": "3,435",
-          "change": "-90",
-          "changePercent": "-2.55%"
-        },
-        {
-          "code": "6728",
-          "name": "アルバック",
-          "market": "東Ｐ",
-          "price": "9,519",
-          "change": "-249",
-          "changePercent": "-2.55%"
-        },
-        {
-          "code": "6905",
-          "name": "コーセル",
-          "market": "東Ｐ",
-          "price": "1,361",
-          "change": "-36",
-          "changePercent": "-2.58%"
-        },
-        {
-          "code": "6928",
-          "name": "エノモト",
-          "market": "東Ｓ",
-          "price": "2,823",
-          "change": "-77",
-          "changePercent": "-2.66%"
-        },
-        {
-          "code": "6674",
-          "name": "ＧＳユアサ",
-          "market": "東Ｐ",
-          "price": "6,475",
-          "change": "-181",
-          "changePercent": "-2.72%"
-        },
-        {
-          "code": "6925",
-          "name": "ウシオ電",
-          "market": "東Ｐ",
-          "price": "4,368",
-          "change": "-124",
-          "changePercent": "-2.76%"
-        },
-        {
-          "code": "6998",
-          "name": "タングス",
-          "market": "東Ｓ",
-          "price": "1,985",
-          "change": "-57",
-          "changePercent": "-2.79%"
-        },
-        {
-          "code": "6623",
-          "name": "愛電機",
-          "market": "名Ｐ",
-          "price": "9,040",
-          "change": "-260",
-          "changePercent": "-2.80%"
-        },
-        {
-          "code": "6479",
-          "name": "ミネベア",
-          "market": "東Ｐ",
-          "price": "4,372",
-          "change": "-128",
-          "changePercent": "-2.84%"
-        },
-        {
-          "code": "6745",
-          "name": "ホーチキ",
-          "market": "東Ｐ",
-          "price": "2,067",
-          "change": "-62",
-          "changePercent": "-2.91%"
-        },
-        {
-          "code": "7280",
-          "name": "ミツバ",
-          "market": "東Ｐ",
-          "price": "1,203",
-          "change": "-37",
-          "changePercent": "-2.98%"
+          "price": "1,076",
+          "change": "-2",
+          "changePercent": "-0.19%"
         },
         {
           "code": "6870",
           "name": "フェンオール",
           "market": "東Ｓ",
-          "price": "2,565",
-          "change": "-79",
-          "changePercent": "-2.99%"
+          "price": "2,560",
+          "change": "-5",
+          "changePercent": "-0.19%"
         },
         {
-          "code": "6875",
-          "name": "メガチップス",
+          "code": "6718",
+          "name": "アイホン",
           "market": "東Ｐ",
-          "price": "10,380",
-          "change": "-320",
-          "changePercent": "-2.99%"
+          "price": "2,766",
+          "change": "-7",
+          "changePercent": "-0.25%"
         },
         {
-          "code": "6770",
-          "name": "アルプスアル",
+          "code": "6798",
+          "name": "ＳＭＫ",
           "market": "東Ｐ",
-          "price": "2,032.5",
-          "change": "-66.0",
-          "changePercent": "-3.15%"
+          "price": "2,914",
+          "change": "-8",
+          "changePercent": "-0.27%"
         },
         {
-          "code": "6858",
-          "name": "小野測器",
+          "code": "6964",
+          "name": "サンコー",
           "market": "東Ｓ",
-          "price": "873",
+          "price": "680",
+          "change": "-2",
+          "changePercent": "-0.29%"
+        },
+        {
+          "code": "6915",
+          "name": "千代田インテ",
+          "market": "東Ｓ",
+          "price": "3,235",
+          "change": "-10",
+          "changePercent": "-0.31%"
+        },
+        {
+          "code": "6863",
+          "name": "ニレコ",
+          "market": "東Ｓ",
+          "price": "2,746",
+          "change": "-9",
+          "changePercent": "-0.33%"
+        },
+        {
+          "code": "6849",
+          "name": "日本光電",
+          "market": "東Ｐ",
+          "price": "1,517.0",
+          "change": "-5.5",
+          "changePercent": "-0.36%"
+        },
+        {
+          "code": "6741",
+          "name": "日本信号",
+          "market": "東Ｐ",
+          "price": "1,579",
+          "change": "-6",
+          "changePercent": "-0.38%"
+        },
+        {
+          "code": "6750",
+          "name": "エレコム",
+          "market": "東Ｐ",
+          "price": "1,793",
+          "change": "-7",
+          "changePercent": "-0.39%"
+        },
+        {
+          "code": "6894",
+          "name": "パルステック",
+          "market": "東Ｓ",
+          "price": "2,140",
+          "change": "-9",
+          "changePercent": "-0.42%"
+        },
+        {
+          "code": "7965",
+          "name": "象印",
+          "market": "東Ｐ",
+          "price": "1,418",
+          "change": "-6",
+          "changePercent": "-0.42%"
+        },
+        {
+          "code": "9880",
+          "name": "イノテック",
+          "market": "東Ｐ",
+          "price": "3,535",
+          "change": "-15",
+          "changePercent": "-0.42%"
+        },
+        {
+          "code": "6809",
+          "name": "ＴＯＡ",
+          "market": "東Ｐ",
+          "price": "1,633",
+          "change": "-7",
+          "changePercent": "-0.43%"
+        },
+        {
+          "code": "6651",
+          "name": "日東工",
+          "market": "東Ｐ",
+          "price": "4,535",
+          "change": "-20",
+          "changePercent": "-0.44%"
+        },
+        {
+          "code": "6662",
+          "name": "ユビテック",
+          "market": "東Ｓ",
+          "price": "216",
+          "change": "-1",
+          "changePercent": "-0.46%"
+        },
+        {
+          "code": "6951",
+          "name": "日電子",
+          "market": "東Ｐ",
+          "price": "7,149",
+          "change": "-38",
+          "changePercent": "-0.53%"
+        },
+        {
+          "code": "6963",
+          "name": "ローム",
+          "market": "東Ｐ",
+          "price": "5,332",
           "change": "-29",
-          "changePercent": "-3.22%"
+          "changePercent": "-0.54%"
         },
         {
-          "code": "6861",
-          "name": "キーエンス",
-          "market": "東Ｐ",
-          "price": "78,180",
-          "change": "-2,730",
-          "changePercent": "-3.37%"
-        },
-        {
-          "code": "6599",
-          "name": "エブレン",
+          "code": "6919",
+          "name": "ケル",
           "market": "東Ｓ",
-          "price": "3,130",
-          "change": "-110",
-          "changePercent": "-3.40%"
+          "price": "1,371",
+          "change": "-9",
+          "changePercent": "-0.65%"
         },
         {
-          "code": "6971",
-          "name": "京セラ",
+          "code": "7751",
+          "name": "キヤノン",
           "market": "東Ｐ",
-          "price": "3,741",
-          "change": "-133",
-          "changePercent": "-3.43%"
+          "price": "4,288",
+          "change": "-28",
+          "changePercent": "-0.65%"
+        },
+        {
+          "code": "6523",
+          "name": "ＰＨＣＨＤ",
+          "market": "東Ｐ",
+          "price": "1,053",
+          "change": "-7",
+          "changePercent": "-0.66%"
+        },
+        {
+          "code": "6658",
+          "name": "シライ電子",
+          "market": "東Ｓ",
+          "price": "444",
+          "change": "-3",
+          "changePercent": "-0.67%"
+        },
+        {
+          "code": "6788",
+          "name": "日本トリム",
+          "market": "東Ｐ",
+          "price": "4,480",
+          "change": "-30",
+          "changePercent": "-0.67%"
+        },
+        {
+          "code": "6647",
+          "name": "森尾電",
+          "market": "東Ｓ",
+          "price": "2,725",
+          "change": "-19",
+          "changePercent": "-0.69%"
+        },
+        {
+          "code": "6848",
+          "name": "東亜ＤＫＫ",
+          "market": "東Ｓ",
+          "price": "854",
+          "change": "-6",
+          "changePercent": "-0.70%"
+        },
+        {
+          "code": "6675",
+          "name": "サクサ",
+          "market": "東Ｓ",
+          "price": "1,951",
+          "change": "-14",
+          "changePercent": "-0.71%"
+        },
+        {
+          "code": "285A",
+          "name": "キオクシア",
+          "market": "東Ｐ",
+          "price": "71,870",
+          "change": "-530",
+          "changePercent": "-0.73%"
+        },
+        {
+          "code": "6727",
+          "name": "ワコム",
+          "market": "東Ｐ",
+          "price": "772",
+          "change": "-6",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "6853",
+          "name": "共和電",
+          "market": "東Ｓ",
+          "price": "770",
+          "change": "-6",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "6771",
+          "name": "池上通",
+          "market": "東Ｓ",
+          "price": "631",
+          "change": "-5",
+          "changePercent": "-0.79%"
+        },
+        {
+          "code": "6638",
+          "name": "ミマキエンジ",
+          "market": "東Ｐ",
+          "price": "1,971",
+          "change": "-17",
+          "changePercent": "-0.86%"
+        },
+        {
+          "code": "6836",
+          "name": "ぷらっと",
+          "market": "東Ｓ",
+          "price": "690",
+          "change": "-6",
+          "changePercent": "-0.86%"
+        },
+        {
+          "code": "6977",
+          "name": "抵抗器",
+          "market": "東Ｓ",
+          "price": "1,597",
+          "change": "-14",
+          "changePercent": "-0.87%"
+        },
+        {
+          "code": "6623",
+          "name": "愛電機",
+          "market": "名Ｐ",
+          "price": "8,960",
+          "change": "-80",
+          "changePercent": "-0.88%"
+        },
+        {
+          "code": "6615",
+          "name": "ＵＭＣエレ",
+          "market": "東Ｐ",
+          "price": "223",
+          "change": "-2",
+          "changePercent": "-0.89%"
+        },
+        {
+          "code": "6276",
+          "name": "シリウスＶ",
+          "market": "東Ｓ",
+          "price": "314",
+          "change": "-3",
+          "changePercent": "-0.95%"
+        },
+        {
+          "code": "6758",
+          "name": "ソニーＧ",
+          "market": "東Ｐ",
+          "price": "3,468.0",
+          "change": "-34.0",
+          "changePercent": "-0.97%"
+        },
+        {
+          "code": "6676",
+          "name": "ＢＵＦ",
+          "market": "東Ｓ",
+          "price": "2,550",
+          "change": "-26",
+          "changePercent": "-1.01%"
+        },
+        {
+          "code": "6837",
+          "name": "京写",
+          "market": "東Ｓ",
+          "price": "375",
+          "change": "-4",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "6998",
+          "name": "タングス",
+          "market": "東Ｓ",
+          "price": "1,964",
+          "change": "-21",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "6807",
+          "name": "航空電子",
+          "market": "東Ｐ",
+          "price": "2,315",
+          "change": "-25",
+          "changePercent": "-1.07%"
+        },
+        {
+          "code": "6743",
+          "name": "大同信",
+          "market": "東Ｓ",
+          "price": "810",
+          "change": "-9",
+          "changePercent": "-1.10%"
+        },
+        {
+          "code": "6754",
+          "name": "アンリツ",
+          "market": "東Ｐ",
+          "price": "4,011",
+          "change": "-45",
+          "changePercent": "-1.11%"
+        },
+        {
+          "code": "6702",
+          "name": "富士通",
+          "market": "東Ｐ",
+          "price": "3,354.0",
+          "change": "-38.0",
+          "changePercent": "-1.12%"
+        },
+        {
+          "code": "6479",
+          "name": "ミネベア",
+          "market": "東Ｐ",
+          "price": "4,321",
+          "change": "-51",
+          "changePercent": "-1.17%"
+        },
+        {
+          "code": "7735",
+          "name": "スクリン",
+          "market": "東Ｐ",
+          "price": "16,890",
+          "change": "-200",
+          "changePercent": "-1.17%"
+        },
+        {
+          "code": "6820",
+          "name": "アイコム",
+          "market": "東Ｐ",
+          "price": "3,180",
+          "change": "-40",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "4902",
+          "name": "コニカミノル",
+          "market": "東Ｐ",
+          "price": "582.0",
+          "change": "-7.4",
+          "changePercent": "-1.26%"
+        },
+        {
+          "code": "6634",
+          "name": "ＪＮグループ",
+          "market": "東Ｓ",
+          "price": "77",
+          "change": "-1",
+          "changePercent": "-1.28%"
+        },
+        {
+          "code": "6850",
+          "name": "チノー",
+          "market": "東Ｐ",
+          "price": "1,619",
+          "change": "-21",
+          "changePercent": "-1.28%"
+        },
+        {
+          "code": "6877",
+          "name": "ＯＢＡＲＡＧ",
+          "market": "東Ｓ",
+          "price": "6,030",
+          "change": "-80",
+          "changePercent": "-1.31%"
+        },
+        {
+          "code": "6958",
+          "name": "日本ＣＭＫ",
+          "market": "東Ｐ",
+          "price": "603",
+          "change": "-8",
+          "changePercent": "-1.31%"
+        },
+        {
+          "code": "6871",
+          "name": "日本マイクロ",
+          "market": "東Ｐ",
+          "price": "14,960",
+          "change": "-200",
+          "changePercent": "-1.32%"
         },
         {
           "code": "6806",
           "name": "ヒロセ電",
           "market": "東Ｐ",
-          "price": "27,490",
-          "change": "-980",
-          "changePercent": "-3.44%"
+          "price": "27,125",
+          "change": "-365",
+          "changePercent": "-1.33%"
+        },
+        {
+          "code": "6706",
+          "name": "電気興",
+          "market": "東Ｐ",
+          "price": "2,930",
+          "change": "-42",
+          "changePercent": "-1.41%"
+        },
+        {
+          "code": "6845",
+          "name": "アズビル",
+          "market": "東Ｐ",
+          "price": "1,680.0",
+          "change": "-24.0",
+          "changePercent": "-1.41%"
+        },
+        {
+          "code": "6927",
+          "name": "ヘリオスＴＨ",
+          "market": "東Ｓ",
+          "price": "931",
+          "change": "-14",
+          "changePercent": "-1.48%"
         },
         {
           "code": "6752",
           "name": "パナＨＤ",
           "market": "東Ｐ",
-          "price": "4,400",
-          "change": "-157",
-          "changePercent": "-3.45%"
+          "price": "4,333",
+          "change": "-67",
+          "changePercent": "-1.52%"
+        },
+        {
+          "code": "3856",
+          "name": "Ａバランス",
+          "market": "東Ｓ",
+          "price": "515",
+          "change": "-8",
+          "changePercent": "-1.53%"
+        },
+        {
+          "code": "6730",
+          "name": "アクセル",
+          "market": "東Ｓ",
+          "price": "1,160",
+          "change": "-18",
+          "changePercent": "-1.53%"
+        },
+        {
+          "code": "6785",
+          "name": "鈴木",
+          "market": "東Ｐ",
+          "price": "3,155",
+          "change": "-50",
+          "changePercent": "-1.56%"
+        },
+        {
+          "code": "6645",
+          "name": "オムロン",
+          "market": "東Ｐ",
+          "price": "5,719",
+          "change": "-91",
+          "changePercent": "-1.57%"
+        },
+        {
+          "code": "6448",
+          "name": "ブラザー",
+          "market": "東Ｐ",
+          "price": "3,673",
+          "change": "-59",
+          "changePercent": "-1.58%"
+        },
+        {
+          "code": "6905",
+          "name": "コーセル",
+          "market": "東Ｐ",
+          "price": "1,339",
+          "change": "-22",
+          "changePercent": "-1.62%"
+        },
+        {
+          "code": "6588",
+          "name": "東芝テック",
+          "market": "東Ｐ",
+          "price": "3,000",
+          "change": "-50",
+          "changePercent": "-1.64%"
+        },
+        {
+          "code": "6748",
+          "name": "星和電",
+          "market": "東Ｓ",
+          "price": "708",
+          "change": "-12",
+          "changePercent": "-1.67%"
+        },
+        {
+          "code": "6731",
+          "name": "ピクセラ",
+          "market": "東Ｓ",
+          "price": "116",
+          "change": "-2",
+          "changePercent": "-1.69%"
+        },
+        {
+          "code": "6526",
+          "name": "ソシオネクス",
+          "market": "東Ｐ",
+          "price": "2,597.5",
+          "change": "-45.5",
+          "changePercent": "-1.72%"
+        },
+        {
+          "code": "6723",
+          "name": "ルネサス",
+          "market": "東Ｐ",
+          "price": "4,662",
+          "change": "-82",
+          "changePercent": "-1.73%"
+        },
+        {
+          "code": "6814",
+          "name": "古野電",
+          "market": "東Ｐ",
+          "price": "6,190",
+          "change": "-110",
+          "changePercent": "-1.75%"
+        },
+        {
+          "code": "6762",
+          "name": "ＴＤＫ",
+          "market": "東Ｐ",
+          "price": "3,298.0",
+          "change": "-59.0",
+          "changePercent": "-1.76%"
+        },
+        {
+          "code": "6659",
+          "name": "メディアＬ",
+          "market": "東Ｓ",
+          "price": "55",
+          "change": "-1",
+          "changePercent": "-1.79%"
+        },
+        {
+          "code": "6800",
+          "name": "ヨコオ",
+          "market": "東Ｐ",
+          "price": "4,940",
+          "change": "-90",
+          "changePercent": "-1.79%"
+        },
+        {
+          "code": "6652",
+          "name": "ＩＤＥＣ",
+          "market": "東Ｐ",
+          "price": "3,265",
+          "change": "-60",
+          "changePercent": "-1.80%"
+        },
+        {
+          "code": "6823",
+          "name": "リオン",
+          "market": "東Ｐ",
+          "price": "3,495",
+          "change": "-65",
+          "changePercent": "-1.83%"
+        },
+        {
+          "code": "6724",
+          "name": "エプソン",
+          "market": "東Ｐ",
+          "price": "2,809.5",
+          "change": "-53.0",
+          "changePercent": "-1.85%"
+        },
+        {
+          "code": "6740",
+          "name": "Ｊディスプレ",
+          "market": "東Ｐ",
+          "price": "52",
+          "change": "-1",
+          "changePercent": "-1.89%"
+        },
+        {
+          "code": "6753",
+          "name": "シャープ",
+          "market": "東Ｐ",
+          "price": "643.3",
+          "change": "-12.5",
+          "changePercent": "-1.91%"
+        },
+        {
+          "code": "7244",
+          "name": "市光工",
+          "market": "東Ｐ",
+          "price": "511",
+          "change": "-10",
+          "changePercent": "-1.92%"
+        },
+        {
+          "code": "6663",
+          "name": "太洋テクノ",
+          "market": "東Ｓ",
+          "price": "302",
+          "change": "-6",
+          "changePercent": "-1.95%"
+        },
+        {
+          "code": "6592",
+          "name": "マブチ",
+          "market": "東Ｐ",
+          "price": "1,620.5",
+          "change": "-32.5",
+          "changePercent": "-1.97%"
+        },
+        {
+          "code": "6981",
+          "name": "村田製",
+          "market": "東Ｐ",
+          "price": "9,027",
+          "change": "-185",
+          "changePercent": "-2.01%"
+        },
+        {
+          "code": "6908",
+          "name": "イリソ電子",
+          "market": "東Ｐ",
+          "price": "2,831",
+          "change": "-59",
+          "changePercent": "-2.04%"
+        },
+        {
+          "code": "6517",
+          "name": "デンヨー",
+          "market": "東Ｐ",
+          "price": "3,525",
+          "change": "-75",
+          "changePercent": "-2.08%"
+        },
+        {
+          "code": "6912",
+          "name": "菊水ＨＤ",
+          "market": "東Ｓ",
+          "price": "1,962",
+          "change": "-42",
+          "changePercent": "-2.10%"
+        },
+        {
+          "code": "6653",
+          "name": "正興電",
+          "market": "東Ｐ",
+          "price": "2,224",
+          "change": "-49",
+          "changePercent": "-2.16%"
+        },
+        {
+          "code": "6965",
+          "name": "ホトニクス",
+          "market": "東Ｐ",
+          "price": "2,424.0",
+          "change": "-53.5",
+          "changePercent": "-2.16%"
+        },
+        {
+          "code": "6947",
+          "name": "図研",
+          "market": "東Ｐ",
+          "price": "4,720",
+          "change": "-105",
+          "changePercent": "-2.18%"
+        },
+        {
+          "code": "6644",
+          "name": "大崎電",
+          "market": "東Ｐ",
+          "price": "1,474",
+          "change": "-33",
+          "changePercent": "-2.19%"
+        },
+        {
+          "code": "6504",
+          "name": "富士電機",
+          "market": "東Ｐ",
+          "price": "12,920",
+          "change": "-295",
+          "changePercent": "-2.23%"
+        },
+        {
+          "code": "6867",
+          "name": "リーダー電子",
+          "market": "東Ｓ",
+          "price": "436",
+          "change": "-10",
+          "changePercent": "-2.24%"
+        },
+        {
+          "code": "6986",
+          "name": "双葉電",
+          "market": "東Ｐ",
+          "price": "567",
+          "change": "-13",
+          "changePercent": "-2.24%"
+        },
+        {
+          "code": "6874",
+          "name": "協立電機",
+          "market": "東Ｓ",
+          "price": "2,511",
+          "change": "-59",
+          "changePercent": "-2.30%"
+        },
+        {
+          "code": "6627",
+          "name": "テラプローブ",
+          "market": "東Ｓ",
+          "price": "11,730",
+          "change": "-280",
+          "changePercent": "-2.33%"
+        },
+        {
+          "code": "6971",
+          "name": "京セラ",
+          "market": "東Ｐ",
+          "price": "3,653",
+          "change": "-88",
+          "changePercent": "-2.35%"
+        },
+        {
+          "code": "6745",
+          "name": "ホーチキ",
+          "market": "東Ｐ",
+          "price": "2,018",
+          "change": "-49",
+          "changePercent": "-2.37%"
+        },
+        {
+          "code": "6817",
+          "name": "スミダコーポ",
+          "market": "東Ｐ",
+          "price": "1,341",
+          "change": "-33",
+          "changePercent": "-2.40%"
+        },
+        {
+          "code": "6810",
+          "name": "マクセル",
+          "market": "東Ｐ",
+          "price": "2,080",
+          "change": "-52",
+          "changePercent": "-2.44%"
+        },
+        {
+          "code": "6775",
+          "name": "ＴＢグループ",
+          "market": "東Ｓ",
+          "price": "119",
+          "change": "-3",
+          "changePercent": "-2.46%"
+        },
+        {
+          "code": "6590",
+          "name": "芝浦",
+          "market": "東Ｐ",
+          "price": "5,490",
+          "change": "-140",
+          "changePercent": "-2.49%"
+        },
+        {
+          "code": "6923",
+          "name": "スタンレー",
+          "market": "東Ｐ",
+          "price": "3,519.0",
+          "change": "-91.0",
+          "changePercent": "-2.52%"
+        },
+        {
+          "code": "6834",
+          "name": "精工技研",
+          "market": "東Ｓ",
+          "price": "22,760",
+          "change": "-590",
+          "changePercent": "-2.53%"
+        },
+        {
+          "code": "6505",
+          "name": "東洋電",
+          "market": "東Ｓ",
+          "price": "1,959",
+          "change": "-51",
+          "changePercent": "-2.54%"
+        },
+        {
+          "code": "6668",
+          "name": "ＡＤプラズマ",
+          "market": "東Ｓ",
+          "price": "3,245",
+          "change": "-85",
+          "changePercent": "-2.55%"
+        },
+        {
+          "code": "6744",
+          "name": "能美防災",
+          "market": "東Ｐ",
+          "price": "4,295",
+          "change": "-115",
+          "changePercent": "-2.61%"
+        },
+        {
+          "code": "6594",
+          "name": "ニデック",
+          "market": "東Ｐ",
+          "price": "2,583",
+          "change": "-73",
+          "changePercent": "-2.75%"
+        },
+        {
+          "code": "6643",
+          "name": "戸上電",
+          "market": "東Ｓ",
+          "price": "5,300",
+          "change": "-150",
+          "changePercent": "-2.75%"
+        },
+        {
+          "code": "6516",
+          "name": "山洋電",
+          "market": "東Ｐ",
+          "price": "5,940",
+          "change": "-170",
+          "changePercent": "-2.78%"
+        },
+        {
+          "code": "6882",
+          "name": "三社電機",
+          "market": "東Ｓ",
+          "price": "1,180",
+          "change": "-34",
+          "changePercent": "-2.80%"
+        },
+        {
+          "code": "6961",
+          "name": "エンプラス",
+          "market": "東Ｐ",
+          "price": "12,030",
+          "change": "-350",
+          "changePercent": "-2.83%"
+        },
+        {
+          "code": "6855",
+          "name": "電子材料",
+          "market": "東Ｓ",
+          "price": "6,770",
+          "change": "-200",
+          "changePercent": "-2.87%"
+        },
+        {
+          "code": "6599",
+          "name": "エブレン",
+          "market": "東Ｓ",
+          "price": "3,040",
+          "change": "-90",
+          "changePercent": "-2.88%"
+        },
+        {
+          "code": "6742",
+          "name": "京三",
+          "market": "東Ｐ",
+          "price": "866",
+          "change": "-26",
+          "changePercent": "-2.91%"
+        },
+        {
+          "code": "6803",
+          "name": "ティアック",
+          "market": "東Ｓ",
+          "price": "100",
+          "change": "-3",
+          "changePercent": "-2.91%"
+        },
+        {
+          "code": "7276",
+          "name": "小糸製",
+          "market": "東Ｐ",
+          "price": "2,541.5",
+          "change": "-77.0",
+          "changePercent": "-2.94%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 9063.79,
-          "changePercent": -0.4
-        },
         {
           "date": "20260625",
           "price": 9417.95,
@@ -10087,6 +10082,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 8839.94,
           "changePercent": -2.92
+        },
+        {
+          "date": "20260708",
+          "price": 8601.28,
+          "changePercent": -2.7
         }
       ]
     },
@@ -10094,225 +10094,89 @@ window.sectorData = {
       "id": "3700",
       "nameJa": "輸送用機器",
       "nameEn": "Transportation Equipment",
-      "price": 4764.81,
-      "change": "-2.16",
-      "changePercent": -0.05,
+      "price": 4661.21,
+      "change": "-103.60",
+      "changePercent": -2.17,
       "stocks": [
         {
-          "code": "543A",
-          "name": "ＡＲＣＨＩＯ",
-          "market": "東Ｐ",
-          "price": "309",
-          "change": "+13",
-          "changePercent": "+4.39%"
-        },
-        {
-          "code": "7214",
-          "name": "ＧＭＢ",
+          "code": "7292",
+          "name": "村上開明",
           "market": "東Ｓ",
-          "price": "1,089",
-          "change": "+40",
-          "changePercent": "+3.81%"
+          "price": "6,730",
+          "change": "+110",
+          "changePercent": "+1.66%"
         },
         {
-          "code": "7102",
-          "name": "日車両",
-          "market": "東Ｐ",
-          "price": "3,410",
-          "change": "+90",
-          "changePercent": "+2.71%"
-        },
-        {
-          "code": "7299",
-          "name": "フジオーゼ",
+          "code": "6982",
+          "name": "リード",
           "market": "東Ｓ",
-          "price": "1,778",
-          "change": "+42",
-          "changePercent": "+2.42%"
+          "price": "596",
+          "change": "+6",
+          "changePercent": "+1.02%"
         },
         {
           "code": "7254",
           "name": "ユニバンス",
           "market": "東Ｓ",
-          "price": "747",
-          "change": "+17",
-          "changePercent": "+2.33%"
+          "price": "754",
+          "change": "+7",
+          "changePercent": "+0.94%"
         },
         {
-          "code": "7217",
-          "name": "テイン",
+          "code": "7255",
+          "name": "桜井製",
           "market": "東Ｓ",
-          "price": "426",
-          "change": "+5",
-          "changePercent": "+1.19%"
-        },
-        {
-          "code": "7297",
-          "name": "カーメイト",
-          "market": "東Ｓ",
-          "price": "866",
-          "change": "+10",
-          "changePercent": "+1.17%"
-        },
-        {
-          "code": "7208",
-          "name": "カネミツ",
-          "market": "東Ｓ",
-          "price": "1,226",
-          "change": "+13",
-          "changePercent": "+1.07%"
+          "price": "473",
+          "change": "+3",
+          "changePercent": "+0.64%"
         },
         {
           "code": "7551",
           "name": "ウェッズ",
           "market": "東Ｓ",
-          "price": "689",
-          "change": "+7",
-          "changePercent": "+1.03%"
-        },
-        {
-          "code": "7294",
-          "name": "ヨロズ",
-          "market": "東Ｐ",
-          "price": "863",
-          "change": "+8",
-          "changePercent": "+0.94%"
-        },
-        {
-          "code": "7218",
-          "name": "田中精密",
-          "market": "東Ｓ",
-          "price": "1,004",
-          "change": "+9",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "7201",
-          "name": "日産自",
-          "market": "東Ｐ",
-          "price": "321.8",
-          "change": "+2.7",
-          "changePercent": "+0.85%"
-        },
-        {
-          "code": "7203",
-          "name": "トヨタ",
-          "market": "東Ｐ",
-          "price": "2,946.0",
-          "change": "+23.0",
-          "changePercent": "+0.79%"
-        },
-        {
-          "code": "7272",
-          "name": "ヤマハ発",
-          "market": "東Ｐ",
-          "price": "1,283.0",
-          "change": "+9.0",
-          "changePercent": "+0.71%"
-        },
-        {
-          "code": "7314",
-          "name": "小田原機器",
-          "market": "東Ｓ",
-          "price": "1,200",
-          "change": "+8",
-          "changePercent": "+0.67%"
-        },
-        {
-          "code": "7399",
-          "name": "ナンシン",
-          "market": "東Ｓ",
-          "price": "598",
-          "change": "+4",
-          "changePercent": "+0.67%"
-        },
-        {
-          "code": "5949",
-          "name": "ユニプレス",
-          "market": "東Ｐ",
-          "price": "1,278",
-          "change": "+8",
-          "changePercent": "+0.63%"
-        },
-        {
-          "code": "7226",
-          "name": "極東開発",
-          "market": "東Ｐ",
-          "price": "2,262",
-          "change": "+14",
-          "changePercent": "+0.62%"
-        },
-        {
-          "code": "7277",
-          "name": "ＴＢＫ",
-          "market": "東Ｓ",
-          "price": "328",
-          "change": "+2",
-          "changePercent": "+0.61%"
-        },
-        {
-          "code": "6455",
-          "name": "モリタＨＤ",
-          "market": "東Ｐ",
-          "price": "2,446",
-          "change": "+12",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "6995",
-          "name": "東海理",
-          "market": "東Ｐ",
-          "price": "3,105",
-          "change": "+15",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "7014",
-          "name": "名村造",
-          "market": "東Ｓ",
-          "price": "4,200",
-          "change": "+20",
-          "changePercent": "+0.48%"
-        },
-        {
-          "code": "7283",
-          "name": "愛三工",
-          "market": "東Ｐ",
-          "price": "2,378",
-          "change": "+7",
-          "changePercent": "+0.30%"
-        },
-        {
-          "code": "7235",
-          "name": "東ラヂ",
-          "market": "東Ｓ",
-          "price": "1,528",
+          "price": "692",
           "change": "+3",
-          "changePercent": "+0.20%"
+          "changePercent": "+0.44%"
+        },
+        {
+          "code": "7208",
+          "name": "カネミツ",
+          "market": "東Ｓ",
+          "price": "1,230",
+          "change": "+4",
+          "changePercent": "+0.33%"
+        },
+        {
+          "code": "7264",
+          "name": "ＭＵＲＯ",
+          "market": "東Ｓ",
+          "price": "1,326",
+          "change": "+3",
+          "changePercent": "+0.23%"
+        },
+        {
+          "code": "7122",
+          "name": "近畿車",
+          "market": "東Ｓ",
+          "price": "2,380",
+          "change": "+4",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "7284",
+          "name": "盟和産",
+          "market": "東Ｓ",
+          "price": "1,228",
+          "change": "+2",
+          "changePercent": "+0.16%"
         },
         {
           "code": "7219",
           "name": "ＨＫＳ",
           "market": "東Ｓ",
-          "price": "2,304",
-          "change": "+4",
-          "changePercent": "+0.17%"
-        },
-        {
-          "code": "7273",
-          "name": "イクヨ",
-          "market": "東Ｓ",
-          "price": "628",
+          "price": "2,305",
           "change": "+1",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "7259",
-          "name": "アイシン",
-          "market": "東Ｐ",
-          "price": "2,367.5",
-          "change": "+0.5",
-          "changePercent": "+0.02%"
+          "changePercent": "+0.04%"
         },
         {
           "code": "6042",
@@ -10323,42 +10187,18 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "7213",
-          "name": "レシップＨＤ",
+          "code": "7297",
+          "name": "カーメイト",
           "market": "東Ｓ",
-          "price": "620",
+          "price": "866",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "7215",
-          "name": "ファルテック",
+          "code": "7314",
+          "name": "小田原機器",
           "market": "東Ｓ",
-          "price": "420",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7242",
-          "name": "カヤバ",
-          "market": "東Ｐ",
-          "price": "4,185",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7255",
-          "name": "桜井製",
-          "market": "東Ｓ",
-          "price": "470",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7296",
-          "name": "ＦＣＣ",
-          "market": "東Ｐ",
-          "price": "3,525",
+          "price": "1,200",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -10371,404 +10211,559 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "7202",
-          "name": "いすゞ",
-          "market": "東Ｐ",
-          "price": "2,389.5",
-          "change": "-1.0",
-          "changePercent": "-0.04%"
-        },
-        {
-          "code": "7231",
-          "name": "トピー",
-          "market": "東Ｐ",
-          "price": "2,836",
-          "change": "-1",
-          "changePercent": "-0.04%"
-        },
-        {
-          "code": "7239",
-          "name": "タチエス",
-          "market": "東Ｐ",
-          "price": "2,171",
+          "code": "7227",
+          "name": "アスカ",
+          "market": "名Ｍ",
+          "price": "1,798",
           "change": "-2",
-          "changePercent": "-0.09%"
+          "changePercent": "-0.11%"
         },
         {
-          "code": "7271",
-          "name": "安永",
+          "code": "7273",
+          "name": "イクヨ",
           "market": "東Ｓ",
-          "price": "1,004",
+          "price": "627",
           "change": "-1",
-          "changePercent": "-0.10%"
+          "changePercent": "-0.16%"
         },
         {
-          "code": "7228",
-          "name": "デイトナ",
+          "code": "7399",
+          "name": "ナンシン",
           "market": "東Ｓ",
-          "price": "3,805",
-          "change": "-10",
-          "changePercent": "-0.26%"
-        },
-        {
-          "code": "6902",
-          "name": "デンソー",
-          "market": "東Ｐ",
-          "price": "1,985.0",
-          "change": "-7.0",
-          "changePercent": "-0.35%"
-        },
-        {
-          "code": "7264",
-          "name": "ＭＵＲＯ",
-          "market": "東Ｓ",
-          "price": "1,323",
-          "change": "-5",
-          "changePercent": "-0.38%"
-        },
-        {
-          "code": "7241",
-          "name": "フタバ",
-          "market": "東Ｐ",
-          "price": "996",
-          "change": "-4",
-          "changePercent": "-0.40%"
-        },
-        {
-          "code": "7313",
-          "name": "ＴＳテック",
-          "market": "東Ｐ",
-          "price": "1,777.0",
-          "change": "-8.0",
-          "changePercent": "-0.45%"
-        },
-        {
-          "code": "7122",
-          "name": "近畿車",
-          "market": "東Ｓ",
-          "price": "2,376",
-          "change": "-12",
-          "changePercent": "-0.50%"
-        },
-        {
-          "code": "7222",
-          "name": "日産車体",
-          "market": "東Ｓ",
-          "price": "951",
-          "change": "-5",
-          "changePercent": "-0.52%"
-        },
-        {
-          "code": "402A",
-          "name": "アクセルＨＤ",
-          "market": "東Ｇ",
-          "price": "559",
-          "change": "-3",
-          "changePercent": "-0.53%"
-        },
-        {
-          "code": "7247",
-          "name": "ミクニ",
-          "market": "東Ｓ",
-          "price": "368",
-          "change": "-2",
-          "changePercent": "-0.54%"
+          "price": "597",
+          "change": "-1",
+          "changePercent": "-0.17%"
         },
         {
           "code": "7266",
           "name": "今仙電機",
           "market": "東Ｓ",
-          "price": "902",
-          "change": "-5",
-          "changePercent": "-0.55%"
+          "price": "899",
+          "change": "-3",
+          "changePercent": "-0.33%"
         },
         {
-          "code": "7246",
-          "name": "プレス工",
+          "code": "7202",
+          "name": "いすゞ",
           "market": "東Ｐ",
-          "price": "814",
-          "change": "-5",
-          "changePercent": "-0.61%"
+          "price": "2,380.0",
+          "change": "-9.5",
+          "changePercent": "-0.40%"
         },
         {
-          "code": "7270",
-          "name": "ＳＵＢＡＲＵ",
+          "code": "543A",
+          "name": "ＡＲＣＨＩＯ",
           "market": "東Ｐ",
-          "price": "2,573.5",
-          "change": "-16.0",
-          "changePercent": "-0.62%"
-        },
-        {
-          "code": "7269",
-          "name": "スズキ",
-          "market": "東Ｐ",
-          "price": "2,129.5",
-          "change": "-15.0",
-          "changePercent": "-0.70%"
-        },
-        {
-          "code": "6982",
-          "name": "リード",
-          "market": "東Ｓ",
-          "price": "590",
-          "change": "-5",
-          "changePercent": "-0.84%"
-        },
-        {
-          "code": "7292",
-          "name": "村上開明",
-          "market": "東Ｓ",
-          "price": "6,620",
-          "change": "-60",
-          "changePercent": "-0.90%"
-        },
-        {
-          "code": "7211",
-          "name": "三菱自",
-          "market": "東Ｐ",
-          "price": "340.0",
-          "change": "-3.2",
-          "changePercent": "-0.93%"
-        },
-        {
-          "code": "7212",
-          "name": "エフテック",
-          "market": "東Ｓ",
-          "price": "673",
-          "change": "-7",
-          "changePercent": "-1.03%"
-        },
-        {
-          "code": "7291",
-          "name": "日本プラスト",
-          "market": "東Ｓ",
-          "price": "469",
-          "change": "-5",
-          "changePercent": "-1.05%"
-        },
-        {
-          "code": "7278",
-          "name": "エクセディ",
-          "market": "東Ｐ",
-          "price": "6,050",
-          "change": "-80",
-          "changePercent": "-1.31%"
-        },
-        {
-          "code": "7227",
-          "name": "アスカ",
-          "market": "名Ｍ",
-          "price": "1,800",
-          "change": "-24",
-          "changePercent": "-1.32%"
-        },
-        {
-          "code": "3116",
-          "name": "トヨタ紡織",
-          "market": "東Ｐ",
-          "price": "2,236.0",
-          "change": "-30.5",
-          "changePercent": "-1.35%"
-        },
-        {
-          "code": "7287",
-          "name": "日精機",
-          "market": "東Ｓ",
-          "price": "2,487",
-          "change": "-35",
-          "changePercent": "-1.39%"
-        },
-        {
-          "code": "7284",
-          "name": "盟和産",
-          "market": "東Ｓ",
-          "price": "1,226",
-          "change": "-21",
-          "changePercent": "-1.68%"
-        },
-        {
-          "code": "7261",
-          "name": "マツダ",
-          "market": "東Ｐ",
-          "price": "1,145.0",
-          "change": "-20.5",
-          "changePercent": "-1.76%"
-        },
-        {
-          "code": "7267",
-          "name": "ホンダ",
-          "market": "東Ｐ",
-          "price": "1,570.5",
-          "change": "-28.5",
-          "changePercent": "-1.78%"
-        },
-        {
-          "code": "7224",
-          "name": "新明和",
-          "market": "東Ｐ",
-          "price": "2,056",
-          "change": "-39",
-          "changePercent": "-1.86%"
-        },
-        {
-          "code": "7012",
-          "name": "川重",
-          "market": "東Ｐ",
-          "price": "2,938.0",
-          "change": "-65.0",
-          "changePercent": "-2.16%"
-        },
-        {
-          "code": "6018",
-          "name": "阪神燃",
-          "market": "東Ｓ",
-          "price": "5,870",
-          "change": "-130",
-          "changePercent": "-2.17%"
-        },
-        {
-          "code": "6493",
-          "name": "ＮＩＴＴＡＮ",
-          "market": "東Ｓ",
-          "price": "472",
-          "change": "-11",
-          "changePercent": "-2.28%"
-        },
-        {
-          "code": "7282",
-          "name": "豊田合",
-          "market": "東Ｐ",
-          "price": "5,167",
-          "change": "-124",
-          "changePercent": "-2.34%"
-        },
-        {
-          "code": "7309",
-          "name": "シマノ",
-          "market": "東Ｐ",
-          "price": "17,380",
-          "change": "-440",
-          "changePercent": "-2.47%"
+          "price": "307",
+          "change": "-2",
+          "changePercent": "-0.65%"
         },
         {
           "code": "7240",
           "name": "ＮＯＫ",
           "market": "東Ｐ",
-          "price": "2,911.0",
-          "change": "-81.0",
-          "changePercent": "-2.71%"
+          "price": "2,892.0",
+          "change": "-19.0",
+          "changePercent": "-0.65%"
         },
         {
-          "code": "7236",
-          "name": "ティラド",
-          "market": "東Ｐ",
-          "price": "1,512",
-          "change": "-46",
-          "changePercent": "-2.95%"
-        },
-        {
-          "code": "7256",
-          "name": "河西工",
+          "code": "7218",
+          "name": "田中精密",
           "market": "東Ｓ",
-          "price": "457",
-          "change": "-16",
-          "changePercent": "-3.38%"
+          "price": "997",
+          "change": "-7",
+          "changePercent": "-0.70%"
+        },
+        {
+          "code": "7294",
+          "name": "ヨロズ",
+          "market": "東Ｐ",
+          "price": "857",
+          "change": "-6",
+          "changePercent": "-0.70%"
+        },
+        {
+          "code": "7296",
+          "name": "ＦＣＣ",
+          "market": "東Ｐ",
+          "price": "3,500",
+          "change": "-25",
+          "changePercent": "-0.71%"
+        },
+        {
+          "code": "7102",
+          "name": "日車両",
+          "market": "東Ｐ",
+          "price": "3,385",
+          "change": "-25",
+          "changePercent": "-0.73%"
+        },
+        {
+          "code": "7291",
+          "name": "日本プラスト",
+          "market": "東Ｓ",
+          "price": "465",
+          "change": "-4",
+          "changePercent": "-0.85%"
+        },
+        {
+          "code": "7231",
+          "name": "トピー",
+          "market": "東Ｐ",
+          "price": "2,810",
+          "change": "-26",
+          "changePercent": "-0.92%"
+        },
+        {
+          "code": "7217",
+          "name": "テイン",
+          "market": "東Ｓ",
+          "price": "422",
+          "change": "-4",
+          "changePercent": "-0.94%"
+        },
+        {
+          "code": "6018",
+          "name": "阪神燃",
+          "market": "東Ｓ",
+          "price": "5,810",
+          "change": "-60",
+          "changePercent": "-1.02%"
+        },
+        {
+          "code": "7226",
+          "name": "極東開発",
+          "market": "東Ｐ",
+          "price": "2,239",
+          "change": "-23",
+          "changePercent": "-1.02%"
+        },
+        {
+          "code": "7242",
+          "name": "カヤバ",
+          "market": "東Ｐ",
+          "price": "4,140",
+          "change": "-45",
+          "changePercent": "-1.08%"
+        },
+        {
+          "code": "6455",
+          "name": "モリタＨＤ",
+          "market": "東Ｐ",
+          "price": "2,419",
+          "change": "-27",
+          "changePercent": "-1.10%"
+        },
+        {
+          "code": "7215",
+          "name": "ファルテック",
+          "market": "東Ｓ",
+          "price": "415",
+          "change": "-5",
+          "changePercent": "-1.19%"
+        },
+        {
+          "code": "7282",
+          "name": "豊田合",
+          "market": "東Ｐ",
+          "price": "5,100",
+          "change": "-67",
+          "changePercent": "-1.30%"
+        },
+        {
+          "code": "7228",
+          "name": "デイトナ",
+          "market": "東Ｓ",
+          "price": "3,755",
+          "change": "-50",
+          "changePercent": "-1.31%"
+        },
+        {
+          "code": "7239",
+          "name": "タチエス",
+          "market": "東Ｐ",
+          "price": "2,141",
+          "change": "-30",
+          "changePercent": "-1.38%"
+        },
+        {
+          "code": "3116",
+          "name": "トヨタ紡織",
+          "market": "東Ｐ",
+          "price": "2,204.0",
+          "change": "-32.0",
+          "changePercent": "-1.43%"
+        },
+        {
+          "code": "7211",
+          "name": "三菱自",
+          "market": "東Ｐ",
+          "price": "335.1",
+          "change": "-4.9",
+          "changePercent": "-1.44%"
+        },
+        {
+          "code": "7246",
+          "name": "プレス工",
+          "market": "東Ｐ",
+          "price": "802",
+          "change": "-12",
+          "changePercent": "-1.47%"
+        },
+        {
+          "code": "7309",
+          "name": "シマノ",
+          "market": "東Ｐ",
+          "price": "17,110",
+          "change": "-270",
+          "changePercent": "-1.55%"
+        },
+        {
+          "code": "7259",
+          "name": "アイシン",
+          "market": "東Ｐ",
+          "price": "2,330.0",
+          "change": "-37.5",
+          "changePercent": "-1.58%"
+        },
+        {
+          "code": "7247",
+          "name": "ミクニ",
+          "market": "東Ｓ",
+          "price": "362",
+          "change": "-6",
+          "changePercent": "-1.63%"
+        },
+        {
+          "code": "7313",
+          "name": "ＴＳテック",
+          "market": "東Ｐ",
+          "price": "1,748.0",
+          "change": "-29.0",
+          "changePercent": "-1.63%"
+        },
+        {
+          "code": "7278",
+          "name": "エクセディ",
+          "market": "東Ｐ",
+          "price": "5,950",
+          "change": "-100",
+          "changePercent": "-1.65%"
+        },
+        {
+          "code": "7235",
+          "name": "東ラヂ",
+          "market": "東Ｓ",
+          "price": "1,501",
+          "change": "-27",
+          "changePercent": "-1.77%"
         },
         {
           "code": "7238",
           "name": "ブレーキ",
           "market": "東Ｐ",
-          "price": "109",
-          "change": "-4",
-          "changePercent": "-3.54%"
+          "price": "107",
+          "change": "-2",
+          "changePercent": "-1.83%"
         },
         {
-          "code": "7220",
-          "name": "武蔵精密",
+          "code": "7261",
+          "name": "マツダ",
           "market": "東Ｐ",
-          "price": "3,705",
-          "change": "-150",
-          "changePercent": "-3.89%"
+          "price": "1,124.0",
+          "change": "-21.0",
+          "changePercent": "-1.83%"
         },
         {
-          "code": "6016",
-          "name": "ジャパンエン",
+          "code": "7277",
+          "name": "ＴＢＫ",
           "market": "東Ｓ",
-          "price": "8,830",
-          "change": "-360",
-          "changePercent": "-3.92%"
+          "price": "322",
+          "change": "-6",
+          "changePercent": "-1.83%"
         },
         {
-          "code": "7018",
-          "name": "内海造",
-          "market": "東Ｓ",
-          "price": "10,500",
-          "change": "-450",
-          "changePercent": "-4.11%"
-        },
-        {
-          "code": "6584",
-          "name": "三桜工",
+          "code": "5949",
+          "name": "ユニプレス",
           "market": "東Ｐ",
-          "price": "873",
-          "change": "-41",
-          "changePercent": "-4.49%"
+          "price": "1,254",
+          "change": "-24",
+          "changePercent": "-1.88%"
+        },
+        {
+          "code": "7270",
+          "name": "ＳＵＢＡＲＵ",
+          "market": "東Ｐ",
+          "price": "2,525.0",
+          "change": "-48.5",
+          "changePercent": "-1.88%"
+        },
+        {
+          "code": "7203",
+          "name": "トヨタ",
+          "market": "東Ｐ",
+          "price": "2,889.0",
+          "change": "-57.0",
+          "changePercent": "-1.93%"
+        },
+        {
+          "code": "7241",
+          "name": "フタバ",
+          "market": "東Ｐ",
+          "price": "976",
+          "change": "-20",
+          "changePercent": "-2.01%"
+        },
+        {
+          "code": "6902",
+          "name": "デンソー",
+          "market": "東Ｐ",
+          "price": "1,945.0",
+          "change": "-40.0",
+          "changePercent": "-2.02%"
         },
         {
           "code": "7279",
           "name": "ハイレックス",
           "market": "東Ｓ",
-          "price": "2,065",
-          "change": "-100",
-          "changePercent": "-4.62%"
+          "price": "2,023",
+          "change": "-42",
+          "changePercent": "-2.03%"
+        },
+        {
+          "code": "7283",
+          "name": "愛三工",
+          "market": "東Ｐ",
+          "price": "2,329",
+          "change": "-49",
+          "changePercent": "-2.06%"
+        },
+        {
+          "code": "7299",
+          "name": "フジオーゼ",
+          "market": "東Ｓ",
+          "price": "1,741",
+          "change": "-37",
+          "changePercent": "-2.08%"
+        },
+        {
+          "code": "6995",
+          "name": "東海理",
+          "market": "東Ｐ",
+          "price": "3,040",
+          "change": "-65",
+          "changePercent": "-2.09%"
+        },
+        {
+          "code": "7271",
+          "name": "安永",
+          "market": "東Ｓ",
+          "price": "983",
+          "change": "-21",
+          "changePercent": "-2.09%"
+        },
+        {
+          "code": "7214",
+          "name": "ＧＭＢ",
+          "market": "東Ｓ",
+          "price": "1,065",
+          "change": "-24",
+          "changePercent": "-2.20%"
+        },
+        {
+          "code": "6493",
+          "name": "ＮＩＴＴＡＮ",
+          "market": "東Ｓ",
+          "price": "461",
+          "change": "-11",
+          "changePercent": "-2.33%"
+        },
+        {
+          "code": "7222",
+          "name": "日産車体",
+          "market": "東Ｓ",
+          "price": "928",
+          "change": "-23",
+          "changePercent": "-2.42%"
+        },
+        {
+          "code": "7212",
+          "name": "エフテック",
+          "market": "東Ｓ",
+          "price": "656",
+          "change": "-17",
+          "changePercent": "-2.53%"
+        },
+        {
+          "code": "7272",
+          "name": "ヤマハ発",
+          "market": "東Ｐ",
+          "price": "1,249.5",
+          "change": "-33.5",
+          "changePercent": "-2.61%"
+        },
+        {
+          "code": "7201",
+          "name": "日産自",
+          "market": "東Ｐ",
+          "price": "313.1",
+          "change": "-8.7",
+          "changePercent": "-2.70%"
+        },
+        {
+          "code": "7287",
+          "name": "日精機",
+          "market": "東Ｓ",
+          "price": "2,419",
+          "change": "-68",
+          "changePercent": "-2.73%"
+        },
+        {
+          "code": "7224",
+          "name": "新明和",
+          "market": "東Ｐ",
+          "price": "1,997",
+          "change": "-59",
+          "changePercent": "-2.87%"
+        },
+        {
+          "code": "7267",
+          "name": "ホンダ",
+          "market": "東Ｐ",
+          "price": "1,525.0",
+          "change": "-45.5",
+          "changePercent": "-2.90%"
+        },
+        {
+          "code": "7213",
+          "name": "レシップＨＤ",
+          "market": "東Ｓ",
+          "price": "601",
+          "change": "-19",
+          "changePercent": "-3.06%"
+        },
+        {
+          "code": "7236",
+          "name": "ティラド",
+          "market": "東Ｐ",
+          "price": "1,464",
+          "change": "-48",
+          "changePercent": "-3.17%"
+        },
+        {
+          "code": "7269",
+          "name": "スズキ",
+          "market": "東Ｐ",
+          "price": "2,060.0",
+          "change": "-69.5",
+          "changePercent": "-3.26%"
+        },
+        {
+          "code": "6584",
+          "name": "三桜工",
+          "market": "東Ｐ",
+          "price": "843",
+          "change": "-30",
+          "changePercent": "-3.44%"
+        },
+        {
+          "code": "7012",
+          "name": "川重",
+          "market": "東Ｐ",
+          "price": "2,826.5",
+          "change": "-111.5",
+          "changePercent": "-3.80%"
         },
         {
           "code": "6023",
           "name": "ダイハツイン",
           "market": "東Ｓ",
-          "price": "2,745",
-          "change": "-135",
-          "changePercent": "-4.69%"
-        },
-        {
-          "code": "7318",
-          "name": "セレンＨＤ",
-          "market": "東Ｇ",
-          "price": "2,227",
-          "change": "-172",
-          "changePercent": "-7.17%"
-        },
-        {
-          "code": "7409",
-          "name": "エアロエッジ",
-          "market": "東Ｇ",
-          "price": "1,761",
-          "change": "-177",
-          "changePercent": "-9.13%"
+          "price": "2,637",
+          "change": "-108",
+          "changePercent": "-3.93%"
         },
         {
           "code": "7245",
           "name": "大同メ",
           "market": "東Ｐ",
-          "price": "1,517",
-          "change": "-244",
-          "changePercent": "-13.86%"
+          "price": "1,457",
+          "change": "-60",
+          "changePercent": "-3.96%"
+        },
+        {
+          "code": "6016",
+          "name": "ジャパンエン",
+          "market": "東Ｓ",
+          "price": "8,410",
+          "change": "-420",
+          "changePercent": "-4.76%"
+        },
+        {
+          "code": "7409",
+          "name": "エアロエッジ",
+          "market": "東Ｇ",
+          "price": "1,671",
+          "change": "-90",
+          "changePercent": "-5.11%"
+        },
+        {
+          "code": "7018",
+          "name": "内海造",
+          "market": "東Ｓ",
+          "price": "9,890",
+          "change": "-610",
+          "changePercent": "-5.81%"
+        },
+        {
+          "code": "7256",
+          "name": "河西工",
+          "market": "東Ｓ",
+          "price": "428",
+          "change": "-29",
+          "changePercent": "-6.35%"
+        },
+        {
+          "code": "7220",
+          "name": "武蔵精密",
+          "market": "東Ｐ",
+          "price": "3,465",
+          "change": "-240",
+          "changePercent": "-6.48%"
+        },
+        {
+          "code": "7014",
+          "name": "名村造",
+          "market": "東Ｓ",
+          "price": "3,890",
+          "change": "-310",
+          "changePercent": "-7.38%"
+        },
+        {
+          "code": "7318",
+          "name": "セレンＨＤ",
+          "market": "東Ｇ",
+          "price": "2,037",
+          "change": "-190",
+          "changePercent": "-8.53%"
+        },
+        {
+          "code": "402A",
+          "name": "アクセルＨＤ",
+          "market": "東Ｇ",
+          "price": "506",
+          "change": "-53",
+          "changePercent": "-9.48%"
         },
         {
           "code": "7265",
           "name": "エイケン工業",
           "market": "東Ｓ",
-          "price": "－",
+          "price": "3,815",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 4384.21,
-          "changePercent": -0.73
-        },
         {
           "date": "20260625",
           "price": 4410.76,
@@ -10813,6 +10808,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 4764.81,
           "changePercent": -0.05
+        },
+        {
+          "date": "20260708",
+          "price": 4661.21,
+          "changePercent": -2.17
         }
       ]
     },
@@ -10820,433 +10820,428 @@ window.sectorData = {
       "id": "3750",
       "nameJa": "精密機器",
       "nameEn": "Precision Instruments",
-      "price": 14224.98,
-      "change": "-66.40",
-      "changePercent": -0.46,
+      "price": 13646.26,
+      "change": "-578.72",
+      "changePercent": -4.07,
       "stocks": [
         {
-          "code": "218A",
-          "name": "リベラウェア",
-          "market": "東Ｇ",
-          "price": "1,226",
-          "change": "+93",
-          "changePercent": "+8.21%"
-        },
-        {
-          "code": "7774",
-          "name": "Ｊティッシュ",
-          "market": "東Ｇ",
-          "price": "656",
-          "change": "+17",
-          "changePercent": "+2.66%"
-        },
-        {
-          "code": "7733",
-          "name": "オリンパス",
+          "code": "8050",
+          "name": "セイコーＧ",
           "market": "東Ｐ",
-          "price": "1,790.0",
-          "change": "+26.0",
-          "changePercent": "+1.47%"
-        },
-        {
-          "code": "4543",
-          "name": "テルモ",
-          "market": "東Ｐ",
-          "price": "2,324.0",
-          "change": "+30.5",
-          "changePercent": "+1.33%"
-        },
-        {
-          "code": "7775",
-          "name": "大研医器",
-          "market": "東Ｓ",
-          "price": "424",
-          "change": "+4",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "5187",
-          "name": "クリエート",
-          "market": "東Ｓ",
-          "price": "1,120",
-          "change": "+9",
-          "changePercent": "+0.81%"
-        },
-        {
-          "code": "8086",
-          "name": "ニプロ",
-          "market": "東Ｐ",
-          "price": "1,565.0",
-          "change": "+12.5",
-          "changePercent": "+0.81%"
-        },
-        {
-          "code": "7749",
-          "name": "メディキット",
-          "market": "東Ｓ",
-          "price": "2,810",
-          "change": "+14",
-          "changePercent": "+0.50%"
-        },
-        {
-          "code": "7780",
-          "name": "メニコン",
-          "market": "東Ｐ",
-          "price": "1,710",
-          "change": "+8",
-          "changePercent": "+0.47%"
-        },
-        {
-          "code": "7741",
-          "name": "ＨＯＹＡ",
-          "market": "東Ｐ",
-          "price": "25,645",
-          "change": "+70",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "7777",
-          "name": "３ＤＭ",
-          "market": "東Ｇ",
-          "price": "380",
-          "change": "+1",
-          "changePercent": "+0.26%"
-        },
-        {
-          "code": "7702",
-          "name": "ＪＭＳ",
-          "market": "東Ｓ",
-          "price": "463",
-          "change": "+1",
-          "changePercent": "+0.22%"
-        },
-        {
-          "code": "7723",
-          "name": "愛時計",
-          "market": "東Ｐ",
-          "price": "3,010",
-          "change": "+5",
-          "changePercent": "+0.17%"
-        },
-        {
-          "code": "7979",
-          "name": "松風",
-          "market": "東Ｐ",
-          "price": "2,093",
-          "change": "-10",
-          "changePercent": "-0.48%"
+          "price": "7,370",
+          "change": "+100",
+          "changePercent": "+1.38%"
         },
         {
           "code": "7716",
           "name": "ナカニシ",
           "market": "東Ｓ",
-          "price": "2,972",
-          "change": "-15",
-          "changePercent": "-0.50%"
-        },
-        {
-          "code": "7600",
-          "name": "日本ＭＤＭ",
-          "market": "東Ｐ",
-          "price": "889",
-          "change": "-5",
-          "changePercent": "-0.56%"
-        },
-        {
-          "code": "7743",
-          "name": "シード",
-          "market": "東Ｓ",
-          "price": "514",
-          "change": "-3",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "7781",
-          "name": "平山",
-          "market": "東Ｓ",
-          "price": "795",
-          "change": "-5",
-          "changePercent": "-0.63%"
-        },
-        {
-          "code": "7769",
-          "name": "リズム",
-          "market": "東Ｐ",
-          "price": "3,840",
-          "change": "-30",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "7701",
-          "name": "島津",
-          "market": "東Ｐ",
-          "price": "4,068",
-          "change": "-33",
-          "changePercent": "-0.80%"
-        },
-        {
-          "code": "7747",
-          "name": "朝日インテク",
-          "market": "東Ｐ",
-          "price": "3,700",
-          "change": "-32",
-          "changePercent": "-0.86%"
-        },
-        {
-          "code": "255A",
-          "name": "ＧＬテクノ",
-          "market": "東Ｓ",
-          "price": "6,320",
-          "change": "-80",
-          "changePercent": "-1.25%"
-        },
-        {
-          "code": "7745",
-          "name": "Ａ＆Ｄホロン",
-          "market": "東Ｐ",
-          "price": "2,857",
-          "change": "-37",
-          "changePercent": "-1.28%"
-        },
-        {
-          "code": "7779",
-          "name": "サイバダイン",
-          "market": "東Ｇ",
-          "price": "231",
-          "change": "-3",
-          "changePercent": "-1.28%"
+          "price": "3,000",
+          "change": "+28",
+          "changePercent": "+0.94%"
         },
         {
           "code": "7782",
           "name": "シンシア",
           "market": "東Ｓ",
-          "price": "455",
-          "change": "-6",
-          "changePercent": "-1.30%"
+          "price": "457",
+          "change": "+2",
+          "changePercent": "+0.44%"
         },
         {
-          "code": "7722",
-          "name": "国際計測",
-          "market": "東Ｓ",
-          "price": "792",
-          "change": "-11",
-          "changePercent": "-1.37%"
-        },
-        {
-          "code": "7727",
-          "name": "オーバル",
-          "market": "東Ｓ",
-          "price": "759",
-          "change": "-11",
-          "changePercent": "-1.43%"
-        },
-        {
-          "code": "7744",
-          "name": "ノーリツ鋼機",
+          "code": "8086",
+          "name": "ニプロ",
           "market": "東Ｐ",
-          "price": "2,023",
-          "change": "-31",
-          "changePercent": "-1.51%"
+          "price": "1,569.5",
+          "change": "+4.5",
+          "changePercent": "+0.29%"
+        },
+        {
+          "code": "7749",
+          "name": "メディキット",
+          "market": "東Ｓ",
+          "price": "2,813",
+          "change": "+3",
+          "changePercent": "+0.11%"
         },
         {
           "code": "7707",
           "name": "ＰＳＳ",
           "market": "東Ｇ",
           "price": "194",
-          "change": "-3",
-          "changePercent": "-1.52%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "7740",
-          "name": "タムロン",
+          "code": "7745",
+          "name": "Ａ＆Ｄホロン",
           "market": "東Ｐ",
-          "price": "1,131",
-          "change": "-18",
-          "changePercent": "-1.57%"
+          "price": "2,853",
+          "change": "-4",
+          "changePercent": "-0.14%"
         },
         {
-          "code": "7771",
-          "name": "日本精密",
+          "code": "5187",
+          "name": "クリエート",
           "market": "東Ｓ",
-          "price": "306",
-          "change": "-5",
-          "changePercent": "-1.61%"
+          "price": "1,118",
+          "change": "-2",
+          "changePercent": "-0.18%"
+        },
+        {
+          "code": "7775",
+          "name": "大研医器",
+          "market": "東Ｓ",
+          "price": "423",
+          "change": "-1",
+          "changePercent": "-0.24%"
+        },
+        {
+          "code": "7722",
+          "name": "国際計測",
+          "market": "東Ｓ",
+          "price": "790",
+          "change": "-2",
+          "changePercent": "-0.25%"
+        },
+        {
+          "code": "7723",
+          "name": "愛時計",
+          "market": "東Ｐ",
+          "price": "2,995",
+          "change": "-15",
+          "changePercent": "-0.50%"
+        },
+        {
+          "code": "7781",
+          "name": "平山",
+          "market": "東Ｓ",
+          "price": "791",
+          "change": "-4",
+          "changePercent": "-0.50%"
+        },
+        {
+          "code": "7743",
+          "name": "シード",
+          "market": "東Ｓ",
+          "price": "511",
+          "change": "-3",
+          "changePercent": "-0.58%"
+        },
+        {
+          "code": "7747",
+          "name": "朝日インテク",
+          "market": "東Ｐ",
+          "price": "3,673.0",
+          "change": "-27.0",
+          "changePercent": "-0.73%"
+        },
+        {
+          "code": "7769",
+          "name": "リズム",
+          "market": "東Ｐ",
+          "price": "3,810",
+          "change": "-30",
+          "changePercent": "-0.78%"
         },
         {
           "code": "368A",
           "name": "北里",
           "market": "東Ｐ",
-          "price": "1,350",
-          "change": "-23",
-          "changePercent": "-1.68%"
-        },
-        {
-          "code": "7730",
-          "name": "マニー",
-          "market": "東Ｐ",
-          "price": "1,723",
-          "change": "-30",
-          "changePercent": "-1.71%"
-        },
-        {
-          "code": "7731",
-          "name": "ニコン",
-          "market": "東Ｐ",
-          "price": "2,182.0",
-          "change": "-56.0",
-          "changePercent": "-2.50%"
-        },
-        {
-          "code": "7713",
-          "name": "シグマ光機",
-          "market": "東Ｓ",
-          "price": "1,999",
-          "change": "-60",
-          "changePercent": "-2.91%"
-        },
-        {
-          "code": "7776",
-          "name": "セルシード",
-          "market": "東Ｇ",
-          "price": "222",
-          "change": "-7",
-          "changePercent": "-3.06%"
-        },
-        {
-          "code": "7746",
-          "name": "岡本硝子",
-          "market": "東Ｓ",
-          "price": "820",
-          "change": "-29",
-          "changePercent": "-3.42%"
-        },
-        {
-          "code": "7711",
-          "name": "助川電気",
-          "market": "東Ｓ",
-          "price": "4,965",
-          "change": "-185",
-          "changePercent": "-3.59%"
-        },
-        {
-          "code": "7719",
-          "name": "東京衡機",
-          "market": "東Ｓ",
-          "price": "427",
-          "change": "-19",
-          "changePercent": "-4.26%"
-        },
-        {
-          "code": "268A",
-          "name": "リガクＨＤ",
-          "market": "東Ｐ",
-          "price": "2,286",
-          "change": "-108",
-          "changePercent": "-4.51%"
-        },
-        {
-          "code": "7725",
-          "name": "インターアク",
-          "market": "東Ｐ",
-          "price": "1,701",
-          "change": "-92",
-          "changePercent": "-5.13%"
-        },
-        {
-          "code": "7734",
-          "name": "理計器",
-          "market": "東Ｐ",
-          "price": "3,525",
-          "change": "-195",
-          "changePercent": "-5.24%"
-        },
-        {
-          "code": "7709",
-          "name": "クボテック",
-          "market": "東Ｓ",
-          "price": "50",
-          "change": "-3",
-          "changePercent": "-5.66%"
-        },
-        {
-          "code": "7729",
-          "name": "東京精",
-          "market": "東Ｐ",
-          "price": "17,740",
-          "change": "-1,090",
-          "changePercent": "-5.79%"
-        },
-        {
-          "code": "6376",
-          "name": "日機装",
-          "market": "東Ｐ",
-          "price": "3,825",
-          "change": "-245",
-          "changePercent": "-6.02%"
-        },
-        {
-          "code": "278A",
-          "name": "テラドローン",
-          "market": "東Ｇ",
-          "price": "9,130",
-          "change": "-620",
-          "changePercent": "-6.36%"
-        },
-        {
-          "code": "7762",
-          "name": "シチズン",
-          "market": "東Ｐ",
-          "price": "2,223",
-          "change": "-172",
-          "changePercent": "-7.18%"
-        },
-        {
-          "code": "7721",
-          "name": "東京計器",
-          "market": "東Ｐ",
-          "price": "6,780",
-          "change": "-530",
-          "changePercent": "-7.25%"
+          "price": "1,339",
+          "change": "-11",
+          "changePercent": "-0.81%"
         },
         {
           "code": "7715",
           "name": "長野計器",
           "market": "東Ｐ",
-          "price": "3,895",
-          "change": "-310",
-          "changePercent": "-7.37%"
+          "price": "3,860",
+          "change": "-35",
+          "changePercent": "-0.90%"
         },
         {
-          "code": "8050",
-          "name": "セイコーＧ",
+          "code": "7730",
+          "name": "マニー",
           "market": "東Ｐ",
-          "price": "7,270",
-          "change": "-580",
-          "changePercent": "-7.39%"
+          "price": "1,707",
+          "change": "-16",
+          "changePercent": "-0.93%"
+        },
+        {
+          "code": "7762",
+          "name": "シチズン",
+          "market": "東Ｐ",
+          "price": "2,202",
+          "change": "-21",
+          "changePercent": "-0.94%"
+        },
+        {
+          "code": "7780",
+          "name": "メニコン",
+          "market": "東Ｐ",
+          "price": "1,691",
+          "change": "-19",
+          "changePercent": "-1.11%"
+        },
+        {
+          "code": "7733",
+          "name": "オリンパス",
+          "market": "東Ｐ",
+          "price": "1,770.0",
+          "change": "-20.0",
+          "changePercent": "-1.12%"
+        },
+        {
+          "code": "7600",
+          "name": "日本ＭＤＭ",
+          "market": "東Ｐ",
+          "price": "878",
+          "change": "-11",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "7702",
+          "name": "ＪＭＳ",
+          "market": "東Ｓ",
+          "price": "457",
+          "change": "-6",
+          "changePercent": "-1.30%"
+        },
+        {
+          "code": "7771",
+          "name": "日本精密",
+          "market": "東Ｓ",
+          "price": "302",
+          "change": "-4",
+          "changePercent": "-1.31%"
+        },
+        {
+          "code": "7744",
+          "name": "ノーリツ鋼機",
+          "market": "東Ｐ",
+          "price": "1,994",
+          "change": "-29",
+          "changePercent": "-1.43%"
+        },
+        {
+          "code": "7713",
+          "name": "シグマ光機",
+          "market": "東Ｓ",
+          "price": "1,970",
+          "change": "-29",
+          "changePercent": "-1.45%"
+        },
+        {
+          "code": "7727",
+          "name": "オーバル",
+          "market": "東Ｓ",
+          "price": "745",
+          "change": "-14",
+          "changePercent": "-1.84%"
+        },
+        {
+          "code": "7740",
+          "name": "タムロン",
+          "market": "東Ｐ",
+          "price": "1,110",
+          "change": "-21",
+          "changePercent": "-1.86%"
+        },
+        {
+          "code": "7979",
+          "name": "松風",
+          "market": "東Ｐ",
+          "price": "2,054",
+          "change": "-39",
+          "changePercent": "-1.86%"
+        },
+        {
+          "code": "7709",
+          "name": "クボテック",
+          "market": "東Ｓ",
+          "price": "49",
+          "change": "-1",
+          "changePercent": "-2.00%"
+        },
+        {
+          "code": "4543",
+          "name": "テルモ",
+          "market": "東Ｐ",
+          "price": "2,276.5",
+          "change": "-47.5",
+          "changePercent": "-2.04%"
+        },
+        {
+          "code": "7701",
+          "name": "島津",
+          "market": "東Ｐ",
+          "price": "3,984",
+          "change": "-84",
+          "changePercent": "-2.06%"
+        },
+        {
+          "code": "7729",
+          "name": "東京精",
+          "market": "東Ｐ",
+          "price": "17,330",
+          "change": "-410",
+          "changePercent": "-2.31%"
+        },
+        {
+          "code": "7711",
+          "name": "助川電気",
+          "market": "東Ｓ",
+          "price": "4,850",
+          "change": "-115",
+          "changePercent": "-2.32%"
+        },
+        {
+          "code": "7734",
+          "name": "理計器",
+          "market": "東Ｐ",
+          "price": "3,440",
+          "change": "-85",
+          "changePercent": "-2.41%"
+        },
+        {
+          "code": "6376",
+          "name": "日機装",
+          "market": "東Ｐ",
+          "price": "3,730",
+          "change": "-95",
+          "changePercent": "-2.48%"
+        },
+        {
+          "code": "7731",
+          "name": "ニコン",
+          "market": "東Ｐ",
+          "price": "2,126.0",
+          "change": "-56.0",
+          "changePercent": "-2.57%"
+        },
+        {
+          "code": "7719",
+          "name": "東京衡機",
+          "market": "東Ｓ",
+          "price": "412",
+          "change": "-15",
+          "changePercent": "-3.51%"
+        },
+        {
+          "code": "7776",
+          "name": "セルシード",
+          "market": "東Ｇ",
+          "price": "214",
+          "change": "-8",
+          "changePercent": "-3.60%"
+        },
+        {
+          "code": "7774",
+          "name": "Ｊティッシュ",
+          "market": "東Ｇ",
+          "price": "632",
+          "change": "-24",
+          "changePercent": "-3.66%"
         },
         {
           "code": "7760",
           "name": "ＩＭＶ",
           "market": "東Ｓ",
-          "price": "2,655",
-          "change": "-225",
-          "changePercent": "-7.81%"
+          "price": "2,555",
+          "change": "-100",
+          "changePercent": "-3.77%"
+        },
+        {
+          "code": "7721",
+          "name": "東京計器",
+          "market": "東Ｐ",
+          "price": "6,520",
+          "change": "-260",
+          "changePercent": "-3.83%"
+        },
+        {
+          "code": "7725",
+          "name": "インターアク",
+          "market": "東Ｐ",
+          "price": "1,635",
+          "change": "-66",
+          "changePercent": "-3.88%"
+        },
+        {
+          "code": "278A",
+          "name": "テラドローン",
+          "market": "東Ｇ",
+          "price": "8,750",
+          "change": "-380",
+          "changePercent": "-4.16%"
+        },
+        {
+          "code": "7746",
+          "name": "岡本硝子",
+          "market": "東Ｓ",
+          "price": "785",
+          "change": "-35",
+          "changePercent": "-4.27%"
+        },
+        {
+          "code": "268A",
+          "name": "リガクＨＤ",
+          "market": "東Ｐ",
+          "price": "2,173",
+          "change": "-113",
+          "changePercent": "-4.94%"
         },
         {
           "code": "7717",
           "name": "Ｖテク",
           "market": "東Ｐ",
-          "price": "6,920",
-          "change": "-910",
-          "changePercent": "-11.62%"
+          "price": "6,560",
+          "change": "-360",
+          "changePercent": "-5.20%"
+        },
+        {
+          "code": "7777",
+          "name": "３ＤＭ",
+          "market": "東Ｇ",
+          "price": "360",
+          "change": "-20",
+          "changePercent": "-5.26%"
+        },
+        {
+          "code": "7779",
+          "name": "サイバダイン",
+          "market": "東Ｇ",
+          "price": "218",
+          "change": "-13",
+          "changePercent": "-5.63%"
+        },
+        {
+          "code": "255A",
+          "name": "ＧＬテクノ",
+          "market": "東Ｓ",
+          "price": "5,940",
+          "change": "-380",
+          "changePercent": "-6.01%"
+        },
+        {
+          "code": "7741",
+          "name": "ＨＯＹＡ",
+          "market": "東Ｐ",
+          "price": "23,910",
+          "change": "-1,735",
+          "changePercent": "-6.77%"
+        },
+        {
+          "code": "218A",
+          "name": "リベラウェア",
+          "market": "東Ｇ",
+          "price": "1,080",
+          "change": "-146",
+          "changePercent": "-11.91%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 14223.52,
-          "changePercent": -0.11
-        },
         {
           "date": "20260625",
           "price": 14300.94,
@@ -11291,6 +11286,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 14224.98,
           "changePercent": -0.46
+        },
+        {
+          "date": "20260708",
+          "price": 13646.26,
+          "changePercent": -4.07
         }
       ]
     },
@@ -11298,471 +11298,295 @@ window.sectorData = {
       "id": "3800",
       "nameJa": "その他製品",
       "nameEn": "Other Products",
-      "price": 5842.93,
-      "change": "+32.86",
-      "changePercent": 0.57,
+      "price": 5783.52,
+      "change": "-59.41",
+      "changePercent": -1.02,
       "stocks": [
         {
-          "code": "8022",
-          "name": "ミズノ",
-          "market": "東Ｐ",
-          "price": "3,540",
-          "change": "+155",
-          "changePercent": "+4.58%"
-        },
-        {
-          "code": "7957",
-          "name": "フジコピアン",
+          "code": "7815",
+          "name": "東京ボード",
           "market": "東Ｓ",
-          "price": "1,879",
-          "change": "+69",
-          "changePercent": "+3.81%"
-        },
-        {
-          "code": "7790",
-          "name": "バルコス",
-          "market": "名Ｎ",
-          "price": "1,045",
-          "change": "+30",
-          "changePercent": "+2.96%"
-        },
-        {
-          "code": "7963",
-          "name": "興研",
-          "market": "東Ｓ",
-          "price": "1,799",
-          "change": "+43",
-          "changePercent": "+2.45%"
-        },
-        {
-          "code": "7803",
-          "name": "ブシロード",
-          "market": "東Ｇ",
-          "price": "323",
-          "change": "+7",
-          "changePercent": "+2.22%"
-        },
-        {
-          "code": "7818",
-          "name": "トランザク",
-          "market": "東Ｐ",
-          "price": "1,412",
-          "change": "+30",
-          "changePercent": "+2.17%"
+          "price": "446",
+          "change": "+80",
+          "changePercent": "+21.86%"
         },
         {
           "code": "7921",
           "name": "宝＆ＣＯ",
           "market": "東Ｐ",
-          "price": "3,325",
-          "change": "+70",
-          "changePercent": "+2.15%"
-        },
-        {
-          "code": "7832",
-          "name": "バンナムＨＤ",
-          "market": "東Ｐ",
-          "price": "4,078",
-          "change": "+71",
-          "changePercent": "+1.77%"
-        },
-        {
-          "code": "7840",
-          "name": "フラベッドＨ",
-          "market": "東Ｐ",
-          "price": "1,260",
-          "change": "+21",
-          "changePercent": "+1.69%"
-        },
-        {
-          "code": "7974",
-          "name": "任天堂",
-          "market": "東Ｐ",
-          "price": "7,148",
-          "change": "+115",
-          "changePercent": "+1.64%"
-        },
-        {
-          "code": "7868",
-          "name": "広済堂ＨＤ",
-          "market": "東Ｐ",
-          "price": "565",
-          "change": "+9",
-          "changePercent": "+1.62%"
+          "price": "3,925",
+          "change": "+600",
+          "changePercent": "+18.05%"
         },
         {
           "code": "7902",
           "name": "ソノコム",
           "market": "東Ｓ",
-          "price": "1,100",
-          "change": "+15",
-          "changePercent": "+1.38%"
+          "price": "1,130",
+          "change": "+30",
+          "changePercent": "+2.73%"
         },
         {
-          "code": "7997",
-          "name": "くろ工",
+          "code": "7837",
+          "name": "アールシー",
           "market": "東Ｓ",
-          "price": "1,039",
-          "change": "+13",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "7938",
-          "name": "リーガル",
-          "market": "東Ｓ",
-          "price": "2,109",
-          "change": "+26",
-          "changePercent": "+1.25%"
-        },
-        {
-          "code": "7856",
-          "name": "萩原工業",
-          "market": "東Ｐ",
-          "price": "1,766",
-          "change": "+21",
-          "changePercent": "+1.20%"
-        },
-        {
-          "code": "7962",
-          "name": "キングジム",
-          "market": "東Ｐ",
-          "price": "776",
-          "change": "+9",
-          "changePercent": "+1.17%"
-        },
-        {
-          "code": "7955",
-          "name": "クリナップ",
-          "market": "東Ｐ",
-          "price": "956",
-          "change": "+11",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "7833",
-          "name": "アイフィス",
-          "market": "東Ｓ",
-          "price": "643",
+          "price": "326",
           "change": "+7",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "7879",
-          "name": "ノダ",
-          "market": "東Ｓ",
-          "price": "663",
-          "change": "+7",
-          "changePercent": "+1.07%"
-        },
-        {
-          "code": "7893",
-          "name": "プロネクサス",
-          "market": "東Ｐ",
-          "price": "1,111",
-          "change": "+10",
-          "changePercent": "+0.91%"
-        },
-        {
-          "code": "7821",
-          "name": "前田工繊",
-          "market": "東Ｐ",
-          "price": "1,900",
-          "change": "+17",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "7819",
-          "name": "粧美堂",
-          "market": "東Ｓ",
-          "price": "911",
-          "change": "+8",
-          "changePercent": "+0.89%"
-        },
-        {
-          "code": "7980",
-          "name": "重松製",
-          "market": "東Ｓ",
-          "price": "819",
-          "change": "+7",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "7811",
-          "name": "中本パックス",
-          "market": "東Ｓ",
-          "price": "1,982",
-          "change": "+15",
-          "changePercent": "+0.76%"
-        },
-        {
-          "code": "7972",
-          "name": "イトーキ",
-          "market": "東Ｐ",
-          "price": "2,853",
-          "change": "+19",
-          "changePercent": "+0.67%"
-        },
-        {
-          "code": "7906",
-          "name": "ヨネックス",
-          "market": "東Ｓ",
-          "price": "2,465",
-          "change": "+16",
-          "changePercent": "+0.65%"
-        },
-        {
-          "code": "7807",
-          "name": "幸和製",
-          "market": "東Ｓ",
-          "price": "818",
-          "change": "+5",
-          "changePercent": "+0.62%"
-        },
-        {
-          "code": "7867",
-          "name": "タカラトミー",
-          "market": "東Ｐ",
-          "price": "3,266.0",
-          "change": "+19.0",
-          "changePercent": "+0.59%"
-        },
-        {
-          "code": "7823",
-          "name": "アトネイチャ",
-          "market": "東Ｓ",
-          "price": "860",
-          "change": "+5",
-          "changePercent": "+0.58%"
-        },
-        {
-          "code": "7919",
-          "name": "野崎紙",
-          "market": "東Ｓ",
-          "price": "194",
-          "change": "+1",
-          "changePercent": "+0.52%"
-        },
-        {
-          "code": "7984",
-          "name": "コクヨ",
-          "market": "東Ｐ",
-          "price": "849.0",
-          "change": "+4.3",
-          "changePercent": "+0.51%"
-        },
-        {
-          "code": "7937",
-          "name": "ツツミ",
-          "market": "東Ｓ",
-          "price": "2,619",
-          "change": "+13",
-          "changePercent": "+0.50%"
-        },
-        {
-          "code": "7839",
-          "name": "ＳＨＯＥＩ",
-          "market": "東Ｐ",
-          "price": "1,828",
-          "change": "+9",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "7912",
-          "name": "大日印",
-          "market": "東Ｐ",
-          "price": "3,151.0",
-          "change": "+15.0",
-          "changePercent": "+0.48%"
-        },
-        {
-          "code": "7822",
-          "name": "永大産業",
-          "market": "東Ｓ",
-          "price": "240",
-          "change": "+1",
-          "changePercent": "+0.42%"
-        },
-        {
-          "code": "7792",
-          "name": "コラントッテ",
-          "market": "東Ｇ",
-          "price": "1,477",
-          "change": "+6",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "7896",
-          "name": "セブン工業",
-          "market": "東Ｓ",
-          "price": "505",
-          "change": "+2",
-          "changePercent": "+0.40%"
-        },
-        {
-          "code": "7987",
-          "name": "ナカバヤシ",
-          "market": "東Ｓ",
-          "price": "566",
-          "change": "+2",
-          "changePercent": "+0.35%"
-        },
-        {
-          "code": "7981",
-          "name": "タカラスタ",
-          "market": "東Ｐ",
-          "price": "3,125",
-          "change": "+10",
-          "changePercent": "+0.32%"
-        },
-        {
-          "code": "7949",
-          "name": "小松ウオール",
-          "market": "東Ｐ",
-          "price": "2,632",
-          "change": "+8",
-          "changePercent": "+0.30%"
-        },
-        {
-          "code": "7986",
-          "name": "日本ＩＳＫ",
-          "market": "東Ｓ",
-          "price": "1,886",
-          "change": "+5",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "7887",
-          "name": "南プラ",
-          "market": "東Ｓ",
-          "price": "1,524",
-          "change": "+4",
-          "changePercent": "+0.26%"
-        },
-        {
-          "code": "7809",
-          "name": "寿屋",
-          "market": "東Ｓ",
-          "price": "1,328",
-          "change": "+3",
-          "changePercent": "+0.23%"
-        },
-        {
-          "code": "7808",
-          "name": "ＣＳランバー",
-          "market": "東Ｓ",
-          "price": "2,560",
-          "change": "+5",
-          "changePercent": "+0.20%"
-        },
-        {
-          "code": "7939",
-          "name": "研創",
-          "market": "東Ｓ",
-          "price": "585",
-          "change": "+1",
-          "changePercent": "+0.17%"
-        },
-        {
-          "code": "7806",
-          "name": "ＭＴＧ",
-          "market": "東Ｇ",
-          "price": "8,150",
-          "change": "+10",
-          "changePercent": "+0.12%"
-        },
-        {
-          "code": "1518",
-          "name": "三井松島ＨＤ",
-          "market": "東Ｐ",
-          "price": "1,558",
-          "change": "+1",
-          "changePercent": "+0.06%"
-        },
-        {
-          "code": "7791",
-          "name": "ドリムベッド",
-          "market": "東Ｓ",
-          "price": "824",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7793",
-          "name": "イメージＭ",
-          "market": "東Ｇ",
-          "price": "1,350",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7804",
-          "name": "Ｂ＆Ｐ",
-          "market": "東Ｓ",
-          "price": "2,255",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7815",
-          "name": "東京ボード",
-          "market": "東Ｓ",
-          "price": "366",
-          "change": "0",
-          "changePercent": "0.00%"
+          "changePercent": "+2.19%"
         },
         {
           "code": "7846",
           "name": "パイロット",
           "market": "東Ｐ",
-          "price": "1,742.5",
-          "change": "0.0",
-          "changePercent": "0.00%"
+          "price": "1,771.5",
+          "change": "+29.0",
+          "changePercent": "+1.66%"
         },
         {
-          "code": "7870",
-          "name": "福島印刷",
-          "market": "名Ｍ",
-          "price": "390",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7872",
-          "name": "エステール",
+          "code": "7879",
+          "name": "ノダ",
           "market": "東Ｓ",
-          "price": "604",
-          "change": "0",
-          "changePercent": "0.00%"
+          "price": "673",
+          "change": "+10",
+          "changePercent": "+1.51%"
         },
         {
-          "code": "7897",
-          "name": "ホクシン",
+          "code": "7800",
+          "name": "アミファ",
+          "market": "東Ｓ",
+          "price": "915",
+          "change": "+13",
+          "changePercent": "+1.44%"
+        },
+        {
+          "code": "7914",
+          "name": "共同印",
+          "market": "東Ｐ",
+          "price": "1,610",
+          "change": "+21",
+          "changePercent": "+1.32%"
+        },
+        {
+          "code": "7992",
+          "name": "セーラー",
           "market": "東Ｓ",
           "price": "103",
-          "change": "0",
-          "changePercent": "0.00%"
+          "change": "+1",
+          "changePercent": "+0.98%"
+        },
+        {
+          "code": "7823",
+          "name": "アトネイチャ",
+          "market": "東Ｓ",
+          "price": "868",
+          "change": "+8",
+          "changePercent": "+0.93%"
+        },
+        {
+          "code": "7867",
+          "name": "タカラトミー",
+          "market": "東Ｐ",
+          "price": "3,294.0",
+          "change": "+28.0",
+          "changePercent": "+0.86%"
+        },
+        {
+          "code": "7805",
+          "name": "プリントＮ",
+          "market": "東Ｓ",
+          "price": "765",
+          "change": "+6",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "7896",
+          "name": "セブン工業",
+          "market": "東Ｓ",
+          "price": "509",
+          "change": "+4",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "7808",
+          "name": "ＣＳランバー",
+          "market": "東Ｓ",
+          "price": "2,580",
+          "change": "+20",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "7791",
+          "name": "ドリムベッド",
+          "market": "東Ｓ",
+          "price": "830",
+          "change": "+6",
+          "changePercent": "+0.73%"
+        },
+        {
+          "code": "7976",
+          "name": "菱鉛筆",
+          "market": "東Ｐ",
+          "price": "2,734",
+          "change": "+19",
+          "changePercent": "+0.70%"
         },
         {
           "code": "7898",
           "name": "ウッドワン",
           "market": "東Ｓ",
-          "price": "884",
-          "change": "0",
-          "changePercent": "0.00%"
+          "price": "889",
+          "change": "+5",
+          "changePercent": "+0.57%"
         },
         {
-          "code": "7951",
-          "name": "ヤマハ",
+          "code": "7939",
+          "name": "研創",
+          "market": "東Ｓ",
+          "price": "588",
+          "change": "+3",
+          "changePercent": "+0.51%"
+        },
+        {
+          "code": "7984",
+          "name": "コクヨ",
           "market": "東Ｐ",
-          "price": "1,188.0",
-          "change": "0.0",
-          "changePercent": "0.00%"
+          "price": "852.9",
+          "change": "+3.9",
+          "changePercent": "+0.46%"
+        },
+        {
+          "code": "8022",
+          "name": "ミズノ",
+          "market": "東Ｐ",
+          "price": "3,555",
+          "change": "+15",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "7864",
+          "name": "フジシール",
+          "market": "東Ｐ",
+          "price": "2,964",
+          "change": "+12",
+          "changePercent": "+0.41%"
+        },
+        {
+          "code": "7937",
+          "name": "ツツミ",
+          "market": "東Ｓ",
+          "price": "2,629",
+          "change": "+10",
+          "changePercent": "+0.38%"
+        },
+        {
+          "code": "7865",
+          "name": "ピープル",
+          "market": "東Ｓ",
+          "price": "335",
+          "change": "+1",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "7883",
+          "name": "サンメッセ",
+          "market": "東Ｓ",
+          "price": "391",
+          "change": "+1",
+          "changePercent": "+0.26%"
+        },
+        {
+          "code": "7953",
+          "name": "菊水化",
+          "market": "東Ｓ",
+          "price": "388",
+          "change": "+1",
+          "changePercent": "+0.26%"
+        },
+        {
+          "code": "7807",
+          "name": "幸和製",
+          "market": "東Ｓ",
+          "price": "820",
+          "change": "+2",
+          "changePercent": "+0.24%"
+        },
+        {
+          "code": "7956",
+          "name": "ピジョン",
+          "market": "東Ｐ",
+          "price": "2,092.0",
+          "change": "+4.5",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "7872",
+          "name": "エステール",
+          "market": "東Ｓ",
+          "price": "605",
+          "change": "+1",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "7972",
+          "name": "イトーキ",
+          "market": "東Ｐ",
+          "price": "2,857",
+          "change": "+4",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "7916",
+          "name": "光村印",
+          "market": "東Ｓ",
+          "price": "1,809",
+          "change": "+2",
+          "changePercent": "+0.11%"
+        },
+        {
+          "code": "7804",
+          "name": "Ｂ＆Ｐ",
+          "market": "東Ｓ",
+          "price": "2,257",
+          "change": "+2",
+          "changePercent": "+0.09%"
         },
         {
           "code": "7975",
           "name": "リヒトラブ",
           "market": "東Ｓ",
-          "price": "1,092",
+          "price": "1,093",
+          "change": "+1",
+          "changePercent": "+0.09%"
+        },
+        {
+          "code": "7994",
+          "name": "オカムラ",
+          "market": "東Ｐ",
+          "price": "2,269",
+          "change": "+2",
+          "changePercent": "+0.09%"
+        },
+        {
+          "code": "7795",
+          "name": "ＫＹＯＲＩＴ",
+          "market": "東Ｓ",
+          "price": "205",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "7831",
+          "name": "ウイルコＨＤ",
+          "market": "東Ｓ",
+          "price": "67",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "7836",
+          "name": "アビックス",
+          "market": "東Ｓ",
+          "price": "81",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -11771,374 +11595,550 @@ window.sectorData = {
           "name": "遠藤製作所",
           "market": "東Ｓ",
           "price": "1,090",
-          "change": "-1",
-          "changePercent": "-0.09%"
-        },
-        {
-          "code": "5962",
-          "name": "浅香工",
-          "market": "東Ｓ",
-          "price": "1,987",
-          "change": "-2",
-          "changePercent": "-0.10%"
-        },
-        {
-          "code": "7983",
-          "name": "ミロク",
-          "market": "東Ｓ",
-          "price": "1,046",
-          "change": "-1",
-          "changePercent": "-0.10%"
-        },
-        {
-          "code": "7850",
-          "name": "総合商研",
-          "market": "東Ｓ",
-          "price": "873",
-          "change": "-1",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "7805",
-          "name": "プリントＮ",
-          "market": "東Ｓ",
-          "price": "759",
-          "change": "-1",
-          "changePercent": "-0.13%"
-        },
-        {
-          "code": "7820",
-          "name": "ニホンフラ",
-          "market": "東Ｐ",
-          "price": "721",
-          "change": "-1",
-          "changePercent": "-0.14%"
-        },
-        {
-          "code": "7847",
-          "name": "グラファイト",
-          "market": "東Ｓ",
-          "price": "613",
-          "change": "-1",
-          "changePercent": "-0.16%"
-        },
-        {
-          "code": "7916",
-          "name": "光村印",
-          "market": "東Ｓ",
-          "price": "1,807",
-          "change": "-3",
-          "changePercent": "-0.17%"
-        },
-        {
-          "code": "168A",
-          "name": "イタミアート",
-          "market": "東Ｇ",
-          "price": "1,073",
-          "change": "-2",
-          "changePercent": "-0.19%"
-        },
-        {
-          "code": "7914",
-          "name": "共同印",
-          "market": "東Ｐ",
-          "price": "1,589",
-          "change": "-3",
-          "changePercent": "-0.19%"
-        },
-        {
-          "code": "7863",
-          "name": "平賀",
-          "market": "東Ｓ",
-          "price": "968",
-          "change": "-2",
-          "changePercent": "-0.21%"
-        },
-        {
-          "code": "7883",
-          "name": "サンメッセ",
-          "market": "東Ｓ",
-          "price": "390",
-          "change": "-1",
-          "changePercent": "-0.26%"
-        },
-        {
-          "code": "7953",
-          "name": "菊水化",
-          "market": "東Ｓ",
-          "price": "387",
-          "change": "-1",
-          "changePercent": "-0.26%"
-        },
-        {
-          "code": "7865",
-          "name": "ピープル",
-          "market": "東Ｓ",
-          "price": "334",
-          "change": "-1",
-          "changePercent": "-0.30%"
-        },
-        {
-          "code": "7976",
-          "name": "菱鉛筆",
-          "market": "東Ｐ",
-          "price": "2,715",
-          "change": "-9",
-          "changePercent": "-0.33%"
-        },
-        {
-          "code": "7885",
-          "name": "タカノ",
-          "market": "東Ｓ",
-          "price": "1,127",
-          "change": "-4",
-          "changePercent": "-0.35%"
-        },
-        {
-          "code": "7994",
-          "name": "オカムラ",
-          "market": "東Ｐ",
-          "price": "2,267",
-          "change": "-9",
-          "changePercent": "-0.40%"
-        },
-        {
-          "code": "7990",
-          "name": "グロブライド",
-          "market": "東Ｐ",
-          "price": "2,368",
-          "change": "-10",
-          "changePercent": "-0.42%"
-        },
-        {
-          "code": "7952",
-          "name": "河合楽",
-          "market": "東Ｐ",
-          "price": "3,285",
-          "change": "-15",
-          "changePercent": "-0.45%"
-        },
-        {
-          "code": "7795",
-          "name": "ＫＹＯＲＩＴ",
-          "market": "東Ｓ",
-          "price": "205",
-          "change": "-1",
-          "changePercent": "-0.49%"
-        },
-        {
-          "code": "7901",
-          "name": "マツモト",
-          "market": "東Ｓ",
-          "price": "793",
-          "change": "-4",
-          "changePercent": "-0.50%"
-        },
-        {
-          "code": "7812",
-          "name": "クレステック",
-          "market": "東Ｓ",
-          "price": "2,165",
-          "change": "-12",
-          "changePercent": "-0.55%"
-        },
-        {
-          "code": "7810",
-          "name": "クロスフォー",
-          "market": "東Ｓ",
-          "price": "160",
-          "change": "-1",
-          "changePercent": "-0.62%"
-        },
-        {
-          "code": "7837",
-          "name": "アールシー",
-          "market": "東Ｓ",
-          "price": "319",
-          "change": "-2",
-          "changePercent": "-0.62%"
-        },
-        {
-          "code": "7944",
-          "name": "ローランド",
-          "market": "東Ｐ",
-          "price": "4,220",
-          "change": "-35",
-          "changePercent": "-0.82%"
-        },
-        {
-          "code": "7859",
-          "name": "アルメディオ",
-          "market": "東Ｓ",
-          "price": "235",
-          "change": "-2",
-          "changePercent": "-0.84%"
-        },
-        {
-          "code": "7956",
-          "name": "ピジョン",
-          "market": "東Ｐ",
-          "price": "2,087.5",
-          "change": "-18.5",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "7936",
-          "name": "アシックス",
-          "market": "東Ｐ",
-          "price": "4,679",
-          "change": "-45",
-          "changePercent": "-0.95%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "7932",
           "name": "ニッピ",
           "market": "東Ｓ",
           "price": "12,230",
-          "change": "-120",
-          "changePercent": "-0.97%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "7992",
-          "name": "セーラー",
+          "code": "7840",
+          "name": "フラベッドＨ",
+          "market": "東Ｐ",
+          "price": "1,259",
+          "change": "-1",
+          "changePercent": "-0.08%"
+        },
+        {
+          "code": "7893",
+          "name": "プロネクサス",
+          "market": "東Ｐ",
+          "price": "1,110",
+          "change": "-1",
+          "changePercent": "-0.09%"
+        },
+        {
+          "code": "7833",
+          "name": "アイフィス",
+          "market": "東Ｓ",
+          "price": "642",
+          "change": "-1",
+          "changePercent": "-0.16%"
+        },
+        {
+          "code": "7987",
+          "name": "ナカバヤシ",
+          "market": "東Ｓ",
+          "price": "565",
+          "change": "-1",
+          "changePercent": "-0.18%"
+        },
+        {
+          "code": "7813",
+          "name": "プラッツ",
+          "market": "東Ｓ",
+          "price": "850",
+          "change": "-2",
+          "changePercent": "-0.23%"
+        },
+        {
+          "code": "7870",
+          "name": "福島印刷",
+          "market": "名Ｍ",
+          "price": "389",
+          "change": "-1",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "7986",
+          "name": "日本ＩＳＫ",
+          "market": "東Ｓ",
+          "price": "1,881",
+          "change": "-5",
+          "changePercent": "-0.27%"
+        },
+        {
+          "code": "7820",
+          "name": "ニホンフラ",
+          "market": "東Ｐ",
+          "price": "719",
+          "change": "-2",
+          "changePercent": "-0.28%"
+        },
+        {
+          "code": "7803",
+          "name": "ブシロード",
+          "market": "東Ｇ",
+          "price": "322",
+          "change": "-1",
+          "changePercent": "-0.31%"
+        },
+        {
+          "code": "7915",
+          "name": "ＮＩＳＳＨＡ",
+          "market": "東Ｐ",
+          "price": "1,305",
+          "change": "-4",
+          "changePercent": "-0.31%"
+        },
+        {
+          "code": "7856",
+          "name": "萩原工業",
+          "market": "東Ｐ",
+          "price": "1,760",
+          "change": "-6",
+          "changePercent": "-0.34%"
+        },
+        {
+          "code": "7912",
+          "name": "大日印",
+          "market": "東Ｐ",
+          "price": "3,140.0",
+          "change": "-11.0",
+          "changePercent": "-0.35%"
+        },
+        {
+          "code": "7938",
+          "name": "リーガル",
+          "market": "東Ｓ",
+          "price": "2,101",
+          "change": "-8",
+          "changePercent": "-0.38%"
+        },
+        {
+          "code": "7963",
+          "name": "興研",
+          "market": "東Ｓ",
+          "price": "1,791",
+          "change": "-8",
+          "changePercent": "-0.44%"
+        },
+        {
+          "code": "7847",
+          "name": "グラファイト",
+          "market": "東Ｓ",
+          "price": "610",
+          "change": "-3",
+          "changePercent": "-0.49%"
+        },
+        {
+          "code": "7919",
+          "name": "野崎紙",
+          "market": "東Ｓ",
+          "price": "193",
+          "change": "-1",
+          "changePercent": "-0.52%"
+        },
+        {
+          "code": "7809",
+          "name": "寿屋",
+          "market": "東Ｓ",
+          "price": "1,321",
+          "change": "-7",
+          "changePercent": "-0.53%"
+        },
+        {
+          "code": "7793",
+          "name": "イメージＭ",
+          "market": "東Ｇ",
+          "price": "1,342",
+          "change": "-8",
+          "changePercent": "-0.59%"
+        },
+        {
+          "code": "7806",
+          "name": "ＭＴＧ",
+          "market": "東Ｇ",
+          "price": "8,100",
+          "change": "-50",
+          "changePercent": "-0.61%"
+        },
+        {
+          "code": "7832",
+          "name": "バンナムＨＤ",
+          "market": "東Ｐ",
+          "price": "4,053",
+          "change": "-25",
+          "changePercent": "-0.61%"
+        },
+        {
+          "code": "7827",
+          "name": "オービス",
+          "market": "東Ｓ",
+          "price": "1,610",
+          "change": "-10",
+          "changePercent": "-0.62%"
+        },
+        {
+          "code": "7810",
+          "name": "クロスフォー",
+          "market": "東Ｓ",
+          "price": "159",
+          "change": "-1",
+          "changePercent": "-0.63%"
+        },
+        {
+          "code": "168A",
+          "name": "イタミアート",
+          "market": "東Ｇ",
+          "price": "1,066",
+          "change": "-7",
+          "changePercent": "-0.65%"
+        },
+        {
+          "code": "7812",
+          "name": "クレステック",
+          "market": "東Ｓ",
+          "price": "2,150",
+          "change": "-15",
+          "changePercent": "-0.69%"
+        },
+        {
+          "code": "7983",
+          "name": "ミロク",
+          "market": "東Ｓ",
+          "price": "1,038",
+          "change": "-8",
+          "changePercent": "-0.76%"
+        },
+        {
+          "code": "7839",
+          "name": "ＳＨＯＥＩ",
+          "market": "東Ｐ",
+          "price": "1,814",
+          "change": "-14",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "7875",
+          "name": "竹田ｉＰ",
+          "market": "東Ｓ",
+          "price": "849",
+          "change": "-7",
+          "changePercent": "-0.82%"
+        },
+        {
+          "code": "7822",
+          "name": "永大産業",
+          "market": "東Ｓ",
+          "price": "238",
+          "change": "-2",
+          "changePercent": "-0.83%"
+        },
+        {
+          "code": "7974",
+          "name": "任天堂",
+          "market": "東Ｐ",
+          "price": "7,085",
+          "change": "-63",
+          "changePercent": "-0.88%"
+        },
+        {
+          "code": "7962",
+          "name": "キングジム",
+          "market": "東Ｐ",
+          "price": "769",
+          "change": "-7",
+          "changePercent": "-0.90%"
+        },
+        {
+          "code": "1518",
+          "name": "三井松島ＨＤ",
+          "market": "東Ｐ",
+          "price": "1,543",
+          "change": "-15",
+          "changePercent": "-0.96%"
+        },
+        {
+          "code": "7897",
+          "name": "ホクシン",
           "market": "東Ｓ",
           "price": "102",
           "change": "-1",
           "changePercent": "-0.97%"
         },
         {
-          "code": "7864",
-          "name": "フジシール",
+          "code": "7850",
+          "name": "総合商研",
+          "market": "東Ｓ",
+          "price": "864",
+          "change": "-9",
+          "changePercent": "-1.03%"
+        },
+        {
+          "code": "7990",
+          "name": "グロブライド",
           "market": "東Ｐ",
-          "price": "2,952",
-          "change": "-34",
-          "changePercent": "-1.14%"
+          "price": "2,343",
+          "change": "-25",
+          "changePercent": "-1.06%"
         },
         {
-          "code": "7851",
-          "name": "カワセコンピ",
-          "market": "福証",
-          "price": "172",
-          "change": "-2",
-          "changePercent": "-1.15%"
-        },
-        {
-          "code": "7878",
-          "name": "光・彩",
+          "code": "7980",
+          "name": "重松製",
           "market": "東Ｓ",
-          "price": "1,628",
-          "change": "-19",
-          "changePercent": "-1.15%"
+          "price": "810",
+          "change": "-9",
+          "changePercent": "-1.10%"
         },
         {
-          "code": "7827",
-          "name": "オービス",
-          "market": "東Ｓ",
-          "price": "1,620",
-          "change": "-20",
-          "changePercent": "-1.22%"
-        },
-        {
-          "code": "7836",
-          "name": "アビックス",
-          "market": "東Ｓ",
-          "price": "81",
-          "change": "-1",
-          "changePercent": "-1.22%"
-        },
-        {
-          "code": "7911",
-          "name": "ＴＯＰＰＡＮ",
+          "code": "7818",
+          "name": "トランザク",
           "market": "東Ｐ",
-          "price": "5,357",
-          "change": "-68",
-          "changePercent": "-1.25%"
+          "price": "1,396",
+          "change": "-16",
+          "changePercent": "-1.13%"
         },
         {
           "code": "7814",
           "name": "日本創発Ｇ",
           "market": "東Ｓ",
-          "price": "612",
-          "change": "-8",
-          "changePercent": "-1.29%"
+          "price": "605",
+          "change": "-7",
+          "changePercent": "-1.14%"
         },
         {
-          "code": "7875",
-          "name": "竹田ｉＰ",
-          "market": "東Ｓ",
-          "price": "856",
-          "change": "-14",
-          "changePercent": "-1.61%"
-        },
-        {
-          "code": "429A",
-          "name": "テクセンド",
+          "code": "7949",
+          "name": "小松ウオール",
           "market": "東Ｐ",
-          "price": "4,470",
-          "change": "-80",
-          "changePercent": "-1.76%"
-        },
-        {
-          "code": "7915",
-          "name": "ＮＩＳＳＨＡ",
-          "market": "東Ｐ",
-          "price": "1,309",
-          "change": "-27",
-          "changePercent": "-2.02%"
-        },
-        {
-          "code": "7813",
-          "name": "プラッツ",
-          "market": "東Ｓ",
-          "price": "852",
-          "change": "-18",
-          "changePercent": "-2.07%"
-        },
-        {
-          "code": "7800",
-          "name": "アミファ",
-          "market": "東Ｓ",
-          "price": "902",
-          "change": "-20",
-          "changePercent": "-2.17%"
-        },
-        {
-          "code": "7831",
-          "name": "ウイルコＨＤ",
-          "market": "東Ｓ",
-          "price": "67",
-          "change": "-2",
-          "changePercent": "-2.90%"
-        },
-        {
-          "code": "7826",
-          "name": "フルヤ金属",
-          "market": "東Ｐ",
-          "price": "7,210",
-          "change": "-350",
-          "changePercent": "-4.63%"
-        },
-        {
-          "code": "7794",
-          "name": "ＥＤＰ",
-          "market": "東Ｇ",
-          "price": "1,109",
-          "change": "-65",
-          "changePercent": "-5.54%"
-        },
-        {
-          "code": "7966",
-          "name": "リンテック",
-          "market": "東Ｐ",
-          "price": "6,570",
-          "change": "-420",
-          "changePercent": "-6.01%"
+          "price": "2,601",
+          "change": "-31",
+          "changePercent": "-1.18%"
         },
         {
           "code": "7857",
           "name": "セキ",
           "market": "東Ｓ",
-          "price": "1,291",
+          "price": "1,275",
+          "change": "-16",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "7868",
+          "name": "広済堂ＨＤ",
+          "market": "東Ｐ",
+          "price": "558",
+          "change": "-7",
+          "changePercent": "-1.24%"
+        },
+        {
+          "code": "7997",
+          "name": "くろ工",
+          "market": "東Ｓ",
+          "price": "1,026",
+          "change": "-13",
+          "changePercent": "-1.25%"
+        },
+        {
+          "code": "7981",
+          "name": "タカラスタ",
+          "market": "東Ｐ",
+          "price": "3,080",
+          "change": "-45",
+          "changePercent": "-1.44%"
+        },
+        {
+          "code": "7955",
+          "name": "クリナップ",
+          "market": "東Ｐ",
+          "price": "942",
+          "change": "-14",
+          "changePercent": "-1.46%"
+        },
+        {
+          "code": "7811",
+          "name": "中本パックス",
+          "market": "東Ｓ",
+          "price": "1,951",
+          "change": "-31",
+          "changePercent": "-1.56%"
+        },
+        {
+          "code": "7906",
+          "name": "ヨネックス",
+          "market": "東Ｓ",
+          "price": "2,425",
+          "change": "-40",
+          "changePercent": "-1.62%"
+        },
+        {
+          "code": "7901",
+          "name": "マツモト",
+          "market": "東Ｓ",
+          "price": "780",
+          "change": "-13",
+          "changePercent": "-1.64%"
+        },
+        {
+          "code": "7951",
+          "name": "ヤマハ",
+          "market": "東Ｐ",
+          "price": "1,168.5",
+          "change": "-19.5",
+          "changePercent": "-1.64%"
+        },
+        {
+          "code": "7936",
+          "name": "アシックス",
+          "market": "東Ｐ",
+          "price": "4,600",
+          "change": "-79",
+          "changePercent": "-1.69%"
+        },
+        {
+          "code": "7790",
+          "name": "バルコス",
+          "market": "名Ｎ",
+          "price": "1,027",
+          "change": "-18",
+          "changePercent": "-1.72%"
+        },
+        {
+          "code": "7792",
+          "name": "コラントッテ",
+          "market": "東Ｇ",
+          "price": "1,449",
+          "change": "-28",
+          "changePercent": "-1.90%"
+        },
+        {
+          "code": "7966",
+          "name": "リンテック",
+          "market": "東Ｐ",
+          "price": "6,440",
+          "change": "-130",
+          "changePercent": "-1.98%"
+        },
+        {
+          "code": "7944",
+          "name": "ローランド",
+          "market": "東Ｐ",
+          "price": "4,135",
+          "change": "-85",
+          "changePercent": "-2.01%"
+        },
+        {
+          "code": "7885",
+          "name": "タカノ",
+          "market": "東Ｓ",
+          "price": "1,104",
+          "change": "-23",
+          "changePercent": "-2.04%"
+        },
+        {
+          "code": "7952",
+          "name": "河合楽",
+          "market": "東Ｐ",
+          "price": "3,215",
+          "change": "-70",
+          "changePercent": "-2.13%"
+        },
+        {
+          "code": "7794",
+          "name": "ＥＤＰ",
+          "market": "東Ｇ",
+          "price": "1,085",
+          "change": "-24",
+          "changePercent": "-2.16%"
+        },
+        {
+          "code": "7819",
+          "name": "粧美堂",
+          "market": "東Ｓ",
+          "price": "891",
+          "change": "-20",
+          "changePercent": "-2.20%"
+        },
+        {
+          "code": "7821",
+          "name": "前田工繊",
+          "market": "東Ｐ",
+          "price": "1,857",
+          "change": "-43",
+          "changePercent": "-2.26%"
+        },
+        {
+          "code": "7911",
+          "name": "ＴＯＰＰＡＮ",
+          "market": "東Ｐ",
+          "price": "5,231",
+          "change": "-126",
+          "changePercent": "-2.35%"
+        },
+        {
+          "code": "7887",
+          "name": "南プラ",
+          "market": "東Ｓ",
+          "price": "1,481",
+          "change": "-43",
+          "changePercent": "-2.82%"
+        },
+        {
+          "code": "7957",
+          "name": "フジコピアン",
+          "market": "東Ｓ",
+          "price": "1,817",
+          "change": "-62",
+          "changePercent": "-3.30%"
+        },
+        {
+          "code": "7826",
+          "name": "フルヤ金属",
+          "market": "東Ｐ",
+          "price": "6,940",
+          "change": "-270",
+          "changePercent": "-3.74%"
+        },
+        {
+          "code": "7859",
+          "name": "アルメディオ",
+          "market": "東Ｓ",
+          "price": "225",
+          "change": "-10",
+          "changePercent": "-4.26%"
+        },
+        {
+          "code": "7878",
+          "name": "光・彩",
+          "market": "東Ｓ",
+          "price": "1,552",
+          "change": "-76",
+          "changePercent": "-4.67%"
+        },
+        {
+          "code": "429A",
+          "name": "テクセンド",
+          "market": "東Ｐ",
+          "price": "4,240",
+          "change": "-230",
+          "changePercent": "-5.15%"
+        },
+        {
+          "code": "5962",
+          "name": "浅香工",
+          "market": "東Ｓ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "7851",
+          "name": "カワセコンピ",
+          "market": "福証",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "7863",
+          "name": "平賀",
+          "market": "東Ｓ",
+          "price": "－",
           "change": "－",
           "changePercent": "－%"
         },
@@ -12146,17 +12146,12 @@ window.sectorData = {
           "code": "7946",
           "name": "光陽社",
           "market": "名Ｍ",
-          "price": "－",
+          "price": "361",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 5498.02,
-          "changePercent": -0.06
-        },
         {
           "date": "20260625",
           "price": 5595.98,
@@ -12201,6 +12196,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 5842.93,
           "changePercent": 0.57
+        },
+        {
+          "date": "20260708",
+          "price": 5783.52,
+          "changePercent": -1.02
         }
       ]
     },
@@ -12208,121 +12208,129 @@ window.sectorData = {
       "id": "4050",
       "nameJa": "電気・ガス業",
       "nameEn": "Electric Power & Gas",
-      "price": 676.65,
-      "change": "+0.63",
-      "changePercent": 0.09,
+      "price": 677.62,
+      "change": "+0.97",
+      "changePercent": 0.14,
       "stocks": [
         {
-          "code": "9517",
-          "name": "イーレックス",
+          "code": "9501",
+          "name": "東電ＨＤ",
           "market": "東Ｐ",
-          "price": "790",
-          "change": "+20",
-          "changePercent": "+2.60%"
-        },
-        {
-          "code": "9539",
-          "name": "葉ガス",
-          "market": "東Ｓ",
-          "price": "1,500",
-          "change": "+34",
-          "changePercent": "+2.32%"
-        },
-        {
-          "code": "9535",
-          "name": "広ガス",
-          "market": "東Ｐ",
-          "price": "412",
-          "change": "+9",
-          "changePercent": "+2.23%"
+          "price": "479.9",
+          "change": "+17.6",
+          "changePercent": "+3.81%"
         },
         {
           "code": "9537",
           "name": "北陸ガス",
           "market": "東Ｓ",
-          "price": "4,290",
-          "change": "+90",
-          "changePercent": "+2.14%"
+          "price": "4,385",
+          "change": "+95",
+          "changePercent": "+2.21%"
         },
         {
-          "code": "9519",
-          "name": "レノバ",
+          "code": "9535",
+          "name": "広ガス",
           "market": "東Ｐ",
-          "price": "978",
-          "change": "+14",
-          "changePercent": "+1.45%"
-        },
-        {
-          "code": "9508",
-          "name": "九州電",
-          "market": "東Ｐ",
-          "price": "1,739.5",
-          "change": "+19.0",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "9502",
-          "name": "中部電",
-          "market": "東Ｐ",
-          "price": "3,234.0",
-          "change": "+34.0",
-          "changePercent": "+1.06%"
+          "price": "420",
+          "change": "+8",
+          "changePercent": "+1.94%"
         },
         {
           "code": "9536",
           "name": "西部ガスＨＤ",
           "market": "東Ｐ",
-          "price": "2,324",
-          "change": "+21",
-          "changePercent": "+0.91%"
-        },
-        {
-          "code": "9503",
-          "name": "関西電",
-          "market": "東Ｐ",
-          "price": "2,298.5",
-          "change": "+18.5",
-          "changePercent": "+0.81%"
-        },
-        {
-          "code": "9514",
-          "name": "エフオン",
-          "market": "東Ｓ",
-          "price": "323",
-          "change": "+2",
-          "changePercent": "+0.62%"
-        },
-        {
-          "code": "9511",
-          "name": "沖縄電",
-          "market": "東Ｐ",
-          "price": "917",
-          "change": "+5",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "9534",
-          "name": "北ガス",
-          "market": "東Ｐ",
-          "price": "761",
-          "change": "+4",
-          "changePercent": "+0.53%"
-        },
-        {
-          "code": "9532",
-          "name": "大ガス",
-          "market": "東Ｐ",
-          "price": "5,528",
-          "change": "+13",
-          "changePercent": "+0.24%"
+          "price": "2,356",
+          "change": "+32",
+          "changePercent": "+1.38%"
         },
         {
           "code": "9543",
           "name": "静ガス",
           "market": "東Ｐ",
-          "price": "1,230",
-          "change": "+3",
-          "changePercent": "+0.24%"
+          "price": "1,244",
+          "change": "+14",
+          "changePercent": "+1.14%"
+        },
+        {
+          "code": "9509",
+          "name": "北海電",
+          "market": "東Ｐ",
+          "price": "980.3",
+          "change": "+7.7",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "9505",
+          "name": "北陸電",
+          "market": "東Ｐ",
+          "price": "915.6",
+          "change": "+6.3",
+          "changePercent": "+0.69%"
+        },
+        {
+          "code": "9508",
+          "name": "九州電",
+          "market": "東Ｐ",
+          "price": "1,749.5",
+          "change": "+10.0",
+          "changePercent": "+0.57%"
+        },
+        {
+          "code": "9506",
+          "name": "東北電",
+          "market": "東Ｐ",
+          "price": "1,093.0",
+          "change": "+6.0",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "9531",
+          "name": "東ガス",
+          "market": "東Ｐ",
+          "price": "6,143",
+          "change": "+23",
+          "changePercent": "+0.38%"
+        },
+        {
+          "code": "3150",
+          "name": "グリムス",
+          "market": "東Ｐ",
+          "price": "2,522",
+          "change": "+8",
+          "changePercent": "+0.32%"
+        },
+        {
+          "code": "9534",
+          "name": "北ガス",
+          "market": "東Ｐ",
+          "price": "763",
+          "change": "+2",
+          "changePercent": "+0.26%"
+        },
+        {
+          "code": "9517",
+          "name": "イーレックス",
+          "market": "東Ｐ",
+          "price": "792",
+          "change": "+2",
+          "changePercent": "+0.25%"
+        },
+        {
+          "code": "9507",
+          "name": "四国電",
+          "market": "東Ｐ",
+          "price": "1,504.0",
+          "change": "+3.5",
+          "changePercent": "+0.23%"
+        },
+        {
+          "code": "9513",
+          "name": "Ｊパワー",
+          "market": "東Ｐ",
+          "price": "3,637.0",
+          "change": "+4.0",
+          "changePercent": "+0.11%"
         },
         {
           "code": "7692",
@@ -12333,108 +12341,100 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "3150",
-          "name": "グリムス",
+          "code": "9511",
+          "name": "沖縄電",
           "market": "東Ｐ",
-          "price": "2,514",
+          "price": "916",
           "change": "-1",
-          "changePercent": "-0.04%"
+          "changePercent": "-0.11%"
         },
         {
-          "code": "9507",
-          "name": "四国電",
+          "code": "9502",
+          "name": "中部電",
           "market": "東Ｐ",
-          "price": "1,500.5",
-          "change": "-7.0",
-          "changePercent": "-0.46%"
+          "price": "3,226.0",
+          "change": "-8.0",
+          "changePercent": "-0.25%"
         },
         {
-          "code": "9531",
-          "name": "東ガス",
+          "code": "9503",
+          "name": "関西電",
           "market": "東Ｐ",
-          "price": "6,120",
-          "change": "-36",
-          "changePercent": "-0.58%"
-        },
-        {
-          "code": "9504",
-          "name": "中国電",
-          "market": "東Ｐ",
-          "price": "939.8",
-          "change": "-7.3",
-          "changePercent": "-0.77%"
-        },
-        {
-          "code": "9505",
-          "name": "北陸電",
-          "market": "東Ｐ",
-          "price": "909.3",
-          "change": "-8.6",
-          "changePercent": "-0.94%"
-        },
-        {
-          "code": "9506",
-          "name": "東北電",
-          "market": "東Ｐ",
-          "price": "1,087.0",
-          "change": "-10.5",
-          "changePercent": "-0.96%"
-        },
-        {
-          "code": "9513",
-          "name": "Ｊパワー",
-          "market": "東Ｐ",
-          "price": "3,633.0",
-          "change": "-37.0",
-          "changePercent": "-1.01%"
-        },
-        {
-          "code": "9509",
-          "name": "北海電",
-          "market": "東Ｐ",
-          "price": "972.6",
-          "change": "-10.4",
-          "changePercent": "-1.06%"
-        },
-        {
-          "code": "9501",
-          "name": "東電ＨＤ",
-          "market": "東Ｐ",
-          "price": "462.3",
-          "change": "-6.5",
-          "changePercent": "-1.39%"
+          "price": "2,292.5",
+          "change": "-6.0",
+          "changePercent": "-0.26%"
         },
         {
           "code": "9533",
           "name": "邦ガス",
           "market": "東Ｐ",
-          "price": "1,235.5",
-          "change": "-19.0",
-          "changePercent": "-1.51%"
+          "price": "1,232.0",
+          "change": "-3.5",
+          "changePercent": "-0.28%"
         },
         {
-          "code": "9551",
-          "name": "メタウォータ",
+          "code": "9532",
+          "name": "大ガス",
           "market": "東Ｐ",
-          "price": "3,265",
-          "change": "-60",
-          "changePercent": "-1.80%"
+          "price": "5,493",
+          "change": "-35",
+          "changePercent": "-0.63%"
         },
         {
-          "code": "350A",
-          "name": "ＤＧ",
-          "market": "東Ｇ",
-          "price": "775",
-          "change": "-26",
-          "changePercent": "-3.25%"
+          "code": "9504",
+          "name": "中国電",
+          "market": "東Ｐ",
+          "price": "929.3",
+          "change": "-10.5",
+          "changePercent": "-1.12%"
+        },
+        {
+          "code": "9514",
+          "name": "エフオン",
+          "market": "東Ｓ",
+          "price": "318",
+          "change": "-5",
+          "changePercent": "-1.55%"
         },
         {
           "code": "7162",
           "name": "アストマクス",
           "market": "東Ｓ",
-          "price": "258",
-          "change": "-13",
-          "changePercent": "-4.80%"
+          "price": "253",
+          "change": "-5",
+          "changePercent": "-1.94%"
+        },
+        {
+          "code": "9539",
+          "name": "葉ガス",
+          "market": "東Ｓ",
+          "price": "1,470",
+          "change": "-30",
+          "changePercent": "-2.00%"
+        },
+        {
+          "code": "350A",
+          "name": "ＤＧ",
+          "market": "東Ｇ",
+          "price": "756",
+          "change": "-19",
+          "changePercent": "-2.45%"
+        },
+        {
+          "code": "9551",
+          "name": "メタウォータ",
+          "market": "東Ｐ",
+          "price": "3,180",
+          "change": "-85",
+          "changePercent": "-2.60%"
+        },
+        {
+          "code": "9519",
+          "name": "レノバ",
+          "market": "東Ｐ",
+          "price": "938",
+          "change": "-40",
+          "changePercent": "-4.09%"
         },
         {
           "code": "603A",
@@ -12446,11 +12446,6 @@ window.sectorData = {
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 656.35,
-          "changePercent": 0.04
-        },
         {
           "date": "20260625",
           "price": 661.49,
@@ -12495,6 +12490,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 676.65,
           "changePercent": 0.09
+        },
+        {
+          "date": "20260708",
+          "price": 677.62,
+          "changePercent": 0.14
         }
       ]
     },
@@ -12502,199 +12502,199 @@ window.sectorData = {
       "id": "5050",
       "nameJa": "陸運業",
       "nameEn": "Land Transportation",
-      "price": 2281.72,
-      "change": "+25.42",
-      "changePercent": 1.13,
+      "price": 2278.64,
+      "change": "-3.08",
+      "changePercent": -0.13,
       "stocks": [
         {
-          "code": "9022",
-          "name": "ＪＲ東海",
-          "market": "東Ｐ",
-          "price": "3,700.0",
-          "change": "+141.0",
-          "changePercent": "+3.96%"
+          "code": "9073",
+          "name": "京極運",
+          "market": "東Ｓ",
+          "price": "1,264",
+          "change": "+28",
+          "changePercent": "+2.27%"
         },
         {
-          "code": "9042",
-          "name": "阪急阪神",
+          "code": "2384",
+          "name": "ＳＢＳＨＤ",
           "market": "東Ｐ",
-          "price": "4,662",
-          "change": "+96",
-          "changePercent": "+2.10%"
+          "price": "4,300",
+          "change": "+95",
+          "changePercent": "+2.26%"
         },
         {
-          "code": "9081",
-          "name": "神奈交",
-          "market": "東Ｐ",
-          "price": "3,645",
+          "code": "9063",
+          "name": "岡県運送",
+          "market": "東Ｓ",
+          "price": "4,020",
           "change": "+75",
-          "changePercent": "+2.10%"
+          "changePercent": "+1.90%"
         },
         {
           "code": "9049",
           "name": "京福電",
           "market": "東Ｓ",
-          "price": "6,930",
-          "change": "+130",
-          "changePercent": "+1.91%"
+          "price": "7,040",
+          "change": "+110",
+          "changePercent": "+1.59%"
         },
         {
-          "code": "9005",
-          "name": "東急",
+          "code": "9042",
+          "name": "阪急阪神",
           "market": "東Ｐ",
-          "price": "1,738.0",
-          "change": "+30.0",
-          "changePercent": "+1.76%"
+          "price": "4,734",
+          "change": "+72",
+          "changePercent": "+1.54%"
         },
         {
-          "code": "9044",
-          "name": "ＮＡＮＫＡＩ",
+          "code": "9009",
+          "name": "京成",
           "market": "東Ｐ",
-          "price": "2,968.5",
-          "change": "+46.0",
-          "changePercent": "+1.57%"
+          "price": "1,250.0",
+          "change": "+15.5",
+          "changePercent": "+1.26%"
         },
         {
-          "code": "9020",
-          "name": "ＪＲ東日本",
-          "market": "東Ｐ",
-          "price": "3,554.0",
-          "change": "+52.0",
-          "changePercent": "+1.48%"
+          "code": "9083",
+          "name": "神姫バ",
+          "market": "東Ｓ",
+          "price": "1,944",
+          "change": "+24",
+          "changePercent": "+1.25%"
         },
         {
-          "code": "9021",
-          "name": "ＪＲ西日本",
-          "market": "東Ｐ",
-          "price": "2,912.0",
-          "change": "+42.5",
-          "changePercent": "+1.48%"
-        },
-        {
-          "code": "9003",
-          "name": "相鉄ＨＤ",
-          "market": "東Ｐ",
-          "price": "2,559.5",
-          "change": "+34.5",
-          "changePercent": "+1.37%"
-        },
-        {
-          "code": "9023",
-          "name": "東京メトロ",
-          "market": "東Ｐ",
-          "price": "1,483.0",
-          "change": "+17.5",
-          "changePercent": "+1.19%"
-        },
-        {
-          "code": "9045",
-          "name": "京阪ＨＤ",
-          "market": "東Ｐ",
-          "price": "3,247.0",
-          "change": "+37.0",
-          "changePercent": "+1.15%"
-        },
-        {
-          "code": "9007",
-          "name": "小田急",
-          "market": "東Ｐ",
-          "price": "1,715.5",
-          "change": "+18.5",
-          "changePercent": "+1.09%"
-        },
-        {
-          "code": "9069",
-          "name": "センコーＨＤ",
-          "market": "東Ｐ",
-          "price": "2,015.0",
-          "change": "+21.0",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "9052",
-          "name": "山陽電",
-          "market": "東Ｐ",
-          "price": "1,980",
-          "change": "+20",
-          "changePercent": "+1.02%"
-        },
-        {
-          "code": "9008",
-          "name": "京王",
-          "market": "東Ｐ",
-          "price": "762.1",
-          "change": "+6.8",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "9142",
-          "name": "ＪＲ九州",
-          "market": "東Ｐ",
-          "price": "3,631.0",
-          "change": "+31.0",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "9031",
-          "name": "西鉄",
-          "market": "東Ｐ",
-          "price": "2,986.0",
-          "change": "+22.5",
-          "changePercent": "+0.76%"
-        },
-        {
-          "code": "9040",
-          "name": "大宝運輸",
-          "market": "名Ｍ",
-          "price": "4,195",
-          "change": "+30",
-          "changePercent": "+0.72%"
-        },
-        {
-          "code": "9048",
-          "name": "名鉄",
-          "market": "東Ｐ",
-          "price": "1,871.5",
-          "change": "+7.5",
-          "changePercent": "+0.40%"
+          "code": "9085",
+          "name": "中バス",
+          "market": "札証",
+          "price": "5,790",
+          "change": "+70",
+          "changePercent": "+1.22%"
         },
         {
           "code": "9076",
           "name": "セイノーＨＤ",
           "market": "東Ｐ",
-          "price": "2,683.0",
-          "change": "+9.5",
-          "changePercent": "+0.36%"
+          "price": "2,706.0",
+          "change": "+23.0",
+          "changePercent": "+0.86%"
         },
         {
-          "code": "9006",
-          "name": "京急",
+          "code": "9010",
+          "name": "富士急",
           "market": "東Ｐ",
-          "price": "1,569.0",
-          "change": "+4.5",
-          "changePercent": "+0.29%"
+          "price": "2,530",
+          "change": "+20",
+          "changePercent": "+0.80%"
         },
         {
-          "code": "9028",
-          "name": "ゼロ",
+          "code": "9024",
+          "name": "西武ＨＤ",
+          "market": "東Ｐ",
+          "price": "3,600.0",
+          "change": "+26.0",
+          "changePercent": "+0.73%"
+        },
+        {
+          "code": "9031",
+          "name": "西鉄",
+          "market": "東Ｐ",
+          "price": "3,005.0",
+          "change": "+19.0",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "9048",
+          "name": "名鉄",
+          "market": "東Ｐ",
+          "price": "1,883.5",
+          "change": "+12.0",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "9023",
+          "name": "東京メトロ",
+          "market": "東Ｐ",
+          "price": "1,490.0",
+          "change": "+7.0",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "9052",
+          "name": "山陽電",
+          "market": "東Ｐ",
+          "price": "1,989",
+          "change": "+9",
+          "changePercent": "+0.45%"
+        },
+        {
+          "code": "9021",
+          "name": "ＪＲ西日本",
+          "market": "東Ｐ",
+          "price": "2,924.0",
+          "change": "+12.0",
+          "changePercent": "+0.41%"
+        },
+        {
+          "code": "9081",
+          "name": "神奈交",
+          "market": "東Ｐ",
+          "price": "3,660",
+          "change": "+15",
+          "changePercent": "+0.41%"
+        },
+        {
+          "code": "9034",
+          "name": "南総通運",
           "market": "東Ｓ",
-          "price": "3,680",
-          "change": "+10",
-          "changePercent": "+0.27%"
+          "price": "1,616",
+          "change": "+6",
+          "changePercent": "+0.37%"
+        },
+        {
+          "code": "9044",
+          "name": "ＮＡＮＫＡＩ",
+          "market": "東Ｐ",
+          "price": "2,979.5",
+          "change": "+11.0",
+          "changePercent": "+0.37%"
+        },
+        {
+          "code": "9045",
+          "name": "京阪ＨＤ",
+          "market": "東Ｐ",
+          "price": "3,259.0",
+          "change": "+12.0",
+          "changePercent": "+0.37%"
+        },
+        {
+          "code": "9033",
+          "name": "広電鉄",
+          "market": "東Ｓ",
+          "price": "629",
+          "change": "+2",
+          "changePercent": "+0.32%"
         },
         {
           "code": "9035",
           "name": "第一交通",
           "market": "福証",
-          "price": "733",
+          "price": "735",
           "change": "+2",
           "changePercent": "+0.27%"
+        },
+        {
+          "code": "9090",
+          "name": "ＡＺ丸和ＨＤ",
+          "market": "東Ｐ",
+          "price": "815",
+          "change": "+2",
+          "changePercent": "+0.25%"
         },
         {
           "code": "9143",
           "name": "ＳＧＨＤ",
           "market": "東Ｐ",
-          "price": "1,608.5",
+          "price": "1,612.5",
           "change": "+4.0",
           "changePercent": "+0.25%"
         },
@@ -12702,269 +12702,269 @@ window.sectorData = {
           "code": "9039",
           "name": "サカイ引越",
           "market": "東Ｐ",
-          "price": "2,919",
-          "change": "+7",
-          "changePercent": "+0.24%"
+          "price": "2,925",
+          "change": "+6",
+          "changePercent": "+0.21%"
+        },
+        {
+          "code": "9069",
+          "name": "センコーＨＤ",
+          "market": "東Ｐ",
+          "price": "2,018.0",
+          "change": "+3.0",
+          "changePercent": "+0.15%"
         },
         {
           "code": "9041",
           "name": "近鉄ＧＨＤ",
           "market": "東Ｐ",
-          "price": "3,486.0",
-          "change": "+7.0",
-          "changePercent": "+0.20%"
-        },
-        {
-          "code": "9001",
-          "name": "東武",
-          "market": "東Ｐ",
-          "price": "2,945.5",
-          "change": "+5.0",
-          "changePercent": "+0.17%"
-        },
-        {
-          "code": "9082",
-          "name": "大和自",
-          "market": "東Ｓ",
-          "price": "1,450",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "9034",
-          "name": "南総通運",
-          "market": "東Ｓ",
-          "price": "1,610",
-          "change": "-1",
-          "changePercent": "-0.06%"
-        },
-        {
-          "code": "9065",
-          "name": "山九",
-          "market": "東Ｐ",
-          "price": "8,825",
-          "change": "-6",
-          "changePercent": "-0.07%"
-        },
-        {
-          "code": "9063",
-          "name": "岡県運送",
-          "market": "東Ｓ",
-          "price": "3,945",
-          "change": "-10",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "9090",
-          "name": "ＡＺ丸和ＨＤ",
-          "market": "東Ｐ",
-          "price": "813",
-          "change": "-2",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "9075",
-          "name": "福山運",
-          "market": "東Ｐ",
-          "price": "5,750",
-          "change": "-20",
-          "changePercent": "-0.35%"
-        },
-        {
-          "code": "9024",
-          "name": "西武ＨＤ",
-          "market": "東Ｐ",
-          "price": "3,574.0",
-          "change": "-16.0",
-          "changePercent": "-0.45%"
-        },
-        {
-          "code": "9033",
-          "name": "広電鉄",
-          "market": "東Ｓ",
-          "price": "627",
-          "change": "-3",
-          "changePercent": "-0.48%"
-        },
-        {
-          "code": "9068",
-          "name": "丸全運",
-          "market": "東Ｐ",
-          "price": "7,480",
-          "change": "-40",
-          "changePercent": "-0.53%"
+          "price": "3,488.0",
+          "change": "+2.0",
+          "changePercent": "+0.06%"
         },
         {
           "code": "9017",
           "name": "新潟交",
           "market": "東Ｓ",
-          "price": "1,985",
-          "change": "-11",
-          "changePercent": "-0.55%"
+          "price": "1,986",
+          "change": "+1",
+          "changePercent": "+0.05%"
         },
         {
           "code": "9059",
           "name": "カンダ",
           "market": "東Ｓ",
           "price": "904",
-          "change": "-5",
-          "changePercent": "-0.55%"
-        },
-        {
-          "code": "9012",
-          "name": "秩父鉄",
-          "market": "東Ｓ",
-          "price": "2,082",
-          "change": "-12",
-          "changePercent": "-0.57%"
-        },
-        {
-          "code": "9046",
-          "name": "神電鉄",
-          "market": "東Ｓ",
-          "price": "2,420",
-          "change": "-17",
-          "changePercent": "-0.70%"
-        },
-        {
-          "code": "9064",
-          "name": "ヤマトＨＤ",
-          "market": "東Ｐ",
-          "price": "1,980.0",
-          "change": "-15.5",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "9083",
-          "name": "神姫バ",
-          "market": "東Ｓ",
-          "price": "1,920",
-          "change": "-15",
-          "changePercent": "-0.78%"
-        },
-        {
-          "code": "9060",
-          "name": "日ロジテム",
-          "market": "東Ｓ",
-          "price": "4,310",
-          "change": "-35",
-          "changePercent": "-0.81%"
-        },
-        {
-          "code": "9025",
-          "name": "鴻池運輸",
-          "market": "東Ｐ",
-          "price": "2,799",
-          "change": "-27",
-          "changePercent": "-0.96%"
-        },
-        {
-          "code": "9073",
-          "name": "京極運",
-          "market": "東Ｓ",
-          "price": "1,236",
-          "change": "-12",
-          "changePercent": "-0.96%"
-        },
-        {
-          "code": "9029",
-          "name": "ヒガシＨＤ",
-          "market": "東Ｓ",
-          "price": "1,930",
-          "change": "-23",
-          "changePercent": "-1.18%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "9147",
           "name": "ＮＸＨＤ",
           "market": "東Ｐ",
           "price": "5,479",
-          "change": "-73",
-          "changePercent": "-1.31%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "9010",
-          "name": "富士急",
-          "market": "東Ｐ",
-          "price": "2,510",
-          "change": "-35",
-          "changePercent": "-1.38%"
-        },
-        {
-          "code": "9085",
-          "name": "中バス",
-          "market": "札証",
-          "price": "5,720",
-          "change": "-80",
-          "changePercent": "-1.38%"
-        },
-        {
-          "code": "9037",
-          "name": "ハマキョウ",
-          "market": "東Ｐ",
-          "price": "1,830",
-          "change": "-29",
-          "changePercent": "-1.56%"
-        },
-        {
-          "code": "9009",
-          "name": "京成",
-          "market": "東Ｐ",
-          "price": "1,234.5",
-          "change": "-20.5",
-          "changePercent": "-1.63%"
-        },
-        {
-          "code": "9072",
-          "name": "ニッコンＨＤ",
-          "market": "東Ｐ",
-          "price": "5,399",
-          "change": "-101",
-          "changePercent": "-1.84%"
-        },
-        {
-          "code": "9145",
-          "name": "ビイングＨＤ",
+          "code": "9082",
+          "name": "大和自",
           "market": "東Ｓ",
-          "price": "520",
-          "change": "-10",
-          "changePercent": "-1.89%"
+          "price": "1,449",
+          "change": "-1",
+          "changePercent": "-0.07%"
         },
         {
-          "code": "2384",
-          "name": "ＳＢＳＨＤ",
+          "code": "9007",
+          "name": "小田急",
           "market": "東Ｐ",
-          "price": "4,205",
-          "change": "-95",
-          "changePercent": "-2.21%"
+          "price": "1,712.5",
+          "change": "-3.0",
+          "changePercent": "-0.17%"
+        },
+        {
+          "code": "9046",
+          "name": "神電鉄",
+          "market": "東Ｓ",
+          "price": "2,416",
+          "change": "-4",
+          "changePercent": "-0.17%"
+        },
+        {
+          "code": "9003",
+          "name": "相鉄ＨＤ",
+          "market": "東Ｐ",
+          "price": "2,555.0",
+          "change": "-4.5",
+          "changePercent": "-0.18%"
+        },
+        {
+          "code": "9028",
+          "name": "ゼロ",
+          "market": "東Ｓ",
+          "price": "3,670",
+          "change": "-10",
+          "changePercent": "-0.27%"
+        },
+        {
+          "code": "9001",
+          "name": "東武",
+          "market": "東Ｐ",
+          "price": "2,934.5",
+          "change": "-11.0",
+          "changePercent": "-0.37%"
+        },
+        {
+          "code": "9020",
+          "name": "ＪＲ東日本",
+          "market": "東Ｐ",
+          "price": "3,541.0",
+          "change": "-13.0",
+          "changePercent": "-0.37%"
+        },
+        {
+          "code": "9065",
+          "name": "山九",
+          "market": "東Ｐ",
+          "price": "8,789",
+          "change": "-36",
+          "changePercent": "-0.41%"
         },
         {
           "code": "9051",
           "name": "センコン物流",
           "market": "東Ｓ",
-          "price": "1,316",
+          "price": "1,310",
+          "change": "-6",
+          "changePercent": "-0.46%"
+        },
+        {
+          "code": "9037",
+          "name": "ハマキョウ",
+          "market": "東Ｐ",
+          "price": "1,821",
+          "change": "-9",
+          "changePercent": "-0.49%"
+        },
+        {
+          "code": "9075",
+          "name": "福山運",
+          "market": "東Ｐ",
+          "price": "5,720",
           "change": "-30",
-          "changePercent": "-2.23%"
+          "changePercent": "-0.52%"
+        },
+        {
+          "code": "9064",
+          "name": "ヤマトＨＤ",
+          "market": "東Ｐ",
+          "price": "1,969.5",
+          "change": "-10.5",
+          "changePercent": "-0.53%"
+        },
+        {
+          "code": "9005",
+          "name": "東急",
+          "market": "東Ｐ",
+          "price": "1,728.0",
+          "change": "-10.0",
+          "changePercent": "-0.58%"
         },
         {
           "code": "9057",
           "name": "遠州トラック",
           "market": "東Ｓ",
-          "price": "3,210",
-          "change": "-105",
-          "changePercent": "-3.17%"
+          "price": "3,190",
+          "change": "-20",
+          "changePercent": "-0.62%"
+        },
+        {
+          "code": "9142",
+          "name": "ＪＲ九州",
+          "market": "東Ｐ",
+          "price": "3,607.0",
+          "change": "-24.0",
+          "changePercent": "-0.66%"
+        },
+        {
+          "code": "9029",
+          "name": "ヒガシＨＤ",
+          "market": "東Ｓ",
+          "price": "1,917",
+          "change": "-13",
+          "changePercent": "-0.67%"
+        },
+        {
+          "code": "9025",
+          "name": "鴻池運輸",
+          "market": "東Ｐ",
+          "price": "2,773",
+          "change": "-26",
+          "changePercent": "-0.93%"
+        },
+        {
+          "code": "9022",
+          "name": "ＪＲ東海",
+          "market": "東Ｐ",
+          "price": "3,664.0",
+          "change": "-36.0",
+          "changePercent": "-0.97%"
+        },
+        {
+          "code": "9008",
+          "name": "京王",
+          "market": "東Ｐ",
+          "price": "753.0",
+          "change": "-9.1",
+          "changePercent": "-1.19%"
+        },
+        {
+          "code": "9006",
+          "name": "京急",
+          "market": "東Ｐ",
+          "price": "1,550.0",
+          "change": "-19.0",
+          "changePercent": "-1.21%"
+        },
+        {
+          "code": "9145",
+          "name": "ビイングＨＤ",
+          "market": "東Ｓ",
+          "price": "513",
+          "change": "-7",
+          "changePercent": "-1.35%"
+        },
+        {
+          "code": "9068",
+          "name": "丸全運",
+          "market": "東Ｐ",
+          "price": "7,370",
+          "change": "-110",
+          "changePercent": "-1.47%"
+        },
+        {
+          "code": "9072",
+          "name": "ニッコンＨＤ",
+          "market": "東Ｐ",
+          "price": "5,319",
+          "change": "-80",
+          "changePercent": "-1.48%"
+        },
+        {
+          "code": "9012",
+          "name": "秩父鉄",
+          "market": "東Ｓ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
         },
         {
           "code": "9027",
           "name": "ロジネットＪ",
           "market": "札証",
-          "price": "－",
+          "price": "4,500",
           "change": "－",
           "changePercent": "－%"
         },
         {
           "code": "9036",
           "name": "東部ネット",
+          "market": "東Ｓ",
+          "price": "1,270",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "9040",
+          "name": "大宝運輸",
+          "market": "名Ｍ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "9060",
+          "name": "日ロジテム",
           "market": "東Ｓ",
           "price": "－",
           "change": "－",
@@ -12982,17 +12982,12 @@ window.sectorData = {
           "code": "9087",
           "name": "タカセ",
           "market": "東Ｓ",
-          "price": "2,000",
+          "price": "－",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2128.94,
-          "changePercent": -0.34
-        },
         {
           "date": "20260625",
           "price": 2127.4,
@@ -13037,6 +13032,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2281.72,
           "changePercent": 1.13
+        },
+        {
+          "date": "20260708",
+          "price": 2278.64,
+          "changePercent": -0.13
         }
       ]
     },
@@ -13044,105 +13044,100 @@ window.sectorData = {
       "id": "5100",
       "nameJa": "海運業",
       "nameEn": "Marine Transportation",
-      "price": 1958.48,
-      "change": "-40.17",
-      "changePercent": -2.01,
+      "price": 1993.61,
+      "change": "+35.13",
+      "changePercent": 1.79,
       "stocks": [
         {
-          "code": "9171",
-          "name": "栗林船",
-          "market": "東Ｓ",
-          "price": "1,809",
-          "change": "+37",
-          "changePercent": "+2.09%"
-        },
-        {
-          "code": "9119",
-          "name": "飯野海",
+          "code": "9110",
+          "name": "ユナイテド海",
           "market": "東Ｐ",
-          "price": "1,494",
-          "change": "+24",
-          "changePercent": "+1.63%"
-        },
-        {
-          "code": "9173",
-          "name": "東海汽",
-          "market": "東Ｓ",
-          "price": "2,945",
-          "change": "+27",
-          "changePercent": "+0.93%"
+          "price": "6,860",
+          "change": "+210",
+          "changePercent": "+3.16%"
         },
         {
           "code": "9308",
           "name": "乾汽船",
           "market": "東Ｓ",
-          "price": "1,501",
-          "change": "+1",
-          "changePercent": "+0.07%"
+          "price": "1,548",
+          "change": "+47",
+          "changePercent": "+3.13%"
+        },
+        {
+          "code": "9101",
+          "name": "郵船",
+          "market": "東Ｐ",
+          "price": "5,356",
+          "change": "+103",
+          "changePercent": "+1.96%"
+        },
+        {
+          "code": "9119",
+          "name": "飯野海",
+          "market": "東Ｐ",
+          "price": "1,522",
+          "change": "+28",
+          "changePercent": "+1.87%"
+        },
+        {
+          "code": "9104",
+          "name": "商船三井",
+          "market": "東Ｐ",
+          "price": "5,421",
+          "change": "+99",
+          "changePercent": "+1.86%"
+        },
+        {
+          "code": "9107",
+          "name": "川崎汽",
+          "market": "東Ｐ",
+          "price": "2,549.5",
+          "change": "+30.0",
+          "changePercent": "+1.19%"
         },
         {
           "code": "9127",
           "name": "玉井船",
           "market": "東Ｓ",
           "price": "2,700",
-          "change": "-25",
-          "changePercent": "-0.92%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "9104",
-          "name": "商船三井",
-          "market": "東Ｐ",
-          "price": "5,322",
-          "change": "-57",
-          "changePercent": "-1.06%"
+          "code": "9171",
+          "name": "栗林船",
+          "market": "東Ｓ",
+          "price": "1,807",
+          "change": "-2",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "9173",
+          "name": "東海汽",
+          "market": "東Ｓ",
+          "price": "2,940",
+          "change": "-5",
+          "changePercent": "-0.17%"
         },
         {
           "code": "9130",
           "name": "共栄タ",
           "market": "東Ｓ",
-          "price": "1,446",
-          "change": "-24",
-          "changePercent": "-1.63%"
-        },
-        {
-          "code": "9101",
-          "name": "郵船",
-          "market": "東Ｐ",
-          "price": "5,253",
-          "change": "-117",
-          "changePercent": "-2.18%"
-        },
-        {
-          "code": "9110",
-          "name": "ユナイテド海",
-          "market": "東Ｐ",
-          "price": "6,650",
-          "change": "-170",
-          "changePercent": "-2.49%"
+          "price": "1,442",
+          "change": "-4",
+          "changePercent": "-0.28%"
         },
         {
           "code": "9115",
           "name": "明海グループ",
           "market": "東Ｓ",
-          "price": "822",
-          "change": "-27",
-          "changePercent": "-3.18%"
-        },
-        {
-          "code": "9107",
-          "name": "川崎汽",
-          "market": "東Ｐ",
-          "price": "2,519.5",
-          "change": "-99.5",
-          "changePercent": "-3.80%"
+          "price": "819",
+          "change": "-3",
+          "changePercent": "-0.36%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 1977.7,
-          "changePercent": 0.8
-        },
         {
           "date": "20260625",
           "price": 1937.78,
@@ -13187,6 +13182,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 1958.48,
           "changePercent": -2.01
+        },
+        {
+          "date": "20260708",
+          "price": 1993.61,
+          "changePercent": 1.79
         }
       ]
     },
@@ -13194,57 +13194,52 @@ window.sectorData = {
       "id": "5150",
       "nameJa": "空運業",
       "nameEn": "Air Transportation",
-      "price": 253.8,
-      "change": "-1.33",
-      "changePercent": -0.52,
+      "price": 250.3,
+      "change": "-3.50",
+      "changePercent": -1.38,
       "stocks": [
         {
           "code": "9204",
           "name": "スカイマーク",
           "market": "東Ｇ",
           "price": "431",
-          "change": "+8",
-          "changePercent": "+1.89%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "9206",
           "name": "ＳＦＪ",
           "market": "東Ｓ",
-          "price": "1,959",
-          "change": "+29",
-          "changePercent": "+1.50%"
+          "price": "1,950",
+          "change": "-9",
+          "changePercent": "-0.46%"
         },
         {
           "code": "9233",
           "name": "アジア航",
           "market": "東Ｓ",
-          "price": "1,169",
-          "change": "+7",
-          "changePercent": "+0.60%"
+          "price": "1,161",
+          "change": "-8",
+          "changePercent": "-0.68%"
         },
         {
           "code": "9202",
           "name": "ＡＮＡＨＤ",
           "market": "東Ｐ",
-          "price": "3,164.0",
-          "change": "-16.0",
-          "changePercent": "-0.50%"
+          "price": "3,129.0",
+          "change": "-35.0",
+          "changePercent": "-1.11%"
         },
         {
           "code": "9201",
           "name": "ＪＡＬ",
           "market": "東Ｐ",
-          "price": "3,097.0",
-          "change": "-17.0",
-          "changePercent": "-0.55%"
+          "price": "3,044.0",
+          "change": "-53.0",
+          "changePercent": "-1.71%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 232.53,
-          "changePercent": 0.95
-        },
         {
           "date": "20260625",
           "price": 235.83,
@@ -13289,6 +13284,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 253.8,
           "changePercent": -0.52
+        },
+        {
+          "date": "20260708",
+          "price": 250.3,
+          "changePercent": -1.38
         }
       ]
     },
@@ -13296,255 +13296,255 @@ window.sectorData = {
       "id": "5200",
       "nameJa": "倉庫・運輸関連業",
       "nameEn": "Warehousing & Harbor Transportation Services",
-      "price": 4919.21,
-      "change": "-22.40",
-      "changePercent": -0.45,
+      "price": 4915.77,
+      "change": "-3.44",
+      "changePercent": -0.07,
       "stocks": [
         {
           "code": "9366",
           "name": "サンリツ",
           "market": "東Ｓ",
-          "price": "1,047",
-          "change": "+31",
-          "changePercent": "+3.05%"
+          "price": "1,073",
+          "change": "+26",
+          "changePercent": "+2.48%"
+        },
+        {
+          "code": "9326",
+          "name": "関通ＨＤ",
+          "market": "東Ｇ",
+          "price": "435",
+          "change": "+9",
+          "changePercent": "+2.11%"
+        },
+        {
+          "code": "9304",
+          "name": "渋沢倉",
+          "market": "東Ｐ",
+          "price": "1,848",
+          "change": "+35",
+          "changePercent": "+1.93%"
+        },
+        {
+          "code": "9381",
+          "name": "エーアイテイ",
+          "market": "東Ｐ",
+          "price": "2,400",
+          "change": "+23",
+          "changePercent": "+0.97%"
+        },
+        {
+          "code": "9369",
+          "name": "キユソ流通",
+          "market": "東Ｓ",
+          "price": "3,260",
+          "change": "+30",
+          "changePercent": "+0.93%"
+        },
+        {
+          "code": "9365",
+          "name": "トレーディア",
+          "market": "東Ｓ",
+          "price": "1,586",
+          "change": "+14",
+          "changePercent": "+0.89%"
+        },
+        {
+          "code": "9319",
+          "name": "中央倉",
+          "market": "東Ｐ",
+          "price": "1,870",
+          "change": "+16",
+          "changePercent": "+0.86%"
+        },
+        {
+          "code": "9322",
+          "name": "川西倉",
+          "market": "東Ｓ",
+          "price": "2,438",
+          "change": "+18",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "9301",
+          "name": "三菱倉",
+          "market": "東Ｐ",
+          "price": "1,616.0",
+          "change": "+10.5",
+          "changePercent": "+0.65%"
+        },
+        {
+          "code": "9303",
+          "name": "住友倉",
+          "market": "東Ｐ",
+          "price": "3,900",
+          "change": "+20",
+          "changePercent": "+0.52%"
+        },
+        {
+          "code": "9359",
+          "name": "伊勢湾",
+          "market": "名Ｍ",
+          "price": "972",
+          "change": "+5",
+          "changePercent": "+0.52%"
+        },
+        {
+          "code": "9310",
+          "name": "トランシティ",
+          "market": "東Ｐ",
+          "price": "1,200",
+          "change": "+5",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "9306",
+          "name": "東陽倉",
+          "market": "東Ｓ",
+          "price": "2,013",
+          "change": "+6",
+          "changePercent": "+0.30%"
         },
         {
           "code": "9363",
           "name": "大運",
           "market": "東Ｓ",
           "price": "525",
-          "change": "+11",
-          "changePercent": "+2.14%"
-        },
-        {
-          "code": "9368",
-          "name": "キムラユニテ",
-          "market": "東Ｓ",
-          "price": "915",
-          "change": "+15",
-          "changePercent": "+1.67%"
-        },
-        {
-          "code": "9381",
-          "name": "エーアイテイ",
-          "market": "東Ｐ",
-          "price": "2,377",
-          "change": "+33",
-          "changePercent": "+1.41%"
-        },
-        {
-          "code": "9303",
-          "name": "住友倉",
-          "market": "東Ｐ",
-          "price": "3,880",
-          "change": "+30",
-          "changePercent": "+0.78%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "9380",
           "name": "東海運",
           "market": "東Ｓ",
           "price": "425",
-          "change": "+3",
-          "changePercent": "+0.71%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "9311",
-          "name": "アサガミ",
-          "market": "東Ｓ",
-          "price": "8,200",
-          "change": "+50",
-          "changePercent": "+0.61%"
-        },
-        {
-          "code": "9355",
-          "name": "リンコー",
-          "market": "東Ｓ",
-          "price": "2,180",
-          "change": "+13",
-          "changePercent": "+0.60%"
-        },
-        {
-          "code": "9310",
-          "name": "トランシティ",
+          "code": "9324",
+          "name": "安田倉",
           "market": "東Ｐ",
-          "price": "1,195",
-          "change": "+4",
-          "changePercent": "+0.34%"
-        },
-        {
-          "code": "9322",
-          "name": "川西倉",
-          "market": "東Ｓ",
-          "price": "2,420",
-          "change": "+8",
-          "changePercent": "+0.33%"
+          "price": "2,418",
+          "change": "-1",
+          "changePercent": "-0.04%"
         },
         {
           "code": "9357",
           "name": "名港海",
           "market": "名Ｍ",
-          "price": "2,397",
-          "change": "+4",
-          "changePercent": "+0.17%"
-        },
-        {
-          "code": "9353",
-          "name": "桜島埠",
-          "market": "東Ｓ",
-          "price": "2,800",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "9301",
-          "name": "三菱倉",
-          "market": "東Ｐ",
-          "price": "1,605.5",
-          "change": "-2.0",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "9307",
-          "name": "杉村倉",
-          "market": "東Ｓ",
-          "price": "984",
-          "change": "-2",
-          "changePercent": "-0.20%"
+          "price": "2,396",
+          "change": "-1",
+          "changePercent": "-0.04%"
         },
         {
           "code": "9351",
           "name": "東洋埠頭",
           "market": "東Ｓ",
-          "price": "1,835",
-          "change": "-6",
-          "changePercent": "-0.33%"
+          "price": "1,834",
+          "change": "-1",
+          "changePercent": "-0.05%"
         },
         {
           "code": "9367",
           "name": "大東港運",
           "market": "東Ｓ",
-          "price": "1,886",
-          "change": "-9",
+          "price": "1,885",
+          "change": "-1",
+          "changePercent": "-0.05%"
+        },
+        {
+          "code": "9325",
+          "name": "ファイズＨＤ",
+          "market": "東Ｓ",
+          "price": "1,125",
+          "change": "-1",
+          "changePercent": "-0.09%"
+        },
+        {
+          "code": "9307",
+          "name": "杉村倉",
+          "market": "東Ｓ",
+          "price": "983",
+          "change": "-1",
+          "changePercent": "-0.10%"
+        },
+        {
+          "code": "9193",
+          "name": "東京汽",
+          "market": "東Ｓ",
+          "price": "844",
+          "change": "-4",
           "changePercent": "-0.47%"
         },
         {
           "code": "9364",
           "name": "上組",
           "market": "東Ｐ",
-          "price": "5,304",
-          "change": "-26",
-          "changePercent": "-0.49%"
-        },
-        {
-          "code": "9319",
-          "name": "中央倉",
-          "market": "東Ｐ",
-          "price": "1,854",
-          "change": "-10",
-          "changePercent": "-0.54%"
-        },
-        {
-          "code": "9359",
-          "name": "伊勢湾",
-          "market": "名Ｍ",
-          "price": "967",
-          "change": "-7",
-          "changePercent": "-0.72%"
-        },
-        {
-          "code": "9369",
-          "name": "キユソ流通",
-          "market": "東Ｓ",
-          "price": "3,230",
-          "change": "-25",
-          "changePercent": "-0.77%"
-        },
-        {
-          "code": "9325",
-          "name": "ファイズＨＤ",
-          "market": "東Ｓ",
-          "price": "1,126",
-          "change": "-10",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "9193",
-          "name": "東京汽",
-          "market": "東Ｓ",
-          "price": "848",
-          "change": "-8",
-          "changePercent": "-0.93%"
-        },
-        {
-          "code": "9326",
-          "name": "関通ＨＤ",
-          "market": "東Ｇ",
-          "price": "426",
-          "change": "-4",
-          "changePercent": "-0.93%"
-        },
-        {
-          "code": "9327",
-          "name": "イーロジット",
-          "market": "東Ｓ",
-          "price": "202",
-          "change": "-2",
-          "changePercent": "-0.98%"
+          "price": "5,275",
+          "change": "-29",
+          "changePercent": "-0.55%"
         },
         {
           "code": "9312",
           "name": "ケイヒン",
           "market": "東Ｓ",
-          "price": "2,830",
-          "change": "-34",
-          "changePercent": "-1.19%"
+          "price": "2,814",
+          "change": "-16",
+          "changePercent": "-0.57%"
+        },
+        {
+          "code": "9353",
+          "name": "桜島埠",
+          "market": "東Ｓ",
+          "price": "2,780",
+          "change": "-20",
+          "changePercent": "-0.71%"
+        },
+        {
+          "code": "9355",
+          "name": "リンコー",
+          "market": "東Ｓ",
+          "price": "2,157",
+          "change": "-23",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "9368",
+          "name": "キムラユニテ",
+          "market": "東Ｓ",
+          "price": "902",
+          "change": "-13",
+          "changePercent": "-1.42%"
         },
         {
           "code": "9302",
           "name": "三井倉ＨＤ",
           "market": "東Ｐ",
-          "price": "3,558.0",
-          "change": "-45.0",
-          "changePercent": "-1.25%"
+          "price": "3,492.0",
+          "change": "-66.0",
+          "changePercent": "-1.85%"
         },
         {
-          "code": "9306",
-          "name": "東陽倉",
+          "code": "9327",
+          "name": "イーロジット",
           "market": "東Ｓ",
-          "price": "2,007",
-          "change": "-38",
-          "changePercent": "-1.86%"
+          "price": "197",
+          "change": "-5",
+          "changePercent": "-2.48%"
         },
         {
-          "code": "9324",
-          "name": "安田倉",
-          "market": "東Ｐ",
-          "price": "2,419",
-          "change": "-60",
-          "changePercent": "-2.42%"
-        },
-        {
-          "code": "9365",
-          "name": "トレーディア",
+          "code": "9311",
+          "name": "アサガミ",
           "market": "東Ｓ",
-          "price": "1,572",
-          "change": "-51",
-          "changePercent": "-3.14%"
-        },
-        {
-          "code": "9304",
-          "name": "渋沢倉",
-          "market": "東Ｐ",
-          "price": "1,813",
-          "change": "-76",
-          "changePercent": "-4.02%"
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
         },
         {
           "code": "9313",
           "name": "丸八倉",
           "market": "東Ｓ",
-          "price": "－",
+          "price": "1,069",
           "change": "－",
           "changePercent": "－%"
         },
@@ -13552,7 +13552,7 @@ window.sectorData = {
           "code": "9361",
           "name": "伏木運",
           "market": "東Ｓ",
-          "price": "－",
+          "price": "2,039",
           "change": "－",
           "changePercent": "－%"
         },
@@ -13560,17 +13560,12 @@ window.sectorData = {
           "code": "9362",
           "name": "兵機海",
           "market": "東Ｓ",
-          "price": "－",
+          "price": "3,560",
           "change": "－",
           "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 4583.75,
-          "changePercent": -0.96
-        },
         {
           "date": "20260625",
           "price": 4569.85,
@@ -13615,6 +13610,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 4919.21,
           "changePercent": -0.45
+        },
+        {
+          "date": "20260708",
+          "price": 4915.77,
+          "changePercent": -0.07
         }
       ]
     },
@@ -13622,1217 +13622,1212 @@ window.sectorData = {
       "id": "5250",
       "nameJa": "情報・通信業",
       "nameEn": "Information & Communication",
-      "price": 7760.73,
-      "change": "-38.74",
-      "changePercent": -0.5,
+      "price": 7770.42,
+      "change": "+9.69",
+      "changePercent": 0.12,
       "stocks": [
         {
-          "code": "550A",
-          "name": "ソフトテック",
+          "code": "4265",
+          "name": "ＩＧＳ",
+          "market": "東Ｇ",
+          "price": "399",
+          "change": "+76",
+          "changePercent": "+23.53%"
+        },
+        {
+          "code": "9425",
+          "name": "ＲｅＹｕｕ",
           "market": "東Ｓ",
-          "price": "2,638",
-          "change": "+500",
-          "changePercent": "+23.39%"
+          "price": "239",
+          "change": "+26",
+          "changePercent": "+12.21%"
         },
         {
-          "code": "584A",
-          "name": "ＬｉＮＫＸ",
-          "market": "東Ｇ",
-          "price": "3,725",
-          "change": "+700",
-          "changePercent": "+23.14%"
-        },
-        {
-          "code": "3625",
-          "name": "テックファム",
-          "market": "東Ｇ",
-          "price": "643",
-          "change": "+100",
-          "changePercent": "+18.42%"
-        },
-        {
-          "code": "4199",
-          "name": "ワンプラ",
-          "market": "東Ｇ",
-          "price": "770",
-          "change": "+100",
-          "changePercent": "+14.93%"
-        },
-        {
-          "code": "340A",
-          "name": "ジグザグ",
-          "market": "東Ｇ",
-          "price": "368",
-          "change": "+32",
-          "changePercent": "+9.52%"
-        },
-        {
-          "code": "4165",
-          "name": "プレイド",
-          "market": "東Ｇ",
-          "price": "557",
-          "change": "+41",
-          "changePercent": "+7.95%"
-        },
-        {
-          "code": "4428",
-          "name": "シノプス",
-          "market": "東Ｇ",
-          "price": "687",
-          "change": "+48",
-          "changePercent": "+7.51%"
-        },
-        {
-          "code": "5256",
-          "name": "フュージック",
-          "market": "東Ｇ",
-          "price": "2,468",
-          "change": "+165",
-          "changePercent": "+7.16%"
-        },
-        {
-          "code": "3672",
-          "name": "オルトＰ",
+          "code": "9651",
+          "name": "日本プロセス",
           "market": "東Ｓ",
-          "price": "30",
-          "change": "+2",
-          "changePercent": "+7.14%"
+          "price": "2,014",
+          "change": "+214",
+          "changePercent": "+11.89%"
         },
         {
-          "code": "3915",
-          "name": "テラスカイ",
+          "code": "4446",
+          "name": "リンクユーＧ",
+          "market": "東Ｓ",
+          "price": "929",
+          "change": "+76",
+          "changePercent": "+8.91%"
+        },
+        {
+          "code": "2323",
+          "name": "ｆｏｎｆｕｎ",
+          "market": "東Ｓ",
+          "price": "289",
+          "change": "+19",
+          "changePercent": "+7.04%"
+        },
+        {
+          "code": "4413",
+          "name": "ボードルア",
           "market": "東Ｐ",
-          "price": "2,479",
-          "change": "+154",
-          "changePercent": "+6.62%"
+          "price": "3,135",
+          "change": "+169",
+          "changePercent": "+5.70%"
         },
         {
-          "code": "5616",
-          "name": "雨風太陽",
+          "code": "4415",
+          "name": "ブロードＥ",
           "market": "東Ｇ",
-          "price": "645",
-          "change": "+40",
-          "changePercent": "+6.61%"
-        },
-        {
-          "code": "4394",
-          "name": "エクスＭ",
-          "market": "東Ｇ",
-          "price": "559",
-          "change": "+29",
-          "changePercent": "+5.47%"
-        },
-        {
-          "code": "4445",
-          "name": "リビンＴ",
-          "market": "東Ｇ",
-          "price": "1,614",
-          "change": "+82",
-          "changePercent": "+5.35%"
-        },
-        {
-          "code": "4380",
-          "name": "Ｍマート",
-          "market": "東Ｇ",
-          "price": "1,199",
-          "change": "+59",
-          "changePercent": "+5.18%"
-        },
-        {
-          "code": "4069",
-          "name": "ブルーミーム",
-          "market": "東Ｇ",
-          "price": "734",
-          "change": "+36",
-          "changePercent": "+5.16%"
-        },
-        {
-          "code": "335A",
-          "name": "ミライロ",
-          "market": "東Ｇ",
-          "price": "351",
-          "change": "+17",
-          "changePercent": "+5.09%"
-        },
-        {
-          "code": "4499",
-          "name": "スピー",
-          "market": "東Ｓ",
-          "price": "2,305",
-          "change": "+111",
-          "changePercent": "+5.06%"
-        },
-        {
-          "code": "3854",
-          "name": "アイル",
-          "market": "東Ｐ",
-          "price": "2,458",
-          "change": "+118",
-          "changePercent": "+5.04%"
-        },
-        {
-          "code": "4264",
-          "name": "セキュア",
-          "market": "東Ｇ",
-          "price": "1,651",
-          "change": "+77",
-          "changePercent": "+4.89%"
-        },
-        {
-          "code": "4373",
-          "name": "シンプレクス",
-          "market": "東Ｐ",
-          "price": "1,066",
-          "change": "+46",
-          "changePercent": "+4.51%"
-        },
-        {
-          "code": "472A",
-          "name": "ミラティブ",
-          "market": "東Ｇ",
-          "price": "468",
-          "change": "+20",
-          "changePercent": "+4.46%"
-        },
-        {
-          "code": "3926",
-          "name": "オープンドア",
-          "market": "東Ｓ",
-          "price": "357",
-          "change": "+15",
-          "changePercent": "+4.39%"
-        },
-        {
-          "code": "4816",
-          "name": "東映アニメ",
-          "market": "東Ｓ",
-          "price": "2,664",
-          "change": "+108",
-          "changePercent": "+4.23%"
-        },
-        {
-          "code": "4419",
-          "name": "フィナＨＤ",
-          "market": "東Ｇ",
-          "price": "1,544",
-          "change": "+62",
-          "changePercent": "+4.18%"
-        },
-        {
-          "code": "3912",
-          "name": "モバファク",
-          "market": "東Ｓ",
-          "price": "1,109",
-          "change": "+44",
-          "changePercent": "+4.13%"
-        },
-        {
-          "code": "590A",
-          "name": "ギフティＧ",
-          "market": "東Ｐ",
-          "price": "1,082",
-          "change": "+42",
-          "changePercent": "+4.04%"
-        },
-        {
-          "code": "3750",
-          "name": "ＡＤＲバイオ",
-          "market": "東Ｓ",
-          "price": "830",
-          "change": "+32",
-          "changePercent": "+4.01%"
+          "price": "1,330",
+          "change": "+70",
+          "changePercent": "+5.56%"
         },
         {
           "code": "4177",
           "name": "ｉ－ｐｌｕｇ",
           "market": "東Ｇ",
-          "price": "1,475",
-          "change": "+55",
-          "changePercent": "+3.87%"
-        },
-        {
-          "code": "4427",
-          "name": "エデュラボ",
-          "market": "東Ｇ",
-          "price": "189",
-          "change": "+7",
-          "changePercent": "+3.85%"
-        },
-        {
-          "code": "5258",
-          "name": "ＴＭＮ",
-          "market": "東Ｇ",
-          "price": "400",
-          "change": "+14",
-          "changePercent": "+3.63%"
-        },
-        {
-          "code": "4326",
-          "name": "インテージＨ",
-          "market": "東Ｐ",
-          "price": "1,812",
-          "change": "+61",
-          "changePercent": "+3.48%"
-        },
-        {
-          "code": "3994",
-          "name": "マネフォ",
-          "market": "東Ｐ",
-          "price": "4,858",
-          "change": "+159",
-          "changePercent": "+3.38%"
-        },
-        {
-          "code": "3979",
-          "name": "うるる",
-          "market": "東Ｇ",
-          "price": "416",
-          "change": "+13",
-          "changePercent": "+3.23%"
-        },
-        {
-          "code": "5029",
-          "name": "サークレイス",
-          "market": "東Ｇ",
-          "price": "710",
-          "change": "+22",
-          "changePercent": "+3.20%"
-        },
-        {
-          "code": "3697",
-          "name": "ＳＨＩＦＴ",
-          "market": "東Ｐ",
-          "price": "705.9",
-          "change": "+21.8",
-          "changePercent": "+3.19%"
-        },
-        {
-          "code": "241A",
-          "name": "ＲＯＸＸ",
-          "market": "東Ｇ",
-          "price": "433",
-          "change": "+13",
-          "changePercent": "+3.10%"
-        },
-        {
-          "code": "4284",
-          "name": "ソルクシーズ",
-          "market": "東Ｓ",
-          "price": "447",
-          "change": "+13",
-          "changePercent": "+3.00%"
-        },
-        {
-          "code": "4441",
-          "name": "トビラシステ",
-          "market": "東Ｓ",
-          "price": "1,460",
-          "change": "+42",
-          "changePercent": "+2.96%"
-        },
-        {
-          "code": "3907",
-          "name": "シリコンスタ",
-          "market": "東Ｓ",
-          "price": "900",
-          "change": "+25",
-          "changePercent": "+2.86%"
-        },
-        {
-          "code": "9658",
-          "name": "ビジ太田昭",
-          "market": "東Ｐ",
-          "price": "1,043",
-          "change": "+29",
-          "changePercent": "+2.86%"
-        },
-        {
-          "code": "3712",
-          "name": "情報企画",
-          "market": "東Ｓ",
-          "price": "990",
-          "change": "+27",
-          "changePercent": "+2.80%"
-        },
-        {
-          "code": "554A",
-          "name": "バトンズ",
-          "market": "東Ｇ",
-          "price": "1,359",
-          "change": "+37",
-          "changePercent": "+2.80%"
-        },
-        {
-          "code": "3769",
-          "name": "ＧＭＯ－ＰＧ",
-          "market": "東Ｐ",
-          "price": "10,005",
-          "change": "+271",
-          "changePercent": "+2.78%"
-        },
-        {
-          "code": "2327",
-          "name": "ＮＳＳＯＬ",
-          "market": "東Ｐ",
-          "price": "3,772.0",
-          "change": "+101.0",
-          "changePercent": "+2.75%"
-        },
-        {
-          "code": "3675",
-          "name": "クロスマーケ",
-          "market": "東Ｓ",
-          "price": "607",
-          "change": "+16",
-          "changePercent": "+2.71%"
-        },
-        {
-          "code": "4056",
-          "name": "ニューラルＧ",
-          "market": "東Ｇ",
-          "price": "227",
-          "change": "+6",
-          "changePercent": "+2.71%"
-        },
-        {
-          "code": "5038",
-          "name": "ｅＷｅＬＬ",
-          "market": "東Ｇ",
-          "price": "2,060",
-          "change": "+54",
-          "changePercent": "+2.69%"
-        },
-        {
-          "code": "3968",
-          "name": "セグエＧ",
-          "market": "東Ｐ",
-          "price": "593",
-          "change": "+15",
-          "changePercent": "+2.60%"
-        },
-        {
-          "code": "4014",
-          "name": "カラダノート",
-          "market": "東Ｇ",
-          "price": "518",
-          "change": "+13",
-          "changePercent": "+2.57%"
-        },
-        {
-          "code": "4483",
-          "name": "ＪＭＤＣ",
-          "market": "東Ｐ",
-          "price": "3,200",
-          "change": "+80",
-          "changePercent": "+2.56%"
-        },
-        {
-          "code": "7860",
-          "name": "エイベックス",
-          "market": "東Ｐ",
-          "price": "1,250",
-          "change": "+31",
-          "changePercent": "+2.54%"
-        },
-        {
-          "code": "4194",
-          "name": "ビジョナル",
-          "market": "東Ｐ",
-          "price": "8,386",
-          "change": "+206",
-          "changePercent": "+2.52%"
-        },
-        {
-          "code": "3773",
-          "name": "ＡＭＩ",
-          "market": "東Ｇ",
-          "price": "1,189",
-          "change": "+29",
-          "changePercent": "+2.50%"
-        },
-        {
-          "code": "3826",
-          "name": "ＳＩ",
-          "market": "東Ｓ",
-          "price": "452",
-          "change": "+11",
-          "changePercent": "+2.49%"
-        },
-        {
-          "code": "2121",
-          "name": "ＭＩＸＩ",
-          "market": "東Ｐ",
-          "price": "2,940",
-          "change": "+71",
-          "changePercent": "+2.47%"
-        },
-        {
-          "code": "148A",
-          "name": "ハッチワーク",
-          "market": "東Ｇ",
-          "price": "1,706",
-          "change": "+41",
-          "changePercent": "+2.46%"
-        },
-        {
-          "code": "3908",
-          "name": "コラボス",
-          "market": "東Ｓ",
-          "price": "333",
-          "change": "+8",
-          "changePercent": "+2.46%"
+          "price": "1,556",
+          "change": "+81",
+          "changePercent": "+5.49%"
         },
         {
           "code": "9438",
           "name": "ＭＴＩ",
           "market": "東Ｐ",
-          "price": "588",
-          "change": "+14",
-          "changePercent": "+2.44%"
+          "price": "620",
+          "change": "+32",
+          "changePercent": "+5.44%"
         },
         {
-          "code": "3976",
-          "name": "シャノン",
-          "market": "東Ｇ",
-          "price": "595",
-          "change": "+14",
-          "changePercent": "+2.41%"
-        },
-        {
-          "code": "9468",
-          "name": "カドカワ",
+          "code": "3663",
+          "name": "セルシス",
           "market": "東Ｐ",
-          "price": "3,799",
-          "change": "+89",
-          "changePercent": "+2.40%"
+          "price": "2,024",
+          "change": "+100",
+          "changePercent": "+5.20%"
         },
         {
-          "code": "4377",
-          "name": "ワンキャリア",
-          "market": "東Ｇ",
-          "price": "2,181",
-          "change": "+51",
-          "changePercent": "+2.39%"
-        },
-        {
-          "code": "5028",
-          "name": "セカンドＸ",
-          "market": "東Ｇ",
-          "price": "435",
-          "change": "+10",
-          "changePercent": "+2.35%"
-        },
-        {
-          "code": "9409",
-          "name": "テレ朝ＨＤ",
-          "market": "東Ｐ",
-          "price": "3,270",
-          "change": "+75",
-          "changePercent": "+2.35%"
-        },
-        {
-          "code": "3649",
-          "name": "ファインデ",
-          "market": "東Ｐ",
-          "price": "830",
-          "change": "+19",
-          "changePercent": "+2.34%"
-        },
-        {
-          "code": "3774",
-          "name": "ＩＩＪ",
-          "market": "東Ｐ",
-          "price": "3,468.0",
-          "change": "+78.0",
-          "changePercent": "+2.30%"
-        },
-        {
-          "code": "3762",
-          "name": "テクマト",
-          "market": "東Ｐ",
-          "price": "1,879",
-          "change": "+42",
-          "changePercent": "+2.29%"
-        },
-        {
-          "code": "9605",
-          "name": "東映",
-          "market": "東Ｐ",
-          "price": "5,800",
-          "change": "+130",
-          "changePercent": "+2.29%"
-        },
-        {
-          "code": "3901",
-          "name": "Ｍラインズ",
-          "market": "東Ｐ",
-          "price": "1,362",
-          "change": "+30",
-          "changePercent": "+2.25%"
-        },
-        {
-          "code": "3626",
-          "name": "ＴＩＳＩ",
-          "market": "東Ｐ",
-          "price": "3,439.0",
-          "change": "+75.0",
-          "changePercent": "+2.23%"
-        },
-        {
-          "code": "3991",
-          "name": "ウォンテッド",
-          "market": "東Ｇ",
-          "price": "920",
-          "change": "+20",
-          "changePercent": "+2.22%"
-        },
-        {
-          "code": "3851",
-          "name": "日本一ソフト",
+          "code": "3647",
+          "name": "アスリナ",
           "market": "東Ｓ",
-          "price": "838",
-          "change": "+18",
-          "changePercent": "+2.20%"
-        },
-        {
-          "code": "2138",
-          "name": "クルーズ",
-          "market": "東Ｓ",
-          "price": "421",
-          "change": "+9",
-          "changePercent": "+2.18%"
-        },
-        {
-          "code": "298A",
-          "name": "ＧＶＡテック",
-          "market": "東Ｇ",
-          "price": "334",
-          "change": "+7",
-          "changePercent": "+2.14%"
-        },
-        {
-          "code": "3964",
-          "name": "オークネット",
-          "market": "東Ｐ",
-          "price": "1,443",
-          "change": "+28",
-          "changePercent": "+1.98%"
-        },
-        {
-          "code": "4719",
-          "name": "アルファ",
-          "market": "東Ｐ",
-          "price": "3,390",
-          "change": "+65",
-          "changePercent": "+1.95%"
-        },
-        {
-          "code": "9418",
-          "name": "ＵＮＥＸＴ",
-          "market": "東Ｐ",
-          "price": "1,730",
-          "change": "+33",
-          "changePercent": "+1.94%"
-        },
-        {
-          "code": "3788",
-          "name": "ＧＭＯ－ＧＳ",
-          "market": "東Ｐ",
-          "price": "2,163",
-          "change": "+40",
-          "changePercent": "+1.88%"
-        },
-        {
-          "code": "4709",
-          "name": "ＩＤＨＤ",
-          "market": "東Ｐ",
-          "price": "1,090",
-          "change": "+20",
-          "changePercent": "+1.87%"
-        },
-        {
-          "code": "9441",
-          "name": "ベルパーク",
-          "market": "東Ｓ",
-          "price": "2,506",
-          "change": "+46",
-          "changePercent": "+1.87%"
-        },
-        {
-          "code": "9753",
-          "name": "ＩＸナレッジ",
-          "market": "東Ｓ",
-          "price": "1,307",
-          "change": "+24",
-          "changePercent": "+1.87%"
-        },
-        {
-          "code": "4725",
-          "name": "ＣＡＣ",
-          "market": "東Ｐ",
-          "price": "1,817",
-          "change": "+33",
-          "changePercent": "+1.85%"
-        },
-        {
-          "code": "4416",
-          "name": "トゥルーＤ",
-          "market": "東Ｇ",
-          "price": "448",
-          "change": "+8",
-          "changePercent": "+1.82%"
-        },
-        {
-          "code": "4481",
-          "name": "ベース",
-          "market": "東Ｐ",
-          "price": "3,080",
-          "change": "+55",
-          "changePercent": "+1.82%"
-        },
-        {
-          "code": "4076",
-          "name": "シイエヌエス",
-          "market": "東Ｇ",
-          "price": "1,741",
-          "change": "+31",
-          "changePercent": "+1.81%"
-        },
-        {
-          "code": "9466",
-          "name": "アイドマＭＣ",
-          "market": "東Ｓ",
-          "price": "225",
-          "change": "+4",
-          "changePercent": "+1.81%"
-        },
-        {
-          "code": "9684",
-          "name": "スクエニＨＤ",
-          "market": "東Ｐ",
-          "price": "2,601.0",
-          "change": "+46.0",
-          "changePercent": "+1.80%"
-        },
-        {
-          "code": "4667",
-          "name": "アイサンテク",
-          "market": "東Ｓ",
-          "price": "2,289",
-          "change": "+40",
-          "changePercent": "+1.78%"
-        },
-        {
-          "code": "4832",
-          "name": "ＪＦＥシステ",
-          "market": "東Ｓ",
-          "price": "2,026",
-          "change": "+35",
-          "changePercent": "+1.76%"
-        },
-        {
-          "code": "3636",
-          "name": "三菱総研",
-          "market": "東Ｐ",
-          "price": "4,655",
-          "change": "+80",
-          "changePercent": "+1.75%"
-        },
-        {
-          "code": "9401",
-          "name": "ＴＢＳＨＤ",
-          "market": "東Ｐ",
-          "price": "6,556",
-          "change": "+113",
-          "changePercent": "+1.75%"
-        },
-        {
-          "code": "9405",
-          "name": "朝日放送ＨＤ",
-          "market": "東Ｐ",
-          "price": "816",
-          "change": "+14",
-          "changePercent": "+1.75%"
-        },
-        {
-          "code": "4437",
-          "name": "ＧＤＨ",
-          "market": "東Ｇ",
-          "price": "818",
-          "change": "+14",
-          "changePercent": "+1.74%"
-        },
-        {
-          "code": "4448",
-          "name": "ｋｕｂｅｌｌ",
-          "market": "東Ｇ",
-          "price": "292",
-          "change": "+5",
-          "changePercent": "+1.74%"
-        },
-        {
-          "code": "3904",
-          "name": "カヤック",
-          "market": "東Ｇ",
-          "price": "411",
-          "change": "+7",
-          "changePercent": "+1.73%"
-        },
-        {
-          "code": "5575",
-          "name": "グロービー",
-          "market": "東Ｇ",
-          "price": "657",
-          "change": "+11",
-          "changePercent": "+1.70%"
-        },
-        {
-          "code": "9682",
-          "name": "ＤＴＳ",
-          "market": "東Ｐ",
-          "price": "1,076",
-          "change": "+18",
-          "changePercent": "+1.70%"
-        },
-        {
-          "code": "4439",
-          "name": "東名",
-          "market": "東Ｓ",
-          "price": "784",
-          "change": "+13",
-          "changePercent": "+1.69%"
-        },
-        {
-          "code": "9470",
-          "name": "学研ＨＤ",
-          "market": "東Ｐ",
-          "price": "1,030",
-          "change": "+17",
-          "changePercent": "+1.68%"
-        },
-        {
-          "code": "4685",
-          "name": "菱友システム",
-          "market": "東Ｓ",
-          "price": "2,950",
-          "change": "+48",
-          "changePercent": "+1.65%"
-        },
-        {
-          "code": "3634",
-          "name": "ソケッツ",
-          "market": "東Ｓ",
-          "price": "560",
-          "change": "+9",
-          "changePercent": "+1.63%"
-        },
-        {
-          "code": "4385",
-          "name": "メルカリ",
-          "market": "東Ｐ",
-          "price": "4,512",
-          "change": "+72",
-          "changePercent": "+1.62%"
-        },
-        {
-          "code": "3996",
-          "name": "サインポスト",
-          "market": "東Ｓ",
-          "price": "190",
-          "change": "+3",
-          "changePercent": "+1.60%"
+          "price": "136",
+          "change": "+6",
+          "changePercent": "+4.62%"
         },
         {
           "code": "3916",
           "name": "ＤＩＴ",
           "market": "東Ｐ",
-          "price": "899",
-          "change": "+14",
-          "changePercent": "+1.58%"
+          "price": "940",
+          "change": "+41",
+          "changePercent": "+4.56%"
         },
         {
-          "code": "9759",
-          "name": "ＮＳＤ",
+          "code": "581A",
+          "name": "ＧＯ",
+          "market": "東Ｇ",
+          "price": "2,611",
+          "change": "+111",
+          "changePercent": "+4.44%"
+        },
+        {
+          "code": "9449",
+          "name": "ＧＭＯ",
           "market": "東Ｐ",
-          "price": "2,668.5",
-          "change": "+41.5",
-          "changePercent": "+1.58%"
+          "price": "3,838.0",
+          "change": "+163.0",
+          "changePercent": "+4.44%"
         },
         {
-          "code": "4434",
-          "name": "サーバワクス",
+          "code": "4811",
+          "name": "ドリムアーツ",
+          "market": "東Ｇ",
+          "price": "851",
+          "change": "+34",
+          "changePercent": "+4.16%"
+        },
+        {
+          "code": "4258",
+          "name": "網屋",
+          "market": "東Ｇ",
+          "price": "4,635",
+          "change": "+180",
+          "changePercent": "+4.04%"
+        },
+        {
+          "code": "4746",
+          "name": "東計電算",
           "market": "東Ｓ",
-          "price": "1,972",
-          "change": "+30",
+          "price": "4,740",
+          "change": "+180",
+          "changePercent": "+3.95%"
+        },
+        {
+          "code": "4389",
+          "name": "プロパテＤＢ",
+          "market": "東Ｇ",
+          "price": "1,081",
+          "change": "+40",
+          "changePercent": "+3.84%"
+        },
+        {
+          "code": "4170",
+          "name": "カイゼン",
+          "market": "東Ｇ",
+          "price": "116",
+          "change": "+4",
+          "changePercent": "+3.57%"
+        },
+        {
+          "code": "4394",
+          "name": "エクスＭ",
+          "market": "東Ｇ",
+          "price": "578",
+          "change": "+19",
+          "changePercent": "+3.40%"
+        },
+        {
+          "code": "4385",
+          "name": "メルカリ",
+          "market": "東Ｐ",
+          "price": "4,665",
+          "change": "+153",
+          "changePercent": "+3.39%"
+        },
+        {
+          "code": "3840",
+          "name": "パス",
+          "market": "東Ｓ",
+          "price": "63",
+          "change": "+2",
+          "changePercent": "+3.28%"
+        },
+        {
+          "code": "3645",
+          "name": "メディカルＮ",
+          "market": "東Ｇ",
+          "price": "255",
+          "change": "+8",
+          "changePercent": "+3.24%"
+        },
+        {
+          "code": "5243",
+          "name": "ノート",
+          "market": "東Ｇ",
+          "price": "2,289",
+          "change": "+70",
+          "changePercent": "+3.15%"
+        },
+        {
+          "code": "9709",
+          "name": "ＮＣＳ＆Ａ",
+          "market": "東Ｓ",
+          "price": "1,308",
+          "change": "+40",
+          "changePercent": "+3.15%"
+        },
+        {
+          "code": "3649",
+          "name": "ファインデ",
+          "market": "東Ｐ",
+          "price": "856",
+          "change": "+26",
+          "changePercent": "+3.13%"
+        },
+        {
+          "code": "4284",
+          "name": "ソルクシーズ",
+          "market": "東Ｓ",
+          "price": "461",
+          "change": "+14",
+          "changePercent": "+3.13%"
+        },
+        {
+          "code": "4769",
+          "name": "ＩＣ",
+          "market": "東Ｓ",
+          "price": "1,162",
+          "change": "+35",
+          "changePercent": "+3.11%"
+        },
+        {
+          "code": "5026",
+          "name": "トリプルアイ",
+          "market": "東Ｇ",
+          "price": "596",
+          "change": "+18",
+          "changePercent": "+3.11%"
+        },
+        {
+          "code": "4496",
+          "name": "コマースワン",
+          "market": "東Ｇ",
+          "price": "800",
+          "change": "+24",
+          "changePercent": "+3.09%"
+        },
+        {
+          "code": "2351",
+          "name": "ＡＳＪ",
+          "market": "東Ｓ",
+          "price": "332",
+          "change": "+9",
+          "changePercent": "+2.79%"
+        },
+        {
+          "code": "4356",
+          "name": "応用技術",
+          "market": "東Ｓ",
+          "price": "1,648",
+          "change": "+43",
+          "changePercent": "+2.68%"
+        },
+        {
+          "code": "4722",
+          "name": "フューチャー",
+          "market": "東Ｐ",
+          "price": "1,728",
+          "change": "+45",
+          "changePercent": "+2.67%"
+        },
+        {
+          "code": "3763",
+          "name": "プロシップ",
+          "market": "東Ｐ",
+          "price": "1,808",
+          "change": "+46",
+          "changePercent": "+2.61%"
+        },
+        {
+          "code": "4261",
+          "name": "アジアＱ",
+          "market": "東Ｇ",
+          "price": "3,180",
+          "change": "+80",
+          "changePercent": "+2.58%"
+        },
+        {
+          "code": "5134",
+          "name": "ＰＯＰＥＲ",
+          "market": "東Ｇ",
+          "price": "527",
+          "change": "+13",
+          "changePercent": "+2.53%"
+        },
+        {
+          "code": "9742",
+          "name": "アイネス",
+          "market": "東Ｐ",
+          "price": "2,180",
+          "change": "+53",
+          "changePercent": "+2.49%"
+        },
+        {
+          "code": "137A",
+          "name": "ココリブ",
+          "market": "東Ｇ",
+          "price": "804",
+          "change": "+19",
+          "changePercent": "+2.42%"
+        },
+        {
+          "code": "3939",
+          "name": "カナミックＮ",
+          "market": "東Ｐ",
+          "price": "509",
+          "change": "+12",
+          "changePercent": "+2.41%"
+        },
+        {
+          "code": "3930",
+          "name": "はてな",
+          "market": "東Ｇ",
+          "price": "1,115",
+          "change": "+24",
+          "changePercent": "+2.20%"
+        },
+        {
+          "code": "4743",
+          "name": "ＩＴＦＯＲ",
+          "market": "東Ｐ",
+          "price": "1,693",
+          "change": "+35",
+          "changePercent": "+2.11%"
+        },
+        {
+          "code": "298A",
+          "name": "ＧＶＡテック",
+          "market": "東Ｇ",
+          "price": "341",
+          "change": "+7",
+          "changePercent": "+2.10%"
+        },
+        {
+          "code": "7527",
+          "name": "システムソフ",
+          "market": "東Ｓ",
+          "price": "50",
+          "change": "+1",
+          "changePercent": "+2.04%"
+        },
+        {
+          "code": "5571",
+          "name": "エキサイト",
+          "market": "東Ｓ",
+          "price": "996",
+          "change": "+19",
+          "changePercent": "+1.94%"
+        },
+        {
+          "code": "4445",
+          "name": "リビンＴ",
+          "market": "東Ｇ",
+          "price": "1,645",
+          "change": "+31",
+          "changePercent": "+1.92%"
+        },
+        {
+          "code": "4486",
+          "name": "ユナイト",
+          "market": "東Ｇ",
+          "price": "641",
+          "change": "+12",
+          "changePercent": "+1.91%"
+        },
+        {
+          "code": "4388",
+          "name": "エーアイ",
+          "market": "東Ｓ",
+          "price": "375",
+          "change": "+7",
+          "changePercent": "+1.90%"
+        },
+        {
+          "code": "3674",
+          "name": "オークファン",
+          "market": "東Ｇ",
+          "price": "324",
+          "change": "+6",
+          "changePercent": "+1.89%"
+        },
+        {
+          "code": "3803",
+          "name": "イメージ情報",
+          "market": "東Ｇ",
+          "price": "484",
+          "change": "+9",
+          "changePercent": "+1.89%"
+        },
+        {
+          "code": "4444",
+          "name": "インフォネ",
+          "market": "東Ｇ",
+          "price": "917",
+          "change": "+17",
+          "changePercent": "+1.89%"
+        },
+        {
+          "code": "3900",
+          "name": "クラウドＷ",
+          "market": "東Ｇ",
+          "price": "596",
+          "change": "+11",
+          "changePercent": "+1.88%"
+        },
+        {
+          "code": "5028",
+          "name": "セカンドＸ",
+          "market": "東Ｇ",
+          "price": "443",
+          "change": "+8",
+          "changePercent": "+1.84%"
+        },
+        {
+          "code": "4487",
+          "name": "スペースマ",
+          "market": "東Ｇ",
+          "price": "223",
+          "change": "+4",
+          "changePercent": "+1.83%"
+        },
+        {
+          "code": "2338",
+          "name": "クオンタムＳ",
+          "market": "東Ｓ",
+          "price": "114",
+          "change": "+2",
+          "changePercent": "+1.79%"
+        },
+        {
+          "code": "3991",
+          "name": "ウォンテッド",
+          "market": "東Ｇ",
+          "price": "936",
+          "change": "+16",
+          "changePercent": "+1.74%"
+        },
+        {
+          "code": "2307",
+          "name": "クロスキャト",
+          "market": "東Ｐ",
+          "price": "1,009",
+          "change": "+17",
+          "changePercent": "+1.71%"
+        },
+        {
+          "code": "431A",
+          "name": "ユーソナー",
+          "market": "東Ｇ",
+          "price": "2,018",
+          "change": "+34",
+          "changePercent": "+1.71%"
+        },
+        {
+          "code": "4674",
+          "name": "クレスコ",
+          "market": "東Ｐ",
+          "price": "1,554",
+          "change": "+26",
+          "changePercent": "+1.70%"
+        },
+        {
+          "code": "3678",
+          "name": "メディアドゥ",
+          "market": "東Ｐ",
+          "price": "1,357",
+          "change": "+22",
+          "changePercent": "+1.65%"
+        },
+        {
+          "code": "3837",
+          "name": "アドソル日進",
+          "market": "東Ｐ",
+          "price": "1,484",
+          "change": "+24",
+          "changePercent": "+1.64%"
+        },
+        {
+          "code": "3994",
+          "name": "マネフォ",
+          "market": "東Ｐ",
+          "price": "4,936",
+          "change": "+78",
+          "changePercent": "+1.61%"
+        },
+        {
+          "code": "4391",
+          "name": "ロジザード",
+          "market": "東Ｇ",
+          "price": "1,104",
+          "change": "+17",
+          "changePercent": "+1.56%"
+        },
+        {
+          "code": "5252",
+          "name": "日本ナレッジ",
+          "market": "東Ｇ",
+          "price": "784",
+          "change": "+12",
+          "changePercent": "+1.55%"
+        },
+        {
+          "code": "3626",
+          "name": "ＴＩＳＩ",
+          "market": "東Ｐ",
+          "price": "3,492.0",
+          "change": "+53.0",
           "changePercent": "+1.54%"
         },
         {
-          "code": "4676",
-          "name": "フジＨＤ",
-          "market": "東Ｐ",
-          "price": "4,145",
-          "change": "+62",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "9433",
-          "name": "ＫＤＤＩ",
-          "market": "東Ｐ",
-          "price": "2,779.0",
-          "change": "+41.5",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "3690",
-          "name": "イルグルム",
+          "code": "3913",
+          "name": "ＧｒｅｅｎＢ",
           "market": "東Ｓ",
-          "price": "543",
-          "change": "+8",
-          "changePercent": "+1.50%"
+          "price": "940",
+          "change": "+14",
+          "changePercent": "+1.51%"
         },
         {
-          "code": "3694",
-          "name": "オプティム",
+          "code": "3788",
+          "name": "ＧＭＯ－ＧＳ",
           "market": "東Ｐ",
-          "price": "414",
-          "change": "+6",
-          "changePercent": "+1.47%"
+          "price": "2,195",
+          "change": "+32",
+          "changePercent": "+1.48%"
         },
         {
-          "code": "4059",
-          "name": "まぐまぐ",
+          "code": "4420",
+          "name": "イーソル",
           "market": "東Ｓ",
-          "price": "414",
-          "change": "+6",
-          "changePercent": "+1.47%"
+          "price": "821",
+          "change": "+12",
+          "changePercent": "+1.48%"
         },
         {
-          "code": "4689",
-          "name": "ラインヤフー",
-          "market": "東Ｐ",
-          "price": "445.1",
-          "change": "+6.4",
-          "changePercent": "+1.46%"
-        },
-        {
-          "code": "9928",
-          "name": "ミロク情報",
-          "market": "東Ｐ",
-          "price": "1,812",
-          "change": "+26",
-          "changePercent": "+1.46%"
-        },
-        {
-          "code": "3970",
-          "name": "イノベーショ",
-          "market": "東Ｓ",
-          "price": "771",
-          "change": "+11",
-          "changePercent": "+1.45%"
-        },
-        {
-          "code": "8056",
-          "name": "ビプロジー",
-          "market": "東Ｐ",
-          "price": "4,622",
-          "change": "+66",
-          "changePercent": "+1.45%"
-        },
-        {
-          "code": "9629",
-          "name": "ＰＣＡ",
-          "market": "東Ｐ",
-          "price": "1,412",
-          "change": "+20",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "3843",
-          "name": "フリービット",
-          "market": "東Ｐ",
-          "price": "1,564",
-          "change": "+22",
-          "changePercent": "+1.43%"
-        },
-        {
-          "code": "4320",
-          "name": "ＣＥＨＤ",
-          "market": "東Ｓ",
-          "price": "1,733",
-          "change": "+24",
-          "changePercent": "+1.40%"
-        },
-        {
-          "code": "3371",
-          "name": "ソフトクリエ",
-          "market": "東Ｐ",
-          "price": "1,903",
-          "change": "+26",
-          "changePercent": "+1.39%"
-        },
-        {
-          "code": "3935",
-          "name": "エディア",
-          "market": "東Ｓ",
-          "price": "736",
-          "change": "+10",
-          "changePercent": "+1.38%"
-        },
-        {
-          "code": "4375",
-          "name": "セーフィー",
+          "code": "460A",
+          "name": "ＢＲＡＮＵ",
           "market": "東Ｇ",
-          "price": "681",
-          "change": "+9",
+          "price": "896",
+          "change": "+13",
+          "changePercent": "+1.47%"
+        },
+        {
+          "code": "9436",
+          "name": "沖縄セルラー",
+          "market": "東Ｓ",
+          "price": "3,840",
+          "change": "+55",
+          "changePercent": "+1.45%"
+        },
+        {
+          "code": "9889",
+          "name": "ＪＢＣＣＨＤ",
+          "market": "東Ｐ",
+          "price": "1,396",
+          "change": "+20",
+          "changePercent": "+1.45%"
+        },
+        {
+          "code": "3845",
+          "name": "アイフリーク",
+          "market": "東Ｓ",
+          "price": "215",
+          "change": "+3",
+          "changePercent": "+1.42%"
+        },
+        {
+          "code": "5029",
+          "name": "サークレイス",
+          "market": "東Ｇ",
+          "price": "720",
+          "change": "+10",
+          "changePercent": "+1.41%"
+        },
+        {
+          "code": "4256",
+          "name": "サインド",
+          "market": "東Ｇ",
+          "price": "964",
+          "change": "+13",
+          "changePercent": "+1.37%"
+        },
+        {
+          "code": "3922",
+          "name": "ＰＲＴＩＭＥ",
+          "market": "東Ｐ",
+          "price": "2,455",
+          "change": "+33",
+          "changePercent": "+1.36%"
+        },
+        {
+          "code": "3914",
+          "name": "ＪＩＧＳＡＷ",
+          "market": "東Ｇ",
+          "price": "2,406",
+          "change": "+32",
+          "changePercent": "+1.35%"
+        },
+        {
+          "code": "4014",
+          "name": "カラダノート",
+          "market": "東Ｇ",
+          "price": "525",
+          "change": "+7",
+          "changePercent": "+1.35%"
+        },
+        {
+          "code": "4772",
+          "name": "ＳＭＥＪ",
+          "market": "東Ｇ",
+          "price": "75",
+          "change": "+1",
+          "changePercent": "+1.35%"
+        },
+        {
+          "code": "3787",
+          "name": "テクノマセマ",
+          "market": "東Ｓ",
+          "price": "303",
+          "change": "+4",
           "changePercent": "+1.34%"
         },
         {
-          "code": "3696",
-          "name": "セレス",
-          "market": "東Ｐ",
-          "price": "2,129",
-          "change": "+28",
-          "changePercent": "+1.33%"
-        },
-        {
-          "code": "3834",
-          "name": "朝日ネット",
-          "market": "東Ｐ",
-          "price": "625",
-          "change": "+8",
+          "code": "5587",
+          "name": "インバＰＦ",
+          "market": "東Ｇ",
+          "price": "777",
+          "change": "+10",
           "changePercent": "+1.30%"
         },
         {
-          "code": "4172",
-          "name": "Ｈｉクラテス",
-          "market": "東Ｓ",
-          "price": "2,178",
-          "change": "+28",
-          "changePercent": "+1.30%"
-        },
-        {
-          "code": "3639",
-          "name": "ボルテージ",
+          "code": "3758",
+          "name": "アエリア",
           "market": "東Ｓ",
           "price": "235",
           "change": "+3",
           "changePercent": "+1.29%"
         },
         {
-          "code": "4415",
-          "name": "ブロードＥ",
+          "code": "436A",
+          "name": "サイバＳＯＬ",
           "market": "東Ｇ",
-          "price": "1,260",
-          "change": "+16",
-          "changePercent": "+1.29%"
-        },
-        {
-          "code": "3803",
-          "name": "イメージ情報",
-          "market": "東Ｇ",
-          "price": "475",
-          "change": "+6",
+          "price": "1,028",
+          "change": "+13",
           "changePercent": "+1.28%"
         },
         {
-          "code": "4074",
-          "name": "ラキール",
-          "market": "東Ｇ",
-          "price": "794",
-          "change": "+10",
+          "code": "4828",
+          "name": "ビーエンジ",
+          "market": "東Ｐ",
+          "price": "1,109",
+          "change": "+14",
           "changePercent": "+1.28%"
         },
         {
-          "code": "4776",
-          "name": "サイボウズ",
-          "market": "東Ｐ",
-          "price": "2,613",
-          "change": "+33",
-          "changePercent": "+1.28%"
+          "code": "3634",
+          "name": "ソケッツ",
+          "market": "東Ｓ",
+          "price": "567",
+          "change": "+7",
+          "changePercent": "+1.25%"
         },
         {
-          "code": "3660",
-          "name": "アイスタイル",
-          "market": "東Ｐ",
-          "price": "400",
-          "change": "+5",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "4414",
-          "name": "フレクト",
+          "code": "4054",
+          "name": "日本情報Ｃ",
           "market": "東Ｇ",
-          "price": "1,200",
-          "change": "+15",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "3679",
-          "name": "じげん",
-          "market": "東Ｐ",
-          "price": "401",
-          "change": "+5",
-          "changePercent": "+1.26%"
-        },
-        {
-          "code": "9404",
-          "name": "日テレＨＤ",
-          "market": "東Ｐ",
-          "price": "2,932.5",
-          "change": "+36.5",
-          "changePercent": "+1.26%"
+          "price": "573",
+          "change": "+7",
+          "changePercent": "+1.24%"
         },
         {
           "code": "4687",
           "name": "ＴＤＣソフト",
           "market": "東Ｐ",
-          "price": "975",
+          "price": "987",
           "change": "+12",
-          "changePercent": "+1.25%"
-        },
-        {
-          "code": "3645",
-          "name": "メディカルＮ",
-          "market": "東Ｇ",
-          "price": "247",
-          "change": "+3",
           "changePercent": "+1.23%"
         },
         {
-          "code": "3659",
-          "name": "ネクソン",
-          "market": "東Ｐ",
-          "price": "2,337.0",
-          "change": "+28.5",
-          "changePercent": "+1.23%"
-        },
-        {
-          "code": "4845",
-          "name": "スカラ",
+          "code": "3841",
+          "name": "ジーダット",
           "market": "東Ｓ",
-          "price": "330",
+          "price": "1,247",
+          "change": "+15",
+          "changePercent": "+1.22%"
+        },
+        {
+          "code": "3908",
+          "name": "コラボス",
+          "market": "東Ｓ",
+          "price": "337",
           "change": "+4",
-          "changePercent": "+1.23%"
-        },
-        {
-          "code": "3835",
-          "name": "ｅＢＡＳＥ",
-          "market": "東Ｐ",
-          "price": "416",
-          "change": "+5",
-          "changePercent": "+1.22%"
-        },
-        {
-          "code": "3939",
-          "name": "カナミックＮ",
-          "market": "東Ｐ",
-          "price": "497",
-          "change": "+6",
-          "changePercent": "+1.22%"
-        },
-        {
-          "code": "2317",
-          "name": "システナ",
-          "market": "東Ｐ",
-          "price": "421",
-          "change": "+5",
           "changePercent": "+1.20%"
+        },
+        {
+          "code": "4709",
+          "name": "ＩＤＨＤ",
+          "market": "東Ｐ",
+          "price": "1,103",
+          "change": "+13",
+          "changePercent": "+1.19%"
+        },
+        {
+          "code": "4071",
+          "name": "ＰＡコンサル",
+          "market": "東Ｐ",
+          "price": "2,972",
+          "change": "+34",
+          "changePercent": "+1.16%"
+        },
+        {
+          "code": "4428",
+          "name": "シノプス",
+          "market": "東Ｇ",
+          "price": "695",
+          "change": "+8",
+          "changePercent": "+1.16%"
+        },
+        {
+          "code": "9428",
+          "name": "クロップス",
+          "market": "東Ｓ",
+          "price": "1,316",
+          "change": "+15",
+          "changePercent": "+1.15%"
+        },
+        {
+          "code": "4436",
+          "name": "ミンカブ",
+          "market": "東Ｇ",
+          "price": "451",
+          "change": "+5",
+          "changePercent": "+1.12%"
+        },
+        {
+          "code": "5038",
+          "name": "ｅＷｅＬＬ",
+          "market": "東Ｇ",
+          "price": "2,083",
+          "change": "+23",
+          "changePercent": "+1.12%"
+        },
+        {
+          "code": "476A",
+          "name": "辻本郷ＩＴＣ",
+          "market": "東Ｓ",
+          "price": "1,542",
+          "change": "+17",
+          "changePercent": "+1.11%"
+        },
+        {
+          "code": "330A",
+          "name": "タレントＸ",
+          "market": "東Ｇ",
+          "price": "460",
+          "change": "+5",
+          "changePercent": "+1.10%"
+        },
+        {
+          "code": "4424",
+          "name": "Ａｍａｚｉａ",
+          "market": "東Ｇ",
+          "price": "275",
+          "change": "+3",
+          "changePercent": "+1.10%"
+        },
+        {
+          "code": "3766",
+          "name": "システムズＤ",
+          "market": "東Ｓ",
+          "price": "1,395",
+          "change": "+15",
+          "changePercent": "+1.09%"
+        },
+        {
+          "code": "4725",
+          "name": "ＣＡＣ",
+          "market": "東Ｐ",
+          "price": "1,836",
+          "change": "+19",
+          "changePercent": "+1.05%"
+        },
+        {
+          "code": "5580",
+          "name": "プロディ",
+          "market": "東Ｇ",
+          "price": "1,653",
+          "change": "+17",
+          "changePercent": "+1.04%"
+        },
+        {
+          "code": "9433",
+          "name": "ＫＤＤＩ",
+          "market": "東Ｐ",
+          "price": "2,808.0",
+          "change": "+29.0",
+          "changePercent": "+1.04%"
+        },
+        {
+          "code": "3635",
+          "name": "コーテクＨＤ",
+          "market": "東Ｐ",
+          "price": "1,612.0",
+          "change": "+16.5",
+          "changePercent": "+1.03%"
+        },
+        {
+          "code": "3776",
+          "name": "ＢＢタワー",
+          "market": "東Ｓ",
+          "price": "295",
+          "change": "+3",
+          "changePercent": "+1.03%"
+        },
+        {
+          "code": "5621",
+          "name": "ヒューマンＴ",
+          "market": "東Ｇ",
+          "price": "1,569",
+          "change": "+16",
+          "changePercent": "+1.03%"
+        },
+        {
+          "code": "3929",
+          "name": "Ｓワイヤー",
+          "market": "東Ｇ",
+          "price": "298",
+          "change": "+3",
+          "changePercent": "+1.02%"
+        },
+        {
+          "code": "9432",
+          "name": "ＮＴＴ",
+          "market": "東Ｐ",
+          "price": "149.5",
+          "change": "+1.5",
+          "changePercent": "+1.01%"
+        },
+        {
+          "code": "9475",
+          "name": "昭文社ＨＤ",
+          "market": "東Ｓ",
+          "price": "501",
+          "change": "+5",
+          "changePercent": "+1.01%"
+        },
+        {
+          "code": "3909",
+          "name": "ショーケース",
+          "market": "東Ｓ",
+          "price": "204",
+          "change": "+2",
+          "changePercent": "+0.99%"
+        },
+        {
+          "code": "3774",
+          "name": "ＩＩＪ",
+          "market": "東Ｐ",
+          "price": "3,502.0",
+          "change": "+34.0",
+          "changePercent": "+0.98%"
+        },
+        {
+          "code": "4768",
+          "name": "大塚商会",
+          "market": "東Ｐ",
+          "price": "2,951.5",
+          "change": "+28.5",
+          "changePercent": "+0.98%"
+        },
+        {
+          "code": "4344",
+          "name": "ソースネクス",
+          "market": "東Ｐ",
+          "price": "105",
+          "change": "+1",
+          "changePercent": "+0.96%"
+        },
+        {
+          "code": "2138",
+          "name": "クルーズ",
+          "market": "東Ｓ",
+          "price": "425",
+          "change": "+4",
+          "changePercent": "+0.95%"
+        },
+        {
+          "code": "4326",
+          "name": "インテージＨ",
+          "market": "東Ｐ",
+          "price": "1,829",
+          "change": "+17",
+          "changePercent": "+0.94%"
+        },
+        {
+          "code": "5126",
+          "name": "ポーターズ",
+          "market": "東Ｇ",
+          "price": "1,605",
+          "change": "+15",
+          "changePercent": "+0.94%"
+        },
+        {
+          "code": "3804",
+          "name": "システムディ",
+          "market": "東Ｓ",
+          "price": "435",
+          "change": "+4",
+          "changePercent": "+0.93%"
+        },
+        {
+          "code": "4320",
+          "name": "ＣＥＨＤ",
+          "market": "東Ｓ",
+          "price": "1,749",
+          "change": "+16",
+          "changePercent": "+0.92%"
+        },
+        {
+          "code": "4689",
+          "name": "ラインヤフー",
+          "market": "東Ｐ",
+          "price": "449.2",
+          "change": "+4.1",
+          "changePercent": "+0.92%"
+        },
+        {
+          "code": "9450",
+          "name": "ファイバーＧ",
+          "market": "東Ｓ",
+          "price": "772",
+          "change": "+7",
+          "changePercent": "+0.92%"
+        },
+        {
+          "code": "3970",
+          "name": "イノベーショ",
+          "market": "東Ｓ",
+          "price": "778",
+          "change": "+7",
+          "changePercent": "+0.91%"
+        },
+        {
+          "code": "269A",
+          "name": "Ｓａｐｅｅｔ",
+          "market": "東Ｇ",
+          "price": "2,270",
+          "change": "+20",
+          "changePercent": "+0.89%"
+        },
+        {
+          "code": "3901",
+          "name": "Ｍラインズ",
+          "market": "東Ｐ",
+          "price": "1,374",
+          "change": "+12",
+          "changePercent": "+0.88%"
+        },
+        {
+          "code": "3639",
+          "name": "ボルテージ",
+          "market": "東Ｓ",
+          "price": "237",
+          "change": "+2",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "3974",
+          "name": "ＳＣＡＴ",
+          "market": "東Ｓ",
+          "price": "592",
+          "change": "+5",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "9468",
+          "name": "カドカワ",
+          "market": "東Ｐ",
+          "price": "3,831",
+          "change": "+32",
+          "changePercent": "+0.84%"
+        },
+        {
+          "code": "9928",
+          "name": "ミロク情報",
+          "market": "東Ｐ",
+          "price": "1,827",
+          "change": "+15",
+          "changePercent": "+0.83%"
+        },
+        {
+          "code": "3849",
+          "name": "ＮＴＬ",
+          "market": "札Ａ",
+          "price": "615",
+          "change": "+5",
+          "changePercent": "+0.82%"
+        },
+        {
+          "code": "3739",
+          "name": "コムシード",
+          "market": "名Ｎ",
+          "price": "129",
+          "change": "+1",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "4483",
+          "name": "ＪＭＤＣ",
+          "market": "東Ｐ",
+          "price": "3,225",
+          "change": "+25",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "3371",
+          "name": "ソフトクリエ",
+          "market": "東Ｐ",
+          "price": "1,917",
+          "change": "+14",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "3690",
+          "name": "イルグルム",
+          "market": "東Ｓ",
+          "price": "547",
+          "change": "+4",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "244A",
+          "name": "グロースｘＰ",
+          "market": "東Ｇ",
+          "price": "1,240",
+          "change": "+9",
+          "changePercent": "+0.73%"
+        },
+        {
+          "code": "4386",
+          "name": "ＳＩＧＧ",
+          "market": "東Ｓ",
+          "price": "836",
+          "change": "+6",
+          "changePercent": "+0.72%"
+        },
+        {
+          "code": "9434",
+          "name": "ＳＢ",
+          "market": "東Ｐ",
+          "price": "213.1",
+          "change": "+1.5",
+          "changePercent": "+0.71%"
+        },
+        {
+          "code": "3696",
+          "name": "セレス",
+          "market": "東Ｐ",
+          "price": "2,144",
+          "change": "+15",
+          "changePercent": "+0.70%"
         },
         {
           "code": "9435",
           "name": "光通信",
           "market": "東Ｐ",
-          "price": "36,990",
-          "change": "+440",
-          "changePercent": "+1.20%"
+          "price": "37,250",
+          "change": "+260",
+          "changePercent": "+0.70%"
+        },
+        {
+          "code": "3854",
+          "name": "アイル",
+          "market": "東Ｐ",
+          "price": "2,475",
+          "change": "+17",
+          "changePercent": "+0.69%"
+        },
+        {
+          "code": "4068",
+          "name": "ベイシス",
+          "market": "東Ｇ",
+          "price": "1,611",
+          "change": "+11",
+          "changePercent": "+0.69%"
+        },
+        {
+          "code": "4752",
+          "name": "昭和システム",
+          "market": "東Ｓ",
+          "price": "1,559",
+          "change": "+10",
+          "changePercent": "+0.65%"
+        },
+        {
+          "code": "6888",
+          "name": "アクモス",
+          "market": "東Ｓ",
+          "price": "473",
+          "change": "+3",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "7860",
+          "name": "エイベックス",
+          "market": "東Ｐ",
+          "price": "1,258",
+          "change": "+8",
+          "changePercent": "+0.64%"
         },
         {
           "code": "4761",
           "name": "さくらＫＣＳ",
           "market": "東Ｓ",
-          "price": "1,460",
-          "change": "+17",
-          "changePercent": "+1.18%"
+          "price": "1,469",
+          "change": "+9",
+          "changePercent": "+0.62%"
         },
         {
-          "code": "519A",
-          "name": "ベーシック",
-          "market": "東Ｇ",
-          "price": "515",
-          "change": "+6",
-          "changePercent": "+1.18%"
-        },
-        {
-          "code": "5250",
-          "name": "ＧＭＯプラ",
+          "code": "4174",
+          "name": "アピリッツ",
           "market": "東Ｓ",
-          "price": "1,115",
-          "change": "+13",
-          "changePercent": "+1.18%"
+          "price": "675",
+          "change": "+4",
+          "changePercent": "+0.60%"
         },
         {
-          "code": "5034",
-          "name": "ウネリー",
-          "market": "東Ｇ",
-          "price": "2,327",
-          "change": "+27",
-          "changePercent": "+1.17%"
-        },
-        {
-          "code": "2326",
-          "name": "デジアーツ",
-          "market": "東Ｐ",
-          "price": "3,925",
-          "change": "+45",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "3653",
-          "name": "モルフォ",
-          "market": "東Ｇ",
-          "price": "619",
-          "change": "+7",
-          "changePercent": "+1.14%"
-        },
-        {
-          "code": "3844",
-          "name": "コムチュア",
-          "market": "東Ｐ",
-          "price": "1,357",
+          "code": "9441",
+          "name": "ベルパーク",
+          "market": "東Ｓ",
+          "price": "2,521",
           "change": "+15",
-          "changePercent": "+1.12%"
+          "changePercent": "+0.60%"
         },
         {
-          "code": "4444",
-          "name": "インフォネ",
-          "market": "東Ｇ",
-          "price": "900",
-          "change": "+10",
-          "changePercent": "+1.12%"
+          "code": "4432",
+          "name": "ウイングアク",
+          "market": "東Ｐ",
+          "price": "2,562",
+          "change": "+15",
+          "changePercent": "+0.59%"
         },
         {
-          "code": "5570",
-          "name": "ジェノバ",
-          "market": "東Ｇ",
-          "price": "630",
+          "code": "3925",
+          "name": "ダブスタ",
+          "market": "東Ｐ",
+          "price": "1,215",
           "change": "+7",
-          "changePercent": "+1.12%"
+          "changePercent": "+0.58%"
         },
         {
-          "code": "4746",
-          "name": "東計電算",
+          "code": "4398",
+          "name": "ＢＢＳｅｃ",
           "market": "東Ｓ",
-          "price": "4,560",
-          "change": "+50",
-          "changePercent": "+1.11%"
+          "price": "1,241",
+          "change": "+7",
+          "changePercent": "+0.57%"
+        },
+        {
+          "code": "9445",
+          "name": "フォーバルＴ",
+          "market": "東Ｓ",
+          "price": "533",
+          "change": "+3",
+          "changePercent": "+0.57%"
+        },
+        {
+          "code": "3771",
+          "name": "システムリサ",
+          "market": "東Ｐ",
+          "price": "1,838",
+          "change": "+10",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "4016",
+          "name": "ミット",
+          "market": "東Ｓ",
+          "price": "916",
+          "change": "+5",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "5579",
+          "name": "ＧＳＩ",
+          "market": "札証",
+          "price": "1,303",
+          "change": "+7",
+          "changePercent": "+0.54%"
+        },
+        {
+          "code": "4194",
+          "name": "ビジョナル",
+          "market": "東Ｐ",
+          "price": "8,430",
+          "change": "+44",
+          "changePercent": "+0.52%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 7770.52,
-          "changePercent": 0.58
-        },
         {
           "date": "20260625",
           "price": 7968.81,
@@ -14877,6 +14872,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 7760.73,
           "changePercent": -0.5
+        },
+        {
+          "date": "20260708",
+          "price": 7770.42,
+          "changePercent": 0.12
         }
       ]
     },
@@ -14884,1007 +14884,887 @@ window.sectorData = {
       "id": "6050",
       "nameJa": "卸売業",
       "nameEn": "Wholesale Trade",
-      "price": 5619.42,
-      "change": "+5.47",
-      "changePercent": 0.1,
+      "price": 5556.04,
+      "change": "-63.38",
+      "changePercent": -1.13,
       "stocks": [
         {
-          "code": "7477",
-          "name": "ムラキ",
+          "code": "7417",
+          "name": "南陽",
           "market": "東Ｓ",
-          "price": "1,995",
-          "change": "+165",
-          "changePercent": "+9.02%"
-        },
-        {
-          "code": "9941",
-          "name": "太洋物産",
-          "market": "東Ｓ",
-          "price": "1,508",
-          "change": "+109",
-          "changePercent": "+7.79%"
-        },
-        {
-          "code": "9972",
-          "name": "アルテック",
-          "market": "東Ｓ",
-          "price": "290",
-          "change": "+16",
-          "changePercent": "+5.84%"
-        },
-        {
-          "code": "7552",
-          "name": "ハピネット",
-          "market": "東Ｐ",
-          "price": "3,125",
-          "change": "+120",
-          "changePercent": "+3.99%"
-        },
-        {
-          "code": "3417",
-          "name": "大木ヘルス",
-          "market": "東Ｓ",
-          "price": "1,186",
-          "change": "+44",
-          "changePercent": "+3.85%"
-        },
-        {
-          "code": "7485",
-          "name": "岡谷鋼機",
-          "market": "名Ｐ",
-          "price": "5,110",
-          "change": "+175",
-          "changePercent": "+3.55%"
-        },
-        {
-          "code": "7461",
-          "name": "キムラ",
-          "market": "東Ｓ",
-          "price": "491",
-          "change": "+15",
-          "changePercent": "+3.15%"
-        },
-        {
-          "code": "9906",
-          "name": "藤井産業",
-          "market": "東Ｓ",
-          "price": "4,135",
-          "change": "+120",
-          "changePercent": "+2.99%"
-        },
-        {
-          "code": "2750",
-          "name": "石光商事",
-          "market": "東Ｓ",
-          "price": "1,295",
-          "change": "+35",
-          "changePercent": "+2.78%"
-        },
-        {
-          "code": "7120",
-          "name": "ＳＨＩＮＫＯ",
-          "market": "東Ｓ",
-          "price": "1,079",
-          "change": "+29",
-          "changePercent": "+2.76%"
-        },
-        {
-          "code": "8006",
-          "name": "ユアサフナ",
-          "market": "東Ｓ",
-          "price": "1,503",
-          "change": "+38",
-          "changePercent": "+2.59%"
-        },
-        {
-          "code": "3070",
-          "name": "ジェリビンズ",
-          "market": "東Ｇ",
-          "price": "80",
-          "change": "+2",
-          "changePercent": "+2.56%"
-        },
-        {
-          "code": "2763",
-          "name": "エフティ",
-          "market": "東Ｓ",
-          "price": "1,108",
-          "change": "+27",
-          "changePercent": "+2.50%"
-        },
-        {
-          "code": "9896",
-          "name": "ＪＫＨＤ",
-          "market": "東Ｓ",
-          "price": "1,470",
-          "change": "+32",
-          "changePercent": "+2.23%"
-        },
-        {
-          "code": "8066",
-          "name": "三谷商",
-          "market": "東Ｓ",
-          "price": "2,761",
-          "change": "+59",
-          "changePercent": "+2.18%"
-        },
-        {
-          "code": "7438",
-          "name": "コンドー",
-          "market": "東Ｐ",
-          "price": "1,563",
-          "change": "+32",
-          "changePercent": "+2.09%"
-        },
-        {
-          "code": "8117",
-          "name": "中央自",
-          "market": "東Ｓ",
-          "price": "2,144",
-          "change": "+40",
-          "changePercent": "+1.90%"
-        },
-        {
-          "code": "8131",
-          "name": "ミツウロコＧ",
-          "market": "東Ｓ",
-          "price": "2,142",
-          "change": "+40",
-          "changePercent": "+1.90%"
-        },
-        {
-          "code": "3038",
-          "name": "神戸物産",
-          "market": "東Ｐ",
-          "price": "2,747.0",
-          "change": "+50.5",
-          "changePercent": "+1.87%"
-        },
-        {
-          "code": "9274",
-          "name": "ＫＰＰＧＨＤ",
-          "market": "東Ｐ",
-          "price": "1,030",
-          "change": "+18",
-          "changePercent": "+1.78%"
-        },
-        {
-          "code": "8018",
-          "name": "三共興",
-          "market": "東Ｓ",
-          "price": "809",
-          "change": "+14",
-          "changePercent": "+1.76%"
-        },
-        {
-          "code": "9930",
-          "name": "北沢産",
-          "market": "東Ｓ",
-          "price": "357",
-          "change": "+6",
-          "changePercent": "+1.71%"
-        },
-        {
-          "code": "3565",
-          "name": "アセンテック",
-          "market": "東Ｓ",
-          "price": "421",
-          "change": "+7",
-          "changePercent": "+1.69%"
-        },
-        {
-          "code": "8132",
-          "name": "シナネンＨＤ",
-          "market": "東Ｐ",
-          "price": "6,910",
-          "change": "+110",
-          "changePercent": "+1.62%"
-        },
-        {
-          "code": "8153",
-          "name": "モスフード",
-          "market": "東Ｐ",
-          "price": "3,795",
-          "change": "+60",
-          "changePercent": "+1.61%"
-        },
-        {
-          "code": "8041",
-          "name": "ＯＵＧＨＤ",
-          "market": "東Ｓ",
-          "price": "4,450",
-          "change": "+70",
-          "changePercent": "+1.60%"
-        },
-        {
-          "code": "3167",
-          "name": "ＴＯＫＡＩ",
-          "market": "東Ｐ",
-          "price": "1,169",
-          "change": "+17",
-          "changePercent": "+1.48%"
-        },
-        {
-          "code": "3157",
-          "name": "ジオリーブＧ",
-          "market": "東Ｓ",
-          "price": "1,459",
-          "change": "+21",
-          "changePercent": "+1.46%"
-        },
-        {
-          "code": "8043",
-          "name": "スターゼン",
-          "market": "東Ｐ",
-          "price": "1,270",
-          "change": "+18",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "7128",
-          "name": "ユニソルＨＤ",
-          "market": "東Ｐ",
-          "price": "2,248",
-          "change": "+31",
-          "changePercent": "+1.40%"
-        },
-        {
-          "code": "7443",
-          "name": "横浜魚類",
-          "market": "東Ｓ",
-          "price": "652",
-          "change": "+9",
-          "changePercent": "+1.40%"
-        },
-        {
-          "code": "8095",
-          "name": "アステナＨＤ",
-          "market": "東Ｐ",
-          "price": "516",
-          "change": "+7",
-          "changePercent": "+1.38%"
-        },
-        {
-          "code": "8129",
-          "name": "東邦ＨＤ",
-          "market": "東Ｐ",
-          "price": "4,012",
-          "change": "+53",
-          "changePercent": "+1.34%"
-        },
-        {
-          "code": "8079",
-          "name": "正栄食",
-          "market": "東Ｐ",
-          "price": "4,130",
-          "change": "+50",
-          "changePercent": "+1.23%"
-        },
-        {
-          "code": "3183",
-          "name": "ウインＰ",
-          "market": "東Ｐ",
-          "price": "1,281",
-          "change": "+15",
-          "changePercent": "+1.18%"
-        },
-        {
-          "code": "8225",
-          "name": "タカチホ",
-          "market": "東Ｓ",
-          "price": "3,425",
-          "change": "+40",
-          "changePercent": "+1.18%"
-        },
-        {
-          "code": "7670",
-          "name": "オーウエル",
-          "market": "東Ｓ",
-          "price": "1,046",
-          "change": "+12",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "8053",
-          "name": "住友商",
-          "market": "東Ｐ",
-          "price": "1,609.5",
-          "change": "+18.5",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "2733",
-          "name": "あらた",
-          "market": "東Ｐ",
-          "price": "2,555",
-          "change": "+27",
-          "changePercent": "+1.07%"
-        },
-        {
-          "code": "7422",
-          "name": "東邦レマック",
-          "market": "東Ｓ",
-          "price": "383",
-          "change": "+4",
-          "changePercent": "+1.06%"
-        },
-        {
-          "code": "8147",
-          "name": "トミタ",
-          "market": "東Ｓ",
-          "price": "1,345",
-          "change": "+14",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "3139",
-          "name": "ラクトＪ",
-          "market": "東Ｐ",
-          "price": "3,445",
-          "change": "+35",
-          "changePercent": "+1.03%"
-        },
-        {
-          "code": "7608",
-          "name": "ＳＫジャパン",
-          "market": "東Ｓ",
-          "price": "815",
-          "change": "+8",
-          "changePercent": "+0.99%"
-        },
-        {
-          "code": "7114",
-          "name": "フーディソン",
-          "market": "東Ｇ",
-          "price": "728",
-          "change": "+7",
-          "changePercent": "+0.97%"
-        },
-        {
-          "code": "9996",
-          "name": "サトー商会",
-          "market": "東Ｓ",
-          "price": "2,094",
-          "change": "+19",
-          "changePercent": "+0.92%"
-        },
-        {
-          "code": "3384",
-          "name": "アークコア",
-          "market": "名Ｎ",
-          "price": "706",
-          "change": "+6",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "7458",
-          "name": "第一興商",
-          "market": "東Ｐ",
-          "price": "1,757.0",
-          "change": "+15.0",
-          "changePercent": "+0.86%"
+          "price": "1,800",
+          "change": "+80",
+          "changePercent": "+4.65%"
         },
         {
           "code": "7685",
           "name": "バイセル",
           "market": "東Ｇ",
-          "price": "3,505",
-          "change": "+30",
-          "changePercent": "+0.86%"
+          "price": "3,660",
+          "change": "+155",
+          "changePercent": "+4.42%"
         },
         {
-          "code": "7442",
-          "name": "中山福",
+          "code": "8131",
+          "name": "ミツウロコＧ",
           "market": "東Ｓ",
-          "price": "481",
-          "change": "+4",
-          "changePercent": "+0.84%"
+          "price": "2,235",
+          "change": "+93",
+          "changePercent": "+4.34%"
         },
         {
-          "code": "2721",
-          "name": "ＪＨＤ",
+          "code": "272A",
+          "name": "グリクロＨＤ",
+          "market": "福証",
+          "price": "1,371",
+          "change": "+41",
+          "changePercent": "+3.08%"
+        },
+        {
+          "code": "7460",
+          "name": "ヤギ",
           "market": "東Ｓ",
-          "price": "125",
-          "change": "+1",
-          "changePercent": "+0.81%"
+          "price": "1,746",
+          "change": "+50",
+          "changePercent": "+2.95%"
+        },
+        {
+          "code": "8006",
+          "name": "ユアサフナ",
+          "market": "東Ｓ",
+          "price": "1,544",
+          "change": "+41",
+          "changePercent": "+2.73%"
+        },
+        {
+          "code": "9996",
+          "name": "サトー商会",
+          "market": "東Ｓ",
+          "price": "2,150",
+          "change": "+56",
+          "changePercent": "+2.67%"
+        },
+        {
+          "code": "8043",
+          "name": "スターゼン",
+          "market": "東Ｐ",
+          "price": "1,303",
+          "change": "+33",
+          "changePercent": "+2.60%"
+        },
+        {
+          "code": "3143",
+          "name": "オーウイル",
+          "market": "東Ｓ",
+          "price": "698",
+          "change": "+16",
+          "changePercent": "+2.35%"
         },
         {
           "code": "8089",
           "name": "ナイス",
           "market": "東Ｓ",
-          "price": "1,875",
-          "change": "+15",
-          "changePercent": "+0.81%"
+          "price": "1,919",
+          "change": "+44",
+          "changePercent": "+2.35%"
         },
         {
-          "code": "8093",
-          "name": "極東貿易",
+          "code": "8136",
+          "name": "サンリオ",
           "market": "東Ｐ",
-          "price": "1,750",
-          "change": "+14",
-          "changePercent": "+0.81%"
+          "price": "1,177.5",
+          "change": "+26.5",
+          "changePercent": "+2.30%"
         },
         {
-          "code": "9832",
-          "name": "オートバクス",
+          "code": "7599",
+          "name": "ＩＤＯＭ",
           "market": "東Ｐ",
-          "price": "1,498",
-          "change": "+12",
-          "changePercent": "+0.81%"
+          "price": "1,446",
+          "change": "+32",
+          "changePercent": "+2.26%"
         },
         {
-          "code": "8078",
-          "name": "阪和興",
+          "code": "7504",
+          "name": "高速",
           "market": "東Ｐ",
-          "price": "1,766",
-          "change": "+14",
-          "changePercent": "+0.80%"
-        },
-        {
-          "code": "7459",
-          "name": "メディパル",
-          "market": "東Ｐ",
-          "price": "2,721.0",
-          "change": "+20.5",
-          "changePercent": "+0.76%"
-        },
-        {
-          "code": "5283",
-          "name": "高見沢",
-          "market": "東Ｓ",
-          "price": "2,936",
-          "change": "+21",
-          "changePercent": "+0.72%"
-        },
-        {
-          "code": "8052",
-          "name": "椿本興",
-          "market": "東Ｐ",
-          "price": "2,860",
-          "change": "+20",
-          "changePercent": "+0.70%"
-        },
-        {
-          "code": "7476",
-          "name": "アズワン",
-          "market": "東Ｐ",
-          "price": "2,378.5",
-          "change": "+16.0",
-          "changePercent": "+0.68%"
-        },
-        {
-          "code": "7698",
-          "name": "アイスコ",
-          "market": "東Ｓ",
-          "price": "2,550",
-          "change": "+17",
-          "changePercent": "+0.67%"
-        },
-        {
-          "code": "7575",
-          "name": "日本ライフＬ",
-          "market": "東Ｐ",
-          "price": "1,365",
-          "change": "+9",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "8101",
-          "name": "クレオス",
-          "market": "東Ｐ",
-          "price": "2,458",
-          "change": "+16",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "3151",
-          "name": "バイタルＫＳ",
-          "market": "東Ｐ",
-          "price": "1,560",
-          "change": "+10",
-          "changePercent": "+0.65%"
-        },
-        {
-          "code": "9986",
-          "name": "蔵王産業",
-          "market": "東Ｓ",
-          "price": "2,504",
-          "change": "+16",
-          "changePercent": "+0.64%"
+          "price": "3,750",
+          "change": "+80",
+          "changePercent": "+2.18%"
         },
         {
           "code": "8045",
           "name": "浜丸魚",
           "market": "東Ｓ",
-          "price": "1,930",
-          "change": "+12",
-          "changePercent": "+0.63%"
+          "price": "1,969",
+          "change": "+39",
+          "changePercent": "+2.02%"
         },
         {
-          "code": "3543",
-          "name": "コメダ",
+          "code": "9882",
+          "name": "イエロハット",
           "market": "東Ｐ",
-          "price": "2,855",
-          "change": "+17",
-          "changePercent": "+0.60%"
+          "price": "1,849",
+          "change": "+34",
+          "changePercent": "+1.87%"
         },
         {
-          "code": "3173",
-          "name": "コミニックス",
+          "code": "7466",
+          "name": "ＳＰＫ",
+          "market": "東Ｐ",
+          "price": "1,370",
+          "change": "+25",
+          "changePercent": "+1.86%"
+        },
+        {
+          "code": "9986",
+          "name": "蔵王産業",
           "market": "東Ｓ",
-          "price": "1,069",
+          "price": "2,549",
+          "change": "+45",
+          "changePercent": "+1.80%"
+        },
+        {
+          "code": "9867",
+          "name": "ソレキア",
+          "market": "東Ｓ",
+          "price": "10,150",
+          "change": "+170",
+          "changePercent": "+1.70%"
+        },
+        {
+          "code": "7434",
+          "name": "オータケ",
+          "market": "東Ｓ",
+          "price": "1,830",
+          "change": "+30",
+          "changePercent": "+1.67%"
+        },
+        {
+          "code": "9896",
+          "name": "ＪＫＨＤ",
+          "market": "東Ｓ",
+          "price": "1,494",
+          "change": "+24",
+          "changePercent": "+1.63%"
+        },
+        {
+          "code": "7552",
+          "name": "ハピネット",
+          "market": "東Ｐ",
+          "price": "3,175",
+          "change": "+50",
+          "changePercent": "+1.60%"
+        },
+        {
+          "code": "3131",
+          "name": "シンデンハイ",
+          "market": "東Ｓ",
+          "price": "3,830",
+          "change": "+60",
+          "changePercent": "+1.59%"
+        },
+        {
+          "code": "3537",
+          "name": "昭栄薬品",
+          "market": "東Ｓ",
+          "price": "1,659",
+          "change": "+24",
+          "changePercent": "+1.47%"
+        },
+        {
+          "code": "8097",
+          "name": "三愛オブリ",
+          "market": "東Ｐ",
+          "price": "2,144",
+          "change": "+31",
+          "changePercent": "+1.47%"
+        },
+        {
+          "code": "416A",
+          "name": "富士ユナイト",
+          "market": "東Ｓ",
+          "price": "1,206",
+          "change": "+17",
+          "changePercent": "+1.43%"
+        },
+        {
+          "code": "2874",
+          "name": "ヨコレイ",
+          "market": "東Ｐ",
+          "price": "2,068",
+          "change": "+29",
+          "changePercent": "+1.42%"
+        },
+        {
+          "code": "7481",
+          "name": "尾家産",
+          "market": "東Ｓ",
+          "price": "2,573",
+          "change": "+36",
+          "changePercent": "+1.42%"
+        },
+        {
+          "code": "3035",
+          "name": "ＫＴＫ",
+          "market": "東Ｓ",
+          "price": "803",
+          "change": "+11",
+          "changePercent": "+1.39%"
+        },
+        {
+          "code": "3176",
+          "name": "三洋貿易",
+          "market": "東Ｐ",
+          "price": "816",
+          "change": "+11",
+          "changePercent": "+1.37%"
+        },
+        {
+          "code": "7565",
+          "name": "万世電機",
+          "market": "東Ｓ",
+          "price": "6,340",
+          "change": "+80",
+          "changePercent": "+1.28%"
+        },
+        {
+          "code": "7687",
+          "name": "ミクリード",
+          "market": "東Ｇ",
+          "price": "419",
+          "change": "+5",
+          "changePercent": "+1.21%"
+        },
+        {
+          "code": "8119",
+          "name": "三栄コ",
+          "market": "東Ｓ",
+          "price": "775",
+          "change": "+9",
+          "changePercent": "+1.17%"
+        },
+        {
+          "code": "7459",
+          "name": "メディパル",
+          "market": "東Ｐ",
+          "price": "2,752.0",
+          "change": "+31.0",
+          "changePercent": "+1.14%"
+        },
+        {
+          "code": "8079",
+          "name": "正栄食",
+          "market": "東Ｐ",
+          "price": "4,175",
+          "change": "+45",
+          "changePercent": "+1.09%"
+        },
+        {
+          "code": "2751",
+          "name": "テンポスＨＤ",
+          "market": "東Ｓ",
+          "price": "3,740",
+          "change": "+40",
+          "changePercent": "+1.08%"
+        },
+        {
+          "code": "7483",
+          "name": "ドウシシャ",
+          "market": "東Ｐ",
+          "price": "2,942",
+          "change": "+30",
+          "changePercent": "+1.03%"
+        },
+        {
+          "code": "3079",
+          "name": "ＤＶｘ",
+          "market": "東Ｓ",
+          "price": "987",
+          "change": "+10",
+          "changePercent": "+1.02%"
+        },
+        {
+          "code": "3139",
+          "name": "ラクトＪ",
+          "market": "東Ｐ",
+          "price": "3,480",
+          "change": "+35",
+          "changePercent": "+1.02%"
+        },
+        {
+          "code": "9832",
+          "name": "オートバクス",
+          "market": "東Ｐ",
+          "price": "1,513",
+          "change": "+15",
+          "changePercent": "+1.00%"
+        },
+        {
+          "code": "8123",
+          "name": "川辺",
+          "market": "東Ｓ",
+          "price": "1,333",
+          "change": "+13",
+          "changePercent": "+0.98%"
+        },
+        {
+          "code": "9872",
+          "name": "北恵",
+          "market": "東Ｓ",
+          "price": "924",
+          "change": "+9",
+          "changePercent": "+0.98%"
+        },
+        {
+          "code": "2784",
+          "name": "アルフレッサ",
+          "market": "東Ｐ",
+          "price": "2,230.5",
+          "change": "+20.5",
+          "changePercent": "+0.93%"
+        },
+        {
+          "code": "3419",
+          "name": "アートＧ",
+          "market": "名Ｎ",
+          "price": "1,985",
+          "change": "+18",
+          "changePercent": "+0.92%"
+        },
+        {
+          "code": "7427",
+          "name": "エコーＴＤ",
+          "market": "東Ｓ",
+          "price": "848",
+          "change": "+7",
+          "changePercent": "+0.83%"
+        },
+        {
+          "code": "7482",
+          "name": "シモジマ",
+          "market": "東Ｐ",
+          "price": "1,361",
+          "change": "+11",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "7425",
+          "name": "初穂商事",
+          "market": "東Ｓ",
+          "price": "1,234",
+          "change": "+9",
+          "changePercent": "+0.73%"
+        },
+        {
+          "code": "8225",
+          "name": "タカチホ",
+          "market": "東Ｓ",
+          "price": "3,450",
+          "change": "+25",
+          "changePercent": "+0.73%"
+        },
+        {
+          "code": "8283",
+          "name": "ＰＡＬＴＡＣ",
+          "market": "東Ｐ",
+          "price": "6,646",
+          "change": "+46",
+          "changePercent": "+0.70%"
+        },
+        {
+          "code": "8037",
+          "name": "カメイ",
+          "market": "東Ｐ",
+          "price": "3,660",
+          "change": "+25",
+          "changePercent": "+0.69%"
+        },
+        {
+          "code": "9987",
+          "name": "スズケン",
+          "market": "東Ｐ",
+          "price": "5,067",
+          "change": "+34",
+          "changePercent": "+0.68%"
+        },
+        {
+          "code": "8153",
+          "name": "モスフード",
+          "market": "東Ｐ",
+          "price": "3,820",
+          "change": "+25",
+          "changePercent": "+0.66%"
+        },
+        {
+          "code": "9827",
+          "name": "リリカラ",
+          "market": "東Ｓ",
+          "price": "627",
+          "change": "+4",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "9837",
+          "name": "モリト",
+          "market": "東Ｐ",
+          "price": "1,791",
+          "change": "+11",
+          "changePercent": "+0.62%"
+        },
+        {
+          "code": "3045",
+          "name": "カワサキ",
+          "market": "東Ｓ",
+          "price": "1,483",
+          "change": "+9",
+          "changePercent": "+0.61%"
+        },
+        {
+          "code": "7575",
+          "name": "日本ライフＬ",
+          "market": "東Ｐ",
+          "price": "1,373",
+          "change": "+8",
+          "changePercent": "+0.59%"
+        },
+        {
+          "code": "3055",
+          "name": "ほくたけ",
+          "market": "札証",
+          "price": "888",
+          "change": "+5",
+          "changePercent": "+0.57%"
+        },
+        {
+          "code": "7120",
+          "name": "ＳＨＩＮＫＯ",
+          "market": "東Ｓ",
+          "price": "1,085",
           "change": "+6",
           "changePercent": "+0.56%"
         },
         {
-          "code": "8046",
-          "name": "丸藤パ",
+          "code": "7619",
+          "name": "田中商事",
           "market": "東Ｓ",
           "price": "893",
           "change": "+5",
           "changePercent": "+0.56%"
         },
         {
-          "code": "8001",
-          "name": "伊藤忠",
+          "code": "9305",
+          "name": "ヤマタネ",
           "market": "東Ｐ",
-          "price": "1,904.0",
-          "change": "+10.5",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "8057",
-          "name": "内田洋",
-          "market": "東Ｐ",
-          "price": "2,095",
+          "price": "2,098",
           "change": "+11",
           "changePercent": "+0.53%"
         },
         {
-          "code": "9273",
-          "name": "コーア商ＨＤ",
-          "market": "東Ｐ",
-          "price": "776",
-          "change": "+4",
+          "code": "7472",
+          "name": "鳥羽洋行",
+          "market": "東Ｓ",
+          "price": "3,900",
+          "change": "+20",
           "changePercent": "+0.52%"
+        },
+        {
+          "code": "8275",
+          "name": "フォーバル",
+          "market": "東Ｓ",
+          "price": "1,011",
+          "change": "+5",
+          "changePercent": "+0.50%"
+        },
+        {
+          "code": "8025",
+          "name": "ツカモト",
+          "market": "東Ｓ",
+          "price": "1,237",
+          "change": "+6",
+          "changePercent": "+0.49%"
+        },
+        {
+          "code": "3565",
+          "name": "アセンテック",
+          "market": "東Ｓ",
+          "price": "423",
+          "change": "+2",
+          "changePercent": "+0.48%"
+        },
+        {
+          "code": "5283",
+          "name": "高見沢",
+          "market": "東Ｓ",
+          "price": "2,950",
+          "change": "+14",
+          "changePercent": "+0.48%"
+        },
+        {
+          "code": "7458",
+          "name": "第一興商",
+          "market": "東Ｐ",
+          "price": "1,765.5",
+          "change": "+8.5",
+          "changePercent": "+0.48%"
+        },
+        {
+          "code": "287A",
+          "name": "黒田グループ",
+          "market": "東Ｓ",
+          "price": "1,105",
+          "change": "+5",
+          "changePercent": "+0.45%"
         },
         {
           "code": "7414",
           "name": "小野建",
           "market": "東Ｐ",
-          "price": "1,371",
-          "change": "+7",
-          "changePercent": "+0.51%"
+          "price": "1,377",
+          "change": "+6",
+          "changePercent": "+0.44%"
+        },
+        {
+          "code": "7442",
+          "name": "中山福",
+          "market": "東Ｓ",
+          "price": "483",
+          "change": "+2",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "8030",
+          "name": "中央魚",
+          "market": "東Ｓ",
+          "price": "3,610",
+          "change": "+15",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "2668",
+          "name": "タビオ",
+          "market": "東Ｓ",
+          "price": "1,265",
+          "change": "+5",
+          "changePercent": "+0.40%"
+        },
+        {
+          "code": "3543",
+          "name": "コメダ",
+          "market": "東Ｐ",
+          "price": "2,866",
+          "change": "+11",
+          "changePercent": "+0.39%"
+        },
+        {
+          "code": "9274",
+          "name": "ＫＰＰＧＨＤ",
+          "market": "東Ｐ",
+          "price": "1,034",
+          "change": "+4",
+          "changePercent": "+0.39%"
+        },
+        {
+          "code": "2763",
+          "name": "エフティ",
+          "market": "東Ｓ",
+          "price": "1,112",
+          "change": "+4",
+          "changePercent": "+0.36%"
+        },
+        {
+          "code": "3166",
+          "name": "ＯＣＨＩＨＤ",
+          "market": "東Ｓ",
+          "price": "1,415",
+          "change": "+5",
+          "changePercent": "+0.35%"
         },
         {
           "code": "7130",
           "name": "ヤマエＧＨＤ",
           "market": "東Ｐ",
-          "price": "3,020",
-          "change": "+15",
-          "changePercent": "+0.50%"
+          "price": "3,030",
+          "change": "+10",
+          "changePercent": "+0.33%"
         },
         {
-          "code": "9869",
-          "name": "加藤産",
-          "market": "東Ｐ",
-          "price": "6,120",
-          "change": "+30",
-          "changePercent": "+0.49%"
-        },
-        {
-          "code": "8077",
-          "name": "トルク",
+          "code": "9913",
+          "name": "日邦産業",
           "market": "東Ｓ",
-          "price": "211",
+          "price": "3,075",
+          "change": "+10",
+          "changePercent": "+0.33%"
+        },
+        {
+          "code": "3151",
+          "name": "バイタルＫＳ",
+          "market": "東Ｐ",
+          "price": "1,565",
+          "change": "+5",
+          "changePercent": "+0.32%"
+        },
+        {
+          "code": "8065",
+          "name": "佐藤商",
+          "market": "東Ｐ",
+          "price": "2,858",
+          "change": "+9",
+          "changePercent": "+0.32%"
+        },
+        {
+          "code": "3183",
+          "name": "ウインＰ",
+          "market": "東Ｐ",
+          "price": "1,285",
+          "change": "+4",
+          "changePercent": "+0.31%"
+        },
+        {
+          "code": "3306",
+          "name": "日本麻",
+          "market": "東Ｓ",
+          "price": "664",
+          "change": "+2",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "8076",
+          "name": "カノークス",
+          "market": "東Ｓ",
+          "price": "2,035",
+          "change": "+6",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "9885",
+          "name": "シャルレ",
+          "market": "東Ｓ",
+          "price": "336",
           "change": "+1",
-          "changePercent": "+0.48%"
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "2788",
+          "name": "アップル",
+          "market": "東Ｓ",
+          "price": "378",
+          "change": "+1",
+          "changePercent": "+0.27%"
+        },
+        {
+          "code": "3004",
+          "name": "神栄",
+          "market": "東Ｓ",
+          "price": "2,236",
+          "change": "+6",
+          "changePercent": "+0.27%"
+        },
+        {
+          "code": "3167",
+          "name": "ＴＯＫＡＩ",
+          "market": "東Ｐ",
+          "price": "1,172",
+          "change": "+3",
+          "changePercent": "+0.26%"
+        },
+        {
+          "code": "8014",
+          "name": "蝶理",
+          "market": "東Ｐ",
+          "price": "3,910",
+          "change": "+10",
+          "changePercent": "+0.26%"
+        },
+        {
+          "code": "7539",
+          "name": "アイナボＨＤ",
+          "market": "東Ｓ",
+          "price": "813",
+          "change": "+2",
+          "changePercent": "+0.25%"
+        },
+        {
+          "code": "8101",
+          "name": "クレオス",
+          "market": "東Ｐ",
+          "price": "2,464",
+          "change": "+6",
+          "changePercent": "+0.24%"
+        },
+        {
+          "code": "9895",
+          "name": "コンセック",
+          "market": "東Ｓ",
+          "price": "1,265",
+          "change": "+3",
+          "changePercent": "+0.24%"
+        },
+        {
+          "code": "7487",
+          "name": "小津産業",
+          "market": "東Ｓ",
+          "price": "1,816",
+          "change": "+4",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "8125",
+          "name": "ワキタ",
+          "market": "東Ｐ",
+          "price": "1,791",
+          "change": "+4",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "7444",
+          "name": "ハリマ共和",
+          "market": "東Ｓ",
+          "price": "1,984",
+          "change": "+4",
+          "changePercent": "+0.20%"
+        },
+        {
+          "code": "3160",
+          "name": "大光",
+          "market": "東Ｓ",
+          "price": "570",
+          "change": "+1",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "8228",
+          "name": "マルイチ",
+          "market": "名Ｍ",
+          "price": "1,121",
+          "change": "+2",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "2708",
+          "name": "久世",
+          "market": "東Ｓ",
+          "price": "1,996",
+          "change": "+3",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "8039",
+          "name": "築地魚",
+          "market": "東Ｓ",
+          "price": "3,440",
+          "change": "+5",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "8057",
+          "name": "内田洋",
+          "market": "東Ｐ",
+          "price": "2,098",
+          "change": "+3",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "8141",
+          "name": "新光商",
+          "market": "東Ｐ",
+          "price": "1,590",
+          "change": "+2",
+          "changePercent": "+0.13%"
+        },
+        {
+          "code": "9273",
+          "name": "コーア商ＨＤ",
+          "market": "東Ｐ",
+          "price": "777",
+          "change": "+1",
+          "changePercent": "+0.13%"
+        },
+        {
+          "code": "7476",
+          "name": "アズワン",
+          "market": "東Ｐ",
+          "price": "2,380.5",
+          "change": "+2.0",
+          "changePercent": "+0.08%"
+        },
+        {
+          "code": "8081",
+          "name": "カナデン",
+          "market": "東Ｐ",
+          "price": "2,507",
+          "change": "+2",
+          "changePercent": "+0.08%"
+        },
+        {
+          "code": "8144",
+          "name": "デンキョーＧ",
+          "market": "東Ｓ",
+          "price": "1,300",
+          "change": "+1",
+          "changePercent": "+0.08%"
         },
         {
           "code": "7464",
           "name": "セフテック",
           "market": "東Ｓ",
-          "price": "1,540",
-          "change": "+7",
-          "changePercent": "+0.46%"
+          "price": "1,541",
+          "change": "+1",
+          "changePercent": "+0.06%"
         },
         {
-          "code": "3041",
-          "name": "ビューテＨＤ",
+          "code": "9857",
+          "name": "英和",
           "market": "東Ｓ",
-          "price": "444",
-          "change": "+2",
-          "changePercent": "+0.45%"
+          "price": "2,416",
+          "change": "+1",
+          "changePercent": "+0.04%"
+        },
+        {
+          "code": "3323",
+          "name": "レカム",
+          "market": "東Ｓ",
+          "price": "74",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "3350",
+          "name": "メタプラ",
+          "market": "東Ｓ",
+          "price": "226",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "7111",
+          "name": "ＩＮＥＳＴ",
+          "market": "東Ｓ",
+          "price": "436",
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "7447",
           "name": "ナガイレーベ",
           "market": "東Ｐ",
           "price": "1,771",
-          "change": "+8",
-          "changePercent": "+0.45%"
-        },
-        {
-          "code": "8002",
-          "name": "丸紅",
-          "market": "東Ｐ",
-          "price": "5,048",
-          "change": "+22",
-          "changePercent": "+0.44%"
-        },
-        {
-          "code": "8285",
-          "name": "三谷産業",
-          "market": "東Ｓ",
-          "price": "704",
-          "change": "+3",
-          "changePercent": "+0.43%"
-        },
-        {
-          "code": "2700",
-          "name": "木徳神糧",
-          "market": "東Ｓ",
-          "price": "1,788",
-          "change": "+7",
-          "changePercent": "+0.39%"
-        },
-        {
-          "code": "7613",
-          "name": "シークス",
-          "market": "東Ｐ",
-          "price": "1,299",
-          "change": "+5",
-          "changePercent": "+0.39%"
-        },
-        {
-          "code": "3562",
-          "name": "Ｎｏ．１",
-          "market": "東Ｓ",
-          "price": "1,599",
-          "change": "+6",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "9305",
-          "name": "ヤマタネ",
-          "market": "東Ｐ",
-          "price": "2,087",
-          "change": "+7",
-          "changePercent": "+0.34%"
-        },
-        {
-          "code": "7488",
-          "name": "ヤガミ",
-          "market": "名Ｍ",
-          "price": "4,815",
-          "change": "+15",
-          "changePercent": "+0.31%"
-        },
-        {
-          "code": "7482",
-          "name": "シモジマ",
-          "market": "東Ｐ",
-          "price": "1,350",
-          "change": "+4",
-          "changePercent": "+0.30%"
-        },
-        {
-          "code": "7510",
-          "name": "たけびし",
-          "market": "東Ｐ",
-          "price": "2,333",
-          "change": "+7",
-          "changePercent": "+0.30%"
-        },
-        {
-          "code": "8275",
-          "name": "フォーバル",
-          "market": "東Ｓ",
-          "price": "1,006",
-          "change": "+3",
-          "changePercent": "+0.30%"
-        },
-        {
-          "code": "7525",
-          "name": "リックス",
-          "market": "東Ｐ",
-          "price": "3,515",
-          "change": "+10",
-          "changePercent": "+0.29%"
-        },
-        {
-          "code": "7487",
-          "name": "小津産業",
-          "market": "東Ｓ",
-          "price": "1,812",
-          "change": "+5",
-          "changePercent": "+0.28%"
-        },
-        {
-          "code": "2788",
-          "name": "アップル",
-          "market": "東Ｓ",
-          "price": "377",
-          "change": "+1",
-          "changePercent": "+0.27%"
-        },
-        {
-          "code": "416A",
-          "name": "富士ユナイト",
-          "market": "東Ｓ",
-          "price": "1,189",
-          "change": "+3",
-          "changePercent": "+0.25%"
-        },
-        {
-          "code": "9932",
-          "name": "杉本商",
-          "market": "東Ｐ",
-          "price": "1,228",
-          "change": "+3",
-          "changePercent": "+0.24%"
-        },
-        {
-          "code": "272A",
-          "name": "グリクロＨＤ",
-          "market": "福証",
-          "price": "1,330",
-          "change": "+3",
-          "changePercent": "+0.23%"
-        },
-        {
-          "code": "7619",
-          "name": "田中商事",
-          "market": "東Ｓ",
-          "price": "888",
-          "change": "+2",
-          "changePercent": "+0.23%"
-        },
-        {
-          "code": "9872",
-          "name": "北恵",
-          "market": "東Ｓ",
-          "price": "915",
-          "change": "+2",
-          "changePercent": "+0.22%"
-        },
-        {
-          "code": "8031",
-          "name": "三井物",
-          "market": "東Ｐ",
-          "price": "4,677",
-          "change": "+10",
-          "changePercent": "+0.21%"
-        },
-        {
-          "code": "8091",
-          "name": "ニチモウ",
-          "market": "東Ｐ",
-          "price": "2,333",
-          "change": "+5",
-          "changePercent": "+0.21%"
-        },
-        {
-          "code": "9929",
-          "name": "平和紙業",
-          "market": "東Ｓ",
-          "price": "469",
-          "change": "+1",
-          "changePercent": "+0.21%"
-        },
-        {
-          "code": "2784",
-          "name": "アルフレッサ",
-          "market": "東Ｐ",
-          "price": "2,210.0",
-          "change": "+4.0",
-          "changePercent": "+0.18%"
-        },
-        {
-          "code": "3004",
-          "name": "神栄",
-          "market": "東Ｓ",
-          "price": "2,230",
-          "change": "+4",
-          "changePercent": "+0.18%"
-        },
-        {
-          "code": "3537",
-          "name": "昭栄薬品",
-          "market": "東Ｓ",
-          "price": "1,635",
-          "change": "+3",
-          "changePercent": "+0.18%"
-        },
-        {
-          "code": "8130",
-          "name": "サンゲツ",
-          "market": "東Ｐ",
-          "price": "3,020",
-          "change": "+5",
-          "changePercent": "+0.17%"
-        },
-        {
-          "code": "7425",
-          "name": "初穂商事",
-          "market": "東Ｓ",
-          "price": "1,225",
-          "change": "+2",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "9827",
-          "name": "リリカラ",
-          "market": "東Ｓ",
-          "price": "623",
-          "change": "+1",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "3161",
-          "name": "アゼアス",
-          "market": "東Ｓ",
-          "price": "661",
-          "change": "+1",
-          "changePercent": "+0.15%"
-        },
-        {
-          "code": "8142",
-          "name": "トーホー",
-          "market": "東Ｐ",
-          "price": "1,362",
-          "change": "+2",
-          "changePercent": "+0.15%"
-        },
-        {
-          "code": "8154",
-          "name": "加賀電子",
-          "market": "東Ｐ",
-          "price": "4,260",
-          "change": "+5",
-          "changePercent": "+0.12%"
-        },
-        {
-          "code": "9955",
-          "name": "ヨンキュウ",
-          "market": "東Ｓ",
-          "price": "2,714",
-          "change": "+3",
-          "changePercent": "+0.11%"
-        },
-        {
-          "code": "3419",
-          "name": "アートＧ",
-          "market": "名Ｎ",
-          "price": "1,967",
-          "change": "+2",
-          "changePercent": "+0.10%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "7490",
           "name": "日新商",
           "market": "東Ｓ",
           "price": "2,189",
-          "change": "+2",
-          "changePercent": "+0.09%"
-        },
-        {
-          "code": "8228",
-          "name": "マルイチ",
-          "market": "名Ｍ",
-          "price": "1,119",
-          "change": "+1",
-          "changePercent": "+0.09%"
-        },
-        {
-          "code": "3166",
-          "name": "ＯＣＨＩＨＤ",
-          "market": "東Ｓ",
-          "price": "1,410",
-          "change": "+1",
-          "changePercent": "+0.07%"
-        },
-        {
-          "code": "8125",
-          "name": "ワキタ",
-          "market": "東Ｐ",
-          "price": "1,787",
-          "change": "+1",
-          "changePercent": "+0.06%"
-        },
-        {
-          "code": "7444",
-          "name": "ハリマ共和",
-          "market": "東Ｓ",
-          "price": "1,980",
-          "change": "+1",
-          "changePercent": "+0.05%"
-        },
-        {
-          "code": "7483",
-          "name": "ドウシシャ",
-          "market": "東Ｐ",
-          "price": "2,912",
-          "change": "+1",
-          "changePercent": "+0.03%"
-        },
-        {
-          "code": "2668",
-          "name": "タビオ",
-          "market": "東Ｓ",
-          "price": "1,260",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "2693",
-          "name": "ＹＫＴ",
+          "code": "7501",
+          "name": "ティムコ",
           "market": "東Ｓ",
-          "price": "381",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "3024",
-          "name": "クリエイト",
-          "market": "東Ｓ",
-          "price": "1,063",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "3079",
-          "name": "ＤＶｘ",
-          "market": "東Ｓ",
-          "price": "977",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "3160",
-          "name": "大光",
-          "market": "東Ｓ",
-          "price": "569",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "423A",
-          "name": "ライオン事務",
-          "market": "東Ｓ",
-          "price": "310",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7426",
-          "name": "山大",
-          "market": "東Ｓ",
-          "price": "600",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7472",
-          "name": "鳥羽洋行",
-          "market": "東Ｓ",
-          "price": "3,880",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7486",
-          "name": "サンリン",
-          "market": "東Ｓ",
-          "price": "759",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7504",
-          "name": "高速",
-          "market": "東Ｐ",
-          "price": "3,670",
+          "price": "1,450",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -15897,204 +15777,319 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "7555",
-          "name": "大田花き",
+          "code": "7673",
+          "name": "ダイコー通産",
           "market": "東Ｓ",
-          "price": "740",
+          "price": "1,631",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "7570",
-          "name": "橋本総業ＨＤ",
+          "code": "7698",
+          "name": "アイスコ",
           "market": "東Ｓ",
-          "price": "1,428",
+          "price": "2,550",
           "change": "0",
           "changePercent": "0.00%"
-        },
-        {
-          "code": "7590",
-          "name": "タカショー",
-          "market": "東Ｓ",
-          "price": "405",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7624",
-          "name": "ＮａＩＴＯ",
-          "market": "東Ｓ",
-          "price": "143",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7681",
-          "name": "レオクラン",
-          "market": "東Ｓ",
-          "price": "919",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8032",
-          "name": "紙パル商",
-          "market": "東Ｐ",
-          "price": "1,092",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8037",
-          "name": "カメイ",
-          "market": "東Ｐ",
-          "price": "3,635",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8119",
-          "name": "三栄コ",
-          "market": "東Ｓ",
-          "price": "766",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8123",
-          "name": "川辺",
-          "market": "東Ｓ",
-          "price": "1,320",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "9849",
-          "name": "共同紙",
-          "market": "東Ｓ",
-          "price": "4,500",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "9885",
-          "name": "シャルレ",
-          "market": "東Ｓ",
-          "price": "335",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "9895",
-          "name": "コンセック",
-          "market": "東Ｓ",
-          "price": "1,262",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "9913",
-          "name": "日邦産業",
-          "market": "東Ｓ",
-          "price": "3,065",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8141",
-          "name": "新光商",
-          "market": "東Ｐ",
-          "price": "1,588",
-          "change": "-1",
-          "changePercent": "-0.06%"
-        },
-        {
-          "code": "9987",
-          "name": "スズケン",
-          "market": "東Ｐ",
-          "price": "5,033",
-          "change": "-4",
-          "changePercent": "-0.08%"
-        },
-        {
-          "code": "7628",
-          "name": "オーハシテク",
-          "market": "東Ｐ",
-          "price": "1,149",
-          "change": "-1",
-          "changePercent": "-0.09%"
-        },
-        {
-          "code": "7521",
-          "name": "ムサシ",
-          "market": "東Ｓ",
-          "price": "2,762",
-          "change": "-3",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "9882",
-          "name": "イエロハット",
-          "market": "東Ｐ",
-          "price": "1,815",
-          "change": "-2",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "7417",
-          "name": "南陽",
-          "market": "東Ｓ",
-          "price": "1,720",
-          "change": "-2",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "2751",
-          "name": "テンポスＨＤ",
-          "market": "東Ｓ",
-          "price": "3,700",
-          "change": "-5",
-          "changePercent": "-0.13%"
         },
         {
           "code": "8007",
           "name": "高島",
           "market": "東Ｐ",
           "price": "770",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "8074",
+          "name": "ＹＵＡＳＡ",
+          "market": "東Ｐ",
+          "price": "5,410",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "8077",
+          "name": "トルク",
+          "market": "東Ｓ",
+          "price": "211",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "8135",
+          "name": "ゼット",
+          "market": "東Ｓ",
+          "price": "423",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "8147",
+          "name": "トミタ",
+          "market": "東Ｓ",
+          "price": "1,345",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "8159",
+          "name": "立花エレ",
+          "market": "東Ｐ",
+          "price": "3,280",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "9929",
+          "name": "平和紙業",
+          "market": "東Ｓ",
+          "price": "469",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "3360",
+          "name": "シップＨＤ",
+          "market": "東Ｐ",
+          "price": "2,291.5",
+          "change": "-1.0",
+          "changePercent": "-0.04%"
+        },
+        {
+          "code": "8129",
+          "name": "東邦ＨＤ",
+          "market": "東Ｐ",
+          "price": "4,010",
+          "change": "-2",
+          "changePercent": "-0.05%"
+        },
+        {
+          "code": "8115",
+          "name": "ムーンバット",
+          "market": "東Ｓ",
+          "price": "1,610",
+          "change": "-1",
+          "changePercent": "-0.06%"
+        },
+        {
+          "code": "9264",
+          "name": "ポエック",
+          "market": "東Ｓ",
+          "price": "1,715",
+          "change": "-1",
+          "changePercent": "-0.06%"
+        },
+        {
+          "code": "3024",
+          "name": "クリエイト",
+          "market": "東Ｓ",
+          "price": "1,062",
+          "change": "-1",
+          "changePercent": "-0.09%"
+        },
+        {
+          "code": "3140",
+          "name": "ＢＲＵＮＯ",
+          "market": "東Ｇ",
+          "price": "1,001",
+          "change": "-1",
+          "changePercent": "-0.10%"
+        },
+        {
+          "code": "9955",
+          "name": "ヨンキュウ",
+          "market": "東Ｓ",
+          "price": "2,711",
+          "change": "-3",
+          "changePercent": "-0.11%"
+        },
+        {
+          "code": "8075",
+          "name": "神鋼商",
+          "market": "東Ｐ",
+          "price": "2,433",
+          "change": "-3",
+          "changePercent": "-0.12%"
+        },
+        {
+          "code": "8098",
+          "name": "稲畑産",
+          "market": "東Ｐ",
+          "price": "3,930",
+          "change": "-5",
+          "changePercent": "-0.13%"
+        },
+        {
+          "code": "8835",
+          "name": "太平発",
+          "market": "東Ｓ",
+          "price": "781",
           "change": "-1",
           "changePercent": "-0.13%"
         },
         {
-          "code": "2676",
-          "name": "高千穂交易",
+          "code": "9991",
+          "name": "ジェコス",
           "market": "東Ｐ",
-          "price": "2,107",
-          "change": "-3",
+          "price": "1,573",
+          "change": "-2",
+          "changePercent": "-0.13%"
+        },
+        {
+          "code": "3384",
+          "name": "アークコア",
+          "market": "名Ｎ",
+          "price": "705",
+          "change": "-1",
           "changePercent": "-0.14%"
         },
         {
-          "code": "8076",
-          "name": "カノークス",
+          "code": "7555",
+          "name": "大田花き",
           "market": "東Ｓ",
-          "price": "2,029",
-          "change": "-3",
-          "changePercent": "-0.15%"
+          "price": "739",
+          "change": "-1",
+          "changePercent": "-0.14%"
         },
         {
-          "code": "3393",
-          "name": "スタティアＨ",
+          "code": "7426",
+          "name": "山大",
+          "market": "東Ｓ",
+          "price": "599",
+          "change": "-1",
+          "changePercent": "-0.17%"
+        },
+        {
+          "code": "8130",
+          "name": "サンゲツ",
           "market": "東Ｐ",
-          "price": "3,085",
+          "price": "3,015",
           "change": "-5",
-          "changePercent": "-0.16%"
+          "changePercent": "-0.17%"
+        },
+        {
+          "code": "7567",
+          "name": "栄電子",
+          "market": "東Ｓ",
+          "price": "532",
+          "change": "-1",
+          "changePercent": "-0.19%"
+        },
+        {
+          "code": "8095",
+          "name": "アステナＨＤ",
+          "market": "東Ｐ",
+          "price": "515",
+          "change": "-1",
+          "changePercent": "-0.19%"
+        },
+        {
+          "code": "2689",
+          "name": "オルバヘルス",
+          "market": "東Ｓ",
+          "price": "1,976",
+          "change": "-5",
+          "changePercent": "-0.25%"
+        },
+        {
+          "code": "7590",
+          "name": "タカショー",
+          "market": "東Ｓ",
+          "price": "404",
+          "change": "-1",
+          "changePercent": "-0.25%"
+        },
+        {
+          "code": "7486",
+          "name": "サンリン",
+          "market": "東Ｓ",
+          "price": "757",
+          "change": "-2",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "8152",
+          "name": "ソマール",
+          "market": "東Ｓ",
+          "price": "7,600",
+          "change": "-20",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "9818",
+          "name": "大丸エナ",
+          "market": "東Ｓ",
+          "price": "1,522",
+          "change": "-4",
+          "changePercent": "-0.26%"
+        },
+        {
+          "code": "3377",
+          "name": "バイク王",
+          "market": "東Ｓ",
+          "price": "366",
+          "change": "-1",
+          "changePercent": "-0.27%"
+        },
+        {
+          "code": "2733",
+          "name": "あらた",
+          "market": "東Ｐ",
+          "price": "2,547",
+          "change": "-8",
+          "changePercent": "-0.31%"
+        },
+        {
+          "code": "423A",
+          "name": "ライオン事務",
+          "market": "東Ｓ",
+          "price": "309",
+          "change": "-1",
+          "changePercent": "-0.32%"
+        },
+        {
+          "code": "7438",
+          "name": "コンドー",
+          "market": "東Ｐ",
+          "price": "1,558",
+          "change": "-5",
+          "changePercent": "-0.32%"
+        },
+        {
+          "code": "8046",
+          "name": "丸藤パ",
+          "market": "東Ｓ",
+          "price": "890",
+          "change": "-3",
+          "changePercent": "-0.34%"
+        },
+        {
+          "code": "8133",
+          "name": "エネクス",
+          "market": "東Ｐ",
+          "price": "2,023",
+          "change": "-7",
+          "changePercent": "-0.34%"
+        },
+        {
+          "code": "9972",
+          "name": "アルテック",
+          "market": "東Ｓ",
+          "price": "289",
+          "change": "-1",
+          "changePercent": "-0.34%"
+        },
+        {
+          "code": "8085",
+          "name": "ナラサキ",
+          "market": "東Ｓ",
+          "price": "4,165",
+          "change": "-15",
+          "changePercent": "-0.36%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 5456.58,
-          "changePercent": -1.16
-        },
         {
           "date": "20260625",
           "price": 5371.44,
@@ -16139,6 +16134,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 5619.42,
           "changePercent": 0.1
+        },
+        {
+          "date": "20260708",
+          "price": 5556.04,
+          "changePercent": -1.13
         }
       ]
     },
@@ -16146,1217 +16146,1212 @@ window.sectorData = {
       "id": "6100",
       "nameJa": "小売業",
       "nameEn": "Retail Trade",
-      "price": 2415.54,
-      "change": "+24.21",
-      "changePercent": 1.01,
+      "price": 2411.45,
+      "change": "-4.09",
+      "changePercent": -0.17,
       "stocks": [
         {
-          "code": "9278",
-          "name": "ブックオフＧ",
-          "market": "東Ｐ",
-          "price": "2,166",
-          "change": "+149",
-          "changePercent": "+7.39%"
-        },
-        {
-          "code": "7462",
-          "name": "ＣＡＰＩＴＡ",
+          "code": "7603",
+          "name": "ジーイエット",
           "market": "東Ｓ",
-          "price": "342",
-          "change": "+22",
-          "changePercent": "+6.88%"
-        },
-        {
-          "code": "3046",
-          "name": "ＪＩＮＳＨＤ",
-          "market": "東Ｐ",
-          "price": "8,410",
-          "change": "+460",
-          "changePercent": "+5.79%"
-        },
-        {
-          "code": "9267",
-          "name": "Ｇｅｎｋｙ",
-          "market": "東Ｐ",
-          "price": "3,765",
-          "change": "+185",
-          "changePercent": "+5.17%"
-        },
-        {
-          "code": "7694",
-          "name": "いつも",
-          "market": "東Ｇ",
-          "price": "453",
-          "change": "+22",
-          "changePercent": "+5.10%"
-        },
-        {
-          "code": "2659",
-          "name": "サンエー",
-          "market": "東Ｐ",
-          "price": "3,380",
-          "change": "+140",
-          "changePercent": "+4.32%"
-        },
-        {
-          "code": "7453",
-          "name": "良品計画",
-          "market": "東Ｐ",
-          "price": "3,811.0",
-          "change": "+141.0",
-          "changePercent": "+3.84%"
-        },
-        {
-          "code": "9843",
-          "name": "ニトリＨＤ",
-          "market": "東Ｐ",
-          "price": "2,464.5",
-          "change": "+89.5",
-          "changePercent": "+3.77%"
-        },
-        {
-          "code": "456A",
-          "name": "ヒュマメイド",
-          "market": "東Ｇ",
-          "price": "1,680",
-          "change": "+58",
-          "changePercent": "+3.58%"
-        },
-        {
-          "code": "3563",
-          "name": "Ｆ＆ＬＣ",
-          "market": "東Ｐ",
-          "price": "4,779",
-          "change": "+163",
-          "changePercent": "+3.53%"
-        },
-        {
-          "code": "141A",
-          "name": "トライアル",
-          "market": "東Ｇ",
-          "price": "3,140",
-          "change": "+105",
-          "changePercent": "+3.46%"
-        },
-        {
-          "code": "7695",
-          "name": "交換できる",
-          "market": "東Ｇ",
-          "price": "736",
-          "change": "+24",
-          "changePercent": "+3.37%"
-        },
-        {
-          "code": "7419",
-          "name": "ノジマ",
-          "market": "東Ｐ",
-          "price": "1,355",
-          "change": "+44",
-          "changePercent": "+3.36%"
-        },
-        {
-          "code": "7550",
-          "name": "ゼンショＨＤ",
-          "market": "東Ｐ",
-          "price": "9,032",
-          "change": "+286",
-          "changePercent": "+3.27%"
-        },
-        {
-          "code": "7678",
-          "name": "あさくま",
-          "market": "東Ｓ",
-          "price": "6,680",
-          "change": "+210",
-          "changePercent": "+3.25%"
-        },
-        {
-          "code": "2674",
-          "name": "ハードオフ",
-          "market": "東Ｐ",
-          "price": "2,682",
-          "change": "+82",
-          "changePercent": "+3.15%"
-        },
-        {
-          "code": "7134",
-          "name": "アップガレＧ",
-          "market": "東Ｓ",
-          "price": "1,311",
-          "change": "+39",
-          "changePercent": "+3.07%"
-        },
-        {
-          "code": "3187",
-          "name": "ミラタップ",
-          "market": "東Ｇ",
-          "price": "271",
-          "change": "+8",
-          "changePercent": "+3.04%"
-        },
-        {
-          "code": "3538",
-          "name": "ウイルプラス",
-          "market": "東Ｓ",
-          "price": "930",
-          "change": "+27",
-          "changePercent": "+2.99%"
-        },
-        {
-          "code": "7611",
-          "name": "ハイデ日高",
-          "market": "東Ｐ",
-          "price": "2,758",
-          "change": "+78",
-          "changePercent": "+2.91%"
-        },
-        {
-          "code": "3549",
-          "name": "クスリアオキ",
-          "market": "東Ｓ",
-          "price": "3,953",
-          "change": "+101",
-          "changePercent": "+2.62%"
-        },
-        {
-          "code": "2705",
-          "name": "大戸屋ＨＤ",
-          "market": "東Ｓ",
-          "price": "7,860",
-          "change": "+200",
-          "changePercent": "+2.61%"
-        },
-        {
-          "code": "2780",
-          "name": "コメ兵ＨＤ",
-          "market": "東Ｓ",
-          "price": "5,160",
-          "change": "+130",
-          "changePercent": "+2.58%"
-        },
-        {
-          "code": "2681",
-          "name": "ゲオＨＤ",
-          "market": "東Ｐ",
-          "price": "2,040",
-          "change": "+50",
-          "changePercent": "+2.51%"
-        },
-        {
-          "code": "3138",
-          "name": "富士山ＭＳ",
-          "market": "東Ｓ",
-          "price": "1,130",
-          "change": "+26",
-          "changePercent": "+2.36%"
-        },
-        {
-          "code": "8198",
-          "name": "ＭＶ東海",
-          "market": "東Ｓ",
-          "price": "3,255",
-          "change": "+75",
-          "changePercent": "+2.36%"
-        },
-        {
-          "code": "8227",
-          "name": "しまむら",
-          "market": "東Ｐ",
-          "price": "3,515.0",
-          "change": "+81.0",
-          "changePercent": "+2.36%"
-        },
-        {
-          "code": "3097",
-          "name": "物語コーポ",
-          "market": "東Ｐ",
-          "price": "5,050",
-          "change": "+115",
-          "changePercent": "+2.33%"
-        },
-        {
-          "code": "3391",
-          "name": "ツルハＨＤ",
-          "market": "東Ｐ",
-          "price": "2,308.0",
-          "change": "+52.5",
-          "changePercent": "+2.33%"
-        },
-        {
-          "code": "6993",
-          "name": "大黒屋",
-          "market": "東Ｓ",
-          "price": "88",
-          "change": "+2",
-          "changePercent": "+2.33%"
-        },
-        {
-          "code": "9948",
-          "name": "アークス",
-          "market": "東Ｐ",
-          "price": "3,600",
-          "change": "+80",
-          "changePercent": "+2.27%"
-        },
-        {
-          "code": "9904",
-          "name": "ベリテ",
-          "market": "東Ｓ",
-          "price": "228",
-          "change": "+5",
-          "changePercent": "+2.24%"
-        },
-        {
-          "code": "9978",
-          "name": "文教堂ＧＨＤ",
-          "market": "東Ｓ",
-          "price": "46",
-          "change": "+1",
-          "changePercent": "+2.22%"
-        },
-        {
-          "code": "8255",
-          "name": "アクシアル",
-          "market": "東Ｐ",
-          "price": "1,175",
-          "change": "+25",
-          "changePercent": "+2.17%"
-        },
-        {
-          "code": "3397",
-          "name": "トリドール",
-          "market": "東Ｐ",
-          "price": "3,983",
-          "change": "+83",
-          "changePercent": "+2.13%"
-        },
-        {
-          "code": "8237",
-          "name": "松屋",
-          "market": "東Ｐ",
-          "price": "1,645",
-          "change": "+34",
-          "changePercent": "+2.11%"
-        },
-        {
-          "code": "3063",
-          "name": "Ｊグループ",
-          "market": "東Ｇ",
-          "price": "1,218",
-          "change": "+25",
-          "changePercent": "+2.10%"
-        },
-        {
-          "code": "9823",
-          "name": "マミーマート",
-          "market": "東Ｓ",
-          "price": "1,070",
-          "change": "+22",
-          "changePercent": "+2.10%"
-        },
-        {
-          "code": "2782",
-          "name": "セリア",
-          "market": "東Ｓ",
-          "price": "3,670",
-          "change": "+75",
-          "changePercent": "+2.09%"
-        },
-        {
-          "code": "3179",
-          "name": "シュッピン",
-          "market": "東Ｐ",
-          "price": "1,077",
-          "change": "+22",
-          "changePercent": "+2.09%"
-        },
-        {
-          "code": "3080",
-          "name": "ジェーソン",
-          "market": "東Ｓ",
-          "price": "770",
-          "change": "+15",
-          "changePercent": "+1.99%"
-        },
-        {
-          "code": "9861",
-          "name": "吉野家ＨＤ",
-          "market": "東Ｐ",
-          "price": "3,304.0",
-          "change": "+64.0",
-          "changePercent": "+1.98%"
-        },
-        {
-          "code": "3223",
-          "name": "ＳＬＤ",
-          "market": "東Ｓ",
-          "price": "936",
-          "change": "+18",
-          "changePercent": "+1.96%"
-        },
-        {
-          "code": "7649",
-          "name": "スギＨＤ",
-          "market": "東Ｐ",
-          "price": "3,283.0",
-          "change": "+63.0",
-          "changePercent": "+1.96%"
-        },
-        {
-          "code": "3199",
-          "name": "綿半ＨＤ",
-          "market": "東Ｐ",
-          "price": "1,366",
-          "change": "+26",
-          "changePercent": "+1.94%"
-        },
-        {
-          "code": "2730",
-          "name": "エディオン",
-          "market": "東Ｐ",
-          "price": "2,281",
-          "change": "+43",
-          "changePercent": "+1.92%"
-        },
-        {
-          "code": "7616",
-          "name": "コロワイド",
-          "market": "東Ｐ",
-          "price": "1,871.5",
-          "change": "+35.0",
-          "changePercent": "+1.91%"
-        },
-        {
-          "code": "3557",
-          "name": "Ｕ＆Ｃ",
-          "market": "東Ｇ",
-          "price": "544",
-          "change": "+10",
-          "changePercent": "+1.87%"
-        },
-        {
-          "code": "3135",
-          "name": "マーケットＥ",
-          "market": "東Ｓ",
-          "price": "1,040",
-          "change": "+19",
-          "changePercent": "+1.86%"
-        },
-        {
-          "code": "2753",
-          "name": "あみやき",
-          "market": "東Ｐ",
-          "price": "1,338",
-          "change": "+24",
-          "changePercent": "+1.83%"
-        },
-        {
-          "code": "8165",
-          "name": "千趣会",
-          "market": "東Ｓ",
-          "price": "111",
-          "change": "+2",
-          "changePercent": "+1.83%"
-        },
-        {
-          "code": "3088",
-          "name": "マツキヨココ",
-          "market": "東Ｐ",
-          "price": "2,507.5",
-          "change": "+44.5",
-          "changePercent": "+1.81%"
-        },
-        {
-          "code": "8217",
-          "name": "オークワ",
-          "market": "東Ｐ",
-          "price": "790",
-          "change": "+14",
-          "changePercent": "+1.80%"
-        },
-        {
-          "code": "3547",
-          "name": "ユニシアＨＤ",
-          "market": "東Ｓ",
-          "price": "1,618",
-          "change": "+28",
-          "changePercent": "+1.76%"
-        },
-        {
-          "code": "3048",
-          "name": "ビックカメラ",
-          "market": "東Ｐ",
-          "price": "1,664.0",
-          "change": "+28.0",
-          "changePercent": "+1.71%"
-        },
-        {
-          "code": "8179",
-          "name": "ロイヤルＨＤ",
-          "market": "東Ｐ",
-          "price": "1,248",
-          "change": "+21",
-          "changePercent": "+1.71%"
-        },
-        {
-          "code": "245A",
-          "name": "ＩＮＧＳ",
-          "market": "東Ｇ",
-          "price": "2,349",
-          "change": "+38",
-          "changePercent": "+1.64%"
-        },
-        {
-          "code": "7532",
-          "name": "パンパシＨＤ",
-          "market": "東Ｐ",
-          "price": "866.7",
-          "change": "+14.0",
-          "changePercent": "+1.64%"
-        },
-        {
-          "code": "3092",
-          "name": "ＺＯＺＯ",
-          "market": "東Ｐ",
-          "price": "1,183.5",
-          "change": "+19.0",
-          "changePercent": "+1.63%"
-        },
-        {
-          "code": "417A",
-          "name": "ブルーゾーン",
-          "market": "東Ｐ",
-          "price": "1,800.0",
-          "change": "+28.5",
-          "changePercent": "+1.61%"
-        },
-        {
-          "code": "3178",
-          "name": "チムニー",
-          "market": "東Ｓ",
-          "price": "1,151",
-          "change": "+18",
-          "changePercent": "+1.59%"
-        },
-        {
-          "code": "2702",
-          "name": "マクドナルド",
-          "market": "東Ｓ",
-          "price": "7,760",
-          "change": "+120",
-          "changePercent": "+1.57%"
-        },
-        {
-          "code": "5891",
-          "name": "サキガケＨＤ",
-          "market": "東Ｓ",
-          "price": "1,579",
-          "change": "+24",
-          "changePercent": "+1.54%"
-        },
-        {
-          "code": "8273",
-          "name": "イズミ",
-          "market": "東Ｐ",
-          "price": "1,005",
-          "change": "+15",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "3349",
-          "name": "コスモス薬品",
-          "market": "東Ｐ",
-          "price": "6,747",
-          "change": "+97",
-          "changePercent": "+1.46%"
-        },
-        {
-          "code": "7564",
-          "name": "ワークマン",
-          "market": "東Ｓ",
-          "price": "6,280",
-          "change": "+90",
-          "changePercent": "+1.45%"
-        },
-        {
-          "code": "7581",
-          "name": "サイゼリヤ",
-          "market": "東Ｐ",
-          "price": "5,630",
-          "change": "+80",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "8244",
-          "name": "近鉄百",
-          "market": "東Ｓ",
-          "price": "1,837",
-          "change": "+26",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "3134",
-          "name": "Ｈａｍｅｅ",
-          "market": "東Ｓ",
-          "price": "285",
+          "price": "58",
           "change": "+4",
-          "changePercent": "+1.42%"
-        },
-        {
-          "code": "2669",
-          "name": "カネ美食品",
-          "market": "東Ｓ",
-          "price": "4,030",
-          "change": "+55",
-          "changePercent": "+1.38%"
-        },
-        {
-          "code": "3387",
-          "name": "クリレスＨＤ",
-          "market": "東Ｐ",
-          "price": "745",
-          "change": "+10",
-          "changePercent": "+1.36%"
-        },
-        {
-          "code": "9900",
-          "name": "サガミＨＤ",
-          "market": "東Ｐ",
-          "price": "1,788",
-          "change": "+24",
-          "changePercent": "+1.36%"
-        },
-        {
-          "code": "3193",
-          "name": "エターナルＧ",
-          "market": "東Ｐ",
-          "price": "2,859",
-          "change": "+38",
-          "changePercent": "+1.35%"
-        },
-        {
-          "code": "9974",
-          "name": "ベルク",
-          "market": "東Ｐ",
-          "price": "6,750",
-          "change": "+90",
-          "changePercent": "+1.35%"
-        },
-        {
-          "code": "2670",
-          "name": "ＡＢＣマート",
-          "market": "東Ｐ",
-          "price": "2,951.0",
-          "change": "+39.0",
-          "changePercent": "+1.34%"
-        },
-        {
-          "code": "8194",
-          "name": "ライフコーポ",
-          "market": "東Ｐ",
-          "price": "2,642",
-          "change": "+35",
-          "changePercent": "+1.34%"
-        },
-        {
-          "code": "7596",
-          "name": "魚力",
-          "market": "東Ｐ",
-          "price": "2,281",
-          "change": "+30",
-          "changePercent": "+1.33%"
-        },
-        {
-          "code": "2735",
-          "name": "ワッツ",
-          "market": "東Ｓ",
-          "price": "638",
-          "change": "+8",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "3050",
-          "name": "ＤＣＭ",
-          "market": "東Ｐ",
-          "price": "1,521",
-          "change": "+19",
-          "changePercent": "+1.26%"
-        },
-        {
-          "code": "3222",
-          "name": "ＵＳＭＨ",
-          "market": "東Ｓ",
-          "price": "818",
-          "change": "+10",
-          "changePercent": "+1.24%"
-        },
-        {
-          "code": "7520",
-          "name": "エコス",
-          "market": "東Ｐ",
-          "price": "2,349",
-          "change": "+28",
-          "changePercent": "+1.21%"
-        },
-        {
-          "code": "7630",
-          "name": "壱番屋",
-          "market": "東Ｐ",
-          "price": "918",
-          "change": "+11",
-          "changePercent": "+1.21%"
-        },
-        {
-          "code": "556A",
-          "name": "犬猫生活",
-          "market": "東Ｇ",
-          "price": "2,282",
-          "change": "+27",
-          "changePercent": "+1.20%"
-        },
-        {
-          "code": "8278",
-          "name": "フジ",
-          "market": "東Ｐ",
-          "price": "2,020",
-          "change": "+24",
-          "changePercent": "+1.20%"
-        },
-        {
-          "code": "8218",
-          "name": "コメリ",
-          "market": "東Ｐ",
-          "price": "3,510",
-          "change": "+40",
-          "changePercent": "+1.15%"
-        },
-        {
-          "code": "9983",
-          "name": "ファストリ",
-          "market": "東Ｐ",
-          "price": "87,900",
-          "change": "+970",
-          "changePercent": "+1.12%"
-        },
-        {
-          "code": "8276",
-          "name": "平和堂",
-          "market": "東Ｐ",
-          "price": "2,583",
-          "change": "+28",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "7524",
-          "name": "マルシェ",
-          "market": "東Ｓ",
-          "price": "185",
-          "change": "+2",
-          "changePercent": "+1.09%"
-        },
-        {
-          "code": "3317",
-          "name": "フライングＧ",
-          "market": "東Ｓ",
-          "price": "1,415",
-          "change": "+15",
-          "changePercent": "+1.07%"
-        },
-        {
-          "code": "3148",
-          "name": "クリエイトＳ",
-          "market": "東Ｐ",
-          "price": "3,345",
-          "change": "+35",
-          "changePercent": "+1.06%"
-        },
-        {
-          "code": "3333",
-          "name": "あさひ",
-          "market": "東Ｐ",
-          "price": "1,336",
-          "change": "+14",
-          "changePercent": "+1.06%"
+          "changePercent": "+7.41%"
         },
         {
           "code": "3415",
           "name": "Ｔ－ＢＡＳＥ",
           "market": "東Ｐ",
-          "price": "382",
-          "change": "+4",
-          "changePercent": "+1.06%"
+          "price": "410",
+          "change": "+28",
+          "changePercent": "+7.33%"
         },
         {
-          "code": "3182",
-          "name": "オイシックス",
-          "market": "東Ｐ",
-          "price": "1,541",
-          "change": "+16",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "9980",
-          "name": "ＭＲＫＨＬＤ",
+          "code": "2666",
+          "name": "オートＷ",
           "market": "東Ｓ",
-          "price": "96",
-          "change": "+1",
-          "changePercent": "+1.05%"
-        },
-        {
-          "code": "9887",
-          "name": "松屋フーズ",
-          "market": "東Ｐ",
-          "price": "4,890",
-          "change": "+50",
-          "changePercent": "+1.03%"
-        },
-        {
-          "code": "3191",
-          "name": "ジョイ本田",
-          "market": "東Ｐ",
-          "price": "2,264",
-          "change": "+22",
-          "changePercent": "+0.98%"
-        },
-        {
-          "code": "3174",
-          "name": "ハピネス＆Ｄ",
-          "market": "東Ｓ",
-          "price": "415",
-          "change": "+4",
-          "changePercent": "+0.97%"
-        },
-        {
-          "code": "8200",
-          "name": "リンガハット",
-          "market": "東Ｐ",
-          "price": "2,202",
-          "change": "+21",
-          "changePercent": "+0.96%"
-        },
-        {
-          "code": "259A",
-          "name": "ケイ・ウノ",
-          "market": "名Ｎ",
-          "price": "1,599",
-          "change": "+15",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "3197",
-          "name": "すかいらーく",
-          "market": "東Ｐ",
-          "price": "2,936.5",
-          "change": "+27.5",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "7512",
-          "name": "イオン北海道",
-          "market": "東Ｓ",
-          "price": "853",
-          "change": "+8",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "7638",
-          "name": "ＮＥＷＡＲＴ",
-          "market": "東Ｓ",
-          "price": "1,400",
-          "change": "+13",
-          "changePercent": "+0.94%"
-        },
-        {
-          "code": "3221",
-          "name": "ヨシックス",
-          "market": "東Ｐ",
-          "price": "3,245",
-          "change": "+30",
-          "changePercent": "+0.93%"
-        },
-        {
-          "code": "7918",
-          "name": "ヴィアＨＤ",
-          "market": "東Ｓ",
-          "price": "110",
-          "change": "+1",
-          "changePercent": "+0.92%"
-        },
-        {
-          "code": "8167",
-          "name": "リテールＰＡ",
-          "market": "東Ｐ",
-          "price": "1,367",
-          "change": "+12",
-          "changePercent": "+0.89%"
-        },
-        {
-          "code": "9936",
-          "name": "王将フード",
-          "market": "東Ｐ",
-          "price": "2,947",
-          "change": "+26",
-          "changePercent": "+0.89%"
-        },
-        {
-          "code": "3539",
-          "name": "ＪＭＨＤ",
-          "market": "東Ｐ",
-          "price": "1,268",
-          "change": "+11",
-          "changePercent": "+0.88%"
-        },
-        {
-          "code": "8163",
-          "name": "ＳＲＳＨＤ",
-          "market": "東Ｐ",
-          "price": "1,264",
-          "change": "+11",
-          "changePercent": "+0.88%"
-        },
-        {
-          "code": "2789",
-          "name": "カルラ",
-          "market": "東Ｓ",
-          "price": "467",
-          "change": "+4",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "7522",
-          "name": "ワタミ",
-          "market": "東Ｐ",
-          "price": "939",
-          "change": "+8",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "9856",
-          "name": "ケーユーＨＤ",
-          "market": "東Ｓ",
-          "price": "1,172",
-          "change": "+10",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "3196",
-          "name": "ホットランド",
-          "market": "東Ｐ",
-          "price": "1,585",
-          "change": "+13",
-          "changePercent": "+0.83%"
-        },
-        {
-          "code": "3395",
-          "name": "サンマルク",
-          "market": "東Ｐ",
-          "price": "2,580",
-          "change": "+21",
-          "changePercent": "+0.82%"
-        },
-        {
-          "code": "8282",
-          "name": "ケーズＨＤ",
-          "market": "東Ｐ",
-          "price": "1,840.0",
-          "change": "+15.0",
-          "changePercent": "+0.82%"
-        },
-        {
-          "code": "9989",
-          "name": "サンドラッグ",
-          "market": "東Ｐ",
-          "price": "3,903",
-          "change": "+31",
-          "changePercent": "+0.80%"
-        },
-        {
-          "code": "2742",
-          "name": "ハローズ",
-          "market": "東Ｐ",
-          "price": "3,835",
-          "change": "+30",
-          "changePercent": "+0.79%"
-        },
-        {
-          "code": "9990",
-          "name": "サックスバー",
-          "market": "東Ｐ",
-          "price": "770",
+          "price": "174",
           "change": "+6",
-          "changePercent": "+0.79%"
+          "changePercent": "+3.57%"
         },
         {
-          "code": "3536",
-          "name": "アクサスＨＤ",
-          "market": "東Ｓ",
-          "price": "130",
-          "change": "+1",
-          "changePercent": "+0.78%"
-        },
-        {
-          "code": "5892",
-          "name": "ユトリ",
-          "market": "東Ｇ",
-          "price": "2,100",
-          "change": "+16",
-          "changePercent": "+0.77%"
-        },
-        {
-          "code": "9976",
-          "name": "セキチュー",
-          "market": "東Ｓ",
-          "price": "1,042",
-          "change": "+8",
-          "changePercent": "+0.77%"
-        },
-        {
-          "code": "8252",
-          "name": "丸井Ｇ",
+          "code": "9267",
+          "name": "Ｇｅｎｋｙ",
           "market": "東Ｐ",
-          "price": "3,004.0",
-          "change": "+22.5",
-          "changePercent": "+0.75%"
+          "price": "3,895",
+          "change": "+130",
+          "changePercent": "+3.45%"
         },
         {
           "code": "138A",
           "name": "光フードＳ",
           "market": "東Ｇ",
-          "price": "2,995",
-          "change": "+22",
-          "changePercent": "+0.74%"
+          "price": "3,095",
+          "change": "+100",
+          "changePercent": "+3.34%"
         },
         {
-          "code": "2752",
-          "name": "フジオフード",
-          "market": "東Ｐ",
-          "price": "1,099",
-          "change": "+8",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "3064",
-          "name": "モノタロウ",
-          "market": "東Ｐ",
-          "price": "1,941.0",
-          "change": "+14.0",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "9850",
-          "name": "グルメ杵屋",
-          "market": "東Ｐ",
-          "price": "967",
-          "change": "+7",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "7554",
-          "name": "幸楽苑",
-          "market": "東Ｐ",
-          "price": "1,114",
-          "change": "+8",
-          "changePercent": "+0.72%"
-        },
-        {
-          "code": "8281",
-          "name": "ゼビオＨＤ",
-          "market": "東Ｐ",
-          "price": "1,115",
-          "change": "+8",
-          "changePercent": "+0.72%"
-        },
-        {
-          "code": "7463",
-          "name": "アドヴァンＧ",
+          "code": "2652",
+          "name": "まんだらけ",
           "market": "東Ｓ",
-          "price": "917",
-          "change": "+6",
-          "changePercent": "+0.66%"
+          "price": "438",
+          "change": "+14",
+          "changePercent": "+3.30%"
         },
         {
-          "code": "7625",
-          "name": "Ｇダイニング",
-          "market": "東Ｓ",
-          "price": "455",
-          "change": "+3",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "7593",
-          "name": "ＶＴＨＤ",
+          "code": "9278",
+          "name": "ブックオフＧ",
           "market": "東Ｐ",
-          "price": "470",
-          "change": "+3",
-          "changePercent": "+0.64%"
+          "price": "2,235",
+          "change": "+69",
+          "changePercent": "+3.19%"
         },
         {
-          "code": "7513",
-          "name": "コジマ",
+          "code": "3563",
+          "name": "Ｆ＆ＬＣ",
           "market": "東Ｐ",
-          "price": "1,295",
-          "change": "+8",
-          "changePercent": "+0.62%"
+          "price": "4,931",
+          "change": "+152",
+          "changePercent": "+3.18%"
         },
         {
-          "code": "3352",
-          "name": "バッファロー",
-          "market": "東Ｓ",
-          "price": "1,655",
-          "change": "+10",
-          "changePercent": "+0.61%"
-        },
-        {
-          "code": "8185",
-          "name": "チヨダ",
+          "code": "2734",
+          "name": "サーラ",
           "market": "東Ｐ",
-          "price": "996",
-          "change": "+6",
-          "changePercent": "+0.61%"
+          "price": "1,156",
+          "change": "+35",
+          "changePercent": "+3.12%"
         },
         {
-          "code": "2664",
-          "name": "カワチ薬品",
+          "code": "5889",
+          "name": "ＪＥＨ",
           "market": "東Ｐ",
-          "price": "3,380",
-          "change": "+20",
-          "changePercent": "+0.60%"
+          "price": "2,497",
+          "change": "+75",
+          "changePercent": "+3.10%"
         },
         {
-          "code": "7601",
-          "name": "ポプラ",
-          "market": "東Ｓ",
-          "price": "167",
-          "change": "+1",
-          "changePercent": "+0.60%"
+          "code": "8237",
+          "name": "松屋",
+          "market": "東Ｐ",
+          "price": "1,696",
+          "change": "+51",
+          "changePercent": "+3.10%"
         },
         {
-          "code": "7640",
-          "name": "トップカルチ",
-          "market": "東Ｓ",
-          "price": "167",
-          "change": "+1",
-          "changePercent": "+0.60%"
-        },
-        {
-          "code": "7110",
-          "name": "クラシコム",
+          "code": "3187",
+          "name": "ミラタップ",
           "market": "東Ｇ",
-          "price": "2,044",
-          "change": "+12",
-          "changePercent": "+0.59%"
-        },
-        {
-          "code": "2698",
-          "name": "キャンドゥ",
-          "market": "東Ｓ",
-          "price": "3,535",
-          "change": "+20",
-          "changePercent": "+0.57%"
-        },
-        {
-          "code": "3028",
-          "name": "アルペン",
-          "market": "東Ｐ",
-          "price": "2,119",
-          "change": "+12",
-          "changePercent": "+0.57%"
-        },
-        {
-          "code": "7508",
-          "name": "ＧセブンＨＤ",
-          "market": "東Ｐ",
-          "price": "1,422",
+          "price": "279",
           "change": "+8",
-          "changePercent": "+0.57%"
+          "changePercent": "+2.95%"
         },
         {
           "code": "7606",
           "name": "Ｕアローズ",
           "market": "東Ｐ",
-          "price": "2,470",
+          "price": "2,538",
+          "change": "+68",
+          "changePercent": "+2.75%"
+        },
+        {
+          "code": "4350",
+          "name": "メディシス",
+          "market": "東Ｓ",
+          "price": "493",
+          "change": "+13",
+          "changePercent": "+2.71%"
+        },
+        {
+          "code": "8233",
+          "name": "高島屋",
+          "market": "東Ｐ",
+          "price": "2,324.0",
+          "change": "+61.0",
+          "changePercent": "+2.70%"
+        },
+        {
+          "code": "3086",
+          "name": "Ｊフロント",
+          "market": "東Ｐ",
+          "price": "3,192.0",
+          "change": "+80.0",
+          "changePercent": "+2.57%"
+        },
+        {
+          "code": "2656",
+          "name": "ベクターＨＤ",
+          "market": "東Ｓ",
+          "price": "161",
+          "change": "+4",
+          "changePercent": "+2.55%"
+        },
+        {
+          "code": "7581",
+          "name": "サイゼリヤ",
+          "market": "東Ｐ",
+          "price": "5,770",
+          "change": "+140",
+          "changePercent": "+2.49%"
+        },
+        {
+          "code": "2674",
+          "name": "ハードオフ",
+          "market": "東Ｐ",
+          "price": "2,742",
+          "change": "+60",
+          "changePercent": "+2.24%"
+        },
+        {
+          "code": "9903",
+          "name": "カンセキ",
+          "market": "東Ｓ",
+          "price": "920",
+          "change": "+20",
+          "changePercent": "+2.22%"
+        },
+        {
+          "code": "7679",
+          "name": "薬王堂ＨＤ",
+          "market": "東Ｐ",
+          "price": "1,672",
+          "change": "+36",
+          "changePercent": "+2.20%"
+        },
+        {
+          "code": "7615",
+          "name": "京都友禅ＨＤ",
+          "market": "東Ｓ",
+          "price": "96",
+          "change": "+2",
+          "changePercent": "+2.13%"
+        },
+        {
+          "code": "7695",
+          "name": "交換できる",
+          "market": "東Ｇ",
+          "price": "751",
+          "change": "+15",
+          "changePercent": "+2.04%"
+        },
+        {
+          "code": "3557",
+          "name": "Ｕ＆Ｃ",
+          "market": "東Ｇ",
+          "price": "555",
+          "change": "+11",
+          "changePercent": "+2.02%"
+        },
+        {
+          "code": "3197",
+          "name": "すかいらーく",
+          "market": "東Ｐ",
+          "price": "2,995.0",
+          "change": "+58.5",
+          "changePercent": "+1.99%"
+        },
+        {
+          "code": "3416",
+          "name": "ピクスタ",
+          "market": "東Ｓ",
+          "price": "838",
+          "change": "+16",
+          "changePercent": "+1.95%"
+        },
+        {
+          "code": "3064",
+          "name": "モノタロウ",
+          "market": "東Ｐ",
+          "price": "1,978.0",
+          "change": "+37.0",
+          "changePercent": "+1.91%"
+        },
+        {
+          "code": "2782",
+          "name": "セリア",
+          "market": "東Ｓ",
+          "price": "3,735",
+          "change": "+65",
+          "changePercent": "+1.77%"
+        },
+        {
+          "code": "3222",
+          "name": "ＵＳＭＨ",
+          "market": "東Ｓ",
+          "price": "832",
           "change": "+14",
-          "changePercent": "+0.57%"
+          "changePercent": "+1.71%"
         },
         {
-          "code": "3053",
-          "name": "ペッパー",
+          "code": "3138",
+          "name": "富士山ＭＳ",
           "market": "東Ｓ",
-          "price": "180",
+          "price": "1,149",
+          "change": "+19",
+          "changePercent": "+1.68%"
+        },
+        {
+          "code": "3034",
+          "name": "クオールＨＤ",
+          "market": "東Ｐ",
+          "price": "2,018",
+          "change": "+33",
+          "changePercent": "+1.66%"
+        },
+        {
+          "code": "3063",
+          "name": "Ｊグループ",
+          "market": "東Ｇ",
+          "price": "1,238",
+          "change": "+20",
+          "changePercent": "+1.64%"
+        },
+        {
+          "code": "8181",
+          "name": "東天紅",
+          "market": "東Ｓ",
+          "price": "1,037",
+          "change": "+16",
+          "changePercent": "+1.57%"
+        },
+        {
+          "code": "3099",
+          "name": "三越伊勢丹",
+          "market": "東Ｐ",
+          "price": "3,807",
+          "change": "+57",
+          "changePercent": "+1.52%"
+        },
+        {
+          "code": "3077",
+          "name": "ホリイフード",
+          "market": "東Ｓ",
+          "price": "815",
+          "change": "+12",
+          "changePercent": "+1.49%"
+        },
+        {
+          "code": "7134",
+          "name": "アップガレＧ",
+          "market": "東Ｓ",
+          "price": "1,330",
+          "change": "+19",
+          "changePercent": "+1.45%"
+        },
+        {
+          "code": "3137",
+          "name": "ファンデリー",
+          "market": "東Ｓ",
+          "price": "212",
+          "change": "+3",
+          "changePercent": "+1.44%"
+        },
+        {
+          "code": "3224",
+          "name": "Ｇオイスター",
+          "market": "東Ｇ",
+          "price": "715",
+          "change": "+10",
+          "changePercent": "+1.42%"
+        },
+        {
+          "code": "7515",
+          "name": "マルヨシ",
+          "market": "東Ｓ",
+          "price": "4,675",
+          "change": "+65",
+          "changePercent": "+1.41%"
+        },
+        {
+          "code": "7616",
+          "name": "コロワイド",
+          "market": "東Ｐ",
+          "price": "1,897.0",
+          "change": "+25.5",
+          "changePercent": "+1.36%"
+        },
+        {
+          "code": "8242",
+          "name": "Ｈ２Ｏリテイ",
+          "market": "東Ｐ",
+          "price": "2,868.5",
+          "change": "+38.5",
+          "changePercent": "+1.36%"
+        },
+        {
+          "code": "8008",
+          "name": "４℃ホールデ",
+          "market": "東Ｐ",
+          "price": "2,000",
+          "change": "+25",
+          "changePercent": "+1.27%"
+        },
+        {
+          "code": "8166",
+          "name": "タカキュー",
+          "market": "東Ｓ",
+          "price": "80",
           "change": "+1",
+          "changePercent": "+1.27%"
+        },
+        {
+          "code": "9887",
+          "name": "松屋フーズ",
+          "market": "東Ｐ",
+          "price": "4,950",
+          "change": "+60",
+          "changePercent": "+1.23%"
+        },
+        {
+          "code": "3097",
+          "name": "物語コーポ",
+          "market": "東Ｐ",
+          "price": "5,110",
+          "change": "+60",
+          "changePercent": "+1.19%"
+        },
+        {
+          "code": "2780",
+          "name": "コメ兵ＨＤ",
+          "market": "東Ｓ",
+          "price": "5,220",
+          "change": "+60",
+          "changePercent": "+1.16%"
+        },
+        {
+          "code": "3058",
+          "name": "三洋堂ＨＤ",
+          "market": "東Ｓ",
+          "price": "698",
+          "change": "+8",
+          "changePercent": "+1.16%"
+        },
+        {
+          "code": "8244",
+          "name": "近鉄百",
+          "market": "東Ｓ",
+          "price": "1,858",
+          "change": "+21",
+          "changePercent": "+1.14%"
+        },
+        {
+          "code": "2695",
+          "name": "くら寿司",
+          "market": "東Ｐ",
+          "price": "1,612",
+          "change": "+18",
+          "changePercent": "+1.13%"
+        },
+        {
+          "code": "3397",
+          "name": "トリドール",
+          "market": "東Ｐ",
+          "price": "4,026",
+          "change": "+43",
+          "changePercent": "+1.08%"
+        },
+        {
+          "code": "3387",
+          "name": "クリレスＨＤ",
+          "market": "東Ｐ",
+          "price": "753",
+          "change": "+8",
+          "changePercent": "+1.07%"
+        },
+        {
+          "code": "3087",
+          "name": "ドトル日レス",
+          "market": "東Ｐ",
+          "price": "2,772",
+          "change": "+28",
+          "changePercent": "+1.02%"
+        },
+        {
+          "code": "2654",
+          "name": "アスモ",
+          "market": "東Ｓ",
+          "price": "401",
+          "change": "+4",
+          "changePercent": "+1.01%"
+        },
+        {
+          "code": "3071",
+          "name": "ストリーム",
+          "market": "東Ｓ",
+          "price": "101",
+          "change": "+1",
+          "changePercent": "+1.00%"
+        },
+        {
+          "code": "9831",
+          "name": "ヤマダＨＤ",
+          "market": "東Ｐ",
+          "price": "658.9",
+          "change": "+6.3",
+          "changePercent": "+0.97%"
+        },
+        {
+          "code": "7522",
+          "name": "ワタミ",
+          "market": "東Ｐ",
+          "price": "948",
+          "change": "+9",
+          "changePercent": "+0.96%"
+        },
+        {
+          "code": "9942",
+          "name": "ジョイフル",
+          "market": "福証",
+          "price": "1,267",
+          "change": "+12",
+          "changePercent": "+0.96%"
+        },
+        {
+          "code": "3091",
+          "name": "ブロンコＢ",
+          "market": "東Ｐ",
+          "price": "2,267",
+          "change": "+21",
+          "changePercent": "+0.93%"
+        },
+        {
+          "code": "2790",
+          "name": "ナフコ",
+          "market": "東Ｓ",
+          "price": "2,197",
+          "change": "+20",
+          "changePercent": "+0.92%"
+        },
+        {
+          "code": "8165",
+          "name": "千趣会",
+          "market": "東Ｓ",
+          "price": "112",
+          "change": "+1",
+          "changePercent": "+0.90%"
+        },
+        {
+          "code": "3538",
+          "name": "ウイルプラス",
+          "market": "東Ｓ",
+          "price": "938",
+          "change": "+8",
+          "changePercent": "+0.86%"
+        },
+        {
+          "code": "2722",
+          "name": "アイケイＨＤ",
+          "market": "東Ｓ",
+          "price": "356",
+          "change": "+3",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "7646",
+          "name": "ＰＬＡＮＴ",
+          "market": "東Ｓ",
+          "price": "1,790",
+          "change": "+15",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "3182",
+          "name": "オイシックス",
+          "market": "東Ｐ",
+          "price": "1,554",
+          "change": "+13",
+          "changePercent": "+0.84%"
+        },
+        {
+          "code": "2730",
+          "name": "エディオン",
+          "market": "東Ｐ",
+          "price": "2,300",
+          "change": "+19",
+          "changePercent": "+0.83%"
+        },
+        {
+          "code": "3088",
+          "name": "マツキヨココ",
+          "market": "東Ｐ",
+          "price": "2,528.0",
+          "change": "+20.5",
+          "changePercent": "+0.82%"
+        },
+        {
+          "code": "3093",
+          "name": "トレファク",
+          "market": "東Ｐ",
+          "price": "2,290",
+          "change": "+18",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "3178",
+          "name": "チムニー",
+          "market": "東Ｓ",
+          "price": "1,160",
+          "change": "+9",
+          "changePercent": "+0.78%"
+        },
+        {
+          "code": "3221",
+          "name": "ヨシックス",
+          "market": "東Ｐ",
+          "price": "3,270",
+          "change": "+25",
+          "changePercent": "+0.77%"
+        },
+        {
+          "code": "8282",
+          "name": "ケーズＨＤ",
+          "market": "東Ｐ",
+          "price": "1,854.0",
+          "change": "+14.0",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "9861",
+          "name": "吉野家ＨＤ",
+          "market": "東Ｐ",
+          "price": "3,329.0",
+          "change": "+25.0",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "7532",
+          "name": "パンパシＨＤ",
+          "market": "東Ｐ",
+          "price": "873.2",
+          "change": "+6.5",
+          "changePercent": "+0.75%"
+        },
+        {
+          "code": "2664",
+          "name": "カワチ薬品",
+          "market": "東Ｐ",
+          "price": "3,405",
+          "change": "+25",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "8179",
+          "name": "ロイヤルＨＤ",
+          "market": "東Ｐ",
+          "price": "1,257",
+          "change": "+9",
+          "changePercent": "+0.72%"
+        },
+        {
+          "code": "3059",
+          "name": "ヒラキ",
+          "market": "東Ｓ",
+          "price": "712",
+          "change": "+5",
+          "changePercent": "+0.71%"
+        },
+        {
+          "code": "9997",
+          "name": "ベルーナ",
+          "market": "東Ｐ",
+          "price": "990",
+          "change": "+7",
+          "changePercent": "+0.71%"
+        },
+        {
+          "code": "8005",
+          "name": "スクロール",
+          "market": "東Ｐ",
+          "price": "1,723",
+          "change": "+12",
+          "changePercent": "+0.70%"
+        },
+        {
+          "code": "9846",
+          "name": "天満屋ス",
+          "market": "東Ｓ",
+          "price": "1,007",
+          "change": "+7",
+          "changePercent": "+0.70%"
+        },
+        {
+          "code": "3028",
+          "name": "アルペン",
+          "market": "東Ｐ",
+          "price": "2,133",
+          "change": "+14",
+          "changePercent": "+0.66%"
+        },
+        {
+          "code": "2678",
+          "name": "アスクル",
+          "market": "東Ｐ",
+          "price": "1,264",
+          "change": "+8",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "8217",
+          "name": "オークワ",
+          "market": "東Ｐ",
+          "price": "795",
+          "change": "+5",
+          "changePercent": "+0.63%"
+        },
+        {
+          "code": "7621",
+          "name": "うかい",
+          "market": "東Ｓ",
+          "price": "3,325",
+          "change": "+20",
+          "changePercent": "+0.61%"
+        },
+        {
+          "code": "7601",
+          "name": "ポプラ",
+          "market": "東Ｓ",
+          "price": "168",
+          "change": "+1",
+          "changePercent": "+0.60%"
+        },
+        {
+          "code": "2736",
+          "name": "フェスタリア",
+          "market": "東Ｓ",
+          "price": "684",
+          "change": "+4",
+          "changePercent": "+0.59%"
+        },
+        {
+          "code": "7512",
+          "name": "イオン北海道",
+          "market": "東Ｓ",
+          "price": "858",
+          "change": "+5",
+          "changePercent": "+0.59%"
+        },
+        {
+          "code": "9842",
+          "name": "アークランズ",
+          "market": "東Ｐ",
+          "price": "1,891",
+          "change": "+11",
+          "changePercent": "+0.59%"
+        },
+        {
+          "code": "3096",
+          "name": "オーシャンシ",
+          "market": "東Ｓ",
+          "price": "1,610",
+          "change": "+9",
           "changePercent": "+0.56%"
         },
         {
-          "code": "3361",
-          "name": "トーエル",
+          "code": "3159",
+          "name": "丸善ＣＨＩ",
           "market": "東Ｓ",
-          "price": "892",
-          "change": "+5",
+          "price": "362",
+          "change": "+2",
           "changePercent": "+0.56%"
+        },
+        {
+          "code": "8200",
+          "name": "リンガハット",
+          "market": "東Ｐ",
+          "price": "2,214",
+          "change": "+12",
+          "changePercent": "+0.54%"
+        },
+        {
+          "code": "7119",
+          "name": "ハルメク",
+          "market": "東Ｇ",
+          "price": "1,697",
+          "change": "+9",
+          "changePercent": "+0.53%"
+        },
+        {
+          "code": "9990",
+          "name": "サックスバー",
+          "market": "東Ｐ",
+          "price": "774",
+          "change": "+4",
+          "changePercent": "+0.52%"
+        },
+        {
+          "code": "3092",
+          "name": "ＺＯＺＯ",
+          "market": "東Ｐ",
+          "price": "1,189.5",
+          "change": "+6.0",
+          "changePercent": "+0.51%"
+        },
+        {
+          "code": "3050",
+          "name": "ＤＣＭ",
+          "market": "東Ｐ",
+          "price": "1,528",
+          "change": "+7",
+          "changePercent": "+0.46%"
+        },
+        {
+          "code": "3333",
+          "name": "あさひ",
+          "market": "東Ｐ",
+          "price": "1,342",
+          "change": "+6",
+          "changePercent": "+0.45%"
+        },
+        {
+          "code": "7416",
+          "name": "はるやまＨＤ",
+          "market": "東Ｓ",
+          "price": "666",
+          "change": "+3",
+          "changePercent": "+0.45%"
+        },
+        {
+          "code": "3418",
+          "name": "バルニバービ",
+          "market": "東Ｇ",
+          "price": "1,149",
+          "change": "+5",
+          "changePercent": "+0.44%"
+        },
+        {
+          "code": "9994",
+          "name": "やまや",
+          "market": "東Ｓ",
+          "price": "2,065",
+          "change": "+9",
+          "changePercent": "+0.44%"
+        },
+        {
+          "code": "7112",
+          "name": "キューブ",
+          "market": "東Ｇ",
+          "price": "705",
+          "change": "+3",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "7127",
+          "name": "一家ＨＤ",
+          "market": "東Ｓ",
+          "price": "708",
+          "change": "+3",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "7494",
+          "name": "コナカ",
+          "market": "東Ｓ",
+          "price": "233",
+          "change": "+1",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "9969",
+          "name": "ショクブン",
+          "market": "東Ｓ",
+          "price": "234",
+          "change": "+1",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "3082",
+          "name": "きちりＨＤ",
+          "market": "東Ｓ",
+          "price": "956",
+          "change": "+4",
+          "changePercent": "+0.42%"
+        },
+        {
+          "code": "3375",
+          "name": "ＺＯＡ",
+          "market": "東Ｓ",
+          "price": "1,712",
+          "change": "+7",
+          "changePercent": "+0.41%"
+        },
+        {
+          "code": "7643",
+          "name": "ダイイチ",
+          "market": "東Ｓ",
+          "price": "1,709",
+          "change": "+7",
+          "changePercent": "+0.41%"
+        },
+        {
+          "code": "3556",
+          "name": "リネットＪ",
+          "market": "東Ｇ",
+          "price": "759",
+          "change": "+3",
+          "changePercent": "+0.40%"
+        },
+        {
+          "code": "3195",
+          "name": "ジェネパ",
+          "market": "東Ｓ",
+          "price": "513",
+          "change": "+2",
+          "changePercent": "+0.39%"
+        },
+        {
+          "code": "3395",
+          "name": "サンマルク",
+          "market": "東Ｐ",
+          "price": "2,590",
+          "change": "+10",
+          "changePercent": "+0.39%"
+        },
+        {
+          "code": "3196",
+          "name": "ホットランド",
+          "market": "東Ｐ",
+          "price": "1,591",
+          "change": "+6",
+          "changePercent": "+0.38%"
+        },
+        {
+          "code": "8160",
+          "name": "木曽路",
+          "market": "東Ｐ",
+          "price": "2,389",
+          "change": "+9",
+          "changePercent": "+0.38%"
+        },
+        {
+          "code": "7554",
+          "name": "幸楽苑",
+          "market": "東Ｐ",
+          "price": "1,118",
+          "change": "+4",
+          "changePercent": "+0.36%"
+        },
+        {
+          "code": "8207",
+          "name": "テンアライド",
+          "market": "東Ｓ",
+          "price": "290",
+          "change": "+1",
+          "changePercent": "+0.35%"
+        },
+        {
+          "code": "8278",
+          "name": "フジ",
+          "market": "東Ｐ",
+          "price": "2,027",
+          "change": "+7",
+          "changePercent": "+0.35%"
+        },
+        {
+          "code": "7630",
+          "name": "壱番屋",
+          "market": "東Ｐ",
+          "price": "921",
+          "change": "+3",
+          "changePercent": "+0.33%"
+        },
+        {
+          "code": "9828",
+          "name": "ゲンキＧＤＣ",
+          "market": "東Ｓ",
+          "price": "3,180",
+          "change": "+10",
+          "changePercent": "+0.32%"
+        },
+        {
+          "code": "386A",
+          "name": "みのや",
+          "market": "東Ｓ",
+          "price": "1,278",
+          "change": "+4",
+          "changePercent": "+0.31%"
+        },
+        {
+          "code": "3148",
+          "name": "クリエイトＳ",
+          "market": "東Ｐ",
+          "price": "3,355",
+          "change": "+10",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "3169",
+          "name": "ミサワ",
+          "market": "東Ｓ",
+          "price": "658",
+          "change": "+2",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "7561",
+          "name": "ハークスレイ",
+          "market": "東Ｓ",
+          "price": "666",
+          "change": "+2",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "3199",
+          "name": "綿半ＨＤ",
+          "market": "東Ｐ",
+          "price": "1,370",
+          "change": "+4",
+          "changePercent": "+0.29%"
+        },
+        {
+          "code": "3549",
+          "name": "クスリアオキ",
+          "market": "東Ｓ",
+          "price": "3,964",
+          "change": "+11",
+          "changePercent": "+0.28%"
+        },
+        {
+          "code": "8218",
+          "name": "コメリ",
+          "market": "東Ｐ",
+          "price": "3,520",
+          "change": "+10",
+          "changePercent": "+0.28%"
+        },
+        {
+          "code": "3726",
+          "name": "フォーシーズ",
+          "market": "東Ｓ",
+          "price": "369",
+          "change": "+1",
+          "changePercent": "+0.27%"
+        },
+        {
+          "code": "245A",
+          "name": "ＩＮＧＳ",
+          "market": "東Ｇ",
+          "price": "2,355",
+          "change": "+6",
+          "changePercent": "+0.26%"
+        },
+        {
+          "code": "7129",
+          "name": "ミアヘルサ",
+          "market": "東Ｓ",
+          "price": "1,150",
+          "change": "+3",
+          "changePercent": "+0.26%"
         },
         {
           "code": "3544",
           "name": "サツドラＨＤ",
           "market": "東Ｓ",
-          "price": "1,247",
-          "change": "+7",
-          "changePercent": "+0.56%"
+          "price": "1,250",
+          "change": "+3",
+          "changePercent": "+0.24%"
         },
         {
-          "code": "3175",
-          "name": "ＡＰＨＤ",
-          "market": "東Ｓ",
-          "price": "946",
-          "change": "+5",
-          "changePercent": "+0.53%"
-        },
-        {
-          "code": "2928",
-          "name": "ＲＩＺＡＰ",
-          "market": "札Ａ",
-          "price": "192",
-          "change": "+1",
-          "changePercent": "+0.52%"
-        },
-        {
-          "code": "7412",
-          "name": "アトム",
-          "market": "東Ｓ",
-          "price": "390",
-          "change": "+2",
-          "changePercent": "+0.52%"
-        },
-        {
-          "code": "3561",
-          "name": "力の源ＨＤ",
+          "code": "9936",
+          "name": "王将フード",
           "market": "東Ｐ",
-          "price": "1,573",
-          "change": "+8",
-          "changePercent": "+0.51%"
+          "price": "2,954",
+          "change": "+7",
+          "changePercent": "+0.24%"
+        },
+        {
+          "code": "3067",
+          "name": "東京一番",
+          "market": "東Ｓ",
+          "price": "452",
+          "change": "+1",
+          "changePercent": "+0.22%"
         },
         {
           "code": "8174",
           "name": "日ガス",
           "market": "東Ｐ",
-          "price": "2,889.5",
-          "change": "+14.5",
-          "changePercent": "+0.50%"
+          "price": "2,896.0",
+          "change": "+6.5",
+          "changePercent": "+0.22%"
         },
         {
-          "code": "2747",
-          "name": "北雄ラッキー",
+          "code": "7593",
+          "name": "ＶＴＨＤ",
+          "market": "東Ｐ",
+          "price": "471",
+          "change": "+1",
+          "changePercent": "+0.21%"
+        },
+        {
+          "code": "7475",
+          "name": "アルビス",
+          "market": "東Ｐ",
+          "price": "2,533",
+          "change": "+5",
+          "changePercent": "+0.20%"
+        },
+        {
+          "code": "3065",
+          "name": "ライフフーズ",
           "market": "東Ｓ",
-          "price": "3,095",
-          "change": "+15",
-          "changePercent": "+0.49%"
+          "price": "1,622",
+          "change": "+3",
+          "changePercent": "+0.19%"
+        },
+        {
+          "code": "3135",
+          "name": "マーケットＥ",
+          "market": "東Ｓ",
+          "price": "1,042",
+          "change": "+2",
+          "changePercent": "+0.19%"
+        },
+        {
+          "code": "3191",
+          "name": "ジョイ本田",
+          "market": "東Ｐ",
+          "price": "2,268",
+          "change": "+4",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "7611",
+          "name": "ハイデ日高",
+          "market": "東Ｐ",
+          "price": "2,763",
+          "change": "+5",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "2798",
+          "name": "Ｙｓテーブル",
+          "market": "東Ｓ",
+          "price": "3,010",
+          "change": "+5",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "3172",
+          "name": "ティーライフ",
+          "market": "東Ｓ",
+          "price": "1,159",
+          "change": "+2",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "3190",
+          "name": "ホットマン",
+          "market": "東Ｓ",
+          "price": "573",
+          "change": "+1",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "367A",
+          "name": "プリモＧＨＤ",
+          "market": "東Ｓ",
+          "price": "2,950",
+          "change": "+5",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "417A",
+          "name": "ブルーゾーン",
+          "market": "東Ｐ",
+          "price": "1,803.0",
+          "change": "+3.0",
+          "changePercent": "+0.17%"
+        },
+        {
+          "code": "3066",
+          "name": "ＪＢイレブン",
+          "market": "名Ｍ",
+          "price": "620",
+          "change": "+1",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "3048",
+          "name": "ビックカメラ",
+          "market": "東Ｐ",
+          "price": "1,666.5",
+          "change": "+2.5",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "8276",
+          "name": "平和堂",
+          "market": "東Ｐ",
+          "price": "2,587",
+          "change": "+4",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "9262",
+          "name": "シルバライフ",
+          "market": "東Ｓ",
+          "price": "664",
+          "change": "+1",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "2698",
+          "name": "キャンドゥ",
+          "market": "東Ｓ",
+          "price": "3,540",
+          "change": "+5",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "7508",
+          "name": "ＧセブンＨＤ",
+          "market": "東Ｐ",
+          "price": "1,424",
+          "change": "+2",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "7520",
+          "name": "エコス",
+          "market": "東Ｐ",
+          "price": "2,352",
+          "change": "+3",
+          "changePercent": "+0.13%"
+        },
+        {
+          "code": "7562",
+          "name": "安楽亭",
+          "market": "東Ｓ",
+          "price": "3,785",
+          "change": "+5",
+          "changePercent": "+0.13%"
+        },
+        {
+          "code": "7649",
+          "name": "スギＨＤ",
+          "market": "東Ｐ",
+          "price": "3,287.0",
+          "change": "+4.0",
+          "changePercent": "+0.12%"
+        },
+        {
+          "code": "3175",
+          "name": "ＡＰＨＤ",
+          "market": "東Ｓ",
+          "price": "947",
+          "change": "+1",
+          "changePercent": "+0.11%"
+        },
+        {
+          "code": "7463",
+          "name": "アドヴァンＧ",
+          "market": "東Ｓ",
+          "price": "918",
+          "change": "+1",
+          "changePercent": "+0.11%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2266.15,
-          "changePercent": 0.39
-        },
         {
           "date": "20260625",
           "price": 2307.52,
@@ -17401,6 +17396,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2415.54,
           "changePercent": 1.01
+        },
+        {
+          "date": "20260708",
+          "price": 2411.45,
+          "changePercent": -0.17
         }
       ]
     },
@@ -17408,689 +17408,684 @@ window.sectorData = {
       "id": "7050",
       "nameJa": "銀行業",
       "nameEn": "Banks",
-      "price": 725.41,
-      "change": "+7.18",
-      "changePercent": 1,
+      "price": 727.14,
+      "change": "+1.73",
+      "changePercent": 0.24,
       "stocks": [
         {
-          "code": "8366",
-          "name": "滋賀銀",
+          "code": "8541",
+          "name": "愛媛銀",
           "market": "東Ｐ",
-          "price": "2,773",
-          "change": "+125",
-          "changePercent": "+4.72%"
+          "price": "2,341",
+          "change": "+136",
+          "changePercent": "+6.17%"
         },
         {
-          "code": "5838",
-          "name": "楽天銀",
+          "code": "8398",
+          "name": "筑邦銀",
+          "market": "福証",
+          "price": "2,110",
+          "change": "+96",
+          "changePercent": "+4.77%"
+        },
+        {
+          "code": "7389",
+          "name": "あいちＦＧ",
           "market": "東Ｐ",
-          "price": "5,646",
-          "change": "+221",
-          "changePercent": "+4.07%"
+          "price": "1,542",
+          "change": "+70",
+          "changePercent": "+4.76%"
+        },
+        {
+          "code": "7322",
+          "name": "三十三ＦＧ",
+          "market": "東Ｐ",
+          "price": "1,856",
+          "change": "+76",
+          "changePercent": "+4.27%"
+        },
+        {
+          "code": "7384",
+          "name": "プロクレＨＤ",
+          "market": "東Ｐ",
+          "price": "4,195",
+          "change": "+145",
+          "changePercent": "+3.58%"
         },
         {
           "code": "8364",
           "name": "清水銀",
           "market": "東Ｐ",
-          "price": "2,625",
-          "change": "+90",
-          "changePercent": "+3.55%"
+          "price": "2,719",
+          "change": "+94",
+          "changePercent": "+3.58%"
         },
         {
-          "code": "7184",
-          "name": "富山第一銀",
+          "code": "7380",
+          "name": "十六ＦＧ",
           "market": "東Ｐ",
-          "price": "2,760",
-          "change": "+70",
-          "changePercent": "+2.60%"
+          "price": "2,547",
+          "change": "+86",
+          "changePercent": "+3.49%"
         },
         {
-          "code": "8306",
-          "name": "三菱ＵＦＪ",
+          "code": "8393",
+          "name": "宮崎銀",
           "market": "東Ｐ",
-          "price": "3,446.0",
-          "change": "+76.0",
-          "changePercent": "+2.26%"
+          "price": "2,297",
+          "change": "+77",
+          "changePercent": "+3.47%"
         },
         {
-          "code": "8303",
-          "name": "ＳＢＩ新生銀",
+          "code": "8360",
+          "name": "山梨銀",
           "market": "東Ｐ",
-          "price": "1,498.0",
-          "change": "+31.0",
-          "changePercent": "+2.11%"
-        },
-        {
-          "code": "8331",
-          "name": "千葉銀",
-          "market": "東Ｐ",
-          "price": "2,756.5",
-          "change": "+51.0",
-          "changePercent": "+1.89%"
-        },
-        {
-          "code": "8308",
-          "name": "りそなＨＤ",
-          "market": "東Ｐ",
-          "price": "2,326.0",
-          "change": "+43.0",
-          "changePercent": "+1.88%"
-        },
-        {
-          "code": "8554",
-          "name": "南日銀",
-          "market": "福証",
-          "price": "1,274",
-          "change": "+23",
-          "changePercent": "+1.84%"
-        },
-        {
-          "code": "8365",
-          "name": "富山銀",
-          "market": "東Ｓ",
-          "price": "2,324",
-          "change": "+38",
-          "changePercent": "+1.66%"
-        },
-        {
-          "code": "7186",
-          "name": "横浜ＦＧ",
-          "market": "東Ｐ",
-          "price": "1,905.0",
-          "change": "+29.0",
-          "changePercent": "+1.55%"
+          "price": "6,600",
+          "change": "+220",
+          "changePercent": "+3.45%"
         },
         {
           "code": "8399",
           "name": "琉球銀",
           "market": "東Ｐ",
-          "price": "2,692",
-          "change": "+41",
-          "changePercent": "+1.55%"
-        },
-        {
-          "code": "8336",
-          "name": "武蔵銀",
-          "market": "東Ｐ",
-          "price": "2,601",
-          "change": "+38",
-          "changePercent": "+1.48%"
-        },
-        {
-          "code": "7150",
-          "name": "島根銀行",
-          "market": "東Ｓ",
-          "price": "495",
-          "change": "+7",
-          "changePercent": "+1.43%"
-        },
-        {
-          "code": "7182",
-          "name": "ゆうちょ銀",
-          "market": "東Ｐ",
-          "price": "3,307.0",
-          "change": "+45.0",
-          "changePercent": "+1.38%"
-        },
-        {
-          "code": "8395",
-          "name": "佐賀銀",
-          "market": "東Ｐ",
-          "price": "5,500",
-          "change": "+70",
-          "changePercent": "+1.29%"
-        },
-        {
-          "code": "8358",
-          "name": "スルガ銀",
-          "market": "東Ｐ",
-          "price": "2,605",
-          "change": "+32",
-          "changePercent": "+1.24%"
-        },
-        {
-          "code": "8542",
-          "name": "トマト銀",
-          "market": "東Ｓ",
-          "price": "1,530",
-          "change": "+18",
-          "changePercent": "+1.19%"
-        },
-        {
-          "code": "8345",
-          "name": "岩手銀",
-          "market": "東Ｐ",
-          "price": "2,125",
-          "change": "+24",
-          "changePercent": "+1.14%"
-        },
-        {
-          "code": "8524",
-          "name": "北洋銀",
-          "market": "東Ｐ",
-          "price": "1,151",
-          "change": "+13",
-          "changePercent": "+1.14%"
-        },
-        {
-          "code": "8550",
-          "name": "栃木銀",
-          "market": "東Ｐ",
-          "price": "982",
-          "change": "+11",
-          "changePercent": "+1.13%"
-        },
-        {
-          "code": "7173",
-          "name": "東京きらぼし",
-          "market": "東Ｐ",
-          "price": "1,800",
-          "change": "+20",
-          "changePercent": "+1.12%"
-        },
-        {
-          "code": "8387",
-          "name": "四国銀",
-          "market": "東Ｐ",
-          "price": "3,190",
-          "change": "+35",
-          "changePercent": "+1.11%"
-        },
-        {
-          "code": "8560",
-          "name": "宮崎太銀",
-          "market": "福証",
-          "price": "2,275",
-          "change": "+25",
-          "changePercent": "+1.11%"
-        },
-        {
-          "code": "8354",
-          "name": "ふくおかＦＧ",
-          "market": "東Ｐ",
-          "price": "7,398",
-          "change": "+74",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "8410",
-          "name": "セブン銀",
-          "market": "東Ｐ",
-          "price": "293.1",
-          "change": "+2.9",
-          "changePercent": "+1.00%"
+          "price": "2,779",
+          "change": "+87",
+          "changePercent": "+3.23%"
         },
         {
           "code": "8522",
           "name": "名古屋銀",
           "market": "東Ｐ",
-          "price": "6,360",
-          "change": "+60",
-          "changePercent": "+0.95%"
+          "price": "6,550",
+          "change": "+190",
+          "changePercent": "+2.99%"
+        },
+        {
+          "code": "8560",
+          "name": "宮崎太銀",
+          "market": "福証",
+          "price": "2,339",
+          "change": "+64",
+          "changePercent": "+2.81%"
+        },
+        {
+          "code": "7327",
+          "name": "第四北越ＦＧ",
+          "market": "東Ｐ",
+          "price": "2,264",
+          "change": "+59",
+          "changePercent": "+2.68%"
+        },
+        {
+          "code": "8334",
+          "name": "群馬銀",
+          "market": "東Ｐ",
+          "price": "2,506.5",
+          "change": "+64.5",
+          "changePercent": "+2.64%"
+        },
+        {
+          "code": "5838",
+          "name": "楽天銀",
+          "market": "東Ｐ",
+          "price": "5,787",
+          "change": "+141",
+          "changePercent": "+2.50%"
+        },
+        {
+          "code": "7167",
+          "name": "めぶきＦＧ",
+          "market": "東Ｐ",
+          "price": "1,565.5",
+          "change": "+37.5",
+          "changePercent": "+2.45%"
+        },
+        {
+          "code": "8346",
+          "name": "東邦銀",
+          "market": "東Ｐ",
+          "price": "835",
+          "change": "+19",
+          "changePercent": "+2.33%"
+        },
+        {
+          "code": "8386",
+          "name": "百十四",
+          "market": "東Ｐ",
+          "price": "2,695",
+          "change": "+59",
+          "changePercent": "+2.24%"
+        },
+        {
+          "code": "8387",
+          "name": "四国銀",
+          "market": "東Ｐ",
+          "price": "3,260",
+          "change": "+70",
+          "changePercent": "+2.19%"
+        },
+        {
+          "code": "8367",
+          "name": "南都銀",
+          "market": "東Ｐ",
+          "price": "1,878",
+          "change": "+40",
+          "changePercent": "+2.18%"
+        },
+        {
+          "code": "8524",
+          "name": "北洋銀",
+          "market": "東Ｐ",
+          "price": "1,176",
+          "change": "+25",
+          "changePercent": "+2.17%"
+        },
+        {
+          "code": "8343",
+          "name": "秋田銀",
+          "market": "東Ｐ",
+          "price": "7,190",
+          "change": "+150",
+          "changePercent": "+2.13%"
+        },
+        {
+          "code": "8341",
+          "name": "七十七",
+          "market": "東Ｐ",
+          "price": "3,568.0",
+          "change": "+73.0",
+          "changePercent": "+2.09%"
+        },
+        {
+          "code": "7184",
+          "name": "富山第一銀",
+          "market": "東Ｐ",
+          "price": "2,817",
+          "change": "+57",
+          "changePercent": "+2.07%"
+        },
+        {
+          "code": "8388",
+          "name": "阿波銀",
+          "market": "東Ｐ",
+          "price": "7,700",
+          "change": "+150",
+          "changePercent": "+1.99%"
+        },
+        {
+          "code": "8392",
+          "name": "大分銀",
+          "market": "東Ｐ",
+          "price": "2,564",
+          "change": "+49",
+          "changePercent": "+1.95%"
+        },
+        {
+          "code": "5832",
+          "name": "ちゅうぎんＦ",
+          "market": "東Ｐ",
+          "price": "3,296.0",
+          "change": "+61.0",
+          "changePercent": "+1.89%"
+        },
+        {
+          "code": "8361",
+          "name": "大垣共立",
+          "market": "東Ｐ",
+          "price": "8,070",
+          "change": "+150",
+          "changePercent": "+1.89%"
+        },
+        {
+          "code": "8395",
+          "name": "佐賀銀",
+          "market": "東Ｐ",
+          "price": "5,600",
+          "change": "+100",
+          "changePercent": "+1.82%"
+        },
+        {
+          "code": "8366",
+          "name": "滋賀銀",
+          "market": "東Ｐ",
+          "price": "2,821",
+          "change": "+48",
+          "changePercent": "+1.73%"
+        },
+        {
+          "code": "8418",
+          "name": "山口ＦＧ",
+          "market": "東Ｐ",
+          "price": "3,056.0",
+          "change": "+52.0",
+          "changePercent": "+1.73%"
+        },
+        {
+          "code": "8345",
+          "name": "岩手銀",
+          "market": "東Ｐ",
+          "price": "2,161",
+          "change": "+36",
+          "changePercent": "+1.69%"
+        },
+        {
+          "code": "8544",
+          "name": "京葉銀",
+          "market": "東Ｐ",
+          "price": "2,667",
+          "change": "+44",
+          "changePercent": "+1.68%"
+        },
+        {
+          "code": "7350",
+          "name": "おきなわＦＧ",
+          "market": "東Ｐ",
+          "price": "6,820",
+          "change": "+110",
+          "changePercent": "+1.64%"
+        },
+        {
+          "code": "8714",
+          "name": "池田泉州ＨＤ",
+          "market": "東Ｐ",
+          "price": "1,028",
+          "change": "+16",
+          "changePercent": "+1.58%"
+        },
+        {
+          "code": "8381",
+          "name": "山陰合銀",
+          "market": "東Ｐ",
+          "price": "2,478",
+          "change": "+35",
+          "changePercent": "+1.43%"
+        },
+        {
+          "code": "7337",
+          "name": "ひろぎんＨＤ",
+          "market": "東Ｐ",
+          "price": "2,242.0",
+          "change": "+30.5",
+          "changePercent": "+1.38%"
+        },
+        {
+          "code": "8308",
+          "name": "りそなＨＤ",
+          "market": "東Ｐ",
+          "price": "2,358.0",
+          "change": "+32.0",
+          "changePercent": "+1.38%"
+        },
+        {
+          "code": "8377",
+          "name": "ほくほくＦＧ",
+          "market": "東Ｐ",
+          "price": "7,432",
+          "change": "+100",
+          "changePercent": "+1.36%"
+        },
+        {
+          "code": "7381",
+          "name": "ＣＣＩＧ",
+          "market": "東Ｐ",
+          "price": "1,077",
+          "change": "+14",
+          "changePercent": "+1.32%"
+        },
+        {
+          "code": "8713",
+          "name": "フィデアＨＤ",
+          "market": "東Ｐ",
+          "price": "2,061",
+          "change": "+26",
+          "changePercent": "+1.28%"
+        },
+        {
+          "code": "7173",
+          "name": "東京きらぼし",
+          "market": "東Ｐ",
+          "price": "1,822",
+          "change": "+22",
+          "changePercent": "+1.22%"
+        },
+        {
+          "code": "8370",
+          "name": "紀陽銀",
+          "market": "東Ｐ",
+          "price": "4,640",
+          "change": "+55",
+          "changePercent": "+1.20%"
+        },
+        {
+          "code": "8336",
+          "name": "武蔵銀",
+          "market": "東Ｐ",
+          "price": "2,631",
+          "change": "+30",
+          "changePercent": "+1.15%"
+        },
+        {
+          "code": "7180",
+          "name": "九州ＦＧ",
+          "market": "東Ｐ",
+          "price": "1,531.5",
+          "change": "+17.0",
+          "changePercent": "+1.12%"
+        },
+        {
+          "code": "7189",
+          "name": "西日本ＦＨ",
+          "market": "東Ｐ",
+          "price": "4,332",
+          "change": "+48",
+          "changePercent": "+1.12%"
+        },
+        {
+          "code": "8359",
+          "name": "八十二長野",
+          "market": "東Ｐ",
+          "price": "2,582.0",
+          "change": "+28.0",
+          "changePercent": "+1.10%"
+        },
+        {
+          "code": "8354",
+          "name": "ふくおかＦＧ",
+          "market": "東Ｐ",
+          "price": "7,479",
+          "change": "+81",
+          "changePercent": "+1.09%"
+        },
+        {
+          "code": "5844",
+          "name": "京都ＦＧ",
+          "market": "東Ｐ",
+          "price": "4,758",
+          "change": "+39",
+          "changePercent": "+0.83%"
+        },
+        {
+          "code": "8337",
+          "name": "千葉興",
+          "market": "東Ｐ",
+          "price": "2,695",
+          "change": "+21",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "7186",
+          "name": "横浜ＦＧ",
+          "market": "東Ｐ",
+          "price": "1,919.5",
+          "change": "+14.5",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "8362",
+          "name": "福井銀",
+          "market": "東Ｐ",
+          "price": "6,090",
+          "change": "+40",
+          "changePercent": "+0.66%"
+        },
+        {
+          "code": "8365",
+          "name": "富山銀",
+          "market": "東Ｓ",
+          "price": "2,337",
+          "change": "+13",
+          "changePercent": "+0.56%"
+        },
+        {
+          "code": "8551",
+          "name": "北日銀",
+          "market": "東Ｐ",
+          "price": "5,730",
+          "change": "+30",
+          "changePercent": "+0.53%"
+        },
+        {
+          "code": "8550",
+          "name": "栃木銀",
+          "market": "東Ｐ",
+          "price": "987",
+          "change": "+5",
+          "changePercent": "+0.51%"
+        },
+        {
+          "code": "8358",
+          "name": "スルガ銀",
+          "market": "東Ｐ",
+          "price": "2,618",
+          "change": "+13",
+          "changePercent": "+0.50%"
+        },
+        {
+          "code": "8554",
+          "name": "南日銀",
+          "market": "福証",
+          "price": "1,280",
+          "change": "+6",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "8309",
+          "name": "三井住友トラ",
+          "market": "東Ｐ",
+          "price": "6,579",
+          "change": "+24",
+          "changePercent": "+0.37%"
+        },
+        {
+          "code": "8600",
+          "name": "トモニＨＤ",
+          "market": "東Ｐ",
+          "price": "910",
+          "change": "+3",
+          "changePercent": "+0.33%"
+        },
+        {
+          "code": "8368",
+          "name": "百五銀",
+          "market": "東Ｐ",
+          "price": "2,087",
+          "change": "+6",
+          "changePercent": "+0.29%"
+        },
+        {
+          "code": "8411",
+          "name": "みずほＦＧ",
+          "market": "東Ｐ",
+          "price": "8,250",
+          "change": "+23",
+          "changePercent": "+0.28%"
+        },
+        {
+          "code": "5830",
+          "name": "いよぎんＨＤ",
+          "market": "東Ｐ",
+          "price": "3,329.0",
+          "change": "+7.0",
+          "changePercent": "+0.21%"
+        },
+        {
+          "code": "5831",
+          "name": "しずおかＦＧ",
+          "market": "東Ｐ",
+          "price": "3,363.0",
+          "change": "+6.0",
+          "changePercent": "+0.18%"
+        },
+        {
+          "code": "8331",
+          "name": "千葉銀",
+          "market": "東Ｐ",
+          "price": "2,761.0",
+          "change": "+4.5",
+          "changePercent": "+0.16%"
+        },
+        {
+          "code": "8304",
+          "name": "あおぞら銀",
+          "market": "東Ｐ",
+          "price": "2,927.0",
+          "change": "+4.0",
+          "changePercent": "+0.14%"
+        },
+        {
+          "code": "8410",
+          "name": "セブン銀",
+          "market": "東Ｐ",
+          "price": "293.3",
+          "change": "+0.2",
+          "changePercent": "+0.07%"
+        },
+        {
+          "code": "8542",
+          "name": "トマト銀",
+          "market": "東Ｓ",
+          "price": "1,531",
+          "change": "+1",
+          "changePercent": "+0.07%"
         },
         {
           "code": "8383",
           "name": "鳥取銀",
           "market": "東Ｓ",
           "price": "1,618",
-          "change": "+14",
-          "changePercent": "+0.87%"
-        },
-        {
-          "code": "8559",
-          "name": "豊和銀",
-          "market": "福証",
-          "price": "470",
-          "change": "+4",
-          "changePercent": "+0.86%"
-        },
-        {
-          "code": "8349",
-          "name": "東北銀",
-          "market": "東Ｓ",
-          "price": "1,428",
-          "change": "+11",
-          "changePercent": "+0.78%"
-        },
-        {
-          "code": "7380",
-          "name": "十六ＦＧ",
-          "market": "東Ｐ",
-          "price": "2,461",
-          "change": "+18",
-          "changePercent": "+0.74%"
-        },
-        {
-          "code": "7381",
-          "name": "ＣＣＩＧ",
-          "market": "東Ｐ",
-          "price": "1,063",
-          "change": "+7",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "8381",
-          "name": "山陰合銀",
-          "market": "東Ｐ",
-          "price": "2,443",
-          "change": "+16",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "8370",
-          "name": "紀陽銀",
-          "market": "東Ｐ",
-          "price": "4,585",
-          "change": "+25",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "8600",
-          "name": "トモニＨＤ",
-          "market": "東Ｐ",
-          "price": "907",
-          "change": "+5",
-          "changePercent": "+0.55%"
-        },
-        {
-          "code": "8713",
-          "name": "フィデアＨＤ",
-          "market": "東Ｐ",
-          "price": "2,035",
-          "change": "+11",
-          "changePercent": "+0.54%"
-        },
-        {
-          "code": "8392",
-          "name": "大分銀",
-          "market": "東Ｐ",
-          "price": "2,515",
-          "change": "+13",
-          "changePercent": "+0.52%"
-        },
-        {
-          "code": "5831",
-          "name": "しずおかＦＧ",
-          "market": "東Ｐ",
-          "price": "3,357.0",
-          "change": "+16.0",
-          "changePercent": "+0.48%"
-        },
-        {
-          "code": "8343",
-          "name": "秋田銀",
-          "market": "東Ｐ",
-          "price": "7,040",
-          "change": "+30",
-          "changePercent": "+0.43%"
-        },
-        {
-          "code": "8388",
-          "name": "阿波銀",
-          "market": "東Ｐ",
-          "price": "7,550",
-          "change": "+30",
-          "changePercent": "+0.40%"
-        },
-        {
-          "code": "8411",
-          "name": "みずほＦＧ",
-          "market": "東Ｐ",
-          "price": "8,227",
-          "change": "+32",
-          "changePercent": "+0.39%"
-        },
-        {
-          "code": "8337",
-          "name": "千葉興",
-          "market": "東Ｐ",
-          "price": "2,674",
-          "change": "+10",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "8309",
-          "name": "三井住友トラ",
-          "market": "東Ｐ",
-          "price": "6,555",
-          "change": "+15",
-          "changePercent": "+0.23%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "8316",
           "name": "三井住友ＦＧ",
           "market": "東Ｐ",
-          "price": "6,812",
-          "change": "+12",
-          "changePercent": "+0.18%"
-        },
-        {
-          "code": "8359",
-          "name": "八十二長野",
-          "market": "東Ｐ",
-          "price": "2,554.0",
-          "change": "+4.0",
-          "changePercent": "+0.16%"
-        },
-        {
-          "code": "8368",
-          "name": "百五銀",
-          "market": "東Ｐ",
-          "price": "2,081",
-          "change": "+3",
-          "changePercent": "+0.14%"
-        },
-        {
-          "code": "8386",
-          "name": "百十四",
-          "market": "東Ｐ",
-          "price": "2,636",
-          "change": "+3",
-          "changePercent": "+0.11%"
-        },
-        {
-          "code": "5830",
-          "name": "いよぎんＨＤ",
-          "market": "東Ｐ",
-          "price": "3,322.0",
-          "change": "+2.0",
-          "changePercent": "+0.06%"
-        },
-        {
-          "code": "7161",
-          "name": "じもとＨＤ",
-          "market": "東Ｓ",
-          "price": "508",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8362",
-          "name": "福井銀",
-          "market": "東Ｐ",
-          "price": "6,050",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8541",
-          "name": "愛媛銀",
-          "market": "東Ｐ",
-          "price": "2,205",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7389",
-          "name": "あいちＦＧ",
-          "market": "東Ｐ",
-          "price": "1,472",
+          "price": "6,811",
           "change": "-1",
-          "changePercent": "-0.07%"
+          "changePercent": "-0.01%"
         },
         {
-          "code": "7167",
-          "name": "めぶきＦＧ",
+          "code": "7182",
+          "name": "ゆうちょ銀",
           "market": "東Ｐ",
-          "price": "1,528.0",
-          "change": "-1.5",
-          "changePercent": "-0.10%"
+          "price": "3,305.0",
+          "change": "-2.0",
+          "changePercent": "-0.06%"
         },
         {
-          "code": "8367",
-          "name": "南都銀",
-          "market": "東Ｐ",
-          "price": "1,838",
+          "code": "8349",
+          "name": "東北銀",
+          "market": "東Ｓ",
+          "price": "1,426",
           "change": "-2",
-          "changePercent": "-0.11%"
-        },
-        {
-          "code": "5832",
-          "name": "ちゅうぎんＦ",
-          "market": "東Ｐ",
-          "price": "3,235.0",
-          "change": "-5.0",
-          "changePercent": "-0.15%"
-        },
-        {
-          "code": "8416",
-          "name": "高知銀",
-          "market": "東Ｓ",
-          "price": "1,264",
-          "change": "-2",
-          "changePercent": "-0.16%"
-        },
-        {
-          "code": "8551",
-          "name": "北日銀",
-          "market": "東Ｐ",
-          "price": "5,700",
-          "change": "-10",
-          "changePercent": "-0.18%"
-        },
-        {
-          "code": "8361",
-          "name": "大垣共立",
-          "market": "東Ｐ",
-          "price": "7,920",
-          "change": "-20",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "7180",
-          "name": "九州ＦＧ",
-          "market": "東Ｐ",
-          "price": "1,514.5",
-          "change": "-4.5",
-          "changePercent": "-0.30%"
-        },
-        {
-          "code": "8304",
-          "name": "あおぞら銀",
-          "market": "東Ｐ",
-          "price": "2,923.0",
-          "change": "-10.0",
-          "changePercent": "-0.34%"
-        },
-        {
-          "code": "8398",
-          "name": "筑邦銀",
-          "market": "福証",
-          "price": "2,014",
-          "change": "-8",
-          "changePercent": "-0.40%"
-        },
-        {
-          "code": "8563",
-          "name": "大東銀",
-          "market": "東Ｓ",
-          "price": "985",
-          "change": "-4",
-          "changePercent": "-0.40%"
-        },
-        {
-          "code": "7350",
-          "name": "おきなわＦＧ",
-          "market": "東Ｐ",
-          "price": "6,710",
-          "change": "-30",
-          "changePercent": "-0.45%"
-        },
-        {
-          "code": "8562",
-          "name": "福島銀",
-          "market": "東Ｓ",
-          "price": "348",
-          "change": "-2",
-          "changePercent": "-0.57%"
-        },
-        {
-          "code": "8377",
-          "name": "ほくほくＦＧ",
-          "market": "東Ｐ",
-          "price": "7,332",
-          "change": "-47",
-          "changePercent": "-0.64%"
-        },
-        {
-          "code": "8418",
-          "name": "山口ＦＧ",
-          "market": "東Ｐ",
-          "price": "3,004.0",
-          "change": "-22.0",
-          "changePercent": "-0.73%"
-        },
-        {
-          "code": "7337",
-          "name": "ひろぎんＨＤ",
-          "market": "東Ｐ",
-          "price": "2,211.5",
-          "change": "-16.5",
-          "changePercent": "-0.74%"
-        },
-        {
-          "code": "7189",
-          "name": "西日本ＦＨ",
-          "market": "東Ｐ",
-          "price": "4,284",
-          "change": "-34",
-          "changePercent": "-0.79%"
-        },
-        {
-          "code": "8346",
-          "name": "東邦銀",
-          "market": "東Ｐ",
-          "price": "816",
-          "change": "-7",
-          "changePercent": "-0.85%"
-        },
-        {
-          "code": "8714",
-          "name": "池田泉州ＨＤ",
-          "market": "東Ｐ",
-          "price": "1,012",
-          "change": "-9",
-          "changePercent": "-0.88%"
-        },
-        {
-          "code": "8393",
-          "name": "宮崎銀",
-          "market": "東Ｐ",
-          "price": "2,220",
-          "change": "-20",
-          "changePercent": "-0.89%"
-        },
-        {
-          "code": "8537",
-          "name": "大光銀",
-          "market": "東Ｓ",
-          "price": "2,821",
-          "change": "-31",
-          "changePercent": "-1.09%"
-        },
-        {
-          "code": "7384",
-          "name": "プロクレＨＤ",
-          "market": "東Ｐ",
-          "price": "4,050",
-          "change": "-45",
-          "changePercent": "-1.10%"
-        },
-        {
-          "code": "8544",
-          "name": "京葉銀",
-          "market": "東Ｐ",
-          "price": "2,623",
-          "change": "-35",
-          "changePercent": "-1.32%"
-        },
-        {
-          "code": "8338",
-          "name": "筑波銀",
-          "market": "東Ｐ",
-          "price": "645",
-          "change": "-9",
-          "changePercent": "-1.38%"
-        },
-        {
-          "code": "8360",
-          "name": "山梨銀",
-          "market": "東Ｐ",
-          "price": "6,380",
-          "change": "-90",
-          "changePercent": "-1.39%"
-        },
-        {
-          "code": "8341",
-          "name": "七十七",
-          "market": "東Ｐ",
-          "price": "3,495.0",
-          "change": "-55.0",
-          "changePercent": "-1.55%"
-        },
-        {
-          "code": "8334",
-          "name": "群馬銀",
-          "market": "東Ｐ",
-          "price": "2,442.0",
-          "change": "-39.5",
-          "changePercent": "-1.59%"
-        },
-        {
-          "code": "5844",
-          "name": "京都ＦＧ",
-          "market": "東Ｐ",
-          "price": "4,719",
-          "change": "-86",
-          "changePercent": "-1.79%"
-        },
-        {
-          "code": "7322",
-          "name": "三十三ＦＧ",
-          "market": "東Ｐ",
-          "price": "1,780",
-          "change": "-36",
-          "changePercent": "-1.98%"
-        },
-        {
-          "code": "7327",
-          "name": "第四北越ＦＧ",
-          "market": "東Ｐ",
-          "price": "2,205",
-          "change": "-50",
-          "changePercent": "-2.22%"
+          "changePercent": "-0.14%"
         },
         {
           "code": "8344",
           "name": "山形銀",
           "market": "東Ｐ",
-          "price": "3,875",
-          "change": "-140",
-          "changePercent": "-3.49%"
-        },
-        {
-          "code": "8558",
-          "name": "東和銀",
-          "market": "東Ｐ",
-          "price": "1,401",
-          "change": "-130",
-          "changePercent": "-8.49%"
+          "price": "3,865",
+          "change": "-10",
+          "changePercent": "-0.26%"
         },
         {
           "code": "8301",
           "name": "日銀",
           "market": "東",
-          "price": "22,310",
-          "change": "－",
-          "changePercent": "－%"
+          "price": "22,230",
+          "change": "-80",
+          "changePercent": "-0.36%"
+        },
+        {
+          "code": "8558",
+          "name": "東和銀",
+          "market": "東Ｐ",
+          "price": "1,396",
+          "change": "-5",
+          "changePercent": "-0.36%"
+        },
+        {
+          "code": "8306",
+          "name": "三菱ＵＦＪ",
+          "market": "東Ｐ",
+          "price": "3,433.0",
+          "change": "-13.0",
+          "changePercent": "-0.38%"
+        },
+        {
+          "code": "8338",
+          "name": "筑波銀",
+          "market": "東Ｐ",
+          "price": "642",
+          "change": "-3",
+          "changePercent": "-0.47%"
+        },
+        {
+          "code": "8559",
+          "name": "豊和銀",
+          "market": "福証",
+          "price": "467",
+          "change": "-3",
+          "changePercent": "-0.64%"
+        },
+        {
+          "code": "8563",
+          "name": "大東銀",
+          "market": "東Ｓ",
+          "price": "978",
+          "change": "-7",
+          "changePercent": "-0.71%"
+        },
+        {
+          "code": "8562",
+          "name": "福島銀",
+          "market": "東Ｓ",
+          "price": "345",
+          "change": "-3",
+          "changePercent": "-0.86%"
+        },
+        {
+          "code": "7161",
+          "name": "じもとＨＤ",
+          "market": "東Ｓ",
+          "price": "500",
+          "change": "-8",
+          "changePercent": "-1.57%"
+        },
+        {
+          "code": "8303",
+          "name": "ＳＢＩ新生銀",
+          "market": "東Ｐ",
+          "price": "1,466.0",
+          "change": "-32.0",
+          "changePercent": "-2.14%"
+        },
+        {
+          "code": "8416",
+          "name": "高知銀",
+          "market": "東Ｓ",
+          "price": "1,229",
+          "change": "-35",
+          "changePercent": "-2.77%"
+        },
+        {
+          "code": "8537",
+          "name": "大光銀",
+          "market": "東Ｓ",
+          "price": "2,735",
+          "change": "-86",
+          "changePercent": "-3.05%"
+        },
+        {
+          "code": "7150",
+          "name": "島根銀行",
+          "market": "東Ｓ",
+          "price": "473",
+          "change": "-22",
+          "changePercent": "-4.44%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 673.21,
-          "changePercent": -1.76
-        },
         {
           "date": "20260625",
           "price": 675.16,
@@ -18135,6 +18130,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 725.41,
           "changePercent": 1
+        },
+        {
+          "date": "20260708",
+          "price": 727.14,
+          "changePercent": 0.24
         }
       ]
     },
@@ -18142,127 +18142,199 @@ window.sectorData = {
       "id": "7100",
       "nameJa": "証券、商品先物取引業",
       "nameEn": "Securities & Commodity Futures",
-      "price": 927.22,
-      "change": "+17.42",
-      "changePercent": 1.91,
+      "price": 931.27,
+      "change": "+4.05",
+      "changePercent": 0.44,
       "stocks": [
         {
-          "code": "8604",
-          "name": "野村",
+          "code": "254A",
+          "name": "ＡＩＦＣＧ",
+          "market": "東Ｓ",
+          "price": "1,134",
+          "change": "+124",
+          "changePercent": "+12.28%"
+        },
+        {
+          "code": "8707",
+          "name": "岩井コスモ",
           "market": "東Ｐ",
-          "price": "1,535.0",
-          "change": "+45.0",
-          "changePercent": "+3.02%"
+          "price": "4,205",
+          "change": "+80",
+          "changePercent": "+1.94%"
+        },
+        {
+          "code": "8518",
+          "name": "アジア投資",
+          "market": "東Ｓ",
+          "price": "127",
+          "change": "+2",
+          "changePercent": "+1.60%"
+        },
+        {
+          "code": "8616",
+          "name": "東海東京",
+          "market": "東Ｐ",
+          "price": "770",
+          "change": "+11",
+          "changePercent": "+1.45%"
+        },
+        {
+          "code": "7177",
+          "name": "ＧＭＯ－ＦＨ",
+          "market": "東Ｓ",
+          "price": "1,029",
+          "change": "+13",
+          "changePercent": "+1.28%"
+        },
+        {
+          "code": "8706",
+          "name": "極東証券",
+          "market": "東Ｐ",
+          "price": "1,646",
+          "change": "+20",
+          "changePercent": "+1.23%"
+        },
+        {
+          "code": "8747",
+          "name": "豊トラスティ",
+          "market": "東Ｓ",
+          "price": "2,370",
+          "change": "+28",
+          "changePercent": "+1.20%"
+        },
+        {
+          "code": "8613",
+          "name": "丸三",
+          "market": "東Ｐ",
+          "price": "1,108",
+          "change": "+13",
+          "changePercent": "+1.19%"
+        },
+        {
+          "code": "7347",
+          "name": "マーキュリア",
+          "market": "東Ｐ",
+          "price": "776",
+          "change": "+9",
+          "changePercent": "+1.17%"
+        },
+        {
+          "code": "7175",
+          "name": "今村証券",
+          "market": "東Ｓ",
+          "price": "1,428",
+          "change": "+15",
+          "changePercent": "+1.06%"
+        },
+        {
+          "code": "8698",
+          "name": "マネックスＧ",
+          "market": "東Ｐ",
+          "price": "693",
+          "change": "+7",
+          "changePercent": "+1.02%"
+        },
+        {
+          "code": "8614",
+          "name": "東洋証券",
+          "market": "東Ｐ",
+          "price": "639",
+          "change": "+6",
+          "changePercent": "+0.95%"
+        },
+        {
+          "code": "8622",
+          "name": "水戸",
+          "market": "東Ｐ",
+          "price": "681",
+          "change": "+6",
+          "changePercent": "+0.89%"
         },
         {
           "code": "8601",
           "name": "大和",
           "market": "東Ｐ",
-          "price": "1,762.5",
-          "change": "+49.0",
-          "changePercent": "+2.86%"
+          "price": "1,777.5",
+          "change": "+15.0",
+          "changePercent": "+0.85%"
         },
         {
-          "code": "8700",
-          "name": "丸八証券",
+          "code": "8737",
+          "name": "あかつき本社",
           "market": "東Ｓ",
-          "price": "1,808",
-          "change": "+18",
-          "changePercent": "+1.01%"
+          "price": "605",
+          "change": "+5",
+          "changePercent": "+0.83%"
         },
         {
-          "code": "8746",
-          "name": "ｕｎｂａｎｋ",
-          "market": "東Ｓ",
-          "price": "111",
-          "change": "+1",
-          "changePercent": "+0.91%"
-        },
-        {
-          "code": "7148",
-          "name": "ＦＰＧ",
+          "code": "8628",
+          "name": "松井",
           "market": "東Ｐ",
-          "price": "1,580",
-          "change": "+12",
-          "changePercent": "+0.77%"
+          "price": "1,003",
+          "change": "+8",
+          "changePercent": "+0.80%"
+        },
+        {
+          "code": "8624",
+          "name": "いちよし",
+          "market": "東Ｐ",
+          "price": "1,461",
+          "change": "+11",
+          "changePercent": "+0.76%"
         },
         {
           "code": "8609",
           "name": "岡三",
           "market": "東Ｐ",
-          "price": "1,013",
+          "price": "1,020",
           "change": "+7",
-          "changePercent": "+0.70%"
+          "changePercent": "+0.69%"
         },
         {
-          "code": "5834",
-          "name": "ＳＢＩリーシ",
-          "market": "東Ｇ",
-          "price": "2,707",
+          "code": "8708",
+          "name": "アイザワ証Ｇ",
+          "market": "東Ｐ",
+          "price": "1,556",
           "change": "+10",
-          "changePercent": "+0.37%"
+          "changePercent": "+0.65%"
+        },
+        {
+          "code": "8604",
+          "name": "野村",
+          "market": "東Ｐ",
+          "price": "1,543.0",
+          "change": "+8.0",
+          "changePercent": "+0.52%"
+        },
+        {
+          "code": "7172",
+          "name": "ＪＩＡ",
+          "market": "東Ｐ",
+          "price": "2,087",
+          "change": "+9",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "7148",
+          "name": "ＦＰＧ",
+          "market": "東Ｐ",
+          "price": "1,584",
+          "change": "+4",
+          "changePercent": "+0.25%"
+        },
+        {
+          "code": "8617",
+          "name": "光世",
+          "market": "東Ｓ",
+          "price": "563",
+          "change": "+1",
+          "changePercent": "+0.18%"
         },
         {
           "code": "7185",
           "name": "ヒロセ通商",
           "market": "東Ｓ",
           "price": "3,895",
-          "change": "+10",
-          "changePercent": "+0.26%"
-        },
-        {
-          "code": "8747",
-          "name": "豊トラスティ",
-          "market": "東Ｓ",
-          "price": "2,342",
-          "change": "+6",
-          "changePercent": "+0.26%"
-        },
-        {
-          "code": "8742",
-          "name": "小林洋行",
-          "market": "東Ｓ",
-          "price": "551",
-          "change": "+1",
-          "changePercent": "+0.18%"
-        },
-        {
-          "code": "254A",
-          "name": "ＡＩＦＣＧ",
-          "market": "東Ｓ",
-          "price": "1,010",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8518",
-          "name": "アジア投資",
-          "market": "東Ｓ",
-          "price": "125",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8617",
-          "name": "光世",
-          "market": "東Ｓ",
-          "price": "562",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8705",
-          "name": "日産証券Ｇ",
-          "market": "東Ｓ",
-          "price": "231",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8707",
-          "name": "岩井コスモ",
-          "market": "東Ｐ",
-          "price": "4,125",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -18271,184 +18343,107 @@ window.sectorData = {
           "name": "ジャフコＧ",
           "market": "東Ｐ",
           "price": "2,350.0",
-          "change": "-2.5",
-          "changePercent": "-0.11%"
+          "change": "0.0",
+          "changePercent": "0.00%"
         },
         {
-          "code": "7347",
-          "name": "マーキュリア",
-          "market": "東Ｐ",
-          "price": "767",
-          "change": "-1",
-          "changePercent": "-0.13%"
-        },
-        {
-          "code": "8708",
-          "name": "アイザワ証Ｇ",
-          "market": "東Ｐ",
-          "price": "1,546",
-          "change": "-3",
-          "changePercent": "-0.19%"
-        },
-        {
-          "code": "8698",
-          "name": "マネックスＧ",
-          "market": "東Ｐ",
-          "price": "686",
-          "change": "-2",
-          "changePercent": "-0.29%"
-        },
-        {
-          "code": "7175",
-          "name": "今村証券",
+          "code": "8742",
+          "name": "小林洋行",
           "market": "東Ｓ",
-          "price": "1,413",
-          "change": "-5",
-          "changePercent": "-0.35%"
-        },
-        {
-          "code": "7172",
-          "name": "ＪＩＡ",
-          "market": "東Ｐ",
-          "price": "2,078",
-          "change": "-9",
-          "changePercent": "-0.43%"
-        },
-        {
-          "code": "8622",
-          "name": "水戸",
-          "market": "東Ｐ",
-          "price": "675",
-          "change": "-3",
-          "changePercent": "-0.44%"
-        },
-        {
-          "code": "5842",
-          "name": "インテグラル",
-          "market": "東Ｇ",
-          "price": "2,881",
-          "change": "-13",
-          "changePercent": "-0.45%"
-        },
-        {
-          "code": "8628",
-          "name": "松井",
-          "market": "東Ｐ",
-          "price": "995",
-          "change": "-5",
-          "changePercent": "-0.50%"
-        },
-        {
-          "code": "8473",
-          "name": "ＳＢＩ",
-          "market": "東Ｐ",
-          "price": "2,738.0",
-          "change": "-15.0",
-          "changePercent": "-0.54%"
-        },
-        {
-          "code": "8616",
-          "name": "東海東京",
-          "market": "東Ｐ",
-          "price": "759",
-          "change": "-5",
-          "changePercent": "-0.65%"
-        },
-        {
-          "code": "8706",
-          "name": "極東証券",
-          "market": "東Ｐ",
-          "price": "1,626",
-          "change": "-11",
-          "changePercent": "-0.67%"
+          "price": "550",
+          "change": "-1",
+          "changePercent": "-0.18%"
         },
         {
           "code": "8699",
           "name": "ＨＳＨＤ",
           "market": "東Ｓ",
-          "price": "1,175",
-          "change": "-9",
-          "changePercent": "-0.76%"
-        },
-        {
-          "code": "8739",
-          "name": "スパークス",
-          "market": "東Ｐ",
-          "price": "2,255",
-          "change": "-22",
-          "changePercent": "-0.97%"
-        },
-        {
-          "code": "8613",
-          "name": "丸三",
-          "market": "東Ｐ",
-          "price": "1,095",
-          "change": "-11",
-          "changePercent": "-0.99%"
-        },
-        {
-          "code": "7177",
-          "name": "ＧＭＯ－ＦＨ",
-          "market": "東Ｓ",
-          "price": "1,016",
-          "change": "-11",
-          "changePercent": "-1.07%"
-        },
-        {
-          "code": "8737",
-          "name": "あかつき本社",
-          "market": "東Ｓ",
-          "price": "600",
-          "change": "-7",
-          "changePercent": "-1.15%"
-        },
-        {
-          "code": "3113",
-          "name": "ＵＮＩＶＡ",
-          "market": "東Ｓ",
-          "price": "76",
-          "change": "-1",
-          "changePercent": "-1.30%"
-        },
-        {
-          "code": "8624",
-          "name": "いちよし",
-          "market": "東Ｐ",
-          "price": "1,450",
-          "change": "-20",
-          "changePercent": "-1.36%"
-        },
-        {
-          "code": "8614",
-          "name": "東洋証券",
-          "market": "東Ｐ",
-          "price": "633",
-          "change": "-10",
-          "changePercent": "-1.56%"
-        },
-        {
-          "code": "8704",
-          "name": "トレイダーズ",
-          "market": "東Ｓ",
-          "price": "1,245",
-          "change": "-25",
-          "changePercent": "-1.97%"
+          "price": "1,171",
+          "change": "-4",
+          "changePercent": "-0.34%"
         },
         {
           "code": "462A",
           "name": "ファンディノ",
           "market": "東Ｇ",
-          "price": "252",
-          "change": "-9",
-          "changePercent": "-3.45%"
+          "price": "251",
+          "change": "-1",
+          "changePercent": "-0.40%"
+        },
+        {
+          "code": "8700",
+          "name": "丸八証券",
+          "market": "東Ｓ",
+          "price": "1,800",
+          "change": "-8",
+          "changePercent": "-0.44%"
+        },
+        {
+          "code": "8473",
+          "name": "ＳＢＩ",
+          "market": "東Ｐ",
+          "price": "2,722.0",
+          "change": "-16.0",
+          "changePercent": "-0.58%"
+        },
+        {
+          "code": "8739",
+          "name": "スパークス",
+          "market": "東Ｐ",
+          "price": "2,236",
+          "change": "-19",
+          "changePercent": "-0.84%"
+        },
+        {
+          "code": "8746",
+          "name": "ｕｎｂａｎｋ",
+          "market": "東Ｓ",
+          "price": "110",
+          "change": "-1",
+          "changePercent": "-0.90%"
+        },
+        {
+          "code": "5842",
+          "name": "インテグラル",
+          "market": "東Ｇ",
+          "price": "2,835",
+          "change": "-46",
+          "changePercent": "-1.60%"
+        },
+        {
+          "code": "8705",
+          "name": "日産証券Ｇ",
+          "market": "東Ｓ",
+          "price": "227",
+          "change": "-4",
+          "changePercent": "-1.73%"
+        },
+        {
+          "code": "8704",
+          "name": "トレイダーズ",
+          "market": "東Ｓ",
+          "price": "1,222",
+          "change": "-23",
+          "changePercent": "-1.85%"
+        },
+        {
+          "code": "5834",
+          "name": "ＳＢＩリーシ",
+          "market": "東Ｇ",
+          "price": "2,644",
+          "change": "-63",
+          "changePercent": "-2.33%"
+        },
+        {
+          "code": "3113",
+          "name": "ＵＮＩＶＡ",
+          "market": "東Ｓ",
+          "price": "74",
+          "change": "-2",
+          "changePercent": "-2.63%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 859.37,
-          "changePercent": -0.77
-        },
         {
           "date": "20260625",
           "price": 867.1,
@@ -18493,6 +18488,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 927.22,
           "changePercent": 1.91
+        },
+        {
+          "date": "20260708",
+          "price": 931.27,
+          "changePercent": 0.44
         }
       ]
     },
@@ -18500,137 +18500,132 @@ window.sectorData = {
       "id": "7150",
       "nameJa": "保険業",
       "nameEn": "Insurance",
-      "price": 3939.95,
-      "change": "-42.50",
-      "changePercent": -1.07,
+      "price": 3940.74,
+      "change": "+0.79",
+      "changePercent": 0.02,
       "stocks": [
         {
-          "code": "7157",
-          "name": "ライフネット",
+          "code": "8630",
+          "name": "ＳＯＭＰＯ",
           "market": "東Ｐ",
-          "price": "1,774",
-          "change": "+73",
-          "changePercent": "+4.29%"
-        },
-        {
-          "code": "8729",
-          "name": "ソニーＦＧ",
-          "market": "東Ｐ",
-          "price": "150.5",
-          "change": "+1.5",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "7181",
-          "name": "かんぽ生命",
-          "market": "東Ｐ",
-          "price": "1,667.0",
-          "change": "+12.5",
-          "changePercent": "+0.76%"
+          "price": "6,714",
+          "change": "+72",
+          "changePercent": "+1.08%"
         },
         {
           "code": "7325",
           "name": "アイリック",
           "market": "東Ｇ",
-          "price": "671",
-          "change": "+3",
+          "price": "677",
+          "change": "+6",
+          "changePercent": "+0.89%"
+        },
+        {
+          "code": "7388",
+          "name": "ＦＰパートナ",
+          "market": "東Ｐ",
+          "price": "2,210",
+          "change": "+10",
           "changePercent": "+0.45%"
+        },
+        {
+          "code": "8750",
+          "name": "第一ライフ",
+          "market": "東Ｐ",
+          "price": "1,864.0",
+          "change": "+4.5",
+          "changePercent": "+0.24%"
         },
         {
           "code": "377A",
           "name": "ＡＩＧＨＤ",
           "market": "名Ｍ",
           "price": "1,199",
-          "change": "+2",
-          "changePercent": "+0.17%"
+          "change": "0",
+          "changePercent": "0.00%"
         },
         {
           "code": "7343",
           "name": "Ｂマインド",
           "market": "東Ｇ",
-          "price": "1,197",
-          "change": "+1",
-          "changePercent": "+0.08%"
-        },
-        {
-          "code": "7388",
-          "name": "ＦＰパートナ",
-          "market": "東Ｐ",
-          "price": "2,200",
-          "change": "-2",
-          "changePercent": "-0.09%"
-        },
-        {
-          "code": "8725",
-          "name": "ＭＳ＆ＡＤ",
-          "market": "東Ｐ",
-          "price": "4,534",
-          "change": "-18",
-          "changePercent": "-0.40%"
-        },
-        {
-          "code": "8798",
-          "name": "Ａクリエイト",
-          "market": "東Ｐ",
-          "price": "130",
+          "price": "1,196",
           "change": "-1",
-          "changePercent": "-0.76%"
-        },
-        {
-          "code": "8750",
-          "name": "第一ライフ",
-          "market": "東Ｐ",
-          "price": "1,859.5",
-          "change": "-16.0",
-          "changePercent": "-0.85%"
+          "changePercent": "-0.08%"
         },
         {
           "code": "8766",
           "name": "東京海上",
           "market": "東Ｐ",
-          "price": "7,716",
-          "change": "-94",
-          "changePercent": "-1.20%"
+          "price": "7,700",
+          "change": "-16",
+          "changePercent": "-0.21%"
         },
         {
-          "code": "7326",
-          "name": "ＳＢＩＩＧ",
-          "market": "東Ｇ",
-          "price": "2,082",
-          "change": "-31",
-          "changePercent": "-1.47%"
-        },
-        {
-          "code": "8630",
-          "name": "ＳＯＭＰＯ",
+          "code": "8725",
+          "name": "ＭＳ＆ＡＤ",
           "market": "東Ｐ",
-          "price": "6,642",
-          "change": "-128",
-          "changePercent": "-1.89%"
+          "price": "4,520",
+          "change": "-14",
+          "changePercent": "-0.31%"
         },
         {
           "code": "8795",
           "name": "Ｔ＆Ｄ",
           "market": "東Ｐ",
-          "price": "4,953",
-          "change": "-100",
-          "changePercent": "-1.98%"
+          "price": "4,934",
+          "change": "-19",
+          "changePercent": "-0.38%"
+        },
+        {
+          "code": "7326",
+          "name": "ＳＢＩＩＧ",
+          "market": "東Ｇ",
+          "price": "2,072",
+          "change": "-10",
+          "changePercent": "-0.48%"
+        },
+        {
+          "code": "8729",
+          "name": "ソニーＦＧ",
+          "market": "東Ｐ",
+          "price": "149.7",
+          "change": "-0.8",
+          "changePercent": "-0.53%"
+        },
+        {
+          "code": "8798",
+          "name": "Ａクリエイト",
+          "market": "東Ｐ",
+          "price": "129",
+          "change": "-1",
+          "changePercent": "-0.77%"
+        },
+        {
+          "code": "7181",
+          "name": "かんぽ生命",
+          "market": "東Ｐ",
+          "price": "1,646.0",
+          "change": "-21.0",
+          "changePercent": "-1.26%"
+        },
+        {
+          "code": "7157",
+          "name": "ライフネット",
+          "market": "東Ｐ",
+          "price": "1,746",
+          "change": "-28",
+          "changePercent": "-1.58%"
         },
         {
           "code": "8715",
           "name": "アニコムＨＤ",
           "market": "東Ｐ",
-          "price": "1,263",
-          "change": "-28",
-          "changePercent": "-2.17%"
+          "price": "1,242",
+          "change": "-21",
+          "changePercent": "-1.66%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 3643.82,
-          "changePercent": -3.97
-        },
         {
           "date": "20260625",
           "price": 3582.18,
@@ -18675,6 +18670,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 3939.95,
           "changePercent": -1.07
+        },
+        {
+          "date": "20260708",
+          "price": 3940.74,
+          "changePercent": 0.02
         }
       ]
     },
@@ -18682,175 +18682,143 @@ window.sectorData = {
       "id": "7200",
       "nameJa": "その他金融業",
       "nameEn": "Other Financing Business",
-      "price": 1597.53,
-      "change": "+6.17",
-      "changePercent": 0.39,
+      "price": 1589.54,
+      "change": "-7.99",
+      "changePercent": -0.5,
       "stocks": [
+        {
+          "code": "8783",
+          "name": "ａｂｃ",
+          "market": "東Ｓ",
+          "price": "87",
+          "change": "+5",
+          "changePercent": "+6.10%"
+        },
         {
           "code": "4346",
           "name": "ＮＥＸＹＺ．",
           "market": "東Ｓ",
-          "price": "831",
+          "price": "858",
           "change": "+27",
-          "changePercent": "+3.36%"
-        },
-        {
-          "code": "7383",
-          "name": "ネットプロ",
-          "market": "東Ｐ",
-          "price": "379",
-          "change": "+10",
-          "changePercent": "+2.71%"
-        },
-        {
-          "code": "7199",
-          "name": "プレミアＧ",
-          "market": "東Ｐ",
-          "price": "2,200",
-          "change": "+38",
-          "changePercent": "+1.76%"
-        },
-        {
-          "code": "8253",
-          "name": "クレセゾン",
-          "market": "東Ｐ",
-          "price": "4,701",
-          "change": "+68",
-          "changePercent": "+1.47%"
+          "changePercent": "+3.25%"
         },
         {
           "code": "8439",
           "name": "東京センチュ",
           "market": "東Ｐ",
-          "price": "2,537.5",
-          "change": "+26.0",
-          "changePercent": "+1.04%"
-        },
-        {
-          "code": "5843",
-          "name": "インシュア",
-          "market": "東Ｓ",
-          "price": "2,319",
-          "change": "+21",
-          "changePercent": "+0.91%"
-        },
-        {
-          "code": "8424",
-          "name": "芙蓉リース",
-          "market": "東Ｐ",
-          "price": "4,279",
-          "change": "+38",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "8566",
-          "name": "リコーリース",
-          "market": "東Ｐ",
-          "price": "6,340",
-          "change": "+50",
-          "changePercent": "+0.79%"
-        },
-        {
-          "code": "7198",
-          "name": "ＳＢＩアルヒ",
-          "market": "東Ｐ",
-          "price": "810",
-          "change": "+6",
-          "changePercent": "+0.75%"
-        },
-        {
-          "code": "8593",
-          "name": "三菱ＨＣキャ",
-          "market": "東Ｐ",
-          "price": "1,382.0",
-          "change": "+10.0",
-          "changePercent": "+0.73%"
-        },
-        {
-          "code": "5845",
-          "name": "全保連",
-          "market": "東Ｓ",
-          "price": "1,030",
-          "change": "+6",
-          "changePercent": "+0.59%"
-        },
-        {
-          "code": "7164",
-          "name": "全国保証",
-          "market": "東Ｐ",
-          "price": "3,141.0",
-          "change": "+16.0",
-          "changePercent": "+0.51%"
-        },
-        {
-          "code": "8771",
-          "name": "イー・ギャラ",
-          "market": "東Ｐ",
-          "price": "1,800",
-          "change": "+9",
-          "changePercent": "+0.50%"
-        },
-        {
-          "code": "8591",
-          "name": "オリックス",
-          "market": "東Ｐ",
-          "price": "6,418",
-          "change": "+30",
-          "changePercent": "+0.47%"
-        },
-        {
-          "code": "471A",
-          "name": "ＮＳグループ",
-          "market": "東Ｐ",
-          "price": "1,542",
-          "change": "+7",
-          "changePercent": "+0.46%"
+          "price": "2,575.0",
+          "change": "+37.5",
+          "changePercent": "+1.48%"
         },
         {
           "code": "8425",
           "name": "みずほリース",
           "market": "東Ｐ",
-          "price": "1,301",
-          "change": "+6",
-          "changePercent": "+0.46%"
-        },
-        {
-          "code": "8596",
-          "name": "九州リース",
-          "market": "東Ｓ",
-          "price": "1,470",
-          "change": "+6",
-          "changePercent": "+0.41%"
-        },
-        {
-          "code": "7196",
-          "name": "Ｃａｓａ",
-          "market": "東Ｓ",
-          "price": "789",
-          "change": "+3",
-          "changePercent": "+0.38%"
-        },
-        {
-          "code": "8793",
-          "name": "ＮＥＣキャピ",
-          "market": "東Ｐ",
-          "price": "4,090",
+          "price": "1,316",
           "change": "+15",
-          "changePercent": "+0.37%"
+          "changePercent": "+1.15%"
+        },
+        {
+          "code": "8511",
+          "name": "日証金",
+          "market": "東Ｐ",
+          "price": "2,382",
+          "change": "+23",
+          "changePercent": "+0.97%"
+        },
+        {
+          "code": "8572",
+          "name": "アコム",
+          "market": "東Ｓ",
+          "price": "486.3",
+          "change": "+4.2",
+          "changePercent": "+0.87%"
+        },
+        {
+          "code": "8771",
+          "name": "イー・ギャラ",
+          "market": "東Ｐ",
+          "price": "1,812",
+          "change": "+12",
+          "changePercent": "+0.67%"
         },
         {
           "code": "8570",
           "name": "イオンＦＳ",
           "market": "東Ｐ",
-          "price": "1,524.0",
-          "change": "+2.5",
-          "changePercent": "+0.16%"
+          "price": "1,533.5",
+          "change": "+9.5",
+          "changePercent": "+0.62%"
         },
         {
-          "code": "2388",
-          "name": "ウェッジＨＤ",
+          "code": "8793",
+          "name": "ＮＥＣキャピ",
+          "market": "東Ｐ",
+          "price": "4,105",
+          "change": "+15",
+          "changePercent": "+0.37%"
+        },
+        {
+          "code": "8585",
+          "name": "オリコ",
+          "market": "東Ｐ",
+          "price": "888",
+          "change": "+3",
+          "changePercent": "+0.34%"
+        },
+        {
+          "code": "8566",
+          "name": "リコーリース",
+          "market": "東Ｐ",
+          "price": "6,360",
+          "change": "+20",
+          "changePercent": "+0.32%"
+        },
+        {
+          "code": "4351",
+          "name": "山田債権",
+          "market": "東Ｓ",
+          "price": "870",
+          "change": "+2",
+          "changePercent": "+0.23%"
+        },
+        {
+          "code": "7164",
+          "name": "全国保証",
+          "market": "東Ｐ",
+          "price": "3,148.0",
+          "change": "+7.0",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "8593",
+          "name": "三菱ＨＣキャ",
+          "market": "東Ｐ",
+          "price": "1,385.0",
+          "change": "+3.0",
+          "changePercent": "+0.22%"
+        },
+        {
+          "code": "8594",
+          "name": "中道リース",
+          "market": "札証",
+          "price": "675",
+          "change": "+1",
+          "changePercent": "+0.15%"
+        },
+        {
+          "code": "471A",
+          "name": "ＮＳグループ",
+          "market": "東Ｐ",
+          "price": "1,544",
+          "change": "+2",
+          "changePercent": "+0.13%"
+        },
+        {
+          "code": "196A",
+          "name": "ＭＦＳ",
           "market": "東Ｇ",
-          "price": "40",
+          "price": "259",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -18863,82 +18831,42 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "7191",
-          "name": "イントラスト",
+          "code": "8789",
+          "name": "フィンテック",
           "market": "東Ｓ",
-          "price": "1,097",
+          "price": "129",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "7192",
-          "name": "日本モゲジＳ",
+          "code": "7196",
+          "name": "Ｃａｓａ",
           "market": "東Ｓ",
-          "price": "586",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "7345",
-          "name": "ＡＩＰＦ",
-          "market": "東Ｇ",
-          "price": "945",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8594",
-          "name": "中道リース",
-          "market": "札証",
-          "price": "674",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "8508",
-          "name": "Ｊトラスト",
-          "market": "東Ｓ",
-          "price": "809",
+          "price": "788",
           "change": "-1",
-          "changePercent": "-0.12%"
+          "changePercent": "-0.13%"
         },
         {
           "code": "7320",
           "name": "Ｓｏｌｖｖｙ",
           "market": "東Ｇ",
-          "price": "1,482",
-          "change": "-2",
-          "changePercent": "-0.13%"
+          "price": "1,479",
+          "change": "-3",
+          "changePercent": "-0.20%"
         },
         {
-          "code": "7187",
-          "name": "ジェイリース",
-          "market": "東Ｐ",
-          "price": "1,361",
+          "code": "7345",
+          "name": "ＡＩＰＦ",
+          "market": "東Ｇ",
+          "price": "943",
           "change": "-2",
-          "changePercent": "-0.15%"
-        },
-        {
-          "code": "547A",
-          "name": "ムニノバＨＤ",
-          "market": "東Ｐ",
-          "price": "453",
-          "change": "-1",
-          "changePercent": "-0.22%"
-        },
-        {
-          "code": "4351",
-          "name": "山田債権",
-          "market": "東Ｓ",
-          "price": "868",
-          "change": "-2",
-          "changePercent": "-0.23%"
+          "changePercent": "-0.21%"
         },
         {
           "code": "8772",
           "name": "アサックス",
           "market": "東Ｓ",
-          "price": "822",
+          "price": "820",
           "change": "-2",
           "changePercent": "-0.24%"
         },
@@ -18946,73 +18874,140 @@ window.sectorData = {
           "code": "8584",
           "name": "ジャックス",
           "market": "東Ｐ",
-          "price": "3,655",
+          "price": "3,645",
           "change": "-10",
           "changePercent": "-0.27%"
+        },
+        {
+          "code": "8253",
+          "name": "クレセゾン",
+          "market": "東Ｐ",
+          "price": "4,682",
+          "change": "-19",
+          "changePercent": "-0.40%"
+        },
+        {
+          "code": "547A",
+          "name": "ムニノバＨＤ",
+          "market": "東Ｐ",
+          "price": "451",
+          "change": "-2",
+          "changePercent": "-0.44%"
+        },
+        {
+          "code": "7187",
+          "name": "ジェイリース",
+          "market": "東Ｐ",
+          "price": "1,355",
+          "change": "-6",
+          "changePercent": "-0.44%"
+        },
+        {
+          "code": "8424",
+          "name": "芙蓉リース",
+          "market": "東Ｐ",
+          "price": "4,260",
+          "change": "-19",
+          "changePercent": "-0.44%"
+        },
+        {
+          "code": "8596",
+          "name": "九州リース",
+          "market": "東Ｓ",
+          "price": "1,463",
+          "change": "-7",
+          "changePercent": "-0.48%"
+        },
+        {
+          "code": "5845",
+          "name": "全保連",
+          "market": "東Ｓ",
+          "price": "1,025",
+          "change": "-5",
+          "changePercent": "-0.49%"
+        },
+        {
+          "code": "7191",
+          "name": "イントラスト",
+          "market": "東Ｓ",
+          "price": "1,091",
+          "change": "-6",
+          "changePercent": "-0.55%"
+        },
+        {
+          "code": "7198",
+          "name": "ＳＢＩアルヒ",
+          "market": "東Ｐ",
+          "price": "805",
+          "change": "-5",
+          "changePercent": "-0.62%"
+        },
+        {
+          "code": "8591",
+          "name": "オリックス",
+          "market": "東Ｐ",
+          "price": "6,377",
+          "change": "-41",
+          "changePercent": "-0.64%"
+        },
+        {
+          "code": "7192",
+          "name": "日本モゲジＳ",
+          "market": "東Ｓ",
+          "price": "581",
+          "change": "-5",
+          "changePercent": "-0.85%"
+        },
+        {
+          "code": "5843",
+          "name": "インシュア",
+          "market": "東Ｓ",
+          "price": "2,290",
+          "change": "-29",
+          "changePercent": "-1.25%"
         },
         {
           "code": "8697",
           "name": "日本取引所",
           "market": "東Ｐ",
-          "price": "2,183.0",
-          "change": "-6.0",
-          "changePercent": "-0.27%"
+          "price": "2,153.0",
+          "change": "-30.0",
+          "changePercent": "-1.37%"
         },
         {
-          "code": "8585",
-          "name": "オリコ",
+          "code": "7383",
+          "name": "ネットプロ",
           "market": "東Ｐ",
-          "price": "885",
-          "change": "-3",
-          "changePercent": "-0.34%"
+          "price": "370",
+          "change": "-9",
+          "changePercent": "-2.37%"
         },
         {
-          "code": "8572",
-          "name": "アコム",
-          "market": "東Ｓ",
-          "price": "482.1",
-          "change": "-2.9",
-          "changePercent": "-0.60%"
-        },
-        {
-          "code": "8789",
-          "name": "フィンテック",
-          "market": "東Ｓ",
-          "price": "129",
-          "change": "-1",
-          "changePercent": "-0.77%"
-        },
-        {
-          "code": "8511",
-          "name": "日証金",
-          "market": "東Ｐ",
-          "price": "2,359",
-          "change": "-22",
-          "changePercent": "-0.92%"
-        },
-        {
-          "code": "196A",
-          "name": "ＭＦＳ",
+          "code": "2388",
+          "name": "ウェッジＨＤ",
           "market": "東Ｇ",
-          "price": "259",
-          "change": "-10",
-          "changePercent": "-3.72%"
+          "price": "39",
+          "change": "-1",
+          "changePercent": "-2.50%"
         },
         {
-          "code": "8783",
-          "name": "ａｂｃ",
+          "code": "8508",
+          "name": "Ｊトラスト",
           "market": "東Ｓ",
-          "price": "82",
-          "change": "-12",
-          "changePercent": "-12.77%"
+          "price": "786",
+          "change": "-23",
+          "changePercent": "-2.84%"
+        },
+        {
+          "code": "7199",
+          "name": "プレミアＧ",
+          "market": "東Ｐ",
+          "price": "2,136",
+          "change": "-64",
+          "changePercent": "-2.91%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 1520.33,
-          "changePercent": -1.41
-        },
         {
           "date": "20260625",
           "price": 1519.69,
@@ -19057,6 +19052,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 1597.53,
           "changePercent": 0.39
+        },
+        {
+          "date": "20260708",
+          "price": 1589.54,
+          "changePercent": -0.5
         }
       ]
     },
@@ -19064,599 +19064,367 @@ window.sectorData = {
       "id": "8050",
       "nameJa": "不動産業",
       "nameEn": "Real Estate",
-      "price": 2638.86,
-      "change": "+33.42",
-      "changePercent": 1.28,
+      "price": 2608.66,
+      "change": "-30.20",
+      "changePercent": -1.14,
       "stocks": [
         {
-          "code": "8938",
-          "name": "グロームＨＤ",
-          "market": "東Ｇ",
-          "price": "350",
-          "change": "+23",
-          "changePercent": "+7.03%"
-        },
-        {
-          "code": "3498",
-          "name": "霞ヶ関Ｃ",
-          "market": "東Ｐ",
-          "price": "6,900",
-          "change": "+270",
-          "changePercent": "+4.07%"
-        },
-        {
-          "code": "9820",
-          "name": "ジェネックス",
+          "code": "3494",
+          "name": "マリオン",
           "market": "東Ｓ",
-          "price": "3,695",
-          "change": "+130",
-          "changePercent": "+3.65%"
-        },
-        {
-          "code": "8923",
-          "name": "トーセイ",
-          "market": "東Ｐ",
-          "price": "1,792",
-          "change": "+56",
-          "changePercent": "+3.23%"
-        },
-        {
-          "code": "2970",
-          "name": "ジーエルシー",
-          "market": "東Ｓ",
-          "price": "950",
-          "change": "+23",
-          "changePercent": "+2.48%"
-        },
-        {
-          "code": "3276",
-          "name": "ＪＰＭＣ",
-          "market": "東Ｐ",
-          "price": "1,403",
+          "price": "426",
           "change": "+34",
-          "changePercent": "+2.48%"
-        },
-        {
-          "code": "8802",
-          "name": "菱地所",
-          "market": "東Ｐ",
-          "price": "4,358",
-          "change": "+105",
-          "changePercent": "+2.47%"
-        },
-        {
-          "code": "4827",
-          "name": "ＢワンＨＤ",
-          "market": "福Ｑ",
-          "price": "818",
-          "change": "+19",
-          "changePercent": "+2.38%"
-        },
-        {
-          "code": "3288",
-          "name": "オープンＨ",
-          "market": "東Ｐ",
-          "price": "8,816",
-          "change": "+198",
-          "changePercent": "+2.30%"
-        },
-        {
-          "code": "3286",
-          "name": "トラストＨＤ",
-          "market": "東Ｓ",
-          "price": "889",
-          "change": "+17",
-          "changePercent": "+1.95%"
-        },
-        {
-          "code": "3246",
-          "name": "コーセーＲＥ",
-          "market": "東Ｓ",
-          "price": "639",
-          "change": "+12",
-          "changePercent": "+1.91%"
-        },
-        {
-          "code": "8864",
-          "name": "空港施設",
-          "market": "東Ｓ",
-          "price": "973",
-          "change": "+18",
-          "changePercent": "+1.88%"
-        },
-        {
-          "code": "6625",
-          "name": "ＪＡＬＣＯ",
-          "market": "東Ｓ",
-          "price": "339",
-          "change": "+6",
-          "changePercent": "+1.80%"
-        },
-        {
-          "code": "8844",
-          "name": "コスモスイニ",
-          "market": "東Ｓ",
-          "price": "1,472",
-          "change": "+26",
-          "changePercent": "+1.80%"
-        },
-        {
-          "code": "3291",
-          "name": "飯田ＧＨＤ",
-          "market": "東Ｐ",
-          "price": "2,241.5",
-          "change": "+35.0",
-          "changePercent": "+1.59%"
-        },
-        {
-          "code": "8999",
-          "name": "グランディ",
-          "market": "東Ｐ",
-          "price": "533",
-          "change": "+8",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "3242",
-          "name": "アーバネット",
-          "market": "東Ｓ",
-          "price": "494",
-          "change": "+7",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "3479",
-          "name": "ＴＫＰ",
-          "market": "東Ｇ",
-          "price": "1,757",
-          "change": "+25",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "5537",
-          "name": "アルバリンク",
-          "market": "東Ｇ",
-          "price": "3,065",
-          "change": "+40",
-          "changePercent": "+1.32%"
-        },
-        {
-          "code": "8912",
-          "name": "エリアクエス",
-          "market": "東Ｓ",
-          "price": "153",
-          "change": "+2",
-          "changePercent": "+1.32%"
-        },
-        {
-          "code": "3232",
-          "name": "三重交ＨＤ",
-          "market": "東Ｐ",
-          "price": "555",
-          "change": "+7",
-          "changePercent": "+1.28%"
-        },
-        {
-          "code": "9816",
-          "name": "ストライダズ",
-          "market": "東Ｓ",
-          "price": "238",
-          "change": "+3",
-          "changePercent": "+1.28%"
-        },
-        {
-          "code": "146A",
-          "name": "コロンビア",
-          "market": "東Ｓ",
-          "price": "3,220",
-          "change": "+40",
-          "changePercent": "+1.26%"
-        },
-        {
-          "code": "2976",
-          "name": "日グランデ",
-          "market": "札Ａ",
-          "price": "675",
-          "change": "+8",
-          "changePercent": "+1.20%"
-        },
-        {
-          "code": "3266",
-          "name": "ファンクリＧ",
-          "market": "東Ｓ",
-          "price": "84",
-          "change": "+1",
-          "changePercent": "+1.20%"
-        },
-        {
-          "code": "3299",
-          "name": "ムゲンＥ",
-          "market": "東Ｓ",
-          "price": "1,894",
-          "change": "+22",
-          "changePercent": "+1.18%"
-        },
-        {
-          "code": "3457",
-          "name": "ＡｎｄＤｏ",
-          "market": "東Ｐ",
-          "price": "969",
-          "change": "+11",
-          "changePercent": "+1.15%"
-        },
-        {
-          "code": "5535",
-          "name": "ミガロＨＤ",
-          "market": "東Ｐ",
-          "price": "278",
-          "change": "+3",
-          "changePercent": "+1.09%"
-        },
-        {
-          "code": "9706",
-          "name": "日本空港ビル",
-          "market": "東Ｐ",
-          "price": "5,455",
-          "change": "+58",
-          "changePercent": "+1.07%"
-        },
-        {
-          "code": "8934",
-          "name": "サンフロ不",
-          "market": "東Ｐ",
-          "price": "2,526",
-          "change": "+26",
-          "changePercent": "+1.04%"
-        },
-        {
-          "code": "8801",
-          "name": "三井不",
-          "market": "東Ｐ",
-          "price": "1,571.5",
-          "change": "+16.0",
-          "changePercent": "+1.03%"
-        },
-        {
-          "code": "3261",
-          "name": "グラン",
-          "market": "東Ｇ",
-          "price": "395",
-          "change": "+4",
-          "changePercent": "+1.02%"
-        },
-        {
-          "code": "3003",
-          "name": "ヒューリック",
-          "market": "東Ｐ",
-          "price": "1,771.0",
-          "change": "+17.5",
-          "changePercent": "+1.00%"
-        },
-        {
-          "code": "8869",
-          "name": "明和地所",
-          "market": "東Ｓ",
-          "price": "816",
-          "change": "+8",
-          "changePercent": "+0.99%"
-        },
-        {
-          "code": "2983",
-          "name": "アールプラン",
-          "market": "東Ｇ",
-          "price": "1,562",
-          "change": "+15",
-          "changePercent": "+0.97%"
-        },
-        {
-          "code": "8904",
-          "name": "アバンティア",
-          "market": "東Ｓ",
-          "price": "846",
-          "change": "+8",
-          "changePercent": "+0.95%"
+          "changePercent": "+8.67%"
         },
         {
           "code": "3490",
           "name": "アズ企画設計",
           "market": "東Ｓ",
-          "price": "3,015",
-          "change": "+28",
-          "changePercent": "+0.94%"
-        },
-        {
-          "code": "8830",
-          "name": "住友不",
-          "market": "東Ｐ",
-          "price": "3,894",
-          "change": "+35",
-          "changePercent": "+0.91%"
-        },
-        {
-          "code": "2337",
-          "name": "いちご",
-          "market": "東Ｐ",
-          "price": "448",
-          "change": "+4",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "8803",
-          "name": "平和不",
-          "market": "東Ｐ",
-          "price": "2,390",
-          "change": "+20",
-          "changePercent": "+0.84%"
-        },
-        {
-          "code": "8887",
-          "name": "シーラＨＤ",
-          "market": "東Ｓ",
-          "price": "362",
-          "change": "+3",
-          "changePercent": "+0.84%"
-        },
-        {
-          "code": "3469",
-          "name": "デュアルＴ",
-          "market": "東Ｓ",
-          "price": "891",
-          "change": "+7",
-          "changePercent": "+0.79%"
-        },
-        {
-          "code": "2986",
-          "name": "ＬＡホールデ",
-          "market": "東Ｇ",
-          "price": "2,998",
-          "change": "+23",
-          "changePercent": "+0.77%"
-        },
-        {
-          "code": "4809",
-          "name": "パラカ",
-          "market": "東Ｐ",
-          "price": "2,098",
-          "change": "+16",
-          "changePercent": "+0.77%"
-        },
-        {
-          "code": "8881",
-          "name": "日神ＧＨＤ",
-          "market": "東Ｐ",
-          "price": "663",
-          "change": "+5",
-          "changePercent": "+0.76%"
-        },
-        {
-          "code": "8919",
-          "name": "カチタス",
-          "market": "東Ｐ",
-          "price": "3,295",
-          "change": "+25",
-          "changePercent": "+0.76%"
-        },
-        {
-          "code": "8931",
-          "name": "和田興産",
-          "market": "東Ｓ",
-          "price": "1,322",
-          "change": "+10",
-          "changePercent": "+0.76%"
-        },
-        {
-          "code": "3245",
-          "name": "ディアライフ",
-          "market": "東Ｐ",
-          "price": "1,068",
-          "change": "+8",
-          "changePercent": "+0.75%"
-        },
-        {
-          "code": "8871",
-          "name": "ゴールドクレ",
-          "market": "東Ｓ",
-          "price": "3,355",
-          "change": "+25",
-          "changePercent": "+0.75%"
-        },
-        {
-          "code": "8897",
-          "name": "ミラースＨＤ",
-          "market": "東Ｐ",
-          "price": "411",
-          "change": "+3",
-          "changePercent": "+0.74%"
-        },
-        {
-          "code": "3260",
-          "name": "エスポア",
-          "market": "名Ｎ",
-          "price": "700",
-          "change": "+5",
-          "changePercent": "+0.72%"
-        },
-        {
-          "code": "8917",
-          "name": "ファースト住",
-          "market": "東Ｓ",
-          "price": "1,128",
-          "change": "+8",
-          "changePercent": "+0.71%"
-        },
-        {
-          "code": "8804",
-          "name": "東建物",
-          "market": "東Ｐ",
-          "price": "3,422.0",
-          "change": "+23.0",
-          "changePercent": "+0.68%"
-        },
-        {
-          "code": "3284",
-          "name": "フージャース",
-          "market": "東Ｐ",
-          "price": "1,225",
-          "change": "+8",
-          "changePercent": "+0.66%"
-        },
-        {
-          "code": "3491",
-          "name": "ＧＡテクノ",
-          "market": "東Ｇ",
-          "price": "1,458",
-          "change": "+9",
-          "changePercent": "+0.62%"
-        },
-        {
-          "code": "391A",
-          "name": "山忠",
-          "market": "名Ｍ",
-          "price": "2,321",
-          "change": "+13",
-          "changePercent": "+0.56%"
-        },
-        {
-          "code": "3238",
-          "name": "セントラル総",
-          "market": "東Ｓ",
-          "price": "373",
-          "change": "+2",
-          "changePercent": "+0.54%"
-        },
-        {
-          "code": "8848",
-          "name": "レオパレス",
-          "market": "東Ｐ",
-          "price": "662",
-          "change": "+3",
-          "changePercent": "+0.46%"
+          "price": "3,150",
+          "change": "+135",
+          "changePercent": "+4.48%"
         },
         {
           "code": "8891",
           "name": "ＡＭＧＨＤ",
           "market": "東Ｓ",
-          "price": "1,990",
-          "change": "+9",
-          "changePercent": "+0.45%"
+          "price": "2,033",
+          "change": "+43",
+          "changePercent": "+2.16%"
         },
         {
-          "code": "3231",
-          "name": "野村不ＨＤ",
+          "code": "276A",
+          "name": "ククレブ",
+          "market": "東Ｇ",
+          "price": "3,380",
+          "change": "+70",
+          "changePercent": "+2.11%"
+        },
+        {
+          "code": "8848",
+          "name": "レオパレス",
           "market": "東Ｐ",
-          "price": "958.5",
-          "change": "+4.2",
-          "changePercent": "+0.44%"
+          "price": "675",
+          "change": "+13",
+          "changePercent": "+1.96%"
         },
         {
-          "code": "5533",
-          "name": "エリッツＨＤ",
+          "code": "3299",
+          "name": "ムゲンＥ",
           "market": "東Ｓ",
-          "price": "2,070",
-          "change": "+9",
-          "changePercent": "+0.44%"
+          "price": "1,926",
+          "change": "+32",
+          "changePercent": "+1.69%"
         },
         {
-          "code": "8927",
-          "name": "明豊エンタ",
+          "code": "166A",
+          "name": "タスキＨＤ",
+          "market": "東Ｐ",
+          "price": "1,096",
+          "change": "+16",
+          "changePercent": "+1.48%"
+        },
+        {
+          "code": "8946",
+          "name": "エイシアンＳ",
           "market": "東Ｓ",
-          "price": "457",
-          "change": "+2",
-          "changePercent": "+0.44%"
+          "price": "77",
+          "change": "+1",
+          "changePercent": "+1.32%"
+        },
+        {
+          "code": "3482",
+          "name": "ロードスター",
+          "market": "東Ｐ",
+          "price": "2,698",
+          "change": "+34",
+          "changePercent": "+1.28%"
+        },
+        {
+          "code": "3003",
+          "name": "ヒューリック",
+          "market": "東Ｐ",
+          "price": "1,790.0",
+          "change": "+19.0",
+          "changePercent": "+1.07%"
+        },
+        {
+          "code": "8871",
+          "name": "ゴールドクレ",
+          "market": "東Ｓ",
+          "price": "3,390",
+          "change": "+35",
+          "changePercent": "+1.04%"
+        },
+        {
+          "code": "3276",
+          "name": "ＪＰＭＣ",
+          "market": "東Ｐ",
+          "price": "1,417",
+          "change": "+14",
+          "changePercent": "+1.00%"
+        },
+        {
+          "code": "8996",
+          "name": "フリーダム",
+          "market": "東Ｓ",
+          "price": "1,007",
+          "change": "+10",
+          "changePercent": "+1.00%"
+        },
+        {
+          "code": "3772",
+          "name": "ウェルス",
+          "market": "東Ｓ",
+          "price": "1,056",
+          "change": "+10",
+          "changePercent": "+0.96%"
+        },
+        {
+          "code": "2999",
+          "name": "ホームポジ",
+          "market": "東Ｓ",
+          "price": "606",
+          "change": "+5",
+          "changePercent": "+0.83%"
+        },
+        {
+          "code": "3261",
+          "name": "グラン",
+          "market": "東Ｇ",
+          "price": "398",
+          "change": "+3",
+          "changePercent": "+0.76%"
         },
         {
           "code": "2997",
           "name": "ストレジ王",
           "market": "東Ｇ",
-          "price": "942",
+          "price": "949",
+          "change": "+7",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "3474",
+          "name": "Ｇ－ＦＡＣ",
+          "market": "東Ｇ",
+          "price": "550",
           "change": "+4",
-          "changePercent": "+0.43%"
+          "changePercent": "+0.73%"
         },
         {
-          "code": "2353",
-          "name": "日本駐車場",
+          "code": "8892",
+          "name": "エスコン",
           "market": "東Ｐ",
-          "price": "259",
-          "change": "+1",
-          "changePercent": "+0.39%"
+          "price": "1,108",
+          "change": "+8",
+          "changePercent": "+0.73%"
         },
         {
-          "code": "8914",
-          "name": "エリアリンク",
+          "code": "3248",
+          "name": "アールエイジ",
           "market": "東Ｓ",
-          "price": "812",
-          "change": "+3",
-          "changePercent": "+0.37%"
+          "price": "873",
+          "change": "+6",
+          "changePercent": "+0.69%"
         },
         {
-          "code": "8995",
-          "name": "誠建設",
+          "code": "2974",
+          "name": "大英産業",
+          "market": "福証",
+          "price": "896",
+          "change": "+6",
+          "changePercent": "+0.67%"
+        },
+        {
+          "code": "8850",
+          "name": "スターツ",
+          "market": "東Ｐ",
+          "price": "4,775",
+          "change": "+30",
+          "changePercent": "+0.63%"
+        },
+        {
+          "code": "2975",
+          "name": "スターマイカ",
+          "market": "東Ｐ",
+          "price": "1,525",
+          "change": "+9",
+          "changePercent": "+0.59%"
+        },
+        {
+          "code": "3469",
+          "name": "デュアルＴ",
           "market": "東Ｓ",
-          "price": "831",
-          "change": "+3",
-          "changePercent": "+0.36%"
+          "price": "896",
+          "change": "+5",
+          "changePercent": "+0.56%"
+        },
+        {
+          "code": "2984",
+          "name": "ヤマイチ",
+          "market": "東Ｓ",
+          "price": "730",
+          "change": "+4",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "5532",
+          "name": "リアルゲイト",
+          "market": "東Ｇ",
+          "price": "3,640",
+          "change": "+20",
+          "changePercent": "+0.55%"
         },
         {
           "code": "9633",
           "name": "テアトル",
           "market": "東Ｓ",
-          "price": "1,637",
-          "change": "+5",
-          "changePercent": "+0.31%"
+          "price": "1,645",
+          "change": "+8",
+          "changePercent": "+0.49%"
         },
         {
-          "code": "5530",
-          "name": "日本ＳＢ",
-          "market": "名Ｍ",
-          "price": "1,033",
-          "change": "+3",
-          "changePercent": "+0.29%"
-        },
-        {
-          "code": "1878",
-          "name": "大東建",
+          "code": "3245",
+          "name": "ディアライフ",
           "market": "東Ｐ",
-          "price": "3,184.0",
-          "change": "+9.0",
-          "changePercent": "+0.28%"
+          "price": "1,073",
+          "change": "+5",
+          "changePercent": "+0.47%"
         },
         {
-          "code": "8945",
-          "name": "サンネクスタ",
+          "code": "8904",
+          "name": "アバンティア",
           "market": "東Ｓ",
-          "price": "1,092",
+          "price": "850",
+          "change": "+4",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "8919",
+          "name": "カチタス",
+          "market": "東Ｐ",
+          "price": "3,310",
+          "change": "+15",
+          "changePercent": "+0.46%"
+        },
+        {
+          "code": "9706",
+          "name": "日本空港ビル",
+          "market": "東Ｐ",
+          "price": "5,480",
+          "change": "+25",
+          "changePercent": "+0.46%"
+        },
+        {
+          "code": "2337",
+          "name": "いちご",
+          "market": "東Ｐ",
+          "price": "450",
+          "change": "+2",
+          "changePercent": "+0.45%"
+        },
+        {
+          "code": "8934",
+          "name": "サンフロ不",
+          "market": "東Ｐ",
+          "price": "2,537",
+          "change": "+11",
+          "changePercent": "+0.44%"
+        },
+        {
+          "code": "3260",
+          "name": "エスポア",
+          "market": "名Ｎ",
+          "price": "703",
           "change": "+3",
-          "changePercent": "+0.28%"
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "8818",
+          "name": "京阪神ビル",
+          "market": "東Ｐ",
+          "price": "1,163",
+          "change": "+5",
+          "changePercent": "+0.43%"
+        },
+        {
+          "code": "8869",
+          "name": "明和地所",
+          "market": "東Ｓ",
+          "price": "819",
+          "change": "+3",
+          "changePercent": "+0.37%"
+        },
+        {
+          "code": "3454",
+          "name": "Ｆブラザーズ",
+          "market": "東Ｓ",
+          "price": "1,223",
+          "change": "+4",
+          "changePercent": "+0.33%"
+        },
+        {
+          "code": "8931",
+          "name": "和田興産",
+          "market": "東Ｓ",
+          "price": "1,326",
+          "change": "+4",
+          "changePercent": "+0.30%"
+        },
+        {
+          "code": "6625",
+          "name": "ＪＡＬＣＯ",
+          "market": "東Ｓ",
+          "price": "340",
+          "change": "+1",
+          "changePercent": "+0.29%"
         },
         {
           "code": "3489",
           "name": "フェイスＮＷ",
           "market": "東Ｓ",
-          "price": "784",
+          "price": "786",
           "change": "+2",
           "changePercent": "+0.26%"
         },
         {
-          "code": "3494",
-          "name": "マリオン",
+          "code": "1878",
+          "name": "大東建",
+          "market": "東Ｐ",
+          "price": "3,192.0",
+          "change": "+8.0",
+          "changePercent": "+0.25%"
+        },
+        {
+          "code": "3242",
+          "name": "アーバネット",
           "market": "東Ｓ",
-          "price": "392",
+          "price": "495",
           "change": "+1",
-          "changePercent": "+0.26%"
+          "changePercent": "+0.20%"
         },
         {
-          "code": "8841",
-          "name": "テーオーシー",
+          "code": "8877",
+          "name": "エスリード",
+          "market": "東Ｐ",
+          "price": "5,010",
+          "change": "+10",
+          "changePercent": "+0.20%"
+        },
+        {
+          "code": "3297",
+          "name": "東武住販",
           "market": "東Ｓ",
-          "price": "969",
+          "price": "1,112",
           "change": "+2",
-          "changePercent": "+0.21%"
+          "changePercent": "+0.18%"
         },
         {
           "code": "3293",
           "name": "アズマハウス",
           "market": "東Ｓ",
-          "price": "764",
+          "price": "765",
           "change": "+1",
           "changePercent": "+0.13%"
         },
@@ -19664,55 +19432,71 @@ window.sectorData = {
           "code": "8860",
           "name": "フジ住",
           "market": "東Ｐ",
-          "price": "769",
+          "price": "770",
           "change": "+1",
           "changePercent": "+0.13%"
         },
         {
-          "code": "8935",
-          "name": "ＦＪネクＨＤ",
-          "market": "東Ｐ",
-          "price": "1,811",
-          "change": "+2",
+          "code": "3286",
+          "name": "トラストＨＤ",
+          "market": "東Ｓ",
+          "price": "890",
+          "change": "+1",
           "changePercent": "+0.11%"
+        },
+        {
+          "code": "463A",
+          "name": "インテリクス",
+          "market": "東Ｓ",
+          "price": "918",
+          "change": "+1",
+          "changePercent": "+0.11%"
+        },
+        {
+          "code": "3457",
+          "name": "ＡｎｄＤｏ",
+          "market": "東Ｐ",
+          "price": "970",
+          "change": "+1",
+          "changePercent": "+0.10%"
+        },
+        {
+          "code": "4809",
+          "name": "パラカ",
+          "market": "東Ｐ",
+          "price": "2,100",
+          "change": "+2",
+          "changePercent": "+0.10%"
+        },
+        {
+          "code": "8864",
+          "name": "空港施設",
+          "market": "東Ｓ",
+          "price": "974",
+          "change": "+1",
+          "changePercent": "+0.10%"
+        },
+        {
+          "code": "3284",
+          "name": "フージャース",
+          "market": "東Ｐ",
+          "price": "1,226",
+          "change": "+1",
+          "changePercent": "+0.08%"
         },
         {
           "code": "3475",
           "name": "グッドコムＡ",
           "market": "東Ｐ",
-          "price": "1,482",
+          "price": "1,483",
           "change": "+1",
           "changePercent": "+0.07%"
         },
         {
-          "code": "3289",
-          "name": "東急不ＨＤ",
+          "code": "3232",
+          "name": "三重交ＨＤ",
           "market": "東Ｐ",
-          "price": "1,338.5",
-          "change": "+0.5",
-          "changePercent": "+0.04%"
-        },
-        {
-          "code": "2974",
-          "name": "大英産業",
-          "market": "福証",
-          "price": "890",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "2998",
-          "name": "クリアル",
-          "market": "東Ｇ",
-          "price": "550",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "3236",
-          "name": "プロパスト",
-          "market": "東Ｓ",
-          "price": "276",
+          "price": "555",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -19725,18 +19509,26 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "3461",
-          "name": "パルマ",
+          "code": "3277",
+          "name": "サンセイラン",
           "market": "東Ｓ",
-          "price": "569",
+          "price": "644",
           "change": "0",
           "changePercent": "0.00%"
         },
         {
-          "code": "3465",
-          "name": "ケイアイ不",
-          "market": "東Ｐ",
-          "price": "3,730",
+          "code": "3280",
+          "name": "エストラスト",
+          "market": "東Ｓ",
+          "price": "988",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "3452",
+          "name": "ビーロット",
+          "market": "東Ｓ",
+          "price": "1,480",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -19749,10 +19541,18 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "3495",
-          "name": "香陵住販",
+          "code": "8836",
+          "name": "ＲＩＳＥ",
           "market": "東Ｓ",
-          "price": "2,370",
+          "price": "26",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "8881",
+          "name": "日神ＧＨＤ",
+          "market": "東Ｐ",
+          "price": "663",
           "change": "0",
           "changePercent": "0.00%"
         },
@@ -19765,6 +19565,22 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
+          "code": "8898",
+          "name": "センチュ２１",
+          "market": "東Ｓ",
+          "price": "1,123",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
+          "code": "8912",
+          "name": "エリアクエス",
+          "market": "東Ｓ",
+          "price": "153",
+          "change": "0",
+          "changePercent": "0.00%"
+        },
+        {
           "code": "8918",
           "name": "ランド",
           "market": "東Ｓ",
@@ -19773,404 +19589,583 @@ window.sectorData = {
           "changePercent": "0.00%"
         },
         {
-          "code": "8996",
-          "name": "フリーダム",
-          "market": "東Ｓ",
-          "price": "997",
-          "change": "0",
-          "changePercent": "0.00%"
-        },
-        {
-          "code": "2981",
-          "name": "ランディクス",
-          "market": "東Ｇ",
-          "price": "2,090",
-          "change": "-1",
-          "changePercent": "-0.05%"
-        },
-        {
-          "code": "3486",
-          "name": "グロバルＬＭ",
+          "code": "3465",
+          "name": "ケイアイ不",
           "market": "東Ｐ",
-          "price": "1,896",
-          "change": "-1",
-          "changePercent": "-0.05%"
-        },
-        {
-          "code": "3452",
-          "name": "ビーロット",
-          "market": "東Ｓ",
-          "price": "1,480",
-          "change": "-1",
-          "changePercent": "-0.07%"
-        },
-        {
-          "code": "4666",
-          "name": "パーク２４",
-          "market": "東Ｐ",
-          "price": "2,028.5",
-          "change": "-1.5",
-          "changePercent": "-0.07%"
-        },
-        {
-          "code": "3454",
-          "name": "Ｆブラザーズ",
-          "market": "東Ｓ",
-          "price": "1,219",
-          "change": "-1",
-          "changePercent": "-0.08%"
-        },
-        {
-          "code": "8929",
-          "name": "青山財産",
-          "market": "東Ｓ",
-          "price": "1,278",
-          "change": "-1",
-          "changePercent": "-0.08%"
-        },
-        {
-          "code": "3477",
-          "name": "フォーライフ",
-          "market": "東Ｇ",
-          "price": "844",
-          "change": "-1",
-          "changePercent": "-0.12%"
-        },
-        {
-          "code": "8928",
-          "name": "穴吹興産",
-          "market": "東Ｓ",
-          "price": "2,259",
-          "change": "-3",
+          "price": "3,725",
+          "change": "-5",
           "changePercent": "-0.13%"
         },
         {
-          "code": "3277",
-          "name": "サンセイラン",
+          "code": "3246",
+          "name": "コーセーＲＥ",
           "market": "東Ｓ",
-          "price": "644",
+          "price": "638",
           "change": "-1",
           "changePercent": "-0.16%"
-        },
-        {
-          "code": "3474",
-          "name": "Ｇ－ＦＡＣ",
-          "market": "東Ｇ",
-          "price": "546",
-          "change": "-1",
-          "changePercent": "-0.18%"
-        },
-        {
-          "code": "3280",
-          "name": "エストラスト",
-          "market": "東Ｓ",
-          "price": "988",
-          "change": "-2",
-          "changePercent": "-0.20%"
-        },
-        {
-          "code": "3248",
-          "name": "アールエイジ",
-          "market": "東Ｓ",
-          "price": "867",
-          "change": "-2",
-          "changePercent": "-0.23%"
-        },
-        {
-          "code": "6620",
-          "name": "宮越ＨＤ",
-          "market": "東Ｐ",
-          "price": "792",
-          "change": "-2",
-          "changePercent": "-0.25%"
-        },
-        {
-          "code": "2978",
-          "name": "ツクルバ",
-          "market": "東Ｇ",
-          "price": "344",
-          "change": "-1",
-          "changePercent": "-0.29%"
-        },
-        {
-          "code": "8850",
-          "name": "スターツ",
-          "market": "東Ｐ",
-          "price": "4,745",
-          "change": "-15",
-          "changePercent": "-0.32%"
         },
         {
           "code": "2991",
           "name": "ランドネット",
           "market": "東Ｓ",
-          "price": "596",
-          "change": "-2",
-          "changePercent": "-0.33%"
-        },
-        {
-          "code": "3252",
-          "name": "地主",
-          "market": "東Ｐ",
-          "price": "2,924",
-          "change": "-10",
-          "changePercent": "-0.34%"
-        },
-        {
-          "code": "8818",
-          "name": "京阪神ビル",
-          "market": "東Ｐ",
-          "price": "1,158",
-          "change": "-4",
-          "changePercent": "-0.34%"
-        },
-        {
-          "code": "8898",
-          "name": "センチュ２１",
-          "market": "東Ｓ",
-          "price": "1,123",
-          "change": "-4",
-          "changePercent": "-0.35%"
-        },
-        {
-          "code": "3482",
-          "name": "ロードスター",
-          "market": "東Ｐ",
-          "price": "2,664",
-          "change": "-14",
-          "changePercent": "-0.52%"
-        },
-        {
-          "code": "3484",
-          "name": "イノベＨＤ",
-          "market": "東Ｓ",
-          "price": "1,145",
-          "change": "-6",
-          "changePercent": "-0.52%"
-        },
-        {
-          "code": "8892",
-          "name": "エスコン",
-          "market": "東Ｐ",
-          "price": "1,100",
-          "change": "-6",
-          "changePercent": "-0.54%"
-        },
-        {
-          "code": "8877",
-          "name": "エスリード",
-          "market": "東Ｐ",
-          "price": "5,000",
-          "change": "-30",
-          "changePercent": "-0.60%"
-        },
-        {
-          "code": "3772",
-          "name": "ウェルス",
-          "market": "東Ｓ",
-          "price": "1,046",
-          "change": "-7",
-          "changePercent": "-0.66%"
-        },
-        {
-          "code": "5532",
-          "name": "リアルゲイト",
-          "market": "東Ｇ",
-          "price": "3,620",
-          "change": "-25",
-          "changePercent": "-0.69%"
-        },
-        {
-          "code": "2982",
-          "name": "ＡＤＷＧ",
-          "market": "東Ｐ",
-          "price": "400",
-          "change": "-3",
-          "changePercent": "-0.74%"
-        },
-        {
-          "code": "276A",
-          "name": "ククレブ",
-          "market": "東Ｇ",
-          "price": "3,310",
-          "change": "-25",
-          "changePercent": "-0.75%"
-        },
-        {
-          "code": "5527",
-          "name": "プロパテクノ",
-          "market": "東Ｇ",
-          "price": "652",
-          "change": "-5",
-          "changePercent": "-0.76%"
+          "price": "595",
+          "change": "-1",
+          "changePercent": "-0.17%"
         },
         {
           "code": "5280",
           "name": "ヨシコン",
           "market": "東Ｓ",
-          "price": "2,267",
-          "change": "-18",
-          "changePercent": "-0.79%"
+          "price": "2,263",
+          "change": "-4",
+          "changePercent": "-0.18%"
         },
         {
-          "code": "3297",
-          "name": "東武住販",
+          "code": "8917",
+          "name": "ファースト住",
           "market": "東Ｓ",
-          "price": "1,110",
-          "change": "-11",
-          "changePercent": "-0.98%"
+          "price": "1,126",
+          "change": "-2",
+          "changePercent": "-0.18%"
         },
         {
-          "code": "463A",
-          "name": "インテリクス",
-          "market": "東Ｓ",
-          "price": "917",
-          "change": "-10",
-          "changePercent": "-1.08%"
+          "code": "8999",
+          "name": "グランディ",
+          "market": "東Ｐ",
+          "price": "532",
+          "change": "-1",
+          "changePercent": "-0.19%"
         },
         {
           "code": "2993",
           "name": "長栄",
           "market": "東Ｓ",
-          "price": "2,150",
-          "change": "-25",
-          "changePercent": "-1.15%"
-        },
-        {
-          "code": "2999",
-          "name": "ホームポジ",
-          "market": "東Ｓ",
-          "price": "601",
-          "change": "-7",
-          "changePercent": "-1.15%"
-        },
-        {
-          "code": "1435",
-          "name": "ロボホーム",
-          "market": "東Ｓ",
-          "price": "164",
-          "change": "-2",
-          "changePercent": "-1.20%"
-        },
-        {
-          "code": "3467",
-          "name": "アグレ都市",
-          "market": "東Ｓ",
-          "price": "2,643",
-          "change": "-32",
-          "changePercent": "-1.20%"
-        },
-        {
-          "code": "8944",
-          "name": "ランビジネス",
-          "market": "東Ｓ",
-          "price": "239",
-          "change": "-3",
-          "changePercent": "-1.24%"
-        },
-        {
-          "code": "2980",
-          "name": "ＳＲＥＨＤ",
-          "market": "東Ｐ",
-          "price": "2,609",
-          "change": "-33",
-          "changePercent": "-1.25%"
+          "price": "2,145",
+          "change": "-5",
+          "changePercent": "-0.23%"
         },
         {
           "code": "8908",
           "name": "毎コムネット",
           "market": "東Ｓ",
-          "price": "857",
-          "change": "-11",
-          "changePercent": "-1.27%"
+          "price": "855",
+          "change": "-2",
+          "changePercent": "-0.23%"
         },
         {
-          "code": "8946",
-          "name": "エイシアンＳ",
+          "code": "3291",
+          "name": "飯田ＧＨＤ",
+          "market": "東Ｐ",
+          "price": "2,236.0",
+          "change": "-5.5",
+          "changePercent": "-0.25%"
+        },
+        {
+          "code": "3238",
+          "name": "セントラル総",
           "market": "東Ｓ",
-          "price": "76",
+          "price": "372",
           "change": "-1",
-          "changePercent": "-1.30%"
+          "changePercent": "-0.27%"
         },
         {
-          "code": "3300",
-          "name": "アンビＤＸ",
+          "code": "8887",
+          "name": "シーラＨＤ",
+          "market": "東Ｓ",
+          "price": "361",
+          "change": "-1",
+          "changePercent": "-0.28%"
+        },
+        {
+          "code": "2978",
+          "name": "ツクルバ",
           "market": "東Ｇ",
-          "price": "2,109",
-          "change": "-29",
-          "changePercent": "-1.36%"
+          "price": "343",
+          "change": "-1",
+          "changePercent": "-0.29%"
+        },
+        {
+          "code": "3461",
+          "name": "パルマ",
+          "market": "東Ｓ",
+          "price": "567",
+          "change": "-2",
+          "changePercent": "-0.35%"
+        },
+        {
+          "code": "3484",
+          "name": "イノベＨＤ",
+          "market": "東Ｓ",
+          "price": "1,141",
+          "change": "-4",
+          "changePercent": "-0.35%"
+        },
+        {
+          "code": "3477",
+          "name": "フォーライフ",
+          "market": "東Ｇ",
+          "price": "841",
+          "change": "-3",
+          "changePercent": "-0.36%"
+        },
+        {
+          "code": "2353",
+          "name": "日本駐車場",
+          "market": "東Ｐ",
+          "price": "258",
+          "change": "-1",
+          "changePercent": "-0.39%"
+        },
+        {
+          "code": "4666",
+          "name": "パーク２４",
+          "market": "東Ｐ",
+          "price": "2,020.5",
+          "change": "-8.0",
+          "changePercent": "-0.39%"
+        },
+        {
+          "code": "5530",
+          "name": "日本ＳＢ",
+          "market": "名Ｍ",
+          "price": "1,029",
+          "change": "-4",
+          "changePercent": "-0.39%"
+        },
+        {
+          "code": "8944",
+          "name": "ランビジネス",
+          "market": "東Ｓ",
+          "price": "238",
+          "change": "-1",
+          "changePercent": "-0.42%"
+        },
+        {
+          "code": "8927",
+          "name": "明豊エンタ",
+          "market": "東Ｓ",
+          "price": "455",
+          "change": "-2",
+          "changePercent": "-0.44%"
         },
         {
           "code": "3496",
           "name": "アズーム",
           "market": "東Ｐ",
-          "price": "4,400",
-          "change": "-70",
-          "changePercent": "-1.57%"
+          "price": "4,380",
+          "change": "-20",
+          "changePercent": "-0.45%"
+        },
+        {
+          "code": "8945",
+          "name": "サンネクスタ",
+          "market": "東Ｓ",
+          "price": "1,087",
+          "change": "-5",
+          "changePercent": "-0.46%"
+        },
+        {
+          "code": "8929",
+          "name": "青山財産",
+          "market": "東Ｓ",
+          "price": "1,272",
+          "change": "-6",
+          "changePercent": "-0.47%"
+        },
+        {
+          "code": "3252",
+          "name": "地主",
+          "market": "東Ｐ",
+          "price": "2,910",
+          "change": "-14",
+          "changePercent": "-0.48%"
+        },
+        {
+          "code": "5533",
+          "name": "エリッツＨＤ",
+          "market": "東Ｓ",
+          "price": "2,060",
+          "change": "-10",
+          "changePercent": "-0.48%"
+        },
+        {
+          "code": "8897",
+          "name": "ミラースＨＤ",
+          "market": "東Ｐ",
+          "price": "409",
+          "change": "-2",
+          "changePercent": "-0.49%"
+        },
+        {
+          "code": "8935",
+          "name": "ＦＪネクＨＤ",
+          "market": "東Ｐ",
+          "price": "1,802",
+          "change": "-9",
+          "changePercent": "-0.50%"
+        },
+        {
+          "code": "8841",
+          "name": "テーオーシー",
+          "market": "東Ｓ",
+          "price": "964",
+          "change": "-5",
+          "changePercent": "-0.52%"
+        },
+        {
+          "code": "8804",
+          "name": "東建物",
+          "market": "東Ｐ",
+          "price": "3,404.0",
+          "change": "-18.0",
+          "changePercent": "-0.53%"
+        },
+        {
+          "code": "1435",
+          "name": "ロボホーム",
+          "market": "東Ｓ",
+          "price": "163",
+          "change": "-1",
+          "changePercent": "-0.61%"
+        },
+        {
+          "code": "5527",
+          "name": "プロパテクノ",
+          "market": "東Ｇ",
+          "price": "648",
+          "change": "-4",
+          "changePercent": "-0.61%"
+        },
+        {
+          "code": "3300",
+          "name": "アンビＤＸ",
+          "market": "東Ｇ",
+          "price": "2,094",
+          "change": "-15",
+          "changePercent": "-0.71%"
+        },
+        {
+          "code": "3479",
+          "name": "ＴＫＰ",
+          "market": "東Ｇ",
+          "price": "1,743",
+          "change": "-14",
+          "changePercent": "-0.80%"
+        },
+        {
+          "code": "8928",
+          "name": "穴吹興産",
+          "market": "東Ｓ",
+          "price": "2,241",
+          "change": "-18",
+          "changePercent": "-0.80%"
+        },
+        {
+          "code": "8803",
+          "name": "平和不",
+          "market": "東Ｐ",
+          "price": "2,370",
+          "change": "-20",
+          "changePercent": "-0.84%"
+        },
+        {
+          "code": "3289",
+          "name": "東急不ＨＤ",
+          "market": "東Ｐ",
+          "price": "1,327.0",
+          "change": "-11.5",
+          "changePercent": "-0.86%"
+        },
+        {
+          "code": "8914",
+          "name": "エリアリンク",
+          "market": "東Ｓ",
+          "price": "804",
+          "change": "-8",
+          "changePercent": "-0.99%"
+        },
+        {
+          "code": "2970",
+          "name": "ジーエルシー",
+          "market": "東Ｓ",
+          "price": "940",
+          "change": "-10",
+          "changePercent": "-1.05%"
+        },
+        {
+          "code": "3495",
+          "name": "香陵住販",
+          "market": "東Ｓ",
+          "price": "2,345",
+          "change": "-25",
+          "changePercent": "-1.05%"
+        },
+        {
+          "code": "3231",
+          "name": "野村不ＨＤ",
+          "market": "東Ｐ",
+          "price": "948.3",
+          "change": "-10.2",
+          "changePercent": "-1.06%"
+        },
+        {
+          "code": "3236",
+          "name": "プロパスト",
+          "market": "東Ｓ",
+          "price": "273",
+          "change": "-3",
+          "changePercent": "-1.09%"
+        },
+        {
+          "code": "3288",
+          "name": "オープンＨ",
+          "market": "東Ｐ",
+          "price": "8,720",
+          "change": "-96",
+          "changePercent": "-1.09%"
+        },
+        {
+          "code": "2986",
+          "name": "ＬＡホールデ",
+          "market": "東Ｇ",
+          "price": "2,965",
+          "change": "-33",
+          "changePercent": "-1.10%"
+        },
+        {
+          "code": "8830",
+          "name": "住友不",
+          "market": "東Ｐ",
+          "price": "3,848",
+          "change": "-46",
+          "changePercent": "-1.18%"
+        },
+        {
+          "code": "3266",
+          "name": "ファンクリＧ",
+          "market": "東Ｓ",
+          "price": "83",
+          "change": "-1",
+          "changePercent": "-1.19%"
         },
         {
           "code": "3241",
           "name": "ウィル",
           "market": "東Ｓ",
-          "price": "573",
-          "change": "-10",
+          "price": "566",
+          "change": "-7",
+          "changePercent": "-1.22%"
+        },
+        {
+          "code": "9816",
+          "name": "ストライダズ",
+          "market": "東Ｓ",
+          "price": "235",
+          "change": "-3",
+          "changePercent": "-1.26%"
+        },
+        {
+          "code": "3486",
+          "name": "グロバルＬＭ",
+          "market": "東Ｐ",
+          "price": "1,870",
+          "change": "-26",
+          "changePercent": "-1.37%"
+        },
+        {
+          "code": "8938",
+          "name": "グロームＨＤ",
+          "market": "東Ｇ",
+          "price": "345",
+          "change": "-5",
+          "changePercent": "-1.43%"
+        },
+        {
+          "code": "5535",
+          "name": "ミガロＨＤ",
+          "market": "東Ｐ",
+          "price": "274",
+          "change": "-4",
+          "changePercent": "-1.44%"
+        },
+        {
+          "code": "2982",
+          "name": "ＡＤＷＧ",
+          "market": "東Ｐ",
+          "price": "394",
+          "change": "-6",
+          "changePercent": "-1.50%"
+        },
+        {
+          "code": "146A",
+          "name": "コロンビア",
+          "market": "東Ｓ",
+          "price": "3,170",
+          "change": "-50",
+          "changePercent": "-1.55%"
+        },
+        {
+          "code": "4827",
+          "name": "ＢワンＨＤ",
+          "market": "福Ｑ",
+          "price": "805",
+          "change": "-13",
+          "changePercent": "-1.59%"
+        },
+        {
+          "code": "3467",
+          "name": "アグレ都市",
+          "market": "東Ｓ",
+          "price": "2,600",
+          "change": "-43",
+          "changePercent": "-1.63%"
+        },
+        {
+          "code": "8995",
+          "name": "誠建設",
+          "market": "東Ｓ",
+          "price": "817",
+          "change": "-14",
+          "changePercent": "-1.68%"
+        },
+        {
+          "code": "8801",
+          "name": "三井不",
+          "market": "東Ｐ",
+          "price": "1,544.5",
+          "change": "-27.0",
           "changePercent": "-1.72%"
         },
         {
-          "code": "166A",
-          "name": "タスキＨＤ",
-          "market": "東Ｐ",
-          "price": "1,080",
-          "change": "-20",
-          "changePercent": "-1.82%"
+          "code": "9820",
+          "name": "ジェネックス",
+          "market": "東Ｓ",
+          "price": "3,630",
+          "change": "-65",
+          "changePercent": "-1.76%"
         },
         {
           "code": "1783",
           "name": "ファンタジス",
           "market": "東Ｓ",
-          "price": "51",
+          "price": "50",
           "change": "-1",
-          "changePercent": "-1.92%"
-        },
-        {
-          "code": "2984",
-          "name": "ヤマイチ",
-          "market": "東Ｓ",
-          "price": "726",
-          "change": "-17",
-          "changePercent": "-2.29%"
-        },
-        {
-          "code": "2975",
-          "name": "スターマイカ",
-          "market": "東Ｐ",
-          "price": "1,516",
-          "change": "-38",
-          "changePercent": "-2.45%"
-        },
-        {
-          "code": "8836",
-          "name": "ＲＩＳＥ",
-          "market": "東Ｓ",
-          "price": "26",
-          "change": "-1",
-          "changePercent": "-3.70%"
+          "changePercent": "-1.96%"
         },
         {
           "code": "3237",
           "name": "イントランス",
           "market": "東Ｇ",
-          "price": "100",
-          "change": "-7",
-          "changePercent": "-6.54%"
+          "price": "98",
+          "change": "-2",
+          "changePercent": "-2.00%"
+        },
+        {
+          "code": "2981",
+          "name": "ランディクス",
+          "market": "東Ｇ",
+          "price": "2,047",
+          "change": "-43",
+          "changePercent": "-2.06%"
+        },
+        {
+          "code": "8802",
+          "name": "菱地所",
+          "market": "東Ｐ",
+          "price": "4,267",
+          "change": "-91",
+          "changePercent": "-2.09%"
+        },
+        {
+          "code": "2983",
+          "name": "アールプラン",
+          "market": "東Ｇ",
+          "price": "1,522",
+          "change": "-40",
+          "changePercent": "-2.56%"
+        },
+        {
+          "code": "3498",
+          "name": "霞ヶ関Ｃ",
+          "market": "東Ｐ",
+          "price": "6,720",
+          "change": "-180",
+          "changePercent": "-2.61%"
+        },
+        {
+          "code": "8923",
+          "name": "トーセイ",
+          "market": "東Ｐ",
+          "price": "1,744",
+          "change": "-48",
+          "changePercent": "-2.68%"
+        },
+        {
+          "code": "2980",
+          "name": "ＳＲＥＨＤ",
+          "market": "東Ｐ",
+          "price": "2,535",
+          "change": "-74",
+          "changePercent": "-2.84%"
+        },
+        {
+          "code": "2998",
+          "name": "クリアル",
+          "market": "東Ｇ",
+          "price": "530",
+          "change": "-20",
+          "changePercent": "-3.64%"
+        },
+        {
+          "code": "3491",
+          "name": "ＧＡテクノ",
+          "market": "東Ｇ",
+          "price": "1,402",
+          "change": "-56",
+          "changePercent": "-3.84%"
+        },
+        {
+          "code": "5537",
+          "name": "アルバリンク",
+          "market": "東Ｇ",
+          "price": "2,934",
+          "change": "-131",
+          "changePercent": "-4.27%"
+        },
+        {
+          "code": "8844",
+          "name": "コスモスイニ",
+          "market": "東Ｓ",
+          "price": "1,398",
+          "change": "-74",
+          "changePercent": "-5.03%"
+        },
+        {
+          "code": "6620",
+          "name": "宮越ＨＤ",
+          "market": "東Ｐ",
+          "price": "744",
+          "change": "-48",
+          "changePercent": "-6.06%"
+        },
+        {
+          "code": "2976",
+          "name": "日グランデ",
+          "market": "札Ａ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
+        },
+        {
+          "code": "391A",
+          "name": "山忠",
+          "market": "名Ｍ",
+          "price": "－",
+          "change": "－",
+          "changePercent": "－%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 2429.34,
-          "changePercent": 0.17
-        },
         {
           "date": "20260625",
           "price": 2464.67,
@@ -20215,6 +20210,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 2638.86,
           "changePercent": 1.28
+        },
+        {
+          "date": "20260708",
+          "price": 2608.66,
+          "changePercent": -1.14
         }
       ]
     },
@@ -20222,1217 +20222,1212 @@ window.sectorData = {
       "id": "9050",
       "nameJa": "サービス業",
       "nameEn": "Services",
-      "price": 3795.31,
-      "change": "+74.01",
-      "changePercent": 1.99,
+      "price": 3781.99,
+      "change": "-13.32",
+      "changePercent": -0.35,
       "stocks": [
+        {
+          "code": "4833",
+          "name": "Ｄｅｆコン",
+          "market": "東Ｇ",
+          "price": "51",
+          "change": "+9",
+          "changePercent": "+21.43%"
+        },
         {
           "code": "9170",
           "name": "成友興業",
           "market": "名Ｍ",
-          "price": "2,735",
-          "change": "+490",
-          "changePercent": "+21.83%"
+          "price": "3,235",
+          "change": "+500",
+          "changePercent": "+18.28%"
         },
         {
-          "code": "7360",
-          "name": "オンデック",
+          "code": "7352",
+          "name": "ＴＷＯＳＴ",
           "market": "東Ｇ",
-          "price": "703",
-          "change": "+90",
-          "changePercent": "+14.68%"
-        },
-        {
-          "code": "505A",
-          "name": "ギークリー",
-          "market": "東Ｓ",
-          "price": "1,280",
-          "change": "+128",
-          "changePercent": "+11.11%"
-        },
-        {
-          "code": "6085",
-          "name": "アーキテクツ",
-          "market": "東Ｇ",
-          "price": "267",
-          "change": "+22",
-          "changePercent": "+8.98%"
-        },
-        {
-          "code": "9556",
-          "name": "イントループ",
-          "market": "東Ｇ",
-          "price": "1,902",
-          "change": "+145",
-          "changePercent": "+8.25%"
-        },
-        {
-          "code": "6055",
-          "name": "Ｊマテリアル",
-          "market": "東Ｐ",
-          "price": "2,640",
-          "change": "+189",
-          "changePercent": "+7.71%"
-        },
-        {
-          "code": "9704",
-          "name": "アゴーラＨＧ",
-          "market": "東Ｓ",
-          "price": "35",
-          "change": "+2",
-          "changePercent": "+6.06%"
-        },
-        {
-          "code": "194A",
-          "name": "ウルフハンド",
-          "market": "東Ｇ",
-          "price": "1,647",
-          "change": "+70",
-          "changePercent": "+4.44%"
-        },
-        {
-          "code": "2175",
-          "name": "エスエムエス",
-          "market": "東Ｐ",
-          "price": "2,334",
-          "change": "+97",
-          "changePercent": "+4.34%"
-        },
-        {
-          "code": "6552",
-          "name": "ゲームウィズ",
-          "market": "東Ｓ",
-          "price": "195",
-          "change": "+8",
-          "changePercent": "+4.28%"
-        },
-        {
-          "code": "7069",
-          "name": "サイバーバズ",
-          "market": "東Ｇ",
-          "price": "732",
-          "change": "+30",
-          "changePercent": "+4.27%"
-        },
-        {
-          "code": "2437",
-          "name": "シンワワイズ",
-          "market": "東Ｓ",
-          "price": "539",
-          "change": "+22",
-          "changePercent": "+4.26%"
-        },
-        {
-          "code": "7063",
-          "name": "バードマン",
-          "market": "東Ｇ",
-          "price": "102",
-          "change": "+4",
-          "changePercent": "+4.08%"
-        },
-        {
-          "code": "7067",
-          "name": "ブランドＴ",
-          "market": "東Ｇ",
-          "price": "994",
-          "change": "+39",
-          "changePercent": "+4.08%"
-        },
-        {
-          "code": "4735",
-          "name": "京進",
-          "market": "東Ｓ",
-          "price": "338",
-          "change": "+13",
-          "changePercent": "+4.00%"
-        },
-        {
-          "code": "9229",
-          "name": "サンウェルズ",
-          "market": "東Ｐ",
-          "price": "163",
-          "change": "+6",
-          "changePercent": "+3.82%"
-        },
-        {
-          "code": "4337",
-          "name": "ぴあ",
-          "market": "東Ｐ",
-          "price": "2,788",
-          "change": "+102",
-          "changePercent": "+3.80%"
-        },
-        {
-          "code": "9632",
-          "name": "スバル",
-          "market": "東Ｓ",
-          "price": "3,705",
-          "change": "+135",
-          "changePercent": "+3.78%"
-        },
-        {
-          "code": "6081",
-          "name": "アライドアキ",
-          "market": "東Ｇ",
-          "price": "173",
-          "change": "+6",
-          "changePercent": "+3.59%"
+          "price": "430",
+          "change": "+40",
+          "changePercent": "+10.26%"
         },
         {
           "code": "9557",
           "name": "エアクロ",
           "market": "東Ｇ",
-          "price": "175",
-          "change": "+6",
-          "changePercent": "+3.55%"
-        },
-        {
-          "code": "9241",
-          "name": "ＦＬネット",
-          "market": "東Ｇ",
-          "price": "1,397",
-          "change": "+47",
-          "changePercent": "+3.48%"
-        },
-        {
-          "code": "6098",
-          "name": "リクルート",
-          "market": "東Ｐ",
-          "price": "12,300",
-          "change": "+405",
-          "changePercent": "+3.40%"
-        },
-        {
-          "code": "2475",
-          "name": "ＷＤＢ",
-          "market": "東Ｐ",
-          "price": "1,811",
-          "change": "+57",
-          "changePercent": "+3.25%"
-        },
-        {
-          "code": "9259",
-          "name": "タカヨシＨＤ",
-          "market": "東Ｇ",
-          "price": "842",
-          "change": "+25",
-          "changePercent": "+3.06%"
-        },
-        {
-          "code": "6579",
-          "name": "ログリー",
-          "market": "東Ｇ",
-          "price": "351",
-          "change": "+10",
-          "changePercent": "+2.93%"
-        },
-        {
-          "code": "6554",
-          "name": "エスユーエス",
-          "market": "東Ｇ",
-          "price": "1,058",
-          "change": "+30",
-          "changePercent": "+2.92%"
-        },
-        {
-          "code": "9225",
-          "name": "ブリッジＧ",
-          "market": "東Ｇ",
-          "price": "974",
-          "change": "+27",
-          "changePercent": "+2.85%"
-        },
-        {
-          "code": "9212",
-          "name": "ＧＥＩ",
-          "market": "東Ｇ",
-          "price": "301",
-          "change": "+8",
-          "changePercent": "+2.73%"
-        },
-        {
-          "code": "2185",
-          "name": "シイエムシイ",
-          "market": "東Ｓ",
-          "price": "1,899",
-          "change": "+49",
-          "changePercent": "+2.65%"
-        },
-        {
-          "code": "291A",
-          "name": "リスキル",
-          "market": "東Ｇ",
-          "price": "1,800",
-          "change": "+46",
-          "changePercent": "+2.62%"
-        },
-        {
-          "code": "6086",
-          "name": "シンメンテ",
-          "market": "東Ｇ",
-          "price": "1,062",
-          "change": "+27",
-          "changePercent": "+2.61%"
-        },
-        {
-          "code": "2408",
-          "name": "ＫＧ情報",
-          "market": "東Ｓ",
-          "price": "856",
-          "change": "+21",
-          "changePercent": "+2.51%"
-        },
-        {
-          "code": "2173",
-          "name": "博展",
-          "market": "東Ｇ",
-          "price": "703",
+          "price": "192",
           "change": "+17",
-          "changePercent": "+2.48%"
+          "changePercent": "+9.71%"
         },
         {
-          "code": "4833",
-          "name": "Ｄｅｆコン",
+          "code": "9256",
+          "name": "サクシード",
           "market": "東Ｇ",
-          "price": "42",
-          "change": "+1",
-          "changePercent": "+2.44%"
+          "price": "4,215",
+          "change": "+360",
+          "changePercent": "+9.34%"
         },
         {
-          "code": "4641",
-          "name": "アルプス技",
+          "code": "4784",
+          "name": "ＧＭＯインタ",
           "market": "東Ｐ",
-          "price": "801",
-          "change": "+19",
-          "changePercent": "+2.43%"
-        },
-        {
-          "code": "286A",
-          "name": "ユカリア",
-          "market": "東Ｇ",
-          "price": "745",
-          "change": "+17",
-          "changePercent": "+2.34%"
-        },
-        {
-          "code": "7033",
-          "name": "ＭＳＯＬ",
-          "market": "東Ｐ",
-          "price": "1,389",
-          "change": "+31",
-          "changePercent": "+2.28%"
-        },
-        {
-          "code": "7062",
-          "name": "フレアス",
-          "market": "東Ｇ",
-          "price": "799",
-          "change": "+17",
-          "changePercent": "+2.17%"
-        },
-        {
-          "code": "6545",
-          "name": "ＩＩＦ",
-          "market": "東Ｇ",
-          "price": "762",
-          "change": "+16",
-          "changePercent": "+2.14%"
-        },
-        {
-          "code": "142A",
-          "name": "ジンジブ",
-          "market": "東Ｇ",
-          "price": "770",
-          "change": "+16",
-          "changePercent": "+2.12%"
-        },
-        {
-          "code": "2198",
-          "name": "アイケイケイ",
-          "market": "東Ｐ",
-          "price": "731",
-          "change": "+15",
-          "changePercent": "+2.09%"
-        },
-        {
-          "code": "7046",
-          "name": "ＴＤＳＥ",
-          "market": "東Ｇ",
-          "price": "1,378",
-          "change": "+28",
-          "changePercent": "+2.07%"
-        },
-        {
-          "code": "9336",
-          "name": "大栄環境",
-          "market": "東Ｐ",
-          "price": "4,010",
-          "change": "+80",
-          "changePercent": "+2.04%"
-        },
-        {
-          "code": "7096",
-          "name": "ステムセル研",
-          "market": "東Ｇ",
-          "price": "761",
-          "change": "+15",
-          "changePercent": "+2.01%"
-        },
-        {
-          "code": "4755",
-          "name": "楽天グループ",
-          "market": "東Ｐ",
-          "price": "792.1",
-          "change": "+15.5",
-          "changePercent": "+2.00%"
-        },
-        {
-          "code": "4345",
-          "name": "ＣＴＳ",
-          "market": "東Ｐ",
-          "price": "873",
-          "change": "+17",
-          "changePercent": "+1.99%"
-        },
-        {
-          "code": "6078",
-          "name": "バリューＨＲ",
-          "market": "東Ｐ",
-          "price": "1,486",
-          "change": "+29",
-          "changePercent": "+1.99%"
-        },
-        {
-          "code": "2156",
-          "name": "セーラー広告",
-          "market": "東Ｓ",
-          "price": "264",
-          "change": "+5",
-          "changePercent": "+1.93%"
-        },
-        {
-          "code": "299A",
-          "name": "クラシル",
-          "market": "東Ｇ",
-          "price": "1,017",
-          "change": "+19",
-          "changePercent": "+1.90%"
-        },
-        {
-          "code": "9628",
-          "name": "燦ＨＤ",
-          "market": "東Ｐ",
-          "price": "1,405",
-          "change": "+26",
-          "changePercent": "+1.89%"
-        },
-        {
-          "code": "6093",
-          "name": "ミトラＧ",
-          "market": "東Ｓ",
-          "price": "167",
-          "change": "+3",
-          "changePercent": "+1.83%"
-        },
-        {
-          "code": "6184",
-          "name": "鎌倉新書",
-          "market": "東Ｐ",
-          "price": "512",
-          "change": "+9",
-          "changePercent": "+1.79%"
-        },
-        {
-          "code": "2124",
-          "name": "ジェイエイシ",
-          "market": "東Ｐ",
-          "price": "873",
-          "change": "+15",
-          "changePercent": "+1.75%"
-        },
-        {
-          "code": "2341",
-          "name": "アルバイトＴ",
-          "market": "東Ｓ",
-          "price": "176",
-          "change": "+3",
-          "changePercent": "+1.73%"
-        },
-        {
-          "code": "4754",
-          "name": "トスネット",
-          "market": "東Ｓ",
-          "price": "1,500",
-          "change": "+25",
-          "changePercent": "+1.69%"
-        },
-        {
-          "code": "4766",
-          "name": "ピーエイ",
-          "market": "東Ｓ",
-          "price": "185",
-          "change": "+3",
-          "changePercent": "+1.65%"
-        },
-        {
-          "code": "7035",
-          "name": "アンファク",
-          "market": "東Ｓ",
-          "price": "247",
-          "change": "+4",
-          "changePercent": "+1.65%"
-        },
-        {
-          "code": "9236",
-          "name": "ジャパンＭＡ",
-          "market": "東Ｇ",
-          "price": "1,047",
-          "change": "+17",
-          "changePercent": "+1.65%"
-        },
-        {
-          "code": "2331",
-          "name": "ＡＬＳＯＫ",
-          "market": "東Ｐ",
-          "price": "1,115.5",
-          "change": "+18.0",
-          "changePercent": "+1.64%"
-        },
-        {
-          "code": "2148",
-          "name": "ＩＴメディア",
-          "market": "東Ｐ",
-          "price": "1,184",
-          "change": "+19",
-          "changePercent": "+1.63%"
-        },
-        {
-          "code": "6044",
-          "name": "三機サービス",
-          "market": "東Ｓ",
-          "price": "1,692",
-          "change": "+27",
-          "changePercent": "+1.62%"
-        },
-        {
-          "code": "4318",
-          "name": "クイック",
-          "market": "東Ｐ",
-          "price": "759",
-          "change": "+12",
-          "changePercent": "+1.61%"
-        },
-        {
-          "code": "4324",
-          "name": "電通グループ",
-          "market": "東Ｐ",
-          "price": "3,358.0",
-          "change": "+53.0",
-          "changePercent": "+1.60%"
-        },
-        {
-          "code": "9237",
-          "name": "笑美面",
-          "market": "東Ｇ",
-          "price": "830",
-          "change": "+13",
-          "changePercent": "+1.59%"
-        },
-        {
-          "code": "2172",
-          "name": "インサイト",
-          "market": "札証",
-          "price": "386",
-          "change": "+6",
-          "changePercent": "+1.58%"
-        },
-        {
-          "code": "2429",
-          "name": "ワールドＨＤ",
-          "market": "東Ｐ",
-          "price": "2,571",
-          "change": "+40",
-          "changePercent": "+1.58%"
-        },
-        {
-          "code": "2491",
-          "name": "Ｖコマース",
-          "market": "東Ｐ",
-          "price": "450",
-          "change": "+7",
-          "changePercent": "+1.58%"
-        },
-        {
-          "code": "4848",
-          "name": "フルキャスト",
-          "market": "東Ｐ",
-          "price": "1,570",
-          "change": "+24",
-          "changePercent": "+1.55%"
-        },
-        {
-          "code": "2127",
-          "name": "日本Ｍ＆Ａ",
-          "market": "東Ｐ",
-          "price": "689.9",
-          "change": "+10.4",
-          "changePercent": "+1.53%"
-        },
-        {
-          "code": "1717",
-          "name": "明豊ファシリ",
-          "market": "東Ｓ",
-          "price": "937",
-          "change": "+14",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "9332",
-          "name": "ＮＩＳＳＯ",
-          "market": "東Ｐ",
-          "price": "601",
-          "change": "+9",
-          "changePercent": "+1.52%"
-        },
-        {
-          "code": "2461",
-          "name": "ファンコミ",
-          "market": "東Ｐ",
-          "price": "405",
-          "change": "+6",
-          "changePercent": "+1.50%"
-        },
-        {
-          "code": "7068",
-          "name": "ＦフォースＧ",
-          "market": "東Ｇ",
-          "price": "550",
-          "change": "+8",
-          "changePercent": "+1.48%"
-        },
-        {
-          "code": "9159",
-          "name": "ＷＴＯＫＹＯ",
-          "market": "東Ｇ",
-          "price": "1,927",
-          "change": "+28",
-          "changePercent": "+1.47%"
-        },
-        {
-          "code": "4751",
-          "name": "サイバー",
-          "market": "東Ｐ",
-          "price": "1,560.0",
-          "change": "+22.5",
-          "changePercent": "+1.46%"
-        },
-        {
-          "code": "8920",
-          "name": "東祥",
-          "market": "東Ｓ",
-          "price": "775",
-          "change": "+11",
-          "changePercent": "+1.44%"
-        },
-        {
-          "code": "353A",
-          "name": "エレコミ",
-          "market": "福証",
-          "price": "1,500",
-          "change": "+21",
-          "changePercent": "+1.42%"
-        },
-        {
-          "code": "246A",
-          "name": "アスア",
-          "market": "東Ｇ",
-          "price": "1,030",
-          "change": "+14",
-          "changePercent": "+1.38%"
-        },
-        {
-          "code": "2325",
-          "name": "ＮＪＳ",
-          "market": "東Ｐ",
-          "price": "4,425",
-          "change": "+60",
-          "changePercent": "+1.37%"
-        },
-        {
-          "code": "5871",
-          "name": "ＳＯＬＩＺＥ",
-          "market": "東Ｓ",
-          "price": "1,342",
-          "change": "+18",
-          "changePercent": "+1.36%"
-        },
-        {
-          "code": "9227",
-          "name": "マイクロ波",
-          "market": "東Ｇ",
-          "price": "966",
-          "change": "+13",
-          "changePercent": "+1.36%"
-        },
-        {
-          "code": "2438",
-          "name": "アスカネット",
-          "market": "東Ｇ",
-          "price": "375",
-          "change": "+5",
-          "changePercent": "+1.35%"
-        },
-        {
-          "code": "6539",
-          "name": "ＭＳジャパン",
-          "market": "東Ｐ",
-          "price": "973",
-          "change": "+13",
-          "changePercent": "+1.35%"
-        },
-        {
-          "code": "6577",
-          "name": "ベストワン",
-          "market": "東Ｇ",
-          "price": "2,381",
-          "change": "+31",
-          "changePercent": "+1.32%"
-        },
-        {
-          "code": "9330",
-          "name": "揚羽",
-          "market": "東Ｇ",
-          "price": "867",
-          "change": "+11",
-          "changePercent": "+1.29%"
+          "price": "500",
+          "change": "+33",
+          "changePercent": "+7.07%"
         },
         {
           "code": "6549",
           "name": "ＤＭソリュ",
           "market": "東Ｓ",
-          "price": "1,112",
-          "change": "+14",
-          "changePercent": "+1.28%"
+          "price": "1,190",
+          "change": "+78",
+          "changePercent": "+7.01%"
         },
         {
-          "code": "6096",
-          "name": "レアジョブ",
-          "market": "東Ｓ",
-          "price": "398",
-          "change": "+5",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "6178",
-          "name": "日本郵政",
-          "market": "東Ｐ",
-          "price": "2,355.5",
-          "change": "+29.5",
-          "changePercent": "+1.27%"
-        },
-        {
-          "code": "6532",
-          "name": "ベイカレント",
-          "market": "東Ｐ",
-          "price": "6,900",
-          "change": "+86",
-          "changePercent": "+1.26%"
-        },
-        {
-          "code": "4433",
-          "name": "ヒトコムＨＤ",
-          "market": "東Ｐ",
-          "price": "896",
-          "change": "+11",
-          "changePercent": "+1.24%"
-        },
-        {
-          "code": "2433",
-          "name": "博報堂ＤＹ",
-          "market": "東Ｐ",
-          "price": "1,230.5",
-          "change": "+15.0",
-          "changePercent": "+1.23%"
-        },
-        {
-          "code": "2492",
-          "name": "インフォＭＴ",
-          "market": "東Ｐ",
-          "price": "496",
-          "change": "+6",
-          "changePercent": "+1.22%"
-        },
-        {
-          "code": "6088",
-          "name": "シグマクシス",
-          "market": "東Ｐ",
-          "price": "581",
-          "change": "+7",
-          "changePercent": "+1.22%"
-        },
-        {
-          "code": "7093",
-          "name": "アディッシュ",
+          "code": "286A",
+          "name": "ユカリア",
           "market": "東Ｇ",
-          "price": "506",
-          "change": "+6",
-          "changePercent": "+1.20%"
+          "price": "787",
+          "change": "+42",
+          "changePercent": "+5.64%"
         },
         {
-          "code": "9757",
-          "name": "船井総研ＨＤ",
-          "market": "東Ｐ",
-          "price": "1,110",
-          "change": "+13",
-          "changePercent": "+1.19%"
-        },
-        {
-          "code": "2413",
-          "name": "エムスリー",
-          "market": "東Ｐ",
-          "price": "1,924.5",
-          "change": "+22.0",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "9788",
-          "name": "ナック",
-          "market": "東Ｐ",
-          "price": "522",
-          "change": "+6",
-          "changePercent": "+1.16%"
-        },
-        {
-          "code": "6547",
-          "name": "グリーンズ",
-          "market": "東Ｓ",
-          "price": "2,130",
-          "change": "+24",
-          "changePercent": "+1.14%"
-        },
-        {
-          "code": "9769",
-          "name": "学究社",
-          "market": "東Ｐ",
-          "price": "2,568",
-          "change": "+29",
-          "changePercent": "+1.14%"
-        },
-        {
-          "code": "6200",
-          "name": "インソース",
-          "market": "東Ｐ",
-          "price": "626",
-          "change": "+7",
-          "changePercent": "+1.13%"
-        },
-        {
-          "code": "7375",
-          "name": "リファバスＧ",
+          "code": "264A",
+          "name": "Ｓｃｈｏｏ",
           "market": "東Ｇ",
-          "price": "1,256",
-          "change": "+14",
-          "changePercent": "+1.13%"
+          "price": "315",
+          "change": "+15",
+          "changePercent": "+5.00%"
         },
         {
-          "code": "6038",
-          "name": "イード",
+          "code": "7074",
+          "name": "２４７ＨＤ",
           "market": "東Ｇ",
-          "price": "813",
-          "change": "+9",
-          "changePercent": "+1.12%"
-        },
-        {
-          "code": "6047",
-          "name": "Ｇｕｎｏｓｙ",
-          "market": "東Ｓ",
-          "price": "453",
-          "change": "+5",
-          "changePercent": "+1.12%"
-        },
-        {
-          "code": "6540",
-          "name": "船場",
-          "market": "東Ｓ",
-          "price": "1,534",
-          "change": "+17",
-          "changePercent": "+1.12%"
-        },
-        {
-          "code": "4712",
-          "name": "ＫｅｙＨ",
-          "market": "東Ｓ",
-          "price": "736",
+          "price": "176",
           "change": "+8",
-          "changePercent": "+1.10%"
+          "changePercent": "+4.76%"
+        },
+        {
+          "code": "9740",
+          "name": "ＣＳＰ",
+          "market": "東Ｐ",
+          "price": "2,857",
+          "change": "+129",
+          "changePercent": "+4.73%"
+        },
+        {
+          "code": "4347",
+          "name": "ブロメディア",
+          "market": "東Ｓ",
+          "price": "1,841",
+          "change": "+81",
+          "changePercent": "+4.60%"
+        },
+        {
+          "code": "6025",
+          "name": "日本ＰＣ",
+          "market": "名Ｎ",
+          "price": "685",
+          "change": "+30",
+          "changePercent": "+4.58%"
+        },
+        {
+          "code": "4714",
+          "name": "リソー教育Ｇ",
+          "market": "東Ｐ",
+          "price": "209",
+          "change": "+9",
+          "changePercent": "+4.50%"
+        },
+        {
+          "code": "9726",
+          "name": "ＫＮＴＣＴ",
+          "market": "東Ｓ",
+          "price": "1,881",
+          "change": "+69",
+          "changePercent": "+3.81%"
+        },
+        {
+          "code": "7037",
+          "name": "テノ．ＨＤ",
+          "market": "東Ｓ",
+          "price": "873",
+          "change": "+31",
+          "changePercent": "+3.68%"
+        },
+        {
+          "code": "9628",
+          "name": "燦ＨＤ",
+          "market": "東Ｐ",
+          "price": "1,450",
+          "change": "+45",
+          "changePercent": "+3.20%"
+        },
+        {
+          "code": "7067",
+          "name": "ブランドＴ",
+          "market": "東Ｇ",
+          "price": "1,025",
+          "change": "+31",
+          "changePercent": "+3.12%"
+        },
+        {
+          "code": "6076",
+          "name": "アメイズ",
+          "market": "福証",
+          "price": "1,200",
+          "change": "+35",
+          "changePercent": "+3.00%"
+        },
+        {
+          "code": "6545",
+          "name": "ＩＩＦ",
+          "market": "東Ｇ",
+          "price": "784",
+          "change": "+22",
+          "changePercent": "+2.89%"
+        },
+        {
+          "code": "2170",
+          "name": "ＬＩＮＫ＆Ｍ",
+          "market": "東Ｐ",
+          "price": "596",
+          "change": "+16",
+          "changePercent": "+2.76%"
+        },
+        {
+          "code": "6029",
+          "name": "アトラＧ",
+          "market": "東Ｓ",
+          "price": "187",
+          "change": "+5",
+          "changePercent": "+2.75%"
+        },
+        {
+          "code": "4766",
+          "name": "ピーエイ",
+          "market": "東Ｓ",
+          "price": "190",
+          "change": "+5",
+          "changePercent": "+2.70%"
+        },
+        {
+          "code": "7362",
+          "name": "Ｔ．Ｓ．Ｉ",
+          "market": "東Ｇ",
+          "price": "850",
+          "change": "+22",
+          "changePercent": "+2.66%"
+        },
+        {
+          "code": "302A",
+          "name": "ビースタイル",
+          "market": "東Ｇ",
+          "price": "562",
+          "change": "+14",
+          "changePercent": "+2.55%"
+        },
+        {
+          "code": "9760",
+          "name": "進学会ＨＤ",
+          "market": "東Ｓ",
+          "price": "121",
+          "change": "+3",
+          "changePercent": "+2.54%"
+        },
+        {
+          "code": "7354",
+          "name": "Ｄｍミックス",
+          "market": "東Ｓ",
+          "price": "342",
+          "change": "+8",
+          "changePercent": "+2.40%"
+        },
+        {
+          "code": "9257",
+          "name": "ＹＣＰ",
+          "market": "東Ｇ",
+          "price": "645",
+          "change": "+15",
+          "changePercent": "+2.38%"
+        },
+        {
+          "code": "7367",
+          "name": "セルム",
+          "market": "東Ｓ",
+          "price": "345",
+          "change": "+8",
+          "changePercent": "+2.37%"
+        },
+        {
+          "code": "2175",
+          "name": "エスエムエス",
+          "market": "東Ｐ",
+          "price": "2,387",
+          "change": "+53",
+          "changePercent": "+2.27%"
+        },
+        {
+          "code": "6063",
+          "name": "ＥＡＪ",
+          "market": "東Ｓ",
+          "price": "997",
+          "change": "+22",
+          "changePercent": "+2.26%"
+        },
+        {
+          "code": "2371",
+          "name": "カカクコム",
+          "market": "東Ｐ",
+          "price": "3,650.0",
+          "change": "+80.0",
+          "changePercent": "+2.24%"
+        },
+        {
+          "code": "2498",
+          "name": "オリコンＨＤ",
+          "market": "東Ｓ",
+          "price": "3,190",
+          "change": "+70",
+          "changePercent": "+2.24%"
+        },
+        {
+          "code": "9778",
+          "name": "昴",
+          "market": "東Ｓ",
+          "price": "5,720",
+          "change": "+120",
+          "changePercent": "+2.14%"
+        },
+        {
+          "code": "4665",
+          "name": "ダスキン",
+          "market": "東Ｐ",
+          "price": "4,525",
+          "change": "+91",
+          "changePercent": "+2.05%"
+        },
+        {
+          "code": "6552",
+          "name": "ゲームウィズ",
+          "market": "東Ｓ",
+          "price": "199",
+          "change": "+4",
+          "changePercent": "+2.05%"
+        },
+        {
+          "code": "6099",
+          "name": "エラン",
+          "market": "東Ｐ",
+          "price": "760",
+          "change": "+15",
+          "changePercent": "+2.01%"
+        },
+        {
+          "code": "150A",
+          "name": "ＪＳＨ",
+          "market": "東Ｇ",
+          "price": "361",
+          "change": "+7",
+          "changePercent": "+1.98%"
+        },
+        {
+          "code": "505A",
+          "name": "ギークリー",
+          "market": "東Ｓ",
+          "price": "1,305",
+          "change": "+25",
+          "changePercent": "+1.95%"
+        },
+        {
+          "code": "421A",
+          "name": "ムービン",
+          "market": "東Ｇ",
+          "price": "3,880",
+          "change": "+70",
+          "changePercent": "+1.84%"
+        },
+        {
+          "code": "6045",
+          "name": "レントラクス",
+          "market": "東Ｇ",
+          "price": "1,586",
+          "change": "+28",
+          "changePercent": "+1.80%"
+        },
+        {
+          "code": "7356",
+          "name": "レッティ",
+          "market": "東Ｇ",
+          "price": "117",
+          "change": "+2",
+          "changePercent": "+1.74%"
         },
         {
           "code": "6565",
           "name": "ＡＢホテル",
           "market": "名Ｍ",
-          "price": "1,375",
-          "change": "+15",
-          "changePercent": "+1.10%"
+          "price": "1,398",
+          "change": "+23",
+          "changePercent": "+1.67%"
         },
         {
-          "code": "9622",
-          "name": "スペース",
-          "market": "東Ｐ",
-          "price": "1,465",
-          "change": "+16",
-          "changePercent": "+1.10%"
-        },
-        {
-          "code": "9708",
-          "name": "帝ホテル",
+          "code": "4679",
+          "name": "田谷",
           "market": "東Ｓ",
-          "price": "1,022",
-          "change": "+11",
-          "changePercent": "+1.09%"
+          "price": "249",
+          "change": "+4",
+          "changePercent": "+1.63%"
         },
         {
-          "code": "4671",
-          "name": "ファルコＨＤ",
+          "code": "9376",
+          "name": "ユーラシア",
           "market": "東Ｓ",
-          "price": "2,659",
-          "change": "+28",
-          "changePercent": "+1.06%"
+          "price": "809",
+          "change": "+13",
+          "changePercent": "+1.63%"
         },
         {
-          "code": "4765",
-          "name": "ＳＢＩＧＡＭ",
+          "code": "4641",
+          "name": "アルプス技",
           "market": "東Ｐ",
-          "price": "573",
-          "change": "+6",
-          "changePercent": "+1.06%"
+          "price": "814",
+          "change": "+13",
+          "changePercent": "+1.62%"
         },
         {
-          "code": "6544",
-          "name": "Ｊエレベータ",
+          "code": "5261",
+          "name": "リソル",
           "market": "東Ｐ",
-          "price": "1,862.5",
-          "change": "+19.5",
-          "changePercent": "+1.06%"
+          "price": "7,750",
+          "change": "+120",
+          "changePercent": "+1.57%"
         },
         {
-          "code": "6070",
-          "name": "キャリアＬ",
+          "code": "2491",
+          "name": "Ｖコマース",
           "market": "東Ｐ",
-          "price": "2,309",
-          "change": "+24",
-          "changePercent": "+1.05%"
+          "price": "457",
+          "change": "+7",
+          "changePercent": "+1.56%"
         },
         {
-          "code": "9644",
-          "name": "タナベＣＧ",
+          "code": "6557",
+          "name": "ＡＩＡＩ",
+          "market": "東Ｇ",
+          "price": "658",
+          "change": "+10",
+          "changePercent": "+1.54%"
+        },
+        {
+          "code": "9791",
+          "name": "ビケンテクノ",
+          "market": "東Ｓ",
+          "price": "1,190",
+          "change": "+18",
+          "changePercent": "+1.54%"
+        },
+        {
+          "code": "4849",
+          "name": "エン",
           "market": "東Ｐ",
-          "price": "772",
+          "price": "1,197",
+          "change": "+18",
+          "changePercent": "+1.53%"
+        },
+        {
+          "code": "2471",
+          "name": "エスプール",
+          "market": "東Ｐ",
+          "price": "272",
+          "change": "+4",
+          "changePercent": "+1.49%"
+        },
+        {
+          "code": "7368",
+          "name": "表示灯",
+          "market": "東Ｓ",
+          "price": "1,706",
+          "change": "+25",
+          "changePercent": "+1.49%"
+        },
+        {
+          "code": "4848",
+          "name": "フルキャスト",
+          "market": "東Ｐ",
+          "price": "1,593",
+          "change": "+23",
+          "changePercent": "+1.46%"
+        },
+        {
+          "code": "4732",
+          "name": "ＵＳＳ",
+          "market": "東Ｐ",
+          "price": "1,991.5",
+          "change": "+28.5",
+          "changePercent": "+1.45%"
+        },
+        {
+          "code": "6062",
+          "name": "チャームケア",
+          "market": "東Ｐ",
+          "price": "1,359",
+          "change": "+19",
+          "changePercent": "+1.42%"
+        },
+        {
+          "code": "4337",
+          "name": "ぴあ",
+          "market": "東Ｐ",
+          "price": "2,827",
+          "change": "+39",
+          "changePercent": "+1.40%"
+        },
+        {
+          "code": "2497",
+          "name": "ＵＮＩＴＥＤ",
+          "market": "東Ｇ",
+          "price": "518",
+          "change": "+7",
+          "changePercent": "+1.37%"
+        },
+        {
+          "code": "4755",
+          "name": "楽天グループ",
+          "market": "東Ｐ",
+          "price": "802.8",
+          "change": "+10.7",
+          "changePercent": "+1.35%"
+        },
+        {
+          "code": "3521",
+          "name": "テルマー湯",
+          "market": "東Ｓ",
+          "price": "152",
+          "change": "+2",
+          "changePercent": "+1.33%"
+        },
+        {
+          "code": "8876",
+          "name": "リログループ",
+          "market": "東Ｐ",
+          "price": "2,179.0",
+          "change": "+28.5",
+          "changePercent": "+1.33%"
+        },
+        {
+          "code": "3326",
+          "name": "ランシステム",
+          "market": "東Ｓ",
+          "price": "621",
           "change": "+8",
-          "changePercent": "+1.05%"
+          "changePercent": "+1.31%"
+        },
+        {
+          "code": "4720",
+          "name": "城南進研",
+          "market": "東Ｓ",
+          "price": "239",
+          "change": "+3",
+          "changePercent": "+1.27%"
+        },
+        {
+          "code": "9240",
+          "name": "デリバリコン",
+          "market": "東Ｇ",
+          "price": "400",
+          "change": "+5",
+          "changePercent": "+1.27%"
+        },
+        {
+          "code": "4678",
+          "name": "秀英",
+          "market": "東Ｓ",
+          "price": "322",
+          "change": "+4",
+          "changePercent": "+1.26%"
         },
         {
           "code": "9729",
           "name": "トーカイ",
           "market": "東Ｐ",
-          "price": "2,403",
-          "change": "+25",
-          "changePercent": "+1.05%"
+          "price": "2,433",
+          "change": "+30",
+          "changePercent": "+1.25%"
         },
         {
-          "code": "2687",
-          "name": "ＣＶＳベイ",
+          "code": "9635",
+          "name": "武蔵野",
           "market": "東Ｓ",
-          "price": "486",
-          "change": "+5",
-          "changePercent": "+1.04%"
+          "price": "2,572",
+          "change": "+31",
+          "changePercent": "+1.22%"
         },
         {
-          "code": "6069",
-          "name": "トレンダ",
-          "market": "東Ｇ",
-          "price": "683",
-          "change": "+7",
-          "changePercent": "+1.04%"
-        },
-        {
-          "code": "2154",
-          "name": "オープンＵＰ",
+          "code": "6071",
+          "name": "ＩＢＪ",
           "market": "東Ｐ",
-          "price": "1,961",
-          "change": "+20",
-          "changePercent": "+1.03%"
+          "price": "836",
+          "change": "+10",
+          "changePercent": "+1.21%"
         },
         {
-          "code": "4293",
-          "name": "セプテニＨＤ",
+          "code": "6177",
+          "name": "アップバンク",
+          "market": "東Ｇ",
+          "price": "84",
+          "change": "+1",
+          "changePercent": "+1.20%"
+        },
+        {
+          "code": "4318",
+          "name": "クイック",
+          "market": "東Ｐ",
+          "price": "768",
+          "change": "+9",
+          "changePercent": "+1.19%"
+        },
+        {
+          "code": "4645",
+          "name": "市進ＨＤ",
           "market": "東Ｓ",
-          "price": "489",
+          "price": "428",
           "change": "+5",
-          "changePercent": "+1.03%"
+          "changePercent": "+1.18%"
         },
         {
-          "code": "9160",
-          "name": "オンザページ",
+          "code": "2156",
+          "name": "セーラー広告",
           "market": "東Ｓ",
-          "price": "294",
+          "price": "267",
           "change": "+3",
+          "changePercent": "+1.14%"
+        },
+        {
+          "code": "4324",
+          "name": "電通グループ",
+          "market": "東Ｐ",
+          "price": "3,396.0",
+          "change": "+38.0",
+          "changePercent": "+1.13%"
+        },
+        {
+          "code": "6539",
+          "name": "ＭＳジャパン",
+          "market": "東Ｐ",
+          "price": "984",
+          "change": "+11",
+          "changePercent": "+1.13%"
+        },
+        {
+          "code": "6058",
+          "name": "ベクトル",
+          "market": "東Ｐ",
+          "price": "1,898",
+          "change": "+21",
+          "changePercent": "+1.12%"
+        },
+        {
+          "code": "194A",
+          "name": "ウルフハンド",
+          "market": "東Ｇ",
+          "price": "1,665",
+          "change": "+18",
+          "changePercent": "+1.09%"
+        },
+        {
+          "code": "549A",
+          "name": "ヒトトヒトＨ",
+          "market": "東Ｓ",
+          "price": "465",
+          "change": "+5",
+          "changePercent": "+1.09%"
+        },
+        {
+          "code": "369A",
+          "name": "エータイ",
+          "market": "東Ｇ",
+          "price": "2,258",
+          "change": "+24",
+          "changePercent": "+1.07%"
+        },
+        {
+          "code": "192A",
+          "name": "インテＧ",
+          "market": "東Ｇ",
+          "price": "1,235",
+          "change": "+13",
+          "changePercent": "+1.06%"
+        },
+        {
+          "code": "4345",
+          "name": "ＣＴＳ",
+          "market": "東Ｐ",
+          "price": "882",
+          "change": "+9",
           "changePercent": "+1.03%"
         },
         {
-          "code": "2305",
-          "name": "スタ・アリス",
-          "market": "東Ｓ",
-          "price": "1,905",
-          "change": "+19",
+          "code": "6563",
+          "name": "みらいＷＫＳ",
+          "market": "東Ｇ",
+          "price": "499",
+          "change": "+5",
           "changePercent": "+1.01%"
         },
         {
-          "code": "3010",
-          "name": "ポラリスＨＤ",
-          "market": "東Ｓ",
-          "price": "200",
-          "change": "+2",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "9782",
-          "name": "ＤＭＳ",
-          "market": "東Ｓ",
-          "price": "3,490",
-          "change": "+35",
-          "changePercent": "+1.01%"
-        },
-        {
-          "code": "6561",
-          "name": "ハナツアーＪ",
+          "code": "7075",
+          "name": "ＱＬＳＨＤ",
           "market": "東Ｇ",
           "price": "810",
           "change": "+8",
           "changePercent": "+1.00%"
         },
         {
-          "code": "9215",
-          "name": "ＣａＳｙ",
+          "code": "7036",
+          "name": "ＥＭネットＪ",
           "market": "東Ｇ",
-          "price": "910",
-          "change": "+9",
-          "changePercent": "+1.00%"
+          "price": "626",
+          "change": "+6",
+          "changePercent": "+0.97%"
         },
         {
-          "code": "4544",
-          "name": "ＨＵグループ",
+          "code": "2493",
+          "name": "イーサポート",
+          "market": "東Ｓ",
+          "price": "951",
+          "change": "+9",
+          "changePercent": "+0.96%"
+        },
+        {
+          "code": "7358",
+          "name": "ポピンズ",
+          "market": "東Ｓ",
+          "price": "1,466",
+          "change": "+14",
+          "changePercent": "+0.96%"
+        },
+        {
+          "code": "6195",
+          "name": "ホープ",
+          "market": "東Ｇ",
+          "price": "215",
+          "change": "+2",
+          "changePercent": "+0.94%"
+        },
+        {
+          "code": "3121",
+          "name": "マーチャント",
+          "market": "東Ｓ",
+          "price": "217",
+          "change": "+2",
+          "changePercent": "+0.93%"
+        },
+        {
+          "code": "2454",
+          "name": "オルアバウト",
+          "market": "東Ｓ",
+          "price": "332",
+          "change": "+3",
+          "changePercent": "+0.91%"
+        },
+        {
+          "code": "6027",
+          "name": "弁護士ＣＯＭ",
           "market": "東Ｐ",
-          "price": "3,470.0",
-          "change": "+34.0",
-          "changePercent": "+0.99%"
+          "price": "2,433",
+          "change": "+22",
+          "changePercent": "+0.91%"
+        },
+        {
+          "code": "7359",
+          "name": "東京通信Ｇ",
+          "market": "東Ｇ",
+          "price": "221",
+          "change": "+2",
+          "changePercent": "+0.91%"
+        },
+        {
+          "code": "2483",
+          "name": "翻訳センター",
+          "market": "東Ｓ",
+          "price": "2,350",
+          "change": "+21",
+          "changePercent": "+0.90%"
+        },
+        {
+          "code": "7091",
+          "name": "リビングＰＦ",
+          "market": "東Ｇ",
+          "price": "1,229",
+          "change": "+11",
+          "changePercent": "+0.90%"
+        },
+        {
+          "code": "6044",
+          "name": "三機サービス",
+          "market": "東Ｓ",
+          "price": "1,707",
+          "change": "+15",
+          "changePercent": "+0.89%"
+        },
+        {
+          "code": "7353",
+          "name": "Ｋラーニング",
+          "market": "東Ｇ",
+          "price": "568",
+          "change": "+5",
+          "changePercent": "+0.89%"
+        },
+        {
+          "code": "4718",
+          "name": "早稲アカ",
+          "market": "東Ｐ",
+          "price": "2,436",
+          "change": "+21",
+          "changePercent": "+0.87%"
+        },
+        {
+          "code": "6070",
+          "name": "キャリアＬ",
+          "market": "東Ｐ",
+          "price": "2,329",
+          "change": "+20",
+          "changePercent": "+0.87%"
+        },
+        {
+          "code": "7351",
+          "name": "グッドパッチ",
+          "market": "東Ｇ",
+          "price": "462",
+          "change": "+4",
+          "changePercent": "+0.87%"
+        },
+        {
+          "code": "9731",
+          "name": "白洋舎",
+          "market": "東Ｓ",
+          "price": "3,470",
+          "change": "+30",
+          "changePercent": "+0.87%"
+        },
+        {
+          "code": "6086",
+          "name": "シンメンテ",
+          "market": "東Ｇ",
+          "price": "1,071",
+          "change": "+9",
+          "changePercent": "+0.85%"
+        },
+        {
+          "code": "2153",
+          "name": "Ｅ・ＪＨＤ",
+          "market": "東Ｐ",
+          "price": "1,685",
+          "change": "+14",
+          "changePercent": "+0.84%"
+        },
+        {
+          "code": "2395",
+          "name": "新日本科学",
+          "market": "東Ｐ",
+          "price": "1,218",
+          "change": "+10",
+          "changePercent": "+0.83%"
+        },
+        {
+          "code": "9259",
+          "name": "タカヨシＨＤ",
+          "market": "東Ｇ",
+          "price": "849",
+          "change": "+7",
+          "changePercent": "+0.83%"
+        },
+        {
+          "code": "7039",
+          "name": "ブリッジ－Ｇ",
+          "market": "東Ｇ",
+          "price": "1,734",
+          "change": "+14",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "7502",
+          "name": "プラザＨＤ",
+          "market": "東Ｓ",
+          "price": "1,626",
+          "change": "+13",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "9562",
+          "name": "ビジコーチ",
+          "market": "東Ｇ",
+          "price": "500",
+          "change": "+4",
+          "changePercent": "+0.81%"
+        },
+        {
+          "code": "2139",
+          "name": "中広",
+          "market": "東Ｓ",
+          "price": "511",
+          "change": "+4",
+          "changePercent": "+0.79%"
+        },
+        {
+          "code": "4290",
+          "name": "ＰＩ",
+          "market": "東Ｐ",
+          "price": "665",
+          "change": "+5",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "6036",
+          "name": "ＫｅｅＰｅｒ",
+          "market": "東Ｐ",
+          "price": "2,898",
+          "change": "+22",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "9780",
+          "name": "ビステム",
+          "market": "東Ｓ",
+          "price": "929",
+          "change": "+7",
+          "changePercent": "+0.76%"
+        },
+        {
+          "code": "1717",
+          "name": "明豊ファシリ",
+          "market": "東Ｓ",
+          "price": "944",
+          "change": "+7",
+          "changePercent": "+0.75%"
+        },
+        {
+          "code": "195A",
+          "name": "マスカットＧ",
+          "market": "東Ｇ",
+          "price": "679",
+          "change": "+5",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "6191",
+          "name": "エアトリ",
+          "market": "東Ｐ",
+          "price": "813",
+          "change": "+6",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "9565",
+          "name": "ＧＬＯＥ",
+          "market": "東Ｇ",
+          "price": "680",
+          "change": "+5",
+          "changePercent": "+0.74%"
+        },
+        {
+          "code": "2499",
+          "name": "日本和装",
+          "market": "東Ｓ",
+          "price": "289",
+          "change": "+2",
+          "changePercent": "+0.70%"
         },
         {
           "code": "9163",
           "name": "ナレルＧ",
           "market": "東Ｇ",
-          "price": "2,275",
-          "change": "+22",
-          "changePercent": "+0.98%"
-        },
-        {
-          "code": "6180",
-          "name": "ＧＭＯメディ",
-          "market": "東Ｇ",
-          "price": "3,655",
-          "change": "+35",
-          "changePercent": "+0.97%"
-        },
-        {
-          "code": "4286",
-          "name": "ＣＬＨＤ",
-          "market": "東Ｓ",
-          "price": "1,157",
-          "change": "+11",
-          "changePercent": "+0.96%"
-        },
-        {
-          "code": "4678",
-          "name": "秀英",
-          "market": "東Ｓ",
-          "price": "318",
-          "change": "+3",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "6571",
-          "name": "ＱＢＮＨＤ",
-          "market": "東Ｐ",
-          "price": "1,276",
-          "change": "+12",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "7361",
-          "name": "ＨＣＨ",
-          "market": "東Ｇ",
-          "price": "1,172",
-          "change": "+11",
-          "changePercent": "+0.95%"
-        },
-        {
-          "code": "4691",
-          "name": "ワシントンＨ",
-          "market": "東Ｓ",
-          "price": "2,682",
-          "change": "+25",
-          "changePercent": "+0.94%"
-        },
-        {
-          "code": "4767",
-          "name": "ＴＯＷ",
-          "market": "東Ｓ",
-          "price": "330",
-          "change": "+3",
-          "changePercent": "+0.92%"
-        },
-        {
-          "code": "7073",
-          "name": "ジェイック",
-          "market": "東Ｇ",
-          "price": "2,558",
-          "change": "+23",
-          "changePercent": "+0.91%"
-        },
-        {
-          "code": "4301",
-          "name": "アミューズ",
-          "market": "東Ｐ",
-          "price": "1,900",
-          "change": "+17",
-          "changePercent": "+0.90%"
+          "price": "2,291",
+          "change": "+16",
+          "changePercent": "+0.70%"
         },
         {
           "code": "4661",
           "name": "ＯＬＣ",
           "market": "東Ｐ",
-          "price": "2,584.5",
-          "change": "+23.0",
-          "changePercent": "+0.90%"
+          "price": "2,602.0",
+          "change": "+17.5",
+          "changePercent": "+0.68%"
         },
         {
-          "code": "6196",
-          "name": "ストライクＧ",
-          "market": "東Ｐ",
-          "price": "1,352",
-          "change": "+12",
-          "changePercent": "+0.90%"
+          "code": "7076",
+          "name": "名南Ｍ＆Ａ",
+          "market": "名Ｍ",
+          "price": "1,034",
+          "change": "+7",
+          "changePercent": "+0.68%"
         },
         {
-          "code": "6568",
-          "name": "神戸天然物化",
+          "code": "9221",
+          "name": "フルハシＥ",
+          "market": "東Ｓ",
+          "price": "1,178",
+          "change": "+8",
+          "changePercent": "+0.68%"
+        },
+        {
+          "code": "9343",
+          "name": "アイビス",
           "market": "東Ｇ",
-          "price": "1,340",
-          "change": "+12",
-          "changePercent": "+0.90%"
+          "price": "766",
+          "change": "+5",
+          "changePercent": "+0.66%"
         },
         {
-          "code": "9246",
-          "name": "プロＨＤ",
+          "code": "9347",
+          "name": "日本管財ＨＤ",
+          "market": "東Ｐ",
+          "price": "2,747",
+          "change": "+18",
+          "changePercent": "+0.66%"
+        },
+        {
+          "code": "2164",
+          "name": "地域新聞社",
+          "market": "東Ｓ",
+          "price": "156",
+          "change": "+1",
+          "changePercent": "+0.65%"
+        },
+        {
+          "code": "6819",
+          "name": "伊豆シャボ",
+          "market": "東Ｓ",
+          "price": "472",
+          "change": "+3",
+          "changePercent": "+0.64%"
+        },
+        {
+          "code": "151A",
+          "name": "ダイブＧ",
           "market": "東Ｇ",
-          "price": "1,010",
-          "change": "+9",
-          "changePercent": "+0.90%"
+          "price": "636",
+          "change": "+4",
+          "changePercent": "+0.63%"
         },
         {
-          "code": "9793",
-          "name": "ダイセキ",
+          "code": "6178",
+          "name": "日本郵政",
           "market": "東Ｐ",
-          "price": "3,935",
-          "change": "+35",
-          "changePercent": "+0.90%"
-        },
-        {
-          "code": "4801",
-          "name": "セントラルＳ",
-          "market": "東Ｐ",
-          "price": "2,383",
-          "change": "+21",
-          "changePercent": "+0.89%"
-        },
-        {
-          "code": "2378",
-          "name": "ルネサンス",
-          "market": "東Ｐ",
-          "price": "1,041",
-          "change": "+9",
-          "changePercent": "+0.87%"
-        },
-        {
-          "code": "2379",
-          "name": "ディップ",
-          "market": "東Ｐ",
-          "price": "1,864",
-          "change": "+16",
-          "changePercent": "+0.87%"
-        },
-        {
-          "code": "8876",
-          "name": "リログループ",
-          "market": "東Ｐ",
-          "price": "2,150.5",
-          "change": "+18.5",
-          "changePercent": "+0.87%"
+          "price": "2,370.0",
+          "change": "+14.5",
+          "changePercent": "+0.62%"
         },
         {
           "code": "9339",
           "name": "コーチエィ",
           "market": "東Ｓ",
-          "price": "1,297",
-          "change": "+11",
-          "changePercent": "+0.86%"
+          "price": "1,305",
+          "change": "+8",
+          "changePercent": "+0.62%"
         },
         {
-          "code": "2193",
-          "name": "クックパッド",
+          "code": "4331",
+          "name": "Ｔ＆Ｇニーズ",
+          "market": "東Ｐ",
+          "price": "667",
+          "change": "+4",
+          "changePercent": "+0.60%"
+        },
+        {
+          "code": "2168",
+          "name": "パソナＧ",
+          "market": "東Ｐ",
+          "price": "1,532",
+          "change": "+9",
+          "changePercent": "+0.59%"
+        },
+        {
+          "code": "2488",
+          "name": "ＪＴＰ",
           "market": "東Ｓ",
-          "price": "118",
-          "change": "+1",
-          "changePercent": "+0.85%"
+          "price": "1,357",
+          "change": "+8",
+          "changePercent": "+0.59%"
         },
         {
-          "code": "4668",
-          "name": "明光ネット",
-          "market": "東Ｐ",
-          "price": "709",
-          "change": "+6",
-          "changePercent": "+0.85%"
+          "code": "6059",
+          "name": "ウチヤマＨＤ",
+          "market": "東Ｓ",
+          "price": "343",
+          "change": "+2",
+          "changePercent": "+0.59%"
         },
         {
-          "code": "9744",
-          "name": "メイテックＧ",
-          "market": "東Ｐ",
-          "price": "3,197.0",
-          "change": "+27.0",
-          "changePercent": "+0.85%"
-        },
-        {
-          "code": "9252",
-          "name": "ラストワンＭ",
+          "code": "9558",
+          "name": "ジャパニアス",
           "market": "東Ｇ",
-          "price": "3,590",
-          "change": "+30",
-          "changePercent": "+0.84%"
+          "price": "1,875",
+          "change": "+11",
+          "changePercent": "+0.59%"
         },
         {
-          "code": "3326",
-          "name": "ランシステム",
-          "market": "東Ｓ",
-          "price": "613",
+          "code": "6183",
+          "name": "ベル２４ＨＤ",
+          "market": "東Ｐ",
+          "price": "1,386",
+          "change": "+8",
+          "changePercent": "+0.58%"
+        },
+        {
+          "code": "9330",
+          "name": "揚羽",
+          "market": "東Ｇ",
+          "price": "872",
           "change": "+5",
-          "changePercent": "+0.82%"
+          "changePercent": "+0.58%"
+        },
+        {
+          "code": "7078",
+          "name": "ＩＮＣＨＤ",
+          "market": "東Ｇ",
+          "price": "353",
+          "change": "+2",
+          "changePercent": "+0.57%"
+        },
+        {
+          "code": "4433",
+          "name": "ヒトコムＨＤ",
+          "market": "東Ｐ",
+          "price": "901",
+          "change": "+5",
+          "changePercent": "+0.56%"
+        },
+        {
+          "code": "9250",
+          "name": "ＧＲＣＳ",
+          "market": "東Ｇ",
+          "price": "920",
+          "change": "+5",
+          "changePercent": "+0.55%"
+        },
+        {
+          "code": "2181",
+          "name": "パーソルＨＤ",
+          "market": "東Ｐ",
+          "price": "259.7",
+          "change": "+1.4",
+          "changePercent": "+0.54%"
+        },
+        {
+          "code": "2185",
+          "name": "シイエムシイ",
+          "market": "東Ｓ",
+          "price": "1,909",
+          "change": "+10",
+          "changePercent": "+0.53%"
+        },
+        {
+          "code": "2305",
+          "name": "スタ・アリス",
+          "market": "東Ｓ",
+          "price": "1,915",
+          "change": "+10",
+          "changePercent": "+0.52%"
+        },
+        {
+          "code": "7061",
+          "name": "日本ホスピス",
+          "market": "東Ｇ",
+          "price": "589",
+          "change": "+3",
+          "changePercent": "+0.51%"
+        },
+        {
+          "code": "7377",
+          "name": "ＤＮＨＤ",
+          "market": "東Ｓ",
+          "price": "1,774",
+          "change": "+9",
+          "changePercent": "+0.51%"
+        },
+        {
+          "code": "7378",
+          "name": "アシロ",
+          "market": "東Ｇ",
+          "price": "1,592",
+          "change": "+8",
+          "changePercent": "+0.51%"
+        },
+        {
+          "code": "6189",
+          "name": "Ｇキッズ",
+          "market": "東Ｓ",
+          "price": "1,008",
+          "change": "+5",
+          "changePercent": "+0.50%"
+        },
+        {
+          "code": "7065",
+          "name": "ｕｐｒ",
+          "market": "東Ｓ",
+          "price": "1,022",
+          "change": "+5",
+          "changePercent": "+0.49%"
+        },
+        {
+          "code": "2379",
+          "name": "ディップ",
+          "market": "東Ｐ",
+          "price": "1,873",
+          "change": "+9",
+          "changePercent": "+0.48%"
+        },
+        {
+          "code": "2385",
+          "name": "総医研ＨＤ",
+          "market": "東Ｇ",
+          "price": "211",
+          "change": "+1",
+          "changePercent": "+0.48%"
+        },
+        {
+          "code": "7357",
+          "name": "ジオコード",
+          "market": "東Ｓ",
+          "price": "1,665",
+          "change": "+8",
+          "changePercent": "+0.48%"
+        },
+        {
+          "code": "2481",
+          "name": "タウンＮ",
+          "market": "東Ｓ",
+          "price": "640",
+          "change": "+3",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "6572",
+          "name": "オープンＧ",
+          "market": "東Ｐ",
+          "price": "213",
+          "change": "+1",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "9625",
+          "name": "セレスポ",
+          "market": "東Ｓ",
+          "price": "1,078",
+          "change": "+5",
+          "changePercent": "+0.47%"
+        },
+        {
+          "code": "2124",
+          "name": "ジェイエイシ",
+          "market": "東Ｐ",
+          "price": "877",
+          "change": "+4",
+          "changePercent": "+0.46%"
         }
       ],
       "history": [
-        {
-          "date": "20260624",
-          "price": 3482.96,
-          "changePercent": 0.51
-        },
         {
           "date": "20260625",
           "price": 3491.29,
@@ -21477,6 +21472,11 @@ window.sectorData = {
           "date": "20260707",
           "price": 3795.31,
           "changePercent": 1.99
+        },
+        {
+          "date": "20260708",
+          "price": 3781.99,
+          "changePercent": -0.35
         }
       ]
     }
