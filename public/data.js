@@ -1,6 +1,6 @@
 window.sectorData = {
   "success": true,
-  "timestamp": 1786345442311,
+  "timestamp": 1786431830715,
   "sectors": [
     {
       "id": "0050",
@@ -109,11 +109,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 767.01,
-          "changePercent": 0.57
-        },
-        {
           "date": "20260729",
           "price": 784.03,
           "changePercent": 2.22
@@ -155,6 +150,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 739.52,
+          "changePercent": 0.05
+        },
+        {
+          "date": "20260811",
           "price": 739.52,
           "changePercent": 0.05
         }
@@ -211,11 +211,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 1046.19,
-          "changePercent": -2.24
-        },
-        {
           "date": "20260729",
           "price": 1058.44,
           "changePercent": 1.17
@@ -257,6 +252,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 1066.13,
+          "changePercent": 3.07
+        },
+        {
+          "date": "20260811",
           "price": 1066.13,
           "changePercent": 3.07
         }
@@ -1473,11 +1473,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2697.01,
-          "changePercent": -1.58
-        },
-        {
           "date": "20260729",
           "price": 2666.74,
           "changePercent": -1.12
@@ -1519,6 +1514,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2552.02,
+          "changePercent": -1.15
+        },
+        {
+          "date": "20260811",
           "price": 2552.02,
           "changePercent": -1.15
         }
@@ -2559,11 +2559,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2878.67,
-          "changePercent": 0.82
-        },
-        {
           "date": "20260729",
           "price": 2944.7,
           "changePercent": 2.29
@@ -2605,6 +2600,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2936.73,
+          "changePercent": 0.08
+        },
+        {
+          "date": "20260811",
           "price": 2936.73,
           "changePercent": 0.08
         }
@@ -3013,11 +3013,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 942.37,
-          "changePercent": -2.06
-        },
-        {
           "date": "20260729",
           "price": 947.88,
           "changePercent": 0.58
@@ -3059,6 +3054,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 1037.84,
+          "changePercent": 1.07
+        },
+        {
+          "date": "20260811",
           "price": 1037.84,
           "changePercent": 1.07
         }
@@ -3267,11 +3267,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 698.94,
-          "changePercent": -0.35
-        },
-        {
           "date": "20260729",
           "price": 706.78,
           "changePercent": 1.12
@@ -3313,6 +3308,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 698.46,
+          "changePercent": -0.06
+        },
+        {
+          "date": "20260811",
           "price": 698.46,
           "changePercent": -0.06
         }
@@ -4529,11 +4529,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 3040.94,
-          "changePercent": -3.2
-        },
-        {
           "date": "20260729",
           "price": 3037.33,
           "changePercent": -0.12
@@ -4575,6 +4570,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 3179.73,
+          "changePercent": 0.87
+        },
+        {
+          "date": "20260811",
           "price": 3179.73,
           "changePercent": 0.87
         }
@@ -5231,11 +5231,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 3999.32,
-          "changePercent": 0.55
-        },
-        {
           "date": "20260729",
           "price": 4075.87,
           "changePercent": 1.91
@@ -5277,6 +5272,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 4050.11,
+          "changePercent": 1.12
+        },
+        {
+          "date": "20260811",
           "price": 4050.11,
           "changePercent": 1.12
         }
@@ -5365,11 +5365,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2772.18,
-          "changePercent": -1.63
-        },
-        {
           "date": "20260729",
           "price": 2802.28,
           "changePercent": 1.09
@@ -5411,6 +5406,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2730.45,
+          "changePercent": -4.78
+        },
+        {
+          "date": "20260811",
           "price": 2730.45,
           "changePercent": -4.78
         }
@@ -5563,11 +5563,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 6133.34,
-          "changePercent": 0.38
-        },
-        {
           "date": "20260729",
           "price": 6417.25,
           "changePercent": 4.63
@@ -5609,6 +5604,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 6603.78,
+          "changePercent": 1.72
+        },
+        {
+          "date": "20260811",
           "price": 6603.78,
           "changePercent": 1.72
         }
@@ -6041,11 +6041,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2306.03,
-          "changePercent": -5.19
-        },
-        {
           "date": "20260729",
           "price": 2247.86,
           "changePercent": -2.52
@@ -6087,6 +6082,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2365.69,
+          "changePercent": 0.75
+        },
+        {
+          "date": "20260811",
           "price": 2365.69,
           "changePercent": 0.75
         }
@@ -6415,11 +6415,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 811.08,
-          "changePercent": 0.61
-        },
-        {
           "date": "20260729",
           "price": 829.3,
           "changePercent": 2.25
@@ -6461,6 +6456,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 837.46,
+          "changePercent": -1.08
+        },
+        {
+          "date": "20260811",
           "price": 837.46,
           "changePercent": -1.08
         }
@@ -6733,11 +6733,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 4992.38,
-          "changePercent": -6.89
-        },
-        {
           "date": "20260729",
           "price": 4723.06,
           "changePercent": -5.39
@@ -6779,6 +6774,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 5950.5,
+          "changePercent": 3.27
+        },
+        {
+          "date": "20260811",
           "price": 5950.5,
           "changePercent": 3.27
         }
@@ -7507,11 +7507,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2003.74,
-          "changePercent": -5.3
-        },
-        {
           "date": "20260729",
           "price": 1973.07,
           "changePercent": -1.53
@@ -7553,6 +7548,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2047.82,
+          "changePercent": 0.44
+        },
+        {
+          "date": "20260811",
           "price": 2047.82,
           "changePercent": 0.44
         }
@@ -8769,11 +8769,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 4767.73,
-          "changePercent": -4.85
-        },
-        {
           "date": "20260729",
           "price": 4735.45,
           "changePercent": -0.68
@@ -8815,6 +8810,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 5029.68,
+          "changePercent": 0.6
+        },
+        {
+          "date": "20260811",
           "price": 5029.68,
           "changePercent": 0.6
         }
@@ -10031,11 +10031,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 7829.8,
-          "changePercent": -6.16
-        },
-        {
           "date": "20260729",
           "price": 7637.24,
           "changePercent": -2.46
@@ -10077,6 +10072,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 8613.13,
+          "changePercent": 1.7
+        },
+        {
+          "date": "20260811",
           "price": 8613.13,
           "changePercent": 1.7
         }
@@ -10749,11 +10749,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 4858.13,
-          "changePercent": 1.09
-        },
-        {
           "date": "20260729",
           "price": 5141.89,
           "changePercent": 5.84
@@ -10795,6 +10790,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 4879.07,
+          "changePercent": 0.52
+        },
+        {
+          "date": "20260811",
           "price": 4879.07,
           "changePercent": 0.52
         }
@@ -11227,11 +11227,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 13542.21,
-          "changePercent": -3.02
-        },
-        {
           "date": "20260729",
           "price": 13627.43,
           "changePercent": 0.63
@@ -11273,6 +11268,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 15074.25,
+          "changePercent": 4.37
+        },
+        {
+          "date": "20260811",
           "price": 15074.25,
           "changePercent": 4.37
         }
@@ -12137,11 +12137,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 6052.8,
-          "changePercent": 0.28
-        },
-        {
           "date": "20260729",
           "price": 6186.19,
           "changePercent": 2.2
@@ -12183,6 +12178,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 6528.44,
+          "changePercent": 2.18
+        },
+        {
+          "date": "20260811",
           "price": 6528.44,
           "changePercent": 2.18
         }
@@ -12431,11 +12431,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 684.36,
-          "changePercent": -1.49
-        },
-        {
           "date": "20260729",
           "price": 690.72,
           "changePercent": 0.93
@@ -12477,6 +12472,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 666.52,
+          "changePercent": -0.56
+        },
+        {
+          "date": "20260811",
           "price": 666.52,
           "changePercent": -0.56
         }
@@ -12973,11 +12973,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2409.96,
-          "changePercent": 1.1
-        },
-        {
           "date": "20260729",
           "price": 2467.66,
           "changePercent": 2.39
@@ -13019,6 +13014,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2266.47,
+          "changePercent": -0.06
+        },
+        {
+          "date": "20260811",
           "price": 2266.47,
           "changePercent": -0.06
         }
@@ -13123,11 +13123,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2196.23,
-          "changePercent": -0.94
-        },
-        {
           "date": "20260729",
           "price": 2232.49,
           "changePercent": 1.65
@@ -13169,6 +13164,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2299.32,
+          "changePercent": 1.01
+        },
+        {
+          "date": "20260811",
           "price": 2299.32,
           "changePercent": 1.01
         }
@@ -13225,11 +13225,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 248.73,
-          "changePercent": 1.89
-        },
-        {
           "date": "20260729",
           "price": 254.49,
           "changePercent": 2.32
@@ -13271,6 +13266,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 249.61,
+          "changePercent": -0.55
+        },
+        {
+          "date": "20260811",
           "price": 249.61,
           "changePercent": -0.55
         }
@@ -13551,11 +13551,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 4985.53,
-          "changePercent": -0.12
-        },
-        {
           "date": "20260729",
           "price": 5005.61,
           "changePercent": 0.4
@@ -13597,6 +13592,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 4790.96,
+          "changePercent": -0.52
+        },
+        {
+          "date": "20260811",
           "price": 4790.96,
           "changePercent": -0.52
         }
@@ -14813,11 +14813,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 7781.51,
-          "changePercent": -0.36
-        },
-        {
           "date": "20260729",
           "price": 7847.71,
           "changePercent": 0.85
@@ -14859,6 +14854,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 7973.69,
+          "changePercent": -0.57
+        },
+        {
+          "date": "20260811",
           "price": 7973.69,
           "changePercent": -0.57
         }
@@ -16075,11 +16075,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 5831.12,
-          "changePercent": -1.24
-        },
-        {
           "date": "20260729",
           "price": 5885.48,
           "changePercent": 0.93
@@ -16121,6 +16116,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 6023.01,
+          "changePercent": -0.26
+        },
+        {
+          "date": "20260811",
           "price": 6023.01,
           "changePercent": -0.26
         }
@@ -17337,11 +17337,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2433.57,
-          "changePercent": 2.17
-        },
-        {
           "date": "20260729",
           "price": 2490.14,
           "changePercent": 2.32
@@ -17383,6 +17378,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2422.5,
+          "changePercent": 0.81
+        },
+        {
+          "date": "20260811",
           "price": 2422.5,
           "changePercent": 0.81
         }
@@ -18071,11 +18071,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 745.18,
-          "changePercent": -3.84
-        },
-        {
           "date": "20260729",
           "price": 737.74,
           "changePercent": -1
@@ -18117,6 +18112,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 725.28,
+          "changePercent": -1.89
+        },
+        {
+          "date": "20260811",
           "price": 725.28,
           "changePercent": -1.89
         }
@@ -18429,11 +18429,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 955.17,
-          "changePercent": -2.1
-        },
-        {
           "date": "20260729",
           "price": 958.98,
           "changePercent": 0.4
@@ -18475,6 +18470,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 957.86,
+          "changePercent": -0.66
+        },
+        {
+          "date": "20260811",
           "price": 957.86,
           "changePercent": -0.66
         }
@@ -18611,11 +18611,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 4197.05,
-          "changePercent": -0.83
-        },
-        {
           "date": "20260729",
           "price": 4260.41,
           "changePercent": 1.51
@@ -18657,6 +18652,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 4003.29,
+          "changePercent": -2.48
+        },
+        {
+          "date": "20260811",
           "price": 4003.29,
           "changePercent": -2.48
         }
@@ -18993,11 +18993,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 1616.78,
-          "changePercent": -2.72
-        },
-        {
           "date": "20260729",
           "price": 1647,
           "changePercent": 1.87
@@ -19039,6 +19034,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 1591.88,
+          "changePercent": -1.1
+        },
+        {
+          "date": "20260811",
           "price": 1591.88,
           "changePercent": -1.1
         }
@@ -20143,11 +20143,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 2608.96,
-          "changePercent": -0.32
-        },
-        {
           "date": "20260729",
           "price": 2659.8,
           "changePercent": 1.95
@@ -20189,6 +20184,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 2447.8,
+          "changePercent": -1.99
+        },
+        {
+          "date": "20260811",
           "price": 2447.8,
           "changePercent": -1.99
         }
@@ -21405,11 +21405,6 @@ window.sectorData = {
       ],
       "history": [
         {
-          "date": "20260728",
-          "price": 3922.67,
-          "changePercent": 0.49
-        },
-        {
           "date": "20260729",
           "price": 4047.64,
           "changePercent": 3.19
@@ -21451,6 +21446,11 @@ window.sectorData = {
         },
         {
           "date": "20260810",
+          "price": 4354.65,
+          "changePercent": 9.38
+        },
+        {
+          "date": "20260811",
           "price": 4354.65,
           "changePercent": 9.38
         }
