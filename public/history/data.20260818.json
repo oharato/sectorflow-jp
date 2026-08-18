@@ -1,4 +1,4 @@
-window.sectorData = {
+{
   "success": true,
   "timestamp": 1787036634265,
   "sectors": [
@@ -106,58 +106,6 @@ window.sectorData = {
           "change": "-23",
           "changePercent": "-2.56%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 722.08,
-          "changePercent": -0.95
-        },
-        {
-          "date": "20260806",
-          "price": 738.96,
-          "changePercent": 2.34
-        },
-        {
-          "date": "20260807",
-          "price": 739.13,
-          "changePercent": 0.02
-        },
-        {
-          "date": "20260810",
-          "price": 739.52,
-          "changePercent": 0.05
-        },
-        {
-          "date": "20260811",
-          "price": 739.52,
-          "changePercent": 0.05
-        },
-        {
-          "date": "20260812",
-          "price": 745.06,
-          "changePercent": 0.75
-        },
-        {
-          "date": "20260813",
-          "price": 747.96,
-          "changePercent": 0.39
-        },
-        {
-          "date": "20260814",
-          "price": 760.33,
-          "changePercent": 1.65
-        },
-        {
-          "date": "20260817",
-          "price": 755,
-          "changePercent": -0.7
-        },
-        {
-          "date": "20260818",
-          "price": 762.07,
-          "changePercent": 0.94
-        }
       ]
     },
     {
@@ -207,58 +155,6 @@ window.sectorData = {
           "price": "1,930",
           "change": "-15",
           "changePercent": "-0.77%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 1008.95,
-          "changePercent": -2.15
-        },
-        {
-          "date": "20260806",
-          "price": 1028.13,
-          "changePercent": 1.9
-        },
-        {
-          "date": "20260807",
-          "price": 1034.36,
-          "changePercent": 0.61
-        },
-        {
-          "date": "20260810",
-          "price": 1066.13,
-          "changePercent": 3.07
-        },
-        {
-          "date": "20260811",
-          "price": 1066.13,
-          "changePercent": 3.07
-        },
-        {
-          "date": "20260812",
-          "price": 1095.71,
-          "changePercent": 2.77
-        },
-        {
-          "date": "20260813",
-          "price": 1089.91,
-          "changePercent": -0.53
-        },
-        {
-          "date": "20260814",
-          "price": 1114.02,
-          "changePercent": 2.21
-        },
-        {
-          "date": "20260817",
-          "price": 1113.3,
-          "changePercent": -0.06
-        },
-        {
-          "date": "20260818",
-          "price": 1148.87,
-          "changePercent": 3.2
         }
       ]
     },
@@ -1470,58 +1366,6 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2606.42,
-          "changePercent": 0.8
-        },
-        {
-          "date": "20260806",
-          "price": 2620.45,
-          "changePercent": 0.54
-        },
-        {
-          "date": "20260807",
-          "price": 2581.73,
-          "changePercent": -1.48
-        },
-        {
-          "date": "20260810",
-          "price": 2552.02,
-          "changePercent": -1.15
-        },
-        {
-          "date": "20260811",
-          "price": 2552.02,
-          "changePercent": -1.15
-        },
-        {
-          "date": "20260812",
-          "price": 2569.7,
-          "changePercent": 0.69
-        },
-        {
-          "date": "20260813",
-          "price": 2587.44,
-          "changePercent": 0.69
-        },
-        {
-          "date": "20260814",
-          "price": 2604.13,
-          "changePercent": 0.65
-        },
-        {
-          "date": "20260817",
-          "price": 2612.39,
-          "changePercent": 0.32
-        },
-        {
-          "date": "20260818",
-          "price": 2584.46,
-          "changePercent": -1.07
-        }
       ]
     },
     {
@@ -2556,58 +2400,6 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2827.32,
-          "changePercent": 0.9
-        },
-        {
-          "date": "20260806",
-          "price": 2896.87,
-          "changePercent": 2.46
-        },
-        {
-          "date": "20260807",
-          "price": 2934.29,
-          "changePercent": 1.29
-        },
-        {
-          "date": "20260810",
-          "price": 2936.73,
-          "changePercent": 0.08
-        },
-        {
-          "date": "20260811",
-          "price": 2936.73,
-          "changePercent": 0.08
-        },
-        {
-          "date": "20260812",
-          "price": 2952.87,
-          "changePercent": 0.55
-        },
-        {
-          "date": "20260813",
-          "price": 2973.79,
-          "changePercent": 0.71
-        },
-        {
-          "date": "20260814",
-          "price": 2999.7,
-          "changePercent": 0.87
-        },
-        {
-          "date": "20260817",
-          "price": 2975.63,
-          "changePercent": -0.8
-        },
-        {
-          "date": "20260818",
-          "price": 2937.24,
-          "changePercent": -1.29
-        }
       ]
     },
     {
@@ -3010,58 +2802,6 @@ window.sectorData = {
           "change": "-152",
           "changePercent": "-9.13%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 958.12,
-          "changePercent": 2.37
-        },
-        {
-          "date": "20260806",
-          "price": 1009.38,
-          "changePercent": 5.35
-        },
-        {
-          "date": "20260807",
-          "price": 1026.89,
-          "changePercent": 1.73
-        },
-        {
-          "date": "20260810",
-          "price": 1037.84,
-          "changePercent": 1.07
-        },
-        {
-          "date": "20260811",
-          "price": 1037.84,
-          "changePercent": 1.07
-        },
-        {
-          "date": "20260812",
-          "price": 1031.14,
-          "changePercent": -0.65
-        },
-        {
-          "date": "20260813",
-          "price": 1036.2,
-          "changePercent": 0.49
-        },
-        {
-          "date": "20260814",
-          "price": 1041.55,
-          "changePercent": 0.52
-        },
-        {
-          "date": "20260817",
-          "price": 1030.54,
-          "changePercent": -1.06
-        },
-        {
-          "date": "20260818",
-          "price": 1032.23,
-          "changePercent": 0.16
-        }
       ]
     },
     {
@@ -3263,58 +3003,6 @@ window.sectorData = {
           "price": "7,020",
           "change": "-470",
           "changePercent": "-6.28%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 682.34,
-          "changePercent": 0.47
-        },
-        {
-          "date": "20260806",
-          "price": 692.2,
-          "changePercent": 1.45
-        },
-        {
-          "date": "20260807",
-          "price": 698.88,
-          "changePercent": 0.97
-        },
-        {
-          "date": "20260810",
-          "price": 698.46,
-          "changePercent": -0.06
-        },
-        {
-          "date": "20260811",
-          "price": 698.46,
-          "changePercent": -0.06
-        },
-        {
-          "date": "20260812",
-          "price": 694.26,
-          "changePercent": -0.6
-        },
-        {
-          "date": "20260813",
-          "price": 695.59,
-          "changePercent": 0.19
-        },
-        {
-          "date": "20260814",
-          "price": 702.02,
-          "changePercent": 0.92
-        },
-        {
-          "date": "20260817",
-          "price": 689.49,
-          "changePercent": -1.78
-        },
-        {
-          "date": "20260818",
-          "price": 692.4,
-          "changePercent": 0.42
         }
       ]
     },
@@ -4526,58 +4214,6 @@ window.sectorData = {
           "change": "-50",
           "changePercent": "-1.30%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 3138.16,
-          "changePercent": 2.62
-        },
-        {
-          "date": "20260806",
-          "price": 3169.32,
-          "changePercent": 0.99
-        },
-        {
-          "date": "20260807",
-          "price": 3152.29,
-          "changePercent": -0.54
-        },
-        {
-          "date": "20260810",
-          "price": 3179.73,
-          "changePercent": 0.87
-        },
-        {
-          "date": "20260811",
-          "price": 3179.73,
-          "changePercent": 0.87
-        },
-        {
-          "date": "20260812",
-          "price": 3217.35,
-          "changePercent": 1.18
-        },
-        {
-          "date": "20260813",
-          "price": 3211.21,
-          "changePercent": -0.19
-        },
-        {
-          "date": "20260814",
-          "price": 3201.22,
-          "changePercent": -0.31
-        },
-        {
-          "date": "20260817",
-          "price": 3197.38,
-          "changePercent": -0.12
-        },
-        {
-          "date": "20260818",
-          "price": 3155.05,
-          "changePercent": -1.32
-        }
       ]
     },
     {
@@ -5228,58 +4864,6 @@ window.sectorData = {
           "change": "-5",
           "changePercent": "-6.85%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 3794.67,
-          "changePercent": -0.1
-        },
-        {
-          "date": "20260806",
-          "price": 3904.74,
-          "changePercent": 2.9
-        },
-        {
-          "date": "20260807",
-          "price": 4005.27,
-          "changePercent": 2.57
-        },
-        {
-          "date": "20260810",
-          "price": 4050.11,
-          "changePercent": 1.12
-        },
-        {
-          "date": "20260811",
-          "price": 4050.11,
-          "changePercent": 1.12
-        },
-        {
-          "date": "20260812",
-          "price": 4037.3,
-          "changePercent": -0.32
-        },
-        {
-          "date": "20260813",
-          "price": 4032.52,
-          "changePercent": -0.12
-        },
-        {
-          "date": "20260814",
-          "price": 4001.57,
-          "changePercent": -0.77
-        },
-        {
-          "date": "20260817",
-          "price": 3937.99,
-          "changePercent": -1.59
-        },
-        {
-          "date": "20260818",
-          "price": 3995.96,
-          "changePercent": 1.47
-        }
       ]
     },
     {
@@ -5361,58 +4945,6 @@ window.sectorData = {
           "price": "3,040",
           "change": "-30",
           "changePercent": "-0.98%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2713.49,
-          "changePercent": -0.1
-        },
-        {
-          "date": "20260806",
-          "price": 2751.04,
-          "changePercent": 1.38
-        },
-        {
-          "date": "20260807",
-          "price": 2867.61,
-          "changePercent": 4.24
-        },
-        {
-          "date": "20260810",
-          "price": 2730.45,
-          "changePercent": -4.78
-        },
-        {
-          "date": "20260811",
-          "price": 2730.45,
-          "changePercent": -4.78
-        },
-        {
-          "date": "20260812",
-          "price": 2755.93,
-          "changePercent": 0.93
-        },
-        {
-          "date": "20260813",
-          "price": 2750.57,
-          "changePercent": -0.19
-        },
-        {
-          "date": "20260814",
-          "price": 2779.68,
-          "changePercent": 1.06
-        },
-        {
-          "date": "20260817",
-          "price": 2794.51,
-          "changePercent": 0.53
-        },
-        {
-          "date": "20260818",
-          "price": 2854.09,
-          "changePercent": 2.13
         }
       ]
     },
@@ -5559,58 +5091,6 @@ window.sectorData = {
           "price": "2,311.0",
           "change": "-49.5",
           "changePercent": "-2.10%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 6186.38,
-          "changePercent": 1.28
-        },
-        {
-          "date": "20260806",
-          "price": 6301.14,
-          "changePercent": 1.86
-        },
-        {
-          "date": "20260807",
-          "price": 6492.3,
-          "changePercent": 3.03
-        },
-        {
-          "date": "20260810",
-          "price": 6603.78,
-          "changePercent": 1.72
-        },
-        {
-          "date": "20260811",
-          "price": 6603.78,
-          "changePercent": 1.72
-        },
-        {
-          "date": "20260812",
-          "price": 6521.29,
-          "changePercent": -1.25
-        },
-        {
-          "date": "20260813",
-          "price": 6404.8,
-          "changePercent": -1.79
-        },
-        {
-          "date": "20260814",
-          "price": 6438.76,
-          "changePercent": 0.53
-        },
-        {
-          "date": "20260817",
-          "price": 6377.13,
-          "changePercent": -0.96
-        },
-        {
-          "date": "20260818",
-          "price": 6338.27,
-          "changePercent": -0.61
         }
       ]
     },
@@ -6038,58 +5518,6 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2422.66,
-          "changePercent": 4.64
-        },
-        {
-          "date": "20260806",
-          "price": 2372.05,
-          "changePercent": -2.09
-        },
-        {
-          "date": "20260807",
-          "price": 2348.03,
-          "changePercent": -1.01
-        },
-        {
-          "date": "20260810",
-          "price": 2365.69,
-          "changePercent": 0.75
-        },
-        {
-          "date": "20260811",
-          "price": 2365.69,
-          "changePercent": 0.75
-        },
-        {
-          "date": "20260812",
-          "price": 2382.9,
-          "changePercent": 0.73
-        },
-        {
-          "date": "20260813",
-          "price": 2427.17,
-          "changePercent": 1.86
-        },
-        {
-          "date": "20260814",
-          "price": 2419.07,
-          "changePercent": -0.33
-        },
-        {
-          "date": "20260817",
-          "price": 2437.84,
-          "changePercent": 0.78
-        },
-        {
-          "date": "20260818",
-          "price": 2385,
-          "changePercent": -2.17
-        }
       ]
     },
     {
@@ -6412,58 +5840,6 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 824.18,
-          "changePercent": 2.41
-        },
-        {
-          "date": "20260806",
-          "price": 836.97,
-          "changePercent": 1.55
-        },
-        {
-          "date": "20260807",
-          "price": 846.58,
-          "changePercent": 1.15
-        },
-        {
-          "date": "20260810",
-          "price": 837.46,
-          "changePercent": -1.08
-        },
-        {
-          "date": "20260811",
-          "price": 837.46,
-          "changePercent": -1.08
-        },
-        {
-          "date": "20260812",
-          "price": 835.74,
-          "changePercent": -0.21
-        },
-        {
-          "date": "20260813",
-          "price": 826.2,
-          "changePercent": -1.14
-        },
-        {
-          "date": "20260814",
-          "price": 826.89,
-          "changePercent": 0.08
-        },
-        {
-          "date": "20260817",
-          "price": 825.07,
-          "changePercent": -0.22
-        },
-        {
-          "date": "20260818",
-          "price": 842.57,
-          "changePercent": 2.12
-        }
       ]
     },
     {
@@ -6729,58 +6105,6 @@ window.sectorData = {
           "price": "3,430",
           "change": "-195",
           "changePercent": "-5.38%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 5939.17,
-          "changePercent": 9.08
-        },
-        {
-          "date": "20260806",
-          "price": 5605.22,
-          "changePercent": -5.62
-        },
-        {
-          "date": "20260807",
-          "price": 5762.06,
-          "changePercent": 2.8
-        },
-        {
-          "date": "20260810",
-          "price": 5950.5,
-          "changePercent": 3.27
-        },
-        {
-          "date": "20260811",
-          "price": 5950.5,
-          "changePercent": 3.27
-        },
-        {
-          "date": "20260812",
-          "price": 6135.92,
-          "changePercent": 3.12
-        },
-        {
-          "date": "20260813",
-          "price": 6158.74,
-          "changePercent": 0.37
-        },
-        {
-          "date": "20260814",
-          "price": 6119.64,
-          "changePercent": -0.63
-        },
-        {
-          "date": "20260817",
-          "price": 6440.26,
-          "changePercent": 5.24
-        },
-        {
-          "date": "20260818",
-          "price": 6304.56,
-          "changePercent": -2.11
         }
       ]
     },
@@ -7503,58 +6827,6 @@ window.sectorData = {
           "price": "－",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2077.97,
-          "changePercent": 3.61
-        },
-        {
-          "date": "20260806",
-          "price": 2048.86,
-          "changePercent": -1.4
-        },
-        {
-          "date": "20260807",
-          "price": 2038.84,
-          "changePercent": -0.49
-        },
-        {
-          "date": "20260810",
-          "price": 2047.82,
-          "changePercent": 0.44
-        },
-        {
-          "date": "20260811",
-          "price": 2047.82,
-          "changePercent": 0.44
-        },
-        {
-          "date": "20260812",
-          "price": 2076.03,
-          "changePercent": 1.38
-        },
-        {
-          "date": "20260813",
-          "price": 2111.95,
-          "changePercent": 1.73
-        },
-        {
-          "date": "20260814",
-          "price": 2126.05,
-          "changePercent": 0.67
-        },
-        {
-          "date": "20260817",
-          "price": 2141.69,
-          "changePercent": 0.74
-        },
-        {
-          "date": "20260818",
-          "price": 2093.49,
-          "changePercent": -2.25
         }
       ]
     },
@@ -8766,58 +8038,6 @@ window.sectorData = {
           "change": "-50",
           "changePercent": "-1.59%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 5053.05,
-          "changePercent": 0.75
-        },
-        {
-          "date": "20260806",
-          "price": 5032.71,
-          "changePercent": -0.4
-        },
-        {
-          "date": "20260807",
-          "price": 4999.53,
-          "changePercent": -0.66
-        },
-        {
-          "date": "20260810",
-          "price": 5029.68,
-          "changePercent": 0.6
-        },
-        {
-          "date": "20260811",
-          "price": 5029.68,
-          "changePercent": 0.6
-        },
-        {
-          "date": "20260812",
-          "price": 5054.12,
-          "changePercent": 0.49
-        },
-        {
-          "date": "20260813",
-          "price": 5138.15,
-          "changePercent": 1.66
-        },
-        {
-          "date": "20260814",
-          "price": 5132.7,
-          "changePercent": -0.11
-        },
-        {
-          "date": "20260817",
-          "price": 5151.79,
-          "changePercent": 0.37
-        },
-        {
-          "date": "20260818",
-          "price": 5070.56,
-          "changePercent": -1.58
-        }
       ]
     },
     {
@@ -10028,58 +9248,6 @@ window.sectorData = {
           "change": "-193",
           "changePercent": "-2.74%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 8669.09,
-          "changePercent": 4.16
-        },
-        {
-          "date": "20260806",
-          "price": 8497.18,
-          "changePercent": -1.98
-        },
-        {
-          "date": "20260807",
-          "price": 8469.2,
-          "changePercent": -0.33
-        },
-        {
-          "date": "20260810",
-          "price": 8613.13,
-          "changePercent": 1.7
-        },
-        {
-          "date": "20260811",
-          "price": 8613.13,
-          "changePercent": 1.7
-        },
-        {
-          "date": "20260812",
-          "price": 8730.21,
-          "changePercent": 1.36
-        },
-        {
-          "date": "20260813",
-          "price": 8891.04,
-          "changePercent": 1.84
-        },
-        {
-          "date": "20260814",
-          "price": 9006.38,
-          "changePercent": 1.3
-        },
-        {
-          "date": "20260817",
-          "price": 9000.2,
-          "changePercent": -0.07
-        },
-        {
-          "date": "20260818",
-          "price": 8665.13,
-          "changePercent": -3.72
-        }
       ]
     },
     {
@@ -10746,58 +9914,6 @@ window.sectorData = {
           "change": "-96",
           "changePercent": "-6.36%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 4767.02,
-          "changePercent": 1.31
-        },
-        {
-          "date": "20260806",
-          "price": 4844.5,
-          "changePercent": 1.63
-        },
-        {
-          "date": "20260807",
-          "price": 4853.79,
-          "changePercent": 0.19
-        },
-        {
-          "date": "20260810",
-          "price": 4879.07,
-          "changePercent": 0.52
-        },
-        {
-          "date": "20260811",
-          "price": 4879.07,
-          "changePercent": 0.52
-        },
-        {
-          "date": "20260812",
-          "price": 4879,
-          "changePercent": 0
-        },
-        {
-          "date": "20260813",
-          "price": 4850.58,
-          "changePercent": -0.58
-        },
-        {
-          "date": "20260814",
-          "price": 4917.7,
-          "changePercent": 1.38
-        },
-        {
-          "date": "20260817",
-          "price": 4910.65,
-          "changePercent": -0.14
-        },
-        {
-          "date": "20260818",
-          "price": 4928.74,
-          "changePercent": 0.37
-        }
       ]
     },
     {
@@ -11223,58 +10339,6 @@ window.sectorData = {
           "price": "1,911",
           "change": "-200",
           "changePercent": "-9.47%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 14419.99,
-          "changePercent": 0.51
-        },
-        {
-          "date": "20260806",
-          "price": 14354.96,
-          "changePercent": -0.45
-        },
-        {
-          "date": "20260807",
-          "price": 14443.61,
-          "changePercent": 0.62
-        },
-        {
-          "date": "20260810",
-          "price": 15074.25,
-          "changePercent": 4.37
-        },
-        {
-          "date": "20260811",
-          "price": 15074.25,
-          "changePercent": 4.37
-        },
-        {
-          "date": "20260812",
-          "price": 15066.64,
-          "changePercent": -0.05
-        },
-        {
-          "date": "20260813",
-          "price": 15262.43,
-          "changePercent": 1.3
-        },
-        {
-          "date": "20260814",
-          "price": 15392.31,
-          "changePercent": 0.85
-        },
-        {
-          "date": "20260817",
-          "price": 15258.29,
-          "changePercent": -0.87
-        },
-        {
-          "date": "20260818",
-          "price": 15117.98,
-          "changePercent": -0.92
         }
       ]
     },
@@ -12142,58 +11206,6 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 6008.96,
-          "changePercent": 0.23
-        },
-        {
-          "date": "20260806",
-          "price": 6165.79,
-          "changePercent": 2.61
-        },
-        {
-          "date": "20260807",
-          "price": 6389.39,
-          "changePercent": 3.63
-        },
-        {
-          "date": "20260810",
-          "price": 6528.44,
-          "changePercent": 2.18
-        },
-        {
-          "date": "20260811",
-          "price": 6528.44,
-          "changePercent": 2.18
-        },
-        {
-          "date": "20260812",
-          "price": 6554.17,
-          "changePercent": 0.39
-        },
-        {
-          "date": "20260813",
-          "price": 6512.09,
-          "changePercent": -0.64
-        },
-        {
-          "date": "20260814",
-          "price": 6845.7,
-          "changePercent": 5.12
-        },
-        {
-          "date": "20260817",
-          "price": 6757.03,
-          "changePercent": -1.3
-        },
-        {
-          "date": "20260818",
-          "price": 6673.74,
-          "changePercent": -1.23
-        }
       ]
     },
     {
@@ -12435,58 +11447,6 @@ window.sectorData = {
           "price": "786",
           "change": "-31",
           "changePercent": "-3.79%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 664.65,
-          "changePercent": -0.87
-        },
-        {
-          "date": "20260806",
-          "price": 670.36,
-          "changePercent": 0.86
-        },
-        {
-          "date": "20260807",
-          "price": 670.3,
-          "changePercent": -0.01
-        },
-        {
-          "date": "20260810",
-          "price": 666.52,
-          "changePercent": -0.56
-        },
-        {
-          "date": "20260811",
-          "price": 666.52,
-          "changePercent": -0.56
-        },
-        {
-          "date": "20260812",
-          "price": 675.14,
-          "changePercent": 1.29
-        },
-        {
-          "date": "20260813",
-          "price": 681.33,
-          "changePercent": 0.92
-        },
-        {
-          "date": "20260814",
-          "price": 681.76,
-          "changePercent": 0.06
-        },
-        {
-          "date": "20260817",
-          "price": 682.94,
-          "changePercent": 0.17
-        },
-        {
-          "date": "20260818",
-          "price": 688.43,
-          "changePercent": 0.8
         }
       ]
     },
@@ -12978,58 +11938,6 @@ window.sectorData = {
           "change": "－",
           "changePercent": "－%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2225.74,
-          "changePercent": -0.5
-        },
-        {
-          "date": "20260806",
-          "price": 2244.04,
-          "changePercent": 0.82
-        },
-        {
-          "date": "20260807",
-          "price": 2267.77,
-          "changePercent": 1.06
-        },
-        {
-          "date": "20260810",
-          "price": 2266.47,
-          "changePercent": -0.06
-        },
-        {
-          "date": "20260811",
-          "price": 2266.47,
-          "changePercent": -0.06
-        },
-        {
-          "date": "20260812",
-          "price": 2275.16,
-          "changePercent": 0.38
-        },
-        {
-          "date": "20260813",
-          "price": 2273.62,
-          "changePercent": -0.07
-        },
-        {
-          "date": "20260814",
-          "price": 2292.65,
-          "changePercent": 0.84
-        },
-        {
-          "date": "20260817",
-          "price": 2272.39,
-          "changePercent": -0.88
-        },
-        {
-          "date": "20260818",
-          "price": 2282.88,
-          "changePercent": 0.46
-        }
       ]
     },
     {
@@ -13128,58 +12036,6 @@ window.sectorData = {
           "change": "-29",
           "changePercent": "-1.86%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2179.31,
-          "changePercent": -2.93
-        },
-        {
-          "date": "20260806",
-          "price": 2218.27,
-          "changePercent": 1.79
-        },
-        {
-          "date": "20260807",
-          "price": 2276.23,
-          "changePercent": 2.61
-        },
-        {
-          "date": "20260810",
-          "price": 2299.32,
-          "changePercent": 1.01
-        },
-        {
-          "date": "20260811",
-          "price": 2299.32,
-          "changePercent": 1.01
-        },
-        {
-          "date": "20260812",
-          "price": 2278.44,
-          "changePercent": -0.91
-        },
-        {
-          "date": "20260813",
-          "price": 2310.77,
-          "changePercent": 1.42
-        },
-        {
-          "date": "20260814",
-          "price": 2384.83,
-          "changePercent": 3.2
-        },
-        {
-          "date": "20260817",
-          "price": 2428.18,
-          "changePercent": 1.82
-        },
-        {
-          "date": "20260818",
-          "price": 2516.46,
-          "changePercent": 3.64
-        }
       ]
     },
     {
@@ -13229,58 +12085,6 @@ window.sectorData = {
           "price": "3,040.0",
           "change": "-48.0",
           "changePercent": "-1.55%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 250.93,
-          "changePercent": 2.06
-        },
-        {
-          "date": "20260806",
-          "price": 251.87,
-          "changePercent": 0.37
-        },
-        {
-          "date": "20260807",
-          "price": 251,
-          "changePercent": -0.35
-        },
-        {
-          "date": "20260810",
-          "price": 249.61,
-          "changePercent": -0.55
-        },
-        {
-          "date": "20260811",
-          "price": 249.61,
-          "changePercent": -0.55
-        },
-        {
-          "date": "20260812",
-          "price": 247.76,
-          "changePercent": -0.74
-        },
-        {
-          "date": "20260813",
-          "price": 247.94,
-          "changePercent": 0.07
-        },
-        {
-          "date": "20260814",
-          "price": 250.54,
-          "changePercent": 1.05
-        },
-        {
-          "date": "20260817",
-          "price": 247.94,
-          "changePercent": -1.04
-        },
-        {
-          "date": "20260818",
-          "price": 244.61,
-          "changePercent": -1.34
         }
       ]
     },
@@ -13555,58 +12359,6 @@ window.sectorData = {
           "price": "－",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 4702.19,
-          "changePercent": -1.97
-        },
-        {
-          "date": "20260806",
-          "price": 4713.73,
-          "changePercent": 0.25
-        },
-        {
-          "date": "20260807",
-          "price": 4815.77,
-          "changePercent": 2.16
-        },
-        {
-          "date": "20260810",
-          "price": 4790.96,
-          "changePercent": -0.52
-        },
-        {
-          "date": "20260811",
-          "price": 4790.96,
-          "changePercent": -0.52
-        },
-        {
-          "date": "20260812",
-          "price": 4794.15,
-          "changePercent": 0.07
-        },
-        {
-          "date": "20260813",
-          "price": 4803.7,
-          "changePercent": 0.2
-        },
-        {
-          "date": "20260814",
-          "price": 4803.12,
-          "changePercent": -0.01
-        },
-        {
-          "date": "20260817",
-          "price": 4775.88,
-          "changePercent": -0.57
-        },
-        {
-          "date": "20260818",
-          "price": 4798.35,
-          "changePercent": 0.47
         }
       ]
     },
@@ -14818,58 +13570,6 @@ window.sectorData = {
           "change": "+25",
           "changePercent": "+0.64%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 8016.13,
-          "changePercent": 4.6
-        },
-        {
-          "date": "20260806",
-          "price": 7970.59,
-          "changePercent": -0.57
-        },
-        {
-          "date": "20260807",
-          "price": 8019.54,
-          "changePercent": 0.61
-        },
-        {
-          "date": "20260810",
-          "price": 7973.69,
-          "changePercent": -0.57
-        },
-        {
-          "date": "20260811",
-          "price": 7973.69,
-          "changePercent": -0.57
-        },
-        {
-          "date": "20260812",
-          "price": 8010.02,
-          "changePercent": 0.46
-        },
-        {
-          "date": "20260813",
-          "price": 8039.54,
-          "changePercent": 0.37
-        },
-        {
-          "date": "20260814",
-          "price": 8213.41,
-          "changePercent": 2.16
-        },
-        {
-          "date": "20260817",
-          "price": 8188.63,
-          "changePercent": -0.3
-        },
-        {
-          "date": "20260818",
-          "price": 8159.15,
-          "changePercent": -0.36
-        }
       ]
     },
     {
@@ -16079,58 +14779,6 @@ window.sectorData = {
           "price": "1,519",
           "change": "0",
           "changePercent": "0.00%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 5799.51,
-          "changePercent": -0.21
-        },
-        {
-          "date": "20260806",
-          "price": 5910.01,
-          "changePercent": 1.91
-        },
-        {
-          "date": "20260807",
-          "price": 6038.59,
-          "changePercent": 2.18
-        },
-        {
-          "date": "20260810",
-          "price": 6023.01,
-          "changePercent": -0.26
-        },
-        {
-          "date": "20260811",
-          "price": 6023.01,
-          "changePercent": -0.26
-        },
-        {
-          "date": "20260812",
-          "price": 6011.74,
-          "changePercent": -0.19
-        },
-        {
-          "date": "20260813",
-          "price": 5997.29,
-          "changePercent": -0.24
-        },
-        {
-          "date": "20260814",
-          "price": 5977.94,
-          "changePercent": -0.32
-        },
-        {
-          "date": "20260817",
-          "price": 5896,
-          "changePercent": -1.37
-        },
-        {
-          "date": "20260818",
-          "price": 5939.37,
-          "changePercent": 0.74
         }
       ]
     },
@@ -17342,58 +15990,6 @@ window.sectorData = {
           "change": "+5",
           "changePercent": "+0.11%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2332.6,
-          "changePercent": -0.79
-        },
-        {
-          "date": "20260806",
-          "price": 2376.26,
-          "changePercent": 1.87
-        },
-        {
-          "date": "20260807",
-          "price": 2403.05,
-          "changePercent": 1.13
-        },
-        {
-          "date": "20260810",
-          "price": 2422.5,
-          "changePercent": 0.81
-        },
-        {
-          "date": "20260811",
-          "price": 2422.5,
-          "changePercent": 0.81
-        },
-        {
-          "date": "20260812",
-          "price": 2406.78,
-          "changePercent": -0.65
-        },
-        {
-          "date": "20260813",
-          "price": 2401.04,
-          "changePercent": -0.24
-        },
-        {
-          "date": "20260814",
-          "price": 2400.7,
-          "changePercent": -0.01
-        },
-        {
-          "date": "20260817",
-          "price": 2373.86,
-          "changePercent": -1.12
-        },
-        {
-          "date": "20260818",
-          "price": 2361.6,
-          "changePercent": -0.52
-        }
       ]
     },
     {
@@ -18076,58 +16672,6 @@ window.sectorData = {
           "change": "-145",
           "changePercent": "-1.69%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 732.7,
-          "changePercent": 2.67
-        },
-        {
-          "date": "20260806",
-          "price": 741.56,
-          "changePercent": 1.21
-        },
-        {
-          "date": "20260807",
-          "price": 739.25,
-          "changePercent": -0.31
-        },
-        {
-          "date": "20260810",
-          "price": 725.28,
-          "changePercent": -1.89
-        },
-        {
-          "date": "20260811",
-          "price": 725.28,
-          "changePercent": -1.89
-        },
-        {
-          "date": "20260812",
-          "price": 746.06,
-          "changePercent": 2.87
-        },
-        {
-          "date": "20260813",
-          "price": 767.5,
-          "changePercent": 2.87
-        },
-        {
-          "date": "20260814",
-          "price": 765.18,
-          "changePercent": -0.3
-        },
-        {
-          "date": "20260817",
-          "price": 761.17,
-          "changePercent": -0.52
-        },
-        {
-          "date": "20260818",
-          "price": 763.02,
-          "changePercent": 0.24
-        }
       ]
     },
     {
@@ -18434,58 +16978,6 @@ window.sectorData = {
           "change": "-101",
           "changePercent": "-3.28%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 965.79,
-          "changePercent": 2.51
-        },
-        {
-          "date": "20260806",
-          "price": 975.23,
-          "changePercent": 0.98
-        },
-        {
-          "date": "20260807",
-          "price": 964.23,
-          "changePercent": -1.13
-        },
-        {
-          "date": "20260810",
-          "price": 957.86,
-          "changePercent": -0.66
-        },
-        {
-          "date": "20260811",
-          "price": 957.86,
-          "changePercent": -0.66
-        },
-        {
-          "date": "20260812",
-          "price": 968.26,
-          "changePercent": 1.09
-        },
-        {
-          "date": "20260813",
-          "price": 977.85,
-          "changePercent": 0.99
-        },
-        {
-          "date": "20260814",
-          "price": 970.48,
-          "changePercent": -0.75
-        },
-        {
-          "date": "20260817",
-          "price": 963.7,
-          "changePercent": -0.7
-        },
-        {
-          "date": "20260818",
-          "price": 961.95,
-          "changePercent": -0.18
-        }
       ]
     },
     {
@@ -18615,58 +17107,6 @@ window.sectorData = {
           "price": "1,080",
           "change": "-22",
           "changePercent": "-2.00%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 4035.89,
-          "changePercent": 1.11
-        },
-        {
-          "date": "20260806",
-          "price": 4062.47,
-          "changePercent": 0.66
-        },
-        {
-          "date": "20260807",
-          "price": 4105.19,
-          "changePercent": 1.05
-        },
-        {
-          "date": "20260810",
-          "price": 4003.29,
-          "changePercent": -2.48
-        },
-        {
-          "date": "20260811",
-          "price": 4003.29,
-          "changePercent": -2.48
-        },
-        {
-          "date": "20260812",
-          "price": 4025.62,
-          "changePercent": 0.56
-        },
-        {
-          "date": "20260813",
-          "price": 4006.46,
-          "changePercent": -0.48
-        },
-        {
-          "date": "20260814",
-          "price": 3985.65,
-          "changePercent": -0.52
-        },
-        {
-          "date": "20260817",
-          "price": 3944.12,
-          "changePercent": -1.04
-        },
-        {
-          "date": "20260818",
-          "price": 3930.51,
-          "changePercent": -0.35
         }
       ]
     },
@@ -18997,58 +17437,6 @@ window.sectorData = {
           "price": "414",
           "change": "-32",
           "changePercent": "-7.17%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 1629.76,
-          "changePercent": 2.87
-        },
-        {
-          "date": "20260806",
-          "price": 1632.3,
-          "changePercent": 0.16
-        },
-        {
-          "date": "20260807",
-          "price": 1609.64,
-          "changePercent": -1.39
-        },
-        {
-          "date": "20260810",
-          "price": 1591.88,
-          "changePercent": -1.1
-        },
-        {
-          "date": "20260811",
-          "price": 1591.88,
-          "changePercent": -1.1
-        },
-        {
-          "date": "20260812",
-          "price": 1606.91,
-          "changePercent": 0.94
-        },
-        {
-          "date": "20260813",
-          "price": 1617.18,
-          "changePercent": 0.64
-        },
-        {
-          "date": "20260814",
-          "price": 1608.89,
-          "changePercent": -0.51
-        },
-        {
-          "date": "20260817",
-          "price": 1598.06,
-          "changePercent": -0.67
-        },
-        {
-          "date": "20260818",
-          "price": 1585.79,
-          "changePercent": -0.77
         }
       ]
     },
@@ -20155,58 +18543,6 @@ window.sectorData = {
           "price": "3,725",
           "change": "－",
           "changePercent": "－%"
-        }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 2459.08,
-          "changePercent": 0.82
-        },
-        {
-          "date": "20260806",
-          "price": 2481.68,
-          "changePercent": 0.92
-        },
-        {
-          "date": "20260807",
-          "price": 2497.46,
-          "changePercent": 0.64
-        },
-        {
-          "date": "20260810",
-          "price": 2447.8,
-          "changePercent": -1.99
-        },
-        {
-          "date": "20260811",
-          "price": 2447.8,
-          "changePercent": -1.99
-        },
-        {
-          "date": "20260812",
-          "price": 2443.14,
-          "changePercent": -0.19
-        },
-        {
-          "date": "20260813",
-          "price": 2451.6,
-          "changePercent": 0.35
-        },
-        {
-          "date": "20260814",
-          "price": 2447.12,
-          "changePercent": -0.18
-        },
-        {
-          "date": "20260817",
-          "price": 2436.93,
-          "changePercent": -0.42
-        },
-        {
-          "date": "20260818",
-          "price": 2414.45,
-          "changePercent": -0.92
         }
       ]
     },
@@ -21418,59 +19754,7 @@ window.sectorData = {
           "change": "+2",
           "changePercent": "+0.45%"
         }
-      ],
-      "history": [
-        {
-          "date": "20260805",
-          "price": 3872.68,
-          "changePercent": 0.96
-        },
-        {
-          "date": "20260806",
-          "price": 3925.51,
-          "changePercent": 1.36
-        },
-        {
-          "date": "20260807",
-          "price": 3981.11,
-          "changePercent": 1.42
-        },
-        {
-          "date": "20260810",
-          "price": 4354.65,
-          "changePercent": 9.38
-        },
-        {
-          "date": "20260811",
-          "price": 4354.65,
-          "changePercent": 9.38
-        },
-        {
-          "date": "20260812",
-          "price": 4422.2,
-          "changePercent": 1.55
-        },
-        {
-          "date": "20260813",
-          "price": 4442.3,
-          "changePercent": 0.45
-        },
-        {
-          "date": "20260814",
-          "price": 4411.77,
-          "changePercent": -0.69
-        },
-        {
-          "date": "20260817",
-          "price": 4376.12,
-          "changePercent": -0.81
-        },
-        {
-          "date": "20260818",
-          "price": 4327.11,
-          "changePercent": -1.12
-        }
       ]
     }
   ]
-};
+}
